@@ -203,7 +203,7 @@ Accessibility Kit (Voice Enhancer、Swich Control、Talkback、Voice Access)
 	- [Ara Note](https://github.com/hashemi-hossein/ara-note) **`Full`**
 	- [Ruppu](https://play.google.com/store/apps/details?id=it.ruppu) **`Full` `Multi`**
 	- [Spooky](https://play.google.com/store/apps/details?id=com.juniorise.spooky) **`Full`**
-	- [Nonsense Notes](https://appshare.vip/page/app/detail?id=cgPZOtvvDea9RETLBzPQMQ) **`MD`**
+	- [Nonsense Notes](https://www.coolapk.com/apk/com.hua.ssnote_coolapk) **`MD`**
 - **Journal**
 	- [Graphite](https://play.google.com/store/apps/details?id=com.syncodec.graphite) **`MD`**
 	- [Durian Journal](https://www.coolapk.com/apk/com.weimu.duriandiary) **`MD`**
@@ -604,7 +604,7 @@ Accessibility Kit (Voice Enhancer、Swich Control、Talkback、Voice Access)
    	- [WearOSbox](https://www.coolapk.com/apk/com.flyfishstudio.wearosbox) **`Full`**    
    	- [Mediascanner](https://www.coolapk.com/apk/com.ma.mediascanner) **`MD-`**    
    	- [Screen Refresh Rate](https://appshare.vip/page/app/detail?id=EYQ4sF8tND1rAGWLbHlsCg%3D%3D) **`Full`**    
-   	- [Carrier Vanity Name](https://appshare.vip/page/app/detail?id=KPQRk1AD7igQga246iJAJw%3D%3D) **`Full`**    
+   	- [Carrier Vanity Name](https://github.com/nullbytepl/CarrierVanityName) **`Full`**    
    	- [LittleProcessy](https://www.coolapk.com/apk/com.absinthe.littleprocessy) **`Full`**    
 ### Tools
 - **Downloader**
@@ -784,7 +784,7 @@ Accessibility Kit (Voice Enhancer、Swich Control、Talkback、Voice Access)
    	- [YAMF](https://github.com/duzhaokun123/YAMF) **`Full`**    
    	- [Guise](https://github.com/Houvven/Guise) **`Full`**    
    	- [JSHook](https://jshook.org/) **`MD`**    
-   	- [MIUI Extra](https://www.123pan.com/s/efK7Vv-7OBsv.html)（提取码：chen）**`Full`**    
+   	- [MIUI Extra](https://www.123pan.com/s/efK7Vv-7OBsv.html)（Password：chen）**`Full`**    
    	- [HMSPush](https://github.com/fei-ke/HMSPush) **`Full`**    
    	- [CustoMIUIzer](https://github.com/monwf/customiuizer) **`MD-`**    
    	- [Thanox](https://play.google.com/store/apps/details?id=github.tornaco.android.thanos.pro) **`Full`**    
