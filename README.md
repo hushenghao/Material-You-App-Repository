@@ -644,7 +644,7 @@ Accessibility Kit (Voice Enhancer、Swich Control、Talkback、Voice Access)
    	- [FunnyTranslation](https://github.com/FunnySaltyFish/FunnyTranslation) **`Full` `Multi`**    
    	- [Lentil Translate](https://github.com/yaxarat/lingvaandroid) **`Full`**
    	- [Monocles Translator](https://codeberg.org/Arne/monocles_translator) **`Full`**
-   	- [Instant Translator](https://play.google.com/store/apps/details?id=com.spaceship.screen.textcopy) **`MD`**    
+   	- [Instant Translator](https://play.google.com/store/apps/details?id=com.spaceship.screen.textcopy) **`MD-`**    
 - **Recorder**
    	- [micCheck](https://play.google.com/store/apps/details?id=com.jlong.miccheck) **`Full`**    
    	- [Record You](https://github.com/Bnyro/recordYou) **`Full`**    
