@@ -203,6 +203,7 @@ Accessibility Kit (Voice Enhancer、Swich Control、Talkback、Voice Access)
 	- [Ara Note](https://github.com/hashemi-hossein/ara-note) **`Full`**
 	- [Ruppu](https://play.google.com/store/apps/details?id=it.ruppu) **`Full` `Multi`**
 	- [Spooky](https://play.google.com/store/apps/details?id=com.juniorise.spooky) **`Full`**
+	- [Nonsense Notes](https://appshare.vip/page/app/detail?id=cgPZOtvvDea9RETLBzPQMQ) **`MD`**
 - **Journal**
 	- [Graphite](https://play.google.com/store/apps/details?id=com.syncodec.graphite) **`MD`**
 	- [Durian Journal](https://www.coolapk.com/apk/com.weimu.duriandiary) **`MD`**
@@ -240,6 +241,7 @@ Accessibility Kit (Voice Enhancer、Swich Control、Talkback、Voice Access)
 	- [NeverTooManyBooks](https://github.com/tfonteyn/NeverTooManyBooks) **`MD-`**
 	- [Luna](https://play.google.com/store/apps/details?id=com.jggdevelopment.bookbuddy) **`Full`**
 	- [Nyanpasu](https://play.google.com/store/apps/details?id=com.zhenxiang.nyaa) **`MD-` `Multi`**
+	- [Animite](https://github.com/imashnake0/Animite) **`Full`**
 - **Others**
 	- [raca](https://github.com/SkyD666/Raca-Android) **`Full` `Multi`**
 	- [Counters](https://play.google.com/store/apps/details?id=rahmouni.neil.counters) **`Full` `Multi`**
@@ -626,6 +628,7 @@ Accessibility Kit (Voice Enhancer、Swich Control、Talkback、Voice Access)
    	- [Simple Keyboard](https://github.com/SimpleMobileTools/Simple-Keyboard) **`Full`**    
    	- [Yandex Keyboard](https://play.google.com/store/apps/details?id=ru.yandex.androidkeyboard) **`Monet`**    
    	- [thumb-key](https://github.com/dessalines/thumb-key) **`Full`**    
+   	- [Rkkr's Simple Keyboard](https://github.com/rkkr/simple-keyboard) **`Monet`** 
 - **Calculator**   
    	- [yetCalc](https://github.com/Yet-Zio/yetCalc) **`MD-` `Monet` `Multi`**    
    	- [Unitto](https://github.com/sadellie/unitto) **`Full` `Multi`**    
@@ -669,7 +672,9 @@ Accessibility Kit (Voice Enhancer、Swich Control、Talkback、Voice Access)
 - **Compass**    
    	- [Compass](https://github.com/Kr0oked/Compass) **`MD-` `Monet`**  
 - **Authenticator**
-   	- [Mauth](https://github.com/X1nto/Mauth) **`Full`**    
+   	- [Mauth](https://github.com/X1nto/Mauth) **`Full`** 
+   	- [Authenticator Pro](https://github.com/jamie-mh/AuthenticatorPro) **`Full`**
+   	- [Keyring OTP](https://gitlab.com/aorszulak/keyring) **`Full`**
 - **Key Manager**    
    	- [Keyspace](https://github.com/Keyspace-cloud/android) **`MD`**    
    	- [PassStore](https://play.google.com/store/apps/details?id=app.jjyy.passstore) **`Full`**    
@@ -809,7 +814,7 @@ Accessibility Kit (Voice Enhancer、Swich Control、Talkback、Voice Access)
    	- [Cokotools](https://www.coolapk.com/apk/com.yorick.cokotools) **`Full`**    
    	- [FDE.AI](https://github.com/feravolt/FDE.AI-docs) **`Full` `Multi`**    
    	- [NFC Emulator](https://www.coolapk.com/apk/com.yuanwofei.cardemulator) **`MD-` `Monet`**
-### 游戏
+### Games
 - **Emulator**    
    	- [Skyline](https://skyline-emu.com/) **`Full`**    
    	- [Lemuroid](https://github.com/Swordfish90/Lemuroid) **`MD-` `Monet`**    
