@@ -1,4 +1,11 @@
-# Material-You-App-Repository
+<h1 align="center">Material-You-App-Repository</h1>
+<div align="center">
+	
+[![badge_my_coolapk]][coolapk]
+[![badge_telegram_channel]][telegram_channel]
+[![badge_telegram_chat]][telegram_chat]
+	
+</div>
 
 ## Introduction
 ### What is Material You?
@@ -84,7 +91,7 @@ Files by Google
 Compose Material Catalog
 
 Accessibility Kit (Voice Enhancer、Swich Control、Talkback、Voice Access)
-### TTP ROMs
+### OEM ROMs
 ### Chat & Social Network
 - **Contact/Dialer/SMS**
 	- [Simple Contacts](https://github.com/SimpleMobileTools/Simple-Contacts) **`Full`**
@@ -853,3 +860,10 @@ Accessibility Kit (Voice Enhancer、Swich Control、Talkback、Voice Access)
    	- [GuessThatPokemon](https://github.com/NimaKhajehpour/GuessThatPokemon) **`MD-`**    
    	- [ArkToolBox Lite](https://github.com/JamXi233/ArkToolBox-Lite) **`MD`**    
    	- [TR Save Editor](https://www.coolapk.com/apk/top.juruo.terrariasaveconverter) **`Full` `Multi`**
+
+[coolapk]: https://www.coolapk.com/u/26677673
+[telegram_channel]: https://t.me/misakamaterial
+[telegram_chat]: https://t.me/misakamaterialchat
+[badge_my_coolapk]: https://img.shields.io/badge/Coolapk-yuban13766-%231B914C?style=for-the-badge
+[badge_telegram_channel]: https://img.shields.io/badge/dynamic/json?style=for-the-badge&color=2CA5E0&label=Channel&logo=telegram&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dtelegram%26queryKey%3Dmisakamaterial
+[badge_telegram_chat]: https://img.shields.io/badge/dynamic/json?style=for-the-badge&color=2CA5E0&label=Chat&logo=telegram&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dtelegram%26queryKey%3Dmisakamaterialchat
