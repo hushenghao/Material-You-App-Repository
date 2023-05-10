@@ -1,15 +1,23 @@
 <h1 align="center">Misaka's Material You App Repository</h1>
-<div align="center">
-	
-[![badge_my_coolapk]][coolapk]
-[![badge_telegram_channel]][telegram_channel]
-[![badge_telegram_chat]][telegram_chat]
-	
-</div>
+
+<p align="center">
+  <img src="https://i.ibb.co/NVVb64b/IMG-20230510-223915-841-1.jpg">
+</p>
+<p align="center">
+  <a href="https://t.me/misakamaterial">
+    <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&colorA=DAE9FC&colorB=056DE8&label=Channel&logo=telegram&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dtelegram%26queryKey%3Dmisakamaterial" alt="Telegram">
+  </a>
+  <a href="https://t.me/misakamaterialchat">
+    <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&colorA=DAE9FC&colorB=056DE8&label=Chat&logo=telegram&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dtelegram%26queryKey%3Dmisakamaterialchat" alt="Telegram">
+  </a>
+  <a href="https://www.coolapk.com/u/26677673">
+    <img src="https://img.shields.io/badge/Coolapk-yuban13766-%231B914C?style=for-the-badge&colorA=E1F6E1&colorB=126736" alt="Coolapk">
+  </a>
+</p>
 
 ## Introduction
 ### What is Material You?
-According to m3.material.io, Material You is the new Material visual style and set of features embracing the personal and expressive needs of individual users. It's one part of Material Design 3, which is the third generation of material launched in 2021, an open-sourse user interface design system created by Google. 
+According to [m3.material.io](https://m3.material.io), Material You is the new Material visual style and set of features embracing the personal and expressive needs of individual users. It's one part of Material Design 3, which is the third generation of material launched in 2021, an open-sourse user interface design system created by Google. 
 
 Different from the emphasis on right angles and shadows by Material Design 2, Material You applies more flat, round and personalized shapes. Additionally, Material You brings more friendly adaptation to Android devices with different screen sizes (pad,fold,watch and so on) . And more importantly, it brings a new color mechanism - Dynamic Color, which can determine the accent color and main color of the application according to the wallpaper color of the user's device. 
 
@@ -21,18 +29,39 @@ However in fact, sometimes Material You refers to the application which (may onl
 - **`Full`** - App that **completely** follows Material Design 3, inclouding completely-used MD3 components and Dynamic Color.
 - **`Multi`** - App that is more friendly for diffent devices, such as pad and fold.
 - **`MOD`** - App that is modified by unoffical teams. Its original app doesn't apply Material You comepletely.
+
+|  | Fully Designed | Dynamic Color |
+|:-:|:-:|:-:|
+|**`MD`**|✅|🚫|
+|**`MD-`**|🚫|-|
+|**`Monet`**|🚫|✅|
+|**`Full`**|✅|✅|
+
 ### Thanks to
-- **SPECIAL THANKS TO** [nyas1/Material-You-app-list](https://github.com/nyas1/Material-You-app-list/), the most popular material app collecting project, which helps me a lot.[Click here](https://github.com/nyas1/Material-You-app-list) to join Telegram Channel.
+- **SPECIAL THANKS TO** [nyas1/Material-You-app-list](https://github.com/nyas1/Material-You-app-list/), the most popular material app collecting project, which helps me a lot. [Click here](https://github.com/nyas1/Material-You-app-list) to join Telegram Channel.
 - Coolapk User [@培明](https://www.coolapk.com/u/2080396), who provides many materials for me too.
-- F-Droid,which gives me a convenience access to FOSS and Material You apps.
-- Developers who keep using Material You.You have made an indelible contribution to Google's software ecosystem!
-- Telegram Channels：[某不知名杂货铺](https://t.me/youthkinga), [HUC-Projects](https://t.me/anubis_recommended), [WPX Projects](https://t.me/WSTprojects), [Android Reposity](https://t.me/AndroidRepo) and so on.
-- My good friend ZYClark,who is a Material You lover too and his coding ability is perfect!
+- F-Droid, which gives me a convenience access to FOSS and Material You apps.
+- Developers who keep using Material You. You have made an indelible contribution to Google's software ecosystem!
+- Telegram Channels: [某不知名杂货铺](https://t.me/youthkinga), [HUC-Projects](https://t.me/anubis_recommended), [WPX Projects](https://t.me/WSTprojects), [Android Reposity](https://t.me/AndroidRepo) and so on.
+- My good friend ZYClark, who is a Material You lover too and his coding ability is perfect!
 - Friends who make suggestions to me to make this repository more pretty.
 - And **ALL OF YOU WHO LOVE MATERIAL YOU!**
-
 ## Menu
-
+- [Google Apps](#google-apps)
+- [OEM ROMs](#oem-roms)
+- [👥 Chat & Social Network](#chat--social-network)
+- [🎵 Media](#media)
+- [✍ Writing & Drawing](#writing--drawing)
+- [🖼️ Photos](#photos)
+- [🌐 Browser](#browser)
+- [📖 Readers](#readers)
+- [🌦️ Daily Life](#daily-life)
+- [🖌️ Theming](#theming)
+- [⚙️ System Tools](#system-tools)
+- [🧰 Tools](#tools)
+- [🔧 Developer Tools](#developer-tools)
+- [#️⃣ Root/ADB](#rootadb)
+- [🎮 Games](#games)
 ## Lists
 ### Google Apps
 As the father of Material You, Google is changing its applications to Material Design 3. Most of Google Apps are based on Material Design 3 now, although there may be some imperfect. And I'm sorry, but as you can directly download these apps in Google Play, there isn't any link for these Google apps listed below.
@@ -388,7 +417,7 @@ As I know, **Moto Myui**, **crDroid**, **NothingOS**, **OneUI**, **ASUS Zenui** 
    	- [openHAB](https://github.com/openhab/openhab-android) / [LogViewer for openHAB-App](https://github.com/cyb3rko/logviewer-for-openhab-app) **`Full`**
    	- [Lis10](https://play.google.com/store/apps/details?id=com.urbandroid.lis10) **`Full`**
    	- [Universal Remote for Smart TVs](https://play.google.com/store/apps/details?id=com.quanticapps.universalremote) **`Full` `Multi`**
-### Themes
+### Theming
 - **Launcher**    
    	- [Niagara Launcher](https://play.google.com/store/apps/details?id=bitpit.launcher) **`Full` `Multi`**    
    	- [Lawnchair](https://t.me/youthkinga/6339) (A13) **`Full` `Multi`**    
@@ -843,10 +872,3 @@ As I know, **Moto Myui**, **crDroid**, **NothingOS**, **OneUI**, **ASUS Zenui** 
    	- [GuessThatPokemon](https://github.com/NimaKhajehpour/GuessThatPokemon) **`MD-`**    
    	- [ArkToolBox Lite](https://github.com/JamXi233/ArkToolBox-Lite) **`MD`**    
    	- [TR Save Editor](https://www.coolapk.com/apk/top.juruo.terrariasaveconverter) **`Full` `Multi`**
-
-[coolapk]: https://www.coolapk.com/u/26677673
-[telegram_channel]: https://t.me/misakamaterial
-[telegram_chat]: https://t.me/misakamaterialchat
-[badge_my_coolapk]: https://img.shields.io/badge/Coolapk-yuban13766-%231B914C?style=for-the-badge&colorA=E1F6E1&colorB=126736
-[badge_telegram_channel]: https://img.shields.io/badge/dynamic/json?style=for-the-badge&colorA=DAE9FC&colorB=056DE8&label=Channel&logo=telegram&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dtelegram%26queryKey%3Dmisakamaterial
-[badge_telegram_chat]: https://img.shields.io/badge/dynamic/json?style=for-the-badge&colorA=DAE9FC&colorB=056DE8&label=Chat&logo=telegram&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dtelegram%26queryKey%3Dmisakamaterialchat
