@@ -1,4 +1,4 @@
-<h1 align="center">Material-You-App-Repository</h1>
+<h1 align="center">Material You App Repository</h1>
 <div align="center">
 	
 [![badge_my_coolapk]][coolapk]
@@ -22,80 +22,59 @@ However in fact, sometimes Material You refers to the application which (may onl
 - **`Multi`** - App that is more friendly for diffent devices, such as pad and fold.
 - **`MOD`** - App that is modified by unoffical teams. Its original app doesn't apply Material You comepletely.
 ### Thanks to
+- **SPECIAL THANKS TO** [nyas1/Material-You-app-list](https://github.com/nyas1/Material-You-app-list/), the most popular material app collecting project, which helps me a lot.[Click here](https://github.com/nyas1/Material-You-app-list) to join Telegram Channel.
+- Coolapk User [@培明](https://www.coolapk.com/u/2080396), who provides many materials for me too.
+- F-Droid,which gives me a convenience access to FOSS and Material You apps.
+- Developers who keep using Material You.You have made an indelible contribution to Google's software ecosystem!
+- Telegram Channels：[某不知名杂货铺](https://t.me/youthkinga), [HUC-Projects](https://t.me/anubis_recommended), [WPX Projects](https://t.me/WSTprojects), [Android Reposity](https://t.me/AndroidRepo) and so on.
+- My good friend ZYClark,who is a Material You lover too and his coding ability is perfect!
+- Friends who make suggestions to me to make this repository more pretty.
+- And **ALL OF YOU WHO LOVE MATERIAL YOU!**
 
 ## Menu
 
 ## Lists
 ### Google Apps
+As the father of Material You, Google is changing its applications to Material Design 3. Most of Google Apps are based on Material Design 3 now, although there may be some imperfect. And I'm sorry, but as you can directly download these apps in Google Play, there isn't any link for these Google apps listed below.
 
-Google
+- **Google Apps with Material You**
 
-Google Assistant
-
-Google Message
-
-Google Contacts
-
-Google Phone
-
-Google Translate
-
-Google Gallery
-
-Google Weather
-
-Google Pixel Buds
-
-Google Maps
-
-Google Lens
-
-Google Podcasts
-
-Google Fit
-
-Google Meet
-
-Google Chat
-
-Google Family Link
-
-Google Tasks
-
-Google Wallet
-
-Google Calender
-
-Google Clock
-
-Google Calculator
-
-Google Recoder
-
-Google Camera
-
-Google Fi
-
-Google TV
-
-Google One Kit (GMail、Keep、Cloud、Doc、Sheet、Slide、Drive)
-
-GPay
-
-Chrome
-
-GBoard
-
-Health Connect
-
-Find My Device
-
-Files by Google
-
-Compose Material Catalog
-
-Accessibility Kit (Voice Enhancer、Swich Control、Talkback、Voice Access)
+	- Google
+	- Google Assistant
+	- Google Message
+	- Google Contacts
+	- Google Phone
+	- Google Translate
+	- Google Gallery
+	- Google Weather
+	- Google Pixel Buds
+	- Google Maps
+	- Google Lens
+	- Google Podcasts
+	- Google Fit
+	- Google Meet
+	- Google Chat
+	- Google Family Link
+	- Google Tasks
+	- Google Wallet
+	- Google Calender
+	- Google Clock
+	- Google Calculator
+	- Google Recoder
+	- Google Camera
+	- Google Fi
+	- Google TV
+	- Google One Kit (GMail, Keep, Cloud, Doc, Sheet, Slide, Drive)
+	- GPay
+	- Chrome
+	- GBoard
+	- Health Connect
+	- Find My Device
+	- Files by Google
+	- Compose Material Catalog
+	- Accessibility Kit (Voice Enhancer, Swich Control, Talkback, Voice Access)
 ### OEM ROMs
+As I know, **Moto Myui**, **crDroid**, **NothingOS**, **OneUI**, **ASUS Zenui** has applied Material You to their most system apps. You can find the download link of some of these app in [Nyas1's applist](https://github.com/nyas1/Material-You-app-list/). 
 ### Chat & Social Network
 - **Contact/Dialer/SMS**
 	- [Simple Contacts](https://github.com/SimpleMobileTools/Simple-Contacts) **`Full`**
@@ -409,7 +388,7 @@ Accessibility Kit (Voice Enhancer、Swich Control、Talkback、Voice Access)
    	- [openHAB](https://github.com/openhab/openhab-android) / [LogViewer for openHAB-App](https://github.com/cyb3rko/logviewer-for-openhab-app) **`Full`**
    	- [Lis10](https://play.google.com/store/apps/details?id=com.urbandroid.lis10) **`Full`**
    	- [Universal Remote for Smart TVs](https://play.google.com/store/apps/details?id=com.quanticapps.universalremote) **`Full` `Multi`**
-## Themes
+### Themes
 - **Launcher**    
    	- [Niagara Launcher](https://play.google.com/store/apps/details?id=bitpit.launcher) **`Full` `Multi`**    
    	- [Lawnchair](https://t.me/youthkinga/6339) (A13) **`Full` `Multi`**    
@@ -868,6 +847,6 @@ Accessibility Kit (Voice Enhancer、Swich Control、Talkback、Voice Access)
 [coolapk]: https://www.coolapk.com/u/26677673
 [telegram_channel]: https://t.me/misakamaterial
 [telegram_chat]: https://t.me/misakamaterialchat
-[badge_my_coolapk]: https://img.shields.io/badge/Coolapk-yuban13766-%231B914C?style=for-the-badge
-[badge_telegram_channel]: https://img.shields.io/badge/dynamic/json?style=for-the-badge&color=2CA5E0&label=Channel&logo=telegram&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dtelegram%26queryKey%3Dmisakamaterial
-[badge_telegram_chat]: https://img.shields.io/badge/dynamic/json?style=for-the-badge&color=2CA5E0&label=Chat&logo=telegram&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dtelegram%26queryKey%3Dmisakamaterialchat
+[badge_my_coolapk]: https://img.shields.io/badge/Coolapk-yuban13766-%231B914C?style=for-the-badge&colorA=E1F6E1&colorB=126736
+[badge_telegram_channel]: https://img.shields.io/badge/dynamic/json?style=for-the-badge&colorA=DAE9FC&colorB=056DE8&label=Channel&logo=telegram&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dtelegram%26queryKey%3Dmisakamaterial
+[badge_telegram_chat]: https://img.shields.io/badge/dynamic/json?style=for-the-badge&colorA=DAE9FC&colorB=056DE8&label=Chat&logo=telegram&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dtelegram%26queryKey%3Dmisakamaterialchat
