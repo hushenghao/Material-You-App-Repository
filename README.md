@@ -1,4 +1,4 @@
-<h1 align="center">Material You App Repository</h1>
+<h1 align="center">Misaka's Material You App Repository</h1>
 <div align="center">
 	
 [![badge_my_coolapk]][coolapk]
