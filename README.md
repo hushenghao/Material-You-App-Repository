@@ -40,7 +40,7 @@ However in fact, sometimes Material You refers to the application which (may onl
 ### Thanks to
 - **SPECIAL THANKS TO** [nyas1/Material-You-app-list](https://github.com/nyas1/Material-You-app-list/), the most popular material app collecting project, which helps me a lot. [Click here](https://github.com/nyas1/Material-You-app-list) to join Telegram Channel.
 - Coolapk User [@培明](https://www.coolapk.com/u/2080396), who provides many materials for me too.
-- F-Droid, which gives me a convenience access to FOSS and Material You apps.
+- F-Droid, which gives me a convenient access to FOSS and Material You apps.
 - Developers who keep using Material You. You have made an indelible contribution to Google's software ecosystem!
 - Telegram Channels: [某不知名杂货铺](https://t.me/youthkinga), [HUC-Projects](https://t.me/anubis_recommended), [WPX Projects](https://t.me/WSTprojects), [Android Reposity](https://t.me/AndroidRepo) and so on.
 - My good friend ZYClark, who is a Material You lover too and his coding ability is perfect!
