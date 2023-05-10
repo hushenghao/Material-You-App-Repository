@@ -550,10 +550,10 @@ As I know, **Moto Myui**, **crDroid**, **NothingOS**, **OneUI**, **ASUS Zenui** 
    	- [Icebox](https://www.coolapk.com/apk/com.catchingnow.icebox) **`Monet`**
 - **App Store**
    	- [Neo Store](https://github.com/NeoApplications/Neo-Store) **`Full`**
-    	- [Droid-ify](https://github.com/Iamlooker/Droid-ify) **`MD-` `Monet`**
-    	- [Obtainium](https://github.com/ImranR98/Obtainium) **`Full`**
-    	- [Apps by GrapheneOS](https://github.com/GrapheneOS/Apps) **`MD-` `Monet`**
-    	- [accrescent](https://github.com/accrescent/accrescent) **`Full`**
+   	- [Droid-ify](https://github.com/Iamlooker/Droid-ify) **`MD-` `Monet`**
+   	- [Obtainium](https://github.com/ImranR98/Obtainium) **`Full`**
+   	- [Apps by GrapheneOS](https://github.com/GrapheneOS/Apps) **`MD-` `Monet`**
+   	- [accrescent](https://github.com/accrescent/accrescent) **`Full`**
 - **Safety & Privacy**
    	- [AirGuard](https://github.com/seemoo-lab/AirGuard) **`MD-` `Monet`** 
    	- [Privacy Dots](https://play.google.com/store/apps/details?id=com.paget96.privacydots) **`Full`**
