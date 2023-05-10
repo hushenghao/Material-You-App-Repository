@@ -9,7 +9,9 @@
 
 ## Introduction
 ### What is Material You?
-According to m3.material.io, Material You is the new Material visual style and set of features embracing the personal and expressive needs of individual users. It's one part of Material Design 3, which is the third generation of material launched in 2021, an open-sourse user interface design system created by Google. Different from the emphasis on right angles and shadows by Material Design 2, Material You applies more flat, round and personalized shapes. Additionally, Material You brings more friendly adaptation to Android devices with different screen sizes (pad,fold,watch and so on) . And more importantly, it brings a new color mechanism - Dynamic Color, which can determine the accent color and main color of the application according to the wallpaper color of the user's device. 
+According to m3.material.io, Material You is the new Material visual style and set of features embracing the personal and expressive needs of individual users. It's one part of Material Design 3, which is the third generation of material launched in 2021, an open-sourse user interface design system created by Google. 
+
+Different from the emphasis on right angles and shadows by Material Design 2, Material You applies more flat, round and personalized shapes. Additionally, Material You brings more friendly adaptation to Android devices with different screen sizes (pad,fold,watch and so on) . And more importantly, it brings a new color mechanism - Dynamic Color, which can determine the accent color and main color of the application according to the wallpaper color of the user's device. 
 
 However in fact, sometimes Material You refers to the application which (may only) supports Dynamic Color, no matter what kind of style that application applies.
 ### Instructions for labels
