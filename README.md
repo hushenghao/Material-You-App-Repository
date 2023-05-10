@@ -44,6 +44,7 @@ However in fact, sometimes Material You refers to the application which (may onl
 - Developers who keep using Material You. You have made an indelible contribution to Google's software ecosystem!
 - Telegram Channels: [某不知名杂货铺](https://t.me/youthkinga), [HUC-Projects](https://t.me/anubis_recommended), [WPX Projects](https://t.me/WSTprojects), [Android Reposity](https://t.me/AndroidRepo) and so on.
 - My good friend ZYClark, who is a Material You lover too and his coding ability is perfect!
+- Another friend Azusa, who provides this beautiful picture of my onee sama for me!
 - Friends who make suggestions to me to make this repository more pretty.
 - And **ALL OF YOU WHO LOVE MATERIAL YOU!**
 ## Menu
@@ -62,6 +63,7 @@ However in fact, sometimes Material You refers to the application which (may onl
 - [🔧 Developer Tools](#developer-tools)
 - [#️⃣ Root/ADB](#rootadb)
 - [🎮 Games](#games)
+- [Monet Modules](#monet-modules)
 ## Lists
 ### Google Apps
 As the father of Material You, Google is changing its applications to Material Design 3. Most of Google Apps are based on Material Design 3 now, although there may be some imperfect. And I'm sorry, but as you can directly download these apps in Google Play, there isn't any link for these Google apps listed below.
@@ -93,6 +95,7 @@ As the father of Material You, Google is changing its applications to Material D
 	- Google Camera
 	- Google Fi
 	- Google TV
+	- Google Home (Preview)
 	- Google One Kit (GMail, Keep, Cloud, Doc, Sheet, Slide, Drive)
 	- GPay
 	- Chrome
@@ -872,3 +875,13 @@ As I know, **Moto Myui**, **crDroid**, **NothingOS**, **OneUI**, **ASUS Zenui** 
    	- [GuessThatPokemon](https://github.com/NimaKhajehpour/GuessThatPokemon) **`MD-`**    
    	- [ArkToolBox Lite](https://github.com/JamXi233/ArkToolBox-Lite) **`MD`**    
    	- [TR Save Editor](https://www.coolapk.com/apk/top.juruo.terrariasaveconverter) **`Full` `Multi`**
+ - **Monet Modules**
+   	- [Monet-All](https://github.com/YangguangZhou/Monet-All)
+   	- [MIUI Monet Project](https://t.me/MIUIMonetUpdate)
+   	- [How to make apps support Dymamic Color by yourself](https://www.coolapk1s.com/feed/38873051)
+### Epilogue
+This repository is originated from this [applist](https://chemical-soap-be1.notion.site/Material-You-e6194409c46d44419c70a1c68ca3e278) in Chinese. If you're interested in it, you could follow it!
+
+In fact, as I'm not good at decorating this repository as nyas1, the interface may looks very ugly qwq. At the same time, some apps may not appear in this repository for I haven't seen it. So if you have a good idea to decorate this repository, or if you find more Material You apps I haven't recorded here, welcome to tell me!
+
+At last, I wanna call you, let's **make Material You sweep all over the world!**
