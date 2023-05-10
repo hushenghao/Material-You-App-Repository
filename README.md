@@ -106,7 +106,7 @@ As the father of Material You, Google is changing its applications to Material D
 	- Compose Material Catalog
 	- Accessibility Kit (Voice Enhancer, Swich Control, Talkback, Voice Access)
 ### OEM ROMs
-As I know, **Moto Myui**, **crDroid**, **NothingOS**, **OneUI**, **ASUS Zenui** has applied Material You to their most system apps. You can find the download link of some of these app in [Nyas1's applist](https://github.com/nyas1/Material-You-app-list/). 
+As I know, **Moto MYUI**, **crDroid**, **NothingOS**, **OneUI**, **ASUS Zenui** has applied Material You to their most system apps. You can find the download link of some of these apps in [Nyas1's applist](https://github.com/nyas1/Material-You-app-list/). 
 ### Chat & Social Network
 - **Contact/Dialer/SMS**
 	- [Simple Contacts](https://github.com/SimpleMobileTools/Simple-Contacts) **`Full`**
