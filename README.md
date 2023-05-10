@@ -1,14 +1,17 @@
 # Material-You-App-Repository
-As this Material You app repository is under construction,please [**click here**](https://chemical-soap-be1.notion.site/Material-You-e6194409c46d44419c70a1c68ca3e278) to watch my repository in Notion,which is in Chinese.I will work hard to finish it!
+
 ## Introduction
 ### What is Material You?
+According to m3.material.io, Material You is the new Material visual style and set of features embracing the personal and expressive needs of individual users. It's one part of Material Design 3, which is the third generation of material launched in 2021, an open-sourse user interface design system created by Google. Different from the emphasis on right angles and shadows by Material Design 2, Material You applies more flat, round and personalized shapes. Additionally, Material You brings more friendly adaptation to Android devices with different screen sizes (pad,fold,watch and so on) . And more importantly, it brings a new color mechanism - Dynamic Color, which can determine the accent color and main color of the application according to the wallpaper color of the user's device. 
 
-### How is it going for Material You now?
-
-### Why do I create this repository?
-
+However in fact, sometimes Material You refers to the application which (may only) supports Dynamic Color, no matter what kind of style that application applies.
 ### Instructions for labels
-
+- **`MD`** - App whose components are **completely** in MD3 style but **doesn't support** Dynamic Color.
+- **`MD-`** - App whose components are **partly** in MD3 style, which is common when a developer claims his application applies MD3 style but its switch or other component is not in MD3 style. If it supports Dynamic Color, a **`Monet`** label will be added.
+- **`Monet`** - App that **only** supports Dynamic Color, whose components are **completely not** in MD3 style.
+- **`Full`** - App that **completely** follows Material Design 3, inclouding completely-used MD3 components and Dynamic Color.
+- **`Multi`** - App that is more friendly for diffent devices, such as pad and fold.
+- **`MOD`** - App that is modified by unoffical teams. Its original app doesn't apply Material You comepletely.
 ### Thanks to
 
 ## Lists
@@ -850,4 +853,3 @@ Accessibility Kit (Voice Enhancer、Swich Control、Talkback、Voice Access)
    	- [GuessThatPokemon](https://github.com/NimaKhajehpour/GuessThatPokemon) **`MD-`**    
    	- [ArkToolBox Lite](https://github.com/JamXi233/ArkToolBox-Lite) **`MD`**    
    	- [TR Save Editor](https://www.coolapk.com/apk/top.juruo.terrariasaveconverter) **`Full` `Multi`**
-## Something wanna to say at the end
