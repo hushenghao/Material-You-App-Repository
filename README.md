@@ -839,12 +839,12 @@ has applied Material You to their most system apps. You can find the download li
    	- [CustoMIUIzer](https://github.com/monwf/customiuizer) **`MD-`**    
    	- [Thanox](https://play.google.com/store/apps/details?id=github.tornaco.android.thanos.pro) **`Full`**    
    	- [Redirect Storage](https://play.google.com/store/apps/details?id=moe.shizuku.redirectstorage) **`Full`**     
-   	- [Hide My Applist](https://github.com/Dr-TSNG/Hide-My-Applist) **`Full`*    
+   	- [Hide My Applist](https://github.com/Dr-TSNG/Hide-My-Applist) **`Full`**
    	- [Miller](https://github.com/UISSD/Miller) **`MD`**    
    	- [Tomb](https://appshare.vip/page/app/detail?id=HyvgUDaeuABysIy882ueFQ) **`MD`**    
    	- [HCEFUnlocker](https://github.com/OLIET2357/HCEFUnlocker) **`Full`**    
    	- [ClassicPowerMenu](https://github.com/KieronQuinn/ClassicPowerMenu) **`Full`**    
-   	- [Tigerinthewall](https://install.appcenter.ms/users/tigerbeanst/apps/rnshareclean/distribution_groups/tigerinthewall_test_build) **`MD`*    
+   	- [Tigerinthewall](https://install.appcenter.ms/users/tigerbeanst/apps/rnshareclean/distribution_groups/tigerinthewall_test_build) **`MD`**   
    	- [QDReaderHook](https://github.com/xihan123/QDReadHook) **`Full`**    
    	- [Android Faker](https://github.com/Xposed-Modules-Repo/com.android1500.androidfaker) **`Full`**    
    	- [AOSP Mods](https://github.com/siavash79/AOSPMods) **`Full`**    
