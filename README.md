@@ -200,7 +200,7 @@ has applied Material You to their most system apps. You can find the download li
 	- [myplayer](https://www.coolapk.com/apk/com.ltj.myplayer) **`MD-`**
 	- [Teapod](https://git.mosad.xyz/Seil0/teapod) **`MD-`**
 	- [MPlayer](https://play.google.com/store/apps/details?id=com.mplayer.streamcast) **`MD`**
-	- [CloudStream](https://github.com/recloudstream/cloudstream) **`MD-` `Multi`**
+	- [CloudStream](https://github.com/recloudstream/cloudstream) **`MD-` `Monet` `Multi`**
 - **Offline Video Services**
 	- [VLC Mod](https://t.me/waifupx_official/233) **`Full` `Multi` `MOD`** 
 	- [MX Player Mod](https://www.coolapk1s.com/feed/44722057) **`Monet` `MOD`**
