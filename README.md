@@ -320,6 +320,7 @@ has applied Material You to their most system apps. You can find the download li
 - [Thor](https://gitlab.com/remmer.wilts/thor) **`MD-` `Multi`**
 - [Bromite](https://github.com/bromite/bromite) **`Full` `Multi`**
 - [Styx](https://github.com/jamal2362/Styx) **`Full` `Multi`**
+- [Privacy Browser](https://play.google.com/store/apps/details?id=com.stoutner.privacybrowser.standard) **`Monet`**
 ---
 ### Readers
 - **Novels**
