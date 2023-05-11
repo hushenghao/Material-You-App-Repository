@@ -133,7 +133,7 @@ has applied Material You to their most system apps. You can find the download li
 	- [Karma for Reddit](https://play.google.com/store/apps/details?id=com.brianrobles204.karmamachine_flutter) **`Full`**
 **`MD-` `Monet`** 
 	- [Focus for Reddit](https://play.google.com/store/apps/details?id=allen.town.focus.reddit) **`Full` `Multi`**
-	- [Jerboa for Lemmy](https://github.com/dessalines/jerboa) **`Full`**
+	- [Infinity for Reddit](https://github.com/Docile-Alligator/Infinity-For-Reddit) **`MD-` `Monet`**
 - **Discord**
 	- [OpenCord](https://github.com/MateriiApps/OpenCord) **`Full`**
 - **Mastodon**
@@ -163,7 +163,7 @@ has applied Material You to their most system apps. You can find the download li
 	- [Stack for Stack Overflow](https://play.google.com/store/apps/details?id=me.tylerbwong.stack) **`Full`**
 	- [Blog2App](https://play.google.com/store/apps/details?id=com.boltuix.blogtoapp) **`MD`**
 	- [Hejtter](https://github.com/mateusz-bak/hejtter) **`MD`**
-	- [Infinity for Reddit](https://github.com/Docile-Alligator/Infinity-For-Reddit) 
+	- [Jerboa for Lemmy](https://github.com/dessalines/jerboa) **`Full`**
 ---
 ### Media
 - **Youtube/YTMusic Clients**
