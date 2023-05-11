@@ -131,7 +131,7 @@ has applied Material You to their most system apps. You can find the download li
 - **Reddit**
 	- [Sync for Reddit](https://play.google.com/store/apps/details?id=com.laurencedawson.reddit_sync) **`Full` `Multi`**
 	- [Karma for Reddit](https://play.google.com/store/apps/details?id=com.brianrobles204.karmamachine_flutter) **`Full`**
-	- [Infinity for Reddit](https://github.com/Docile-Alligator/Infinity-For-Reddit) **`MD-` `Monet`** 
+**`MD-` `Monet`** 
 	- [Focus for Reddit](https://play.google.com/store/apps/details?id=allen.town.focus.reddit) **`Full` `Multi`**
 	- [Jerboa for Lemmy](https://github.com/dessalines/jerboa) **`Full`**
 - **Discord**
@@ -163,6 +163,7 @@ has applied Material You to their most system apps. You can find the download li
 	- [Stack for Stack Overflow](https://play.google.com/store/apps/details?id=me.tylerbwong.stack) **`Full`**
 	- [Blog2App](https://play.google.com/store/apps/details?id=com.boltuix.blogtoapp) **`MD`**
 	- [Hejtter](https://github.com/mateusz-bak/hejtter) **`MD`**
+	- [Infinity for Reddit](https://github.com/Docile-Alligator/Infinity-For-Reddit) 
 ---
 ### Media
 - **Youtube/YTMusic Clients**
@@ -522,7 +523,8 @@ has applied Material You to their most system apps. You can find the download li
    	- [SystemUI Tuner](https://github.com/zacharee/Tweaker) **`MD-` `Monet` `Multi`**    
    	- [PowerLine](https://play.google.com/store/apps/details?id=com.urbandroid.inline) **`Full`**    
    	- [Palettes](https://play.google.com/store/apps/details?id=com.pranavpandey.theme) **`Full`**    
-   	- [Android 12 Extensions](https://github.com/kdrag0n/android12-extensions) **`MD-` `Monet`**    
+   	- [Android 12 Extensions](https://github.com/kdrag0n/android12-extensions) **`MD-` `Monet`**   
+   	- [Iconify](https://github.com/Mahmud0808/Iconify) **`Full`**    
 - **Others**    
    	- [Rboard Theme Manager](https://github.com/DerTyp7214/RboardThemeManagerV3) **`Full`**    
    	- [Rboard Patcher](https://github.com/DerTyp7214/RboardPatcher) **`Full`**    
@@ -836,8 +838,7 @@ has applied Material You to their most system apps. You can find the download li
    	- [HMSPush](https://github.com/fei-ke/HMSPush) **`Full`**    
    	- [CustoMIUIzer](https://github.com/monwf/customiuizer) **`MD-`**    
    	- [Thanox](https://play.google.com/store/apps/details?id=github.tornaco.android.thanos.pro) **`Full`**    
-   	- [Redirect Storage](https://play.google.com/store/apps/details?id=moe.shizuku.redirectstorage) **`Full`**    
-   	- [Iconify](https://github.com/Mahmud0808/Iconify) **`Full`**    
+   	- [Redirect Storage](https://play.google.com/store/apps/details?id=moe.shizuku.redirectstorage) **`Full`**     
    	- [Hide My Applist](https://github.com/Dr-TSNG/Hide-My-Applist) **`Full`*    
    	- [Miller](https://github.com/UISSD/Miller) **`MD`**    
    	- [Tomb](https://appshare.vip/page/app/detail?id=HyvgUDaeuABysIy882ueFQ) **`MD`**    
