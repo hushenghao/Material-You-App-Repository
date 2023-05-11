@@ -47,6 +47,7 @@ However in fact, sometimes Material You refers to the application which (may onl
 - Another friend Azusa, who provides this beautiful picture of my onee sama for me!
 - Friends who make suggestions to me to make this repository more pretty.
 - And **ALL OF YOU WHO LOVE MATERIAL YOU!**
+---
 ## Menu
 - [Google Apps](#google-apps)
 - [OEM ROMs](#oem-roms)
@@ -64,6 +65,7 @@ However in fact, sometimes Material You refers to the application which (may onl
 - [#️⃣ Root/ADB](#rootadb)
 - [🎮 Games](#games)
 - [Monet Modules](#monet-modules)
+---
 ## Lists
 ### Google Apps
 As the father of Material You, Google is changing its applications to Material Design 3. Most of Google Apps are based on Material Design 3 now, although there may be some imperfect. And I'm sorry, but as you can directly download these apps in Google Play, there isn't any link for these Google apps listed below.
@@ -879,7 +881,8 @@ As I know, **Moto MYUI**, **crDroid**, **NothingOS**, **OneUI**, **ASUS Zenui** 
    	- [Monet-All](https://github.com/YangguangZhou/Monet-All)
    	- [MIUI Monet Project](https://t.me/MIUIMonetUpdate)
    	- [How to make apps support Dymamic Color by yourself](https://www.coolapk1s.com/feed/38873051)
-### Epilogue
+---
+## Epilogue
 This repository is originated from this [applist](https://chemical-soap-be1.notion.site/Material-You-e6194409c46d44419c70a1c68ca3e278) in Chinese. If you're interested in it, you could follow it!
 
 In fact, as I'm not good at decorating this repository as nyas1, the interface may looks very ugly qwq. At the same time, some apps may not appear in this repository for I haven't seen it. So if you have a good idea to decorate this repository, or if you find more Material You apps I haven't recorded here, welcome to tell me!
