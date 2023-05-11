@@ -878,9 +878,9 @@ As I know, **Moto MYUI**, **crDroid**, **NothingOS**, **OneUI**, **ASUS Zenui** 
    	- [ArkToolBox Lite](https://github.com/JamXi233/ArkToolBox-Lite) **`MD`**    
    	- [TR Save Editor](https://www.coolapk.com/apk/top.juruo.terrariasaveconverter) **`Full` `Multi`**
 ### Monet Modules
-   	- [Monet-All](https://github.com/YangguangZhou/Monet-All)
-   	- [MIUI Monet Project](https://t.me/MIUIMonetUpdate)
-   	- [How to make apps support Dymamic Color by yourself](https://www.coolapk1s.com/feed/38873051)
+- [Monet-All](https://github.com/YangguangZhou/Monet-All)
+- [MIUI Monet Project](https://t.me/MIUIMonetUpdate)
+- [How to make apps support Dymamic Color by yourself](https://www.coolapk1s.com/feed/38873051)
 ---
 ## Epilogue
 This repository is originated from this [applist](https://chemical-soap-be1.notion.site/Material-You-e6194409c46d44419c70a1c68ca3e278) in Chinese. If you're interested in it, you could follow it!
