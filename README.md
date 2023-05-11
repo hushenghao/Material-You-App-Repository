@@ -280,6 +280,7 @@ has applied Material You to their most system apps. You can find the download li
 	- [Luna](https://play.google.com/store/apps/details?id=com.jggdevelopment.bookbuddy) **`Full`**
 	- [Nyanpasu](https://play.google.com/store/apps/details?id=com.zhenxiang.nyaa) **`MD-` `Multi`**
 	- [Animite](https://github.com/imashnake0/Animite) **`Full`**
+	- [Moviebase](https://play.google.com/store/apps/details?id=com.moviebase) **`MD-`**
 - **Others**
 	- [raca](https://github.com/SkyD666/Raca-Android) **`Full` `Multi`**
 	- [Counters](https://play.google.com/store/apps/details?id=rahmouni.neil.counters) **`Full` `Multi`**
