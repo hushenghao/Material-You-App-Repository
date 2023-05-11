@@ -126,7 +126,7 @@ has applied Material You to their most system apps. You can find the download li
 	- [Simple SMS Messenger](https://github.com/SimpleMobileTools/Simple-SMS-Messenger) **`Full`**
 - **Telegram**
 	- [MDgram](https://github.com/MDGramYou/MDGramYou) **`MD` `Multi`**
-	- [exteraGram](https://github.com/exteraSquad/exteraGram) **`Full` `Multi`**
+	- [exteraGram](https://github.com/exteraSquad/exteraGram) **`MD-` `Multi`**
 	- [Lilgram](https://github.com/lilchill666/LilGram) **`Full` `Multi`**
 - **Reddit**
 	- [Sync for Reddit](https://play.google.com/store/apps/details?id=com.laurencedawson.reddit_sync) **`Full` `Multi`**
@@ -410,7 +410,7 @@ has applied Material You to their most system apps. You can find the download li
   	- [Onesentence](https://www.coolapk.com/apk/kenmizz.onesentence) **`Full`**
 	- [Qwotable](https://github.com/Lijukay/Qwotable) **`Full` `Multi`**
 - **Health**
-   	- [Sleep for Android](https://play.google.com/store/apps/details?id=com.urbandroid.sleep) **`Full` `Multi`**
+   	- [Sleep as Android](https://play.google.com/store/apps/details?id=com.urbandroid.sleep) **`Full` `Multi`**
    	- [Disconnect](https://gitlab.com/narektor/disconnect) **`Full`**
    	- [Digital Detox](https://play.google.com/store/apps/details?id=com.urbandroid.ddc) **`MD`**
    	- [Koduko](https://github.com/Mazahir26/koduko) **`MD`**
