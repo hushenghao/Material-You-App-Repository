@@ -30,6 +30,8 @@ However in fact, sometimes Material You refers to the application which (may onl
 - **`Multi`** - App that is more friendly for diffent devices, such as pad and fold.
 - **`MOD`** - App that is modified by unoffical teams. Its original app doesn't apply Material You comepletely.
 
+Additionally, some of the apps are ~~crossed out~~ as I couldn't find their download link and couldn't experience them.
+
 |  | Fully Designed | Dynamic Color |
 |:-:|:-:|:-:|
 |**`MD`**|✅|🚫|
@@ -198,6 +200,7 @@ has applied Material You to their most system apps. You can find the download li
 	- [myplayer](https://www.coolapk.com/apk/com.ltj.myplayer) **`MD-`**
 	- [Teapod](https://git.mosad.xyz/Seil0/teapod) **`MD-`**
 	- [MPlayer](https://play.google.com/store/apps/details?id=com.mplayer.streamcast) **`MD`**
+	- [CloudStream](https://github.com/recloudstream/cloudstream) **`MD-` `Multi`**
 - **Offline Video Services**
 	- [VLC Mod](https://t.me/waifupx_official/233) **`Full` `Multi` `MOD`** 
 	- [MX Player Mod](https://www.coolapk1s.com/feed/44722057) **`Monet` `MOD`**
@@ -321,6 +324,7 @@ has applied Material You to their most system apps. You can find the download li
 - [Hermit](https://play.google.com/store/apps/details?id=com.chimbori.hermitcrab) **`Full` `Multi`**
 - [Thor](https://gitlab.com/remmer.wilts/thor) **`MD-` `Multi`**
 - [Bromite](https://github.com/bromite/bromite) **`Full` `Multi`**
+- [Bromite-BuildTools](https://github.com/uazo/bromite-buildtools) **`Full` `Multi`**
 - [Styx](https://github.com/jamal2362/Styx) **`Full` `Multi`**
 - [Privacy Browser](https://play.google.com/store/apps/details?id=com.stoutner.privacybrowser.standard) **`Monet`**
 ---
@@ -391,6 +395,7 @@ has applied Material You to their most system apps. You can find the download li
 	- [YoWindow Weather](https://play.google.com/store/apps/details?id=yo.app.free) **`Monet`**
 	- [Rain](https://github.com/DarkMooNight/Rain) **`MD`**
 	- [Textual Weather](https://play.google.com/store/apps/details?id=app.wakirox.rainy) **`Full`**
+	- [Nothing Weather](https://t.me/waifupx_official/205) **`Full` `MOD`**
 - **Maps/Navigation**
 	- [BTC Map](https://github.com/teambtcmap/btcmap-android) **`MD-`**
 	- [Tridenta](https://github.com/Stypox/tridenta) **`Full`**
@@ -453,6 +458,7 @@ has applied Material You to their most system apps. You can find the download li
    	- [Kvaesitso](https://github.com/MM2-0/Kvaesitso) **`Full` `Multi`**    
    	- [Action Launcher](https://play.google.com/store/apps/details?id=com.actionlauncher.playstore) **`Full` `Multi`**    
    	- [AIO Launcher](https://play.google.com/store/apps/details?id=ru.execbit.aiolauncher) **`Full` `Multi`**    
+   	- [Nothing launcher](https://www.apkmirror.com/apk/nothing-technology-limited/nothing-launcher-beta/nothing-launcher-beta-1-0-2-release/) **`Full`**
 - **Wallpapers**    
    	- [Pix Wallpapers](https://play.google.com/store/apps/details?id=com.pashapuma.pix.wallpapers) **`Full`**    
    	- [Swift Walls](https://play.google.com/store/apps/details?id=it.folgore95.mywall) **`Full`**    
@@ -478,9 +484,11 @@ has applied Material You to their most system apps. You can find the download li
    	- [Abstracto](https://play.google.com/store/apps/details?id=com.lagguy.abstracto) **`Full`**    
    	- [Frames](https://github.com/jahirfiquitiva/Frames) **`Full`**    
    	- [Backdrops](https://play.google.com/store/apps/details?id=com.backdrops.wallpapers) **`MD`**    
-   	- [DualWallpaper](https://github.com/Yanndroid/DualWallpaper) **`Monet`**    
+   	- [DualWallpaper](https://github.com/Yanndroid/DualWallpaper) **`Monet`**   
+   	- [iOSXPC Wallpapers](https://play.google.com/store/apps/details?id=com.iosxpc.wallpapers) **`Full`** 
 - **Icon Pack** 
-   	- [Liquor](https://gaopengk.github.io/2022/08/26/%E6%9B%B4%E6%96%B0-Liquor-%E5%9B%BE%E6%A0%87/) **`Full`**    
+   	- [Liquor](https://gaopengk.github.io/2022/08/26/%E6%9B%B4%E6%96%B0-Liquor-%E5%9B%BE%E6%A0%87/) **`Full`**
+   	- [LawnIcons](https://www.apkmirror.com/apk/lawnchair/lawnicons/lawnicons-2-0-0-release/lawnicons-2-0-0-android-apk-download/) **`Full`**
    	- [Pure Iconpack](https://www.coolapk.com/apk/com.panpandada.pure) **`Full`**    
    	- [Bar](https://www.coolapk.com/apk/com.bar.iconpack) **`Full`**    
    	- [Cayicons](https://www.coolapk.com/apk/app.lawnchair.lawnicons) **`Full`**    
@@ -654,7 +662,7 @@ has applied Material You to their most system apps. You can find the download li
    	- [WearOSbox](https://www.coolapk.com/apk/com.flyfishstudio.wearosbox) **`Full`**    
    	- [Mediascanner](https://www.coolapk.com/apk/com.ma.mediascanner) **`MD-`**    
    	- [Screen Refresh Rate](https://appshare.vip/page/app/detail?id=EYQ4sF8tND1rAGWLbHlsCg%3D%3D) **`Full`**    
-   	- [Carrier Vanity Name](https://github.com/nullbytepl/CarrierVanityName) **`Full`**    
+   	- [Carrier Vanity Name](https://github.com/nullbytepl/CarrierVanityName) **`MD`** 
    	- [LittleProcessy](https://www.coolapk.com/apk/com.absinthe.littleprocessy) **`Full`**    
 ---
 ### Tools
@@ -732,7 +740,8 @@ has applied Material You to their most system apps. You can find the download li
    	- [Pazzword](https://github.com/cyb3rko/pazzword) **`Full`**    
    	- [Pincredible](https://github.com/cyb3rko/pincredible) **`Full`**    
    	- [Wassword](https://github.com/polilluminato/wassword-flutter) **`MD`**    
-   	- [Keyguard for Bitwarden](https://play.google.com/store/apps/details?id=com.artemchep.keyguard) **`Full` `Multi`**    
+   	- [Keyguard for Bitwarden](https://play.google.com/store/apps/details?id=com.artemchep.keyguard) **`Full` `Multi`**   
+   	- [Simple Password](https://github.com/grigorevmp/Simple_Passwords_QuickPass) **`Full`**
 - **Sender/Connect**      
    	- [Warpinator](https://github.com/slowscript/warpinator-android) **`MD-` `Monet`**    
    	- [Arc](https://play.google.com/store/apps/details?id=com.quadren.arc) **`Full`**    
