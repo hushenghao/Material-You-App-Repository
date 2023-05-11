@@ -77,7 +77,7 @@ As the father of Material You, Google is changing its applications to Material D
 	- Google Phone
 	- Google Translate
 	- Google Gallery
-	- Google Weather
+	- Google Weather (In the future)
 	- Google Pixel Buds
 	- Google Maps
 	- Google Lens
@@ -95,6 +95,8 @@ As the father of Material You, Google is changing its applications to Material D
 	- Google Camera
 	- Google Fi
 	- Google TV
+	- Google Ads
+	- Google News
 	- Google Home (Preview)
 	- Google One Kit (GMail, Keep, Cloud, Doc, Sheet, Slide, Drive)
 	- GPay
@@ -301,7 +303,7 @@ has applied Material You to their most system apps. You can find the download li
 	- [QuickPic](https://t.me/quickpicmd2021) **`MD-` `Monet` `MOD`**
 	- [Aves](https://github.com/deckerst/aves) **`Monet`**
 	- [MiniGallery](https://github.com/kabirnayeem99/miniGallery) **`Full`**
-- **Gallery**
+- **Editor**
 	- [Photo Editor](https://t.me/anubis_recommended/139) **`Monet`** **`MOD`**
 	- [ExifEraser](https://github.com/Tommy-Geenexus/exif-eraser) **`Full`**
 	- [Image Resizer](https://github.com/T8RIN/ImageResizer) **`Full` `Multi`**
