@@ -47,7 +47,6 @@ However in fact, sometimes Material You refers to the application which (may onl
 - Another friend Azusa, who provides this beautiful picture of my onee sama for me!
 - Friends who make suggestions to me to make this repository more pretty.
 - And **ALL OF YOU WHO LOVE MATERIAL YOU!**
----
 ## Menu
 - [Google Apps](#google-apps)
 - [OEM ROMs](#oem-roms)
@@ -65,7 +64,6 @@ However in fact, sometimes Material You refers to the application which (may onl
 - [#️⃣ Root/ADB](#rootadb)
 - [🎮 Games](#games)
 - [Monet Modules](#monet-modules)
----
 ## Lists
 ### Google Apps
 As the father of Material You, Google is changing its applications to Material Design 3. Most of Google Apps are based on Material Design 3 now, although there may be some imperfect. And I'm sorry, but as you can directly download these apps in Google Play, there isn't any link for these Google apps listed below.
@@ -107,8 +105,19 @@ As the father of Material You, Google is changing its applications to Material D
 	- Files by Google
 	- Compose Material Catalog
 	- Accessibility Kit (Voice Enhancer, Swich Control, Talkback, Voice Access)
+---
 ### OEM ROMs
-As I know, **Moto MYUI**, **crDroid**, **NothingOS**, **OneUI**, **ASUS Zenui** has applied Material You to their most system apps. You can find the download link of some of these apps in [Nyas1's applist](https://github.com/nyas1/Material-You-app-list/). 
+As I know, 
+
+- **Moto MYUI**
+- **crDroid**
+- **NothingOS**
+- **OneUI**
+- **ASUS Zenui**
+
+has applied Material You to their most system apps. You can find the download link of some of these apps in [Nyas1's applist](https://github.com/nyas1/Material-You-app-list/). 
+
+---
 ### Chat & Social Network
 - **Contact/Dialer/SMS**
 	- [Simple Contacts](https://github.com/SimpleMobileTools/Simple-Contacts) **`Full`**
@@ -154,6 +163,7 @@ As I know, **Moto MYUI**, **crDroid**, **NothingOS**, **OneUI**, **ASUS Zenui** 
 	- [Stack for Stack Overflow](https://play.google.com/store/apps/details?id=me.tylerbwong.stack) **`Full`**
 	- [Blog2App](https://play.google.com/store/apps/details?id=com.boltuix.blogtoapp) **`MD`**
 	- [Hejtter](https://github.com/mateusz-bak/hejtter) **`MD`**
+---
 ### Media
 - **Youtube/YTMusic Clients**
 	- [InnerTune](https://github.com/z-huang/InnerTune) **`MD-` `Monet` `Multi`**
@@ -216,6 +226,7 @@ As I know, **Moto MYUI**, **crDroid**, **NothingOS**, **OneUI**, **ASUS Zenui** 
 - **Others**
 	- [Ambient Music Mod](https://github.com/KieronQuinn/AmbientMusicMod) **`Full` `MOD`**
 	- [Kayin](http://music.ijanz.cn/) **`MD`**
+---
 ### Writing & Drawing
 - **Notes**
 	- [flowte](https://www.coolapk1s.com/feed/42984209) **`Full`**
@@ -276,6 +287,7 @@ As I know, **Moto MYUI**, **crDroid**, **NothingOS**, **OneUI**, **ASUS Zenui** 
 	- [Project & task Management](https://play.google.com/store/apps/details?id=com.eunidev.projectmanagement) **`Full`**
 	- [Drafting](https://play.google.com/store/apps/details?id=sen.drafting) **`MD-` `Monet`**
 	- [Lyricistant](https://github.com/wardellbagby/lyricistant) **`MD-` `Monet` `Multi`**
+---
 ### Photos
 - **Camera**
 	- [Simple Camera](https://github.com/SimpleMobileTools/Simple-Camera) **`Full`**
@@ -296,6 +308,7 @@ As I know, **Moto MYUI**, **crDroid**, **NothingOS**, **OneUI**, **ASUS Zenui** 
 	- [EasyWatermark](https://github.com/rosuH/EasyWatermark) **`Full`**
 	- [EasySticker](https://play.google.com/store/apps/details?id=com.flowbro.easysticker) **`Full`**
 	- [Graphie](https://play.google.com/store/apps/details?id=com.pavelrekun.graphie) **`Full`**
+---
 ### Browser
 - [FOSS Browser](https://github.com/scoute-dich/browser) **`Full` `Multi`**
 - [Stage Browser](https://github.com/thalloerupt/stage2) **`Full` `Multi`**
@@ -305,6 +318,7 @@ As I know, **Moto MYUI**, **crDroid**, **NothingOS**, **OneUI**, **ASUS Zenui** 
 - [Thor](https://gitlab.com/remmer.wilts/thor) **`MD-` `Multi`**
 - [Bromite](https://github.com/bromite/bromite) **`Full` `Multi`**
 - [Styx](https://github.com/jamal2362/Styx) **`Full` `Multi`**
+---
 ### Readers
 - **Novels**
 	- [Ranobe](https://github.com/ranobe-org/ranobe) **`Full`**
@@ -339,6 +353,7 @@ As I know, **Moto MYUI**, **crDroid**, **NothingOS**, **OneUI**, **ASUS Zenui** 
 	- [Hentoid](https://github.com/h6rd/Hentoid-Material-You) **`MD-` `Monet`**
 	- [CopyManga](https://github.com/shizheng233/PicacgMaterial3/stargazers) **`Full`**
 	- [HACG](https://github.com/shizheng233/HACG) **`Full`**
+---
 ### Daily Life
 - **Wallets/Billing**
 	- [Xiaoxing Billing](https://www.coolapk.com/apk/com.cxincx.xxjz) **`MD`**
@@ -422,6 +437,7 @@ As I know, **Moto MYUI**, **crDroid**, **NothingOS**, **OneUI**, **ASUS Zenui** 
    	- [openHAB](https://github.com/openhab/openhab-android) / [LogViewer for openHAB-App](https://github.com/cyb3rko/logviewer-for-openhab-app) **`Full`**
    	- [Lis10](https://play.google.com/store/apps/details?id=com.urbandroid.lis10) **`Full`**
    	- [Universal Remote for Smart TVs](https://play.google.com/store/apps/details?id=com.quanticapps.universalremote) **`Full` `Multi`**
+---
 ### Theming
 - **Launcher**    
    	- [Niagara Launcher](https://play.google.com/store/apps/details?id=bitpit.launcher) **`Full` `Multi`**    
@@ -516,6 +532,7 @@ As I know, **Moto MYUI**, **crDroid**, **NothingOS**, **OneUI**, **ASUS Zenui** 
    	- [Telegram Monet](https://github.com/c3r5b8/Telegram-Monet) **`Full`**    
    	- [ComboSkin for 4PDA forum app](https://github.com/PycmShoma/4PDA-ComboSkin-MaterialYou) **`Monet`**    
    	- [Theme Engine](https://github.com/prathameshmm02/ThemeEngine) **`Full`**
+---
 ### System Tools
 - **File Browser**
    	- [Material Files](https://github.com/zhanghai/MaterialFiles) **`Full` `Multi`**
@@ -633,6 +650,7 @@ As I know, **Moto MYUI**, **crDroid**, **NothingOS**, **OneUI**, **ASUS Zenui** 
    	- [Screen Refresh Rate](https://appshare.vip/page/app/detail?id=EYQ4sF8tND1rAGWLbHlsCg%3D%3D) **`Full`**    
    	- [Carrier Vanity Name](https://github.com/nullbytepl/CarrierVanityName) **`Full`**    
    	- [LittleProcessy](https://www.coolapk.com/apk/com.absinthe.littleprocessy) **`Full`**    
+---
 ### Tools
 - **Downloader**
    	- [ADM](https://play.google.com/store/apps/details?id=com.dv.adm) **`Monet` `Multi`**    
@@ -758,6 +776,7 @@ As I know, **Moto MYUI**, **crDroid**, **NothingOS**, **OneUI**, **ASUS Zenui** 
    	- [Rays](https://github.com/SkyD666/Rays-Android) **`Full` `Multi`**    
    	- [BilibiliFork](https://github.com/gitofleonardo/BilibiliFork) **`MD`**    
    	- [Pocket Mode](https://play.google.com/store/apps/details?id=com.artemchep.pocketmode) **`Full`**    
+---
 ### Developer Tools
 - **Server**    
    	- [AdGuard Home Manager](https://github.com/JGeek00/adguard-home-manager) **`Full` `Multi`**    
@@ -787,6 +806,7 @@ As I know, **Moto MYUI**, **crDroid**, **NothingOS**, **OneUI**, **ASUS Zenui** 
    	- [IPFS Lite](https://gitlab.com/remmer.wilts/ipfs-lite) **`Full`**    
    	- [Android Studio Tutorials: Kotlin](https://github.com/D4rK7355608/com.d4rk.androidtutorials) **`Full`**    
    	- [Android Studio Tutorials: Java](https://github.com/D4rK7355608/com.d4rk.androidtutorials.java) **`Full`**   
+---
 ### Root/ADB
 - **Manager**   
    	- [Magisk Monet](https://github.com/datnerdguy/Magisk-Monet) **`Full`**    
@@ -841,6 +861,7 @@ As I know, **Moto MYUI**, **crDroid**, **NothingOS**, **OneUI**, **ASUS Zenui** 
    	- [Cokotools](https://www.coolapk.com/apk/com.yorick.cokotools) **`Full`**    
    	- [FDE.AI](https://github.com/feravolt/FDE.AI-docs) **`Full` `Multi`**    
    	- [NFC Emulator](https://www.coolapk.com/apk/com.yuanwofei.cardemulator) **`MD-` `Monet`**
+---
 ### Games
 - **Emulator**    
    	- [Skyline](https://skyline-emu.com/) **`Full`**    
@@ -877,11 +898,11 @@ As I know, **Moto MYUI**, **crDroid**, **NothingOS**, **OneUI**, **ASUS Zenui** 
    	- [GuessThatPokemon](https://github.com/NimaKhajehpour/GuessThatPokemon) **`MD-`**    
    	- [ArkToolBox Lite](https://github.com/JamXi233/ArkToolBox-Lite) **`MD`**    
    	- [TR Save Editor](https://www.coolapk.com/apk/top.juruo.terrariasaveconverter) **`Full` `Multi`**
+---
 ### Monet Modules
 - [Monet-All](https://github.com/YangguangZhou/Monet-All)
 - [MIUI Monet Project](https://t.me/MIUIMonetUpdate)
 - [How to make apps support Dymamic Color by yourself](https://www.coolapk1s.com/feed/38873051)
----
 ## Epilogue
 This repository is originated from this [applist](https://chemical-soap-be1.notion.site/Material-You-e6194409c46d44419c70a1c68ca3e278) in Chinese. If you're interested in it, you could follow it!
 
