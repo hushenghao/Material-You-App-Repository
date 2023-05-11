@@ -125,7 +125,7 @@ has applied Material You to their most system apps. You can find the download li
 	- [Simple Dialer](https://github.com/SimpleMobileTools/Simple-Dialer) **`Full`**
 	- [Simple SMS Messenger](https://github.com/SimpleMobileTools/Simple-SMS-Messenger) **`Full`**
 - **Telegram**
-	- [MDgram](https://github.com/MDGramYou/MDGramYou) **`Full` `Multi`**
+	- [MDgram](https://github.com/MDGramYou/MDGramYou) **`MD` `Multi`**
 	- [exteraGram](https://github.com/exteraSquad/exteraGram) **`Full` `Multi`**
 	- [Lilgram](https://github.com/lilchill666/LilGram) **`Full` `Multi`**
 - **Reddit**
