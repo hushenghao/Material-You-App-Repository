@@ -407,6 +407,7 @@ has applied Material You to their most system apps. You can find the download li
 	- [Ahmedabad Metro](https://play.google.com/store/apps/details?id=ahmedabad.gandhinagar.metro.rail.project.info.mega) **`Full` `Multi`**
 	- [Insigno](https://github.com/MindsHub/insigno_frontend) **`MD-` `Monet`**
 	- [Alpi Maps](https://github.com/Akylas/alpimaps) **`MD`**
+	- [OpenStop](https://github.com/OPENER-next/OpenStop) **`MD-`**
 - **Shopping**
 	- [Grocy](https://github.com/patzly/grocy-android) **`Full` `Multi`**
 	- [Shopin](https://github.com/erdemklync/Shopin) **`MD`**
@@ -781,9 +782,11 @@ has applied Material You to their most system apps. You can find the download li
 - **Toolbox**    
    	- [Yuanhang Toolbox](https://appshare.vip/page/app/detail?id=0dzBjYDECb8YhfgsEbHU9A) **`Full`**    
    	- [Xiaobu Toolbox](https://www.coolapk1s.com/feed/45145335) **`Full`**    
+- **VPN**
+   	- [Surfboard](https://play.google.com/store/apps/details?id=com.getsurfboard) **`Full` `Multi`**
+   	- [WireGuard](https://git.zx2c4.com/wireguard-android/) **`Full`**
 - **Others**    
-   	- [TSViewer](https://github.com/BlazeCodeDev/TSViewer) **`Full`**   
-   	- [Surfboard](https://play.google.com/store/apps/details?id=com.getsurfboard) **`Full` `Multi`**    
+   	- [TSViewer](https://github.com/BlazeCodeDev/TSViewer) **`Full`**    
    	- [Easter Eggs](https://play.google.com/store/apps/details?id=com.dede.android_eggs) **`Full`**    
    	- [Bubble Level](https://play.google.com/store/apps/details?id=com.codeclickers.bubblelevel) **`MD`**    
    	- [Beta Maniac](https://play.google.com/store/apps/details?id=it.mirko.beta) **`Full`**    
@@ -876,6 +879,7 @@ has applied Material You to their most system apps. You can find the download li
    	- [Cokotools](https://www.coolapk.com/apk/com.yorick.cokotools) **`Full`**    
    	- [FDE.AI](https://github.com/feravolt/FDE.AI-docs) **`Full` `Multi`**    
    	- [NFC Emulator](https://www.coolapk.com/apk/com.yuanwofei.cardemulator) **`MD-` `Monet`**
+   	- [Smart Dock](https://github.com/axel358/smartdock) **`Full`**
 ---
 ### Games
 - **Emulator**    
