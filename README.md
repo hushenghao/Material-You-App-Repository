@@ -207,7 +207,7 @@ has applied Material You to their most system apps. You can find the download li
 	- [MX Player Mod](https://www.coolapk1s.com/feed/44722057) **`Monet` `MOD`**
 	- VideoYouX（Internal testing，[Telegram](https://t.me/VideoYouNotice)）**`Full` `Multi`**
 - **Offline Music Services**
-	- [Retro Music](https://github.com/RetroMusicPlayer/RetroMusicPlayer) / [Metro](https://github.com/MuntashirAkon/Metro) **`Full` `Multi`**
+	- [Retro Music](https://github.com/RetroMusicPlayer/RetroMusicPlayer) / [Metro](https://github.com/MuntashirAkon/Metro) / [ApexMusic](https://github.com/TheTerminatorOfProgramming/ApexMusic) **`Full` `Multi`**
 	- [Vanilla Music](https://play.google.com/store/apps/details?id=com.kyant.vanilla) **`Full` `Multi`**
 	- [Oto Music](https://play.google.com/store/apps/details?id=com.piyush.music) **`Full`**
 	- [Musicmax](https://github.com/MaximillianLeonov/Musicmax) **`Full`**
@@ -219,9 +219,9 @@ has applied Material You to their most system apps. You can find the download li
 	- [Simple Music Player](https://github.com/SimpleMobileTools/Simple-Music-Player) **`Full`**
 	- [Musify](https://github.com/gokadzev/Musify) **`Full`**
 	- [Pixel](https://play.google.com/store/apps/details?id=it.ncaferra.pixelplayerfree) **`Full`**
-[FocusPodcast](https://play.google.com/store/apps/details?id=allen.town.focus.podcast) **`Full` `Multi`**
 - **Podcasts**
 	- [Moon FM](https://play.google.com/store/apps/details?id=fm.moon.app) **`Monet`**
+	- [FocusPodcast](https://play.google.com/store/apps/details?id=allen.town.focus.podcast) **`Full` `Multi`**
 	- [AntennaPod](https://github.com/AntennaPod/AntennaPod)（beta）**`Full`**
 	- [URL Radio](https://github.com/jamal2362/URL-Radio) **`Full`**
 	- [Escapepod](https://codeberg.org/y20k/escapepod) **`Full`**
@@ -249,6 +249,7 @@ has applied Material You to their most system apps. You can find the download li
 	- [Ruppu](https://play.google.com/store/apps/details?id=it.ruppu) **`Full` `Multi`**
 	- [Spooky](https://play.google.com/store/apps/details?id=com.juniorise.spooky) **`Full`**
 	- [Nonsense Notes](https://www.coolapk.com/apk/com.hua.ssnote_coolapk) **`MD`**
+	- [Notes](https://play.google.com/store/apps/details?id=com.redmerah.notes) **`Full`**
 - **Journal**
 	- [Graphite](https://play.google.com/store/apps/details?id=com.syncodec.graphite) **`MD`**
 	- [Durian Journal](https://www.coolapk.com/apk/com.weimu.duriandiary) **`MD`**
@@ -377,6 +378,8 @@ has applied Material You to their most system apps. You can find the download li
 	- [Prepaid Balance](https://github.com/mueller-ma/PrepaidBalance) **`Full`**
 	- [Trust](https://play.google.com/store/apps/details?id=com.wallet.crypto.trustapp) **`MD`**
 	- [Waterfly III](https://apt.izzysoft.de/fdroid/index/apk/com.dreautall.waterflyiii) **`MD`**
+	- [Dujer](https://play.google.com/store/apps/details?id=com.anafthdev.dujer) **`MD`**
+	- [WalletCount](https://github.com/GittyMac/WalletCount) **`Full`**
 - **Virtual Currency**
 	- [PapriCoin](https://github.com/T8RIN/PapriCoin) **`Full`**
 	- [CoinTrend](https://github.com/CoinTrend/CoinTrend) **`MD`**
@@ -445,6 +448,7 @@ has applied Material You to their most system apps. You can find the download li
    	- [School](https://play.google.com/store/apps/details?id=com.dan.school) **`MD`**
    	- [Atomic](https://github.com/JLindemann42/Atomic-Periodic-Table.Android) **`Full`**
    	- [English with Lidia Plus](https://github.com/D4rK7355608/com.d4rk.englishwithlidia.plus) **`Full`**
+   	- [reSentral](https://github.com/JumpyJacko/resentral_flutter) **`MD`**
 - **Others**
    	- [OpenBl](https://github.com/Ounzy/OpenBl) **`Full`**   
    	- [openHAB](https://github.com/openhab/openhab-android) / [LogViewer for openHAB-App](https://github.com/cyb3rko/logviewer-for-openhab-app) **`Full`**
@@ -456,12 +460,13 @@ has applied Material You to their most system apps. You can find the download li
    	- [Niagara Launcher](https://play.google.com/store/apps/details?id=bitpit.launcher) **`Full` `Multi`**    
    	- [Lawnchair](https://t.me/youthkinga/6339) (A13) **`Full` `Multi`**    
    	- [Simple Launcher](https://github.com/SimpleMobileTools/Simple-App-Launcher) **`Full` `Multi`**    
-   	- [Lunar Launcher](https://github.com/iamrasel/lunar-launcher) **`Full` `Multi`**    
+   	- [Lunar Launcher](https://github.com/iamrasel/lunar-launcher) **`Full` `Multi`**
    	- [Pixel Launcher Extended](https://github.com/saitamasahil/Pixel-Launcher-Extended) **`Full` `Multi`**    
    	- [Kvaesitso](https://github.com/MM2-0/Kvaesitso) **`Full` `Multi`**    
    	- [Action Launcher](https://play.google.com/store/apps/details?id=com.actionlauncher.playstore) **`Full` `Multi`**    
    	- [AIO Launcher](https://play.google.com/store/apps/details?id=ru.execbit.aiolauncher) **`Full` `Multi`**    
    	- [Nothing launcher](https://www.apkmirror.com/apk/nothing-technology-limited/nothing-launcher-beta/nothing-launcher-beta-1-0-2-release/) **`Full`**
+   	- [Stario Launcher](https://play.google.com/store/apps/details?id=com.stario.launcher) **`Full` `Multi`**
 - **Wallpapers**    
    	- [Pix Wallpapers](https://play.google.com/store/apps/details?id=com.pashapuma.pix.wallpapers) **`Full`**    
    	- [Swift Walls](https://play.google.com/store/apps/details?id=it.folgore95.mywall) **`Full`**    
@@ -489,6 +494,7 @@ has applied Material You to their most system apps. You can find the download li
    	- [Backdrops](https://play.google.com/store/apps/details?id=com.backdrops.wallpapers) **`MD`**    
    	- [DualWallpaper](https://github.com/Yanndroid/DualWallpaper) **`Monet`**   
    	- [iOSXPC Wallpapers](https://play.google.com/store/apps/details?id=com.iosxpc.wallpapers) **`Full`** 
+   	- [EveryNASA](https://play.google.com/store/apps/details?id=ru.murzify.everynasa) **`MD`**
 - **Icon Pack** 
    	- [Liquor](https://gaopengk.github.io/2022/08/26/%E6%9B%B4%E6%96%B0-Liquor-%E5%9B%BE%E6%A0%87/) **`Full`**
    	- [LawnIcons](https://www.apkmirror.com/apk/lawnchair/lawnicons/lawnicons-2-0-0-release/lawnicons-2-0-0-android-apk-download/) **`Full`**
@@ -637,15 +643,16 @@ has applied Material You to their most system apps. You can find the download li
 - **Cleaner**    
    	- [Qingzhuo](https://www.coolapk.com/apk/com.farplace.qingzhuo) **`MD-` `Monet`**    
    	- [SD Maid SE](https://github.com/d4rken-org/sdmaid-se) **`MD`**    
-   	- [Cleaner Plus](https://github.com/D4rK7355608/com.d4rk.cleaner.plus) **`Full`**    
+   	- [Cleaner Plus](https://github.com/D4rK7355608/com.d4rk.cleaner.plus) **`Full`**
    	- [Cleaner](https://github.com/MaterialCleaner/MaterialCleaner) **`Monet`**    
 - **Logger/Feedback**   
    	- [logfox](https://github.com/F0x1d/LogFox) **`Full`**    
    	- [logra](https://github.com/wingio/Logra) **`Full`**    
    	- [Neo Feed](https://github.com/NeoApplications/Neo-Feed) **`Full`**   
-- **Link Cleaner**   
+- **Link Manager**   
    	- [URLCheck](https://github.com/TrianguloY/UrlChecker) **`MD-` `Monet`**    
    	- [LinkSheet](https://github.com/1fexd/LinkSheet) **`Full`**    
+   	- [My Link Manager](https://play.google.com/store/apps/details?id=com.michaelflisar.linkmanager) **`MD-` `Monet`**
 - **Installer**    
    	- [InstallerX](https://github.com/iamr0s/InstallerX) **`Full` `Multi`**    
    	- [APK Installer](https://wwfb.lanzoue.com/iZRpF0rbj1ba?p) **`Full`**    
@@ -717,7 +724,8 @@ has applied Material You to their most system apps. You can find the download li
    	-  [Barcode Scanner](https://gitlab.com/Atharok/BarcodeScanner) **`Full` `Multi`**    
    	- [Barquode](https://play.google.com/store/apps/details?id=com.pranavpandey.matrix) **`Full` `Multi`**   
    	- [Codora](https://play.google.com/store/apps/details?id=com.kokoschka.michael.qrtools) **`Full` `Multi`**    
-   	- [~~Pixel Scanner~~](https://github.com/jaikeerthick/Pixel-Scanner) **`Full`**    
+   	- [~~Pixel Scanner~~](https://github.com/jaikeerthick/Pixel-Scanner) **`Full`**
+   	- [MyQR](https://github.com/sankethsj/qr-code-generator) **`Full`**
 - **Flashlight**    
    	- [Tiramisu](https://github.com/polodarb/Flashlight-Tiramisu) **`Full`**    
    	- [Flashdim](https://github.com/cyb3rko/flashdim) **`Full`**    
@@ -768,7 +776,8 @@ has applied Material You to their most system apps. You can find the download li
    	- [BotForge](https://github.com/L4TTiCe/BotForge) **`Full`**    
    	- [TalkAI](https://play.google.com/store/apps/details?id=studio.muggle.talkai) **`MD`**    
    	- [ChatBoost](https://play.google.com/store/apps/details?id=studio.muggle.chatboost) **`MD`**    
-   	- [Sense](https://github.com/F0x1d/Sense) **`Full`**    
+   	- [Sense](https://github.com/F0x1d/Sense) **`Full`**  
+   	- [Stable Difusion AI](https://play.google.com/store/apps/details?id=com.shifthackz.aisdv1.app) **`Full`**
 - **AutoClicker**    
    	- [TapTap](https://github.com/KieronQuinn/TapTap) **`Full`**    
    	- [Auto Tasker](https://www.coolapk.com/apk/top.xjunz.tasker) **`MD`**    
@@ -918,6 +927,7 @@ has applied Material You to their most system apps. You can find the download li
    	- [GuessThatPokemon](https://github.com/NimaKhajehpour/GuessThatPokemon) **`MD-`**    
    	- [ArkToolBox Lite](https://github.com/JamXi233/ArkToolBox-Lite) **`MD`**    
    	- [TR Save Editor](https://www.coolapk.com/apk/top.juruo.terrariasaveconverter) **`Full` `Multi`**
+   	- [Harry Potter](https://github.com/BENJAHJP/harrypotter) **`Full`**
 ---
 ### Monet Modules
 - [Monet-All](https://github.com/YangguangZhou/Monet-All)
