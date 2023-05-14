@@ -847,7 +847,7 @@ has applied Material You to their most system apps. You can find the download li
    	- [FoxMMM](https://github.com/Fox2Code/FoxMagiskModuleManager) **`Full`**    
    	- [Kernel Flasher](https://github.com/capntrips/KernelFlasher) **`Monet`**    
 - **Root Defender**    
-   	- [Ruru](https://github.com/byxiaorun/Ruru) /[Applist Detector](https://github.com/Dr-TSNG/ApplistDetector) **`Full`**    
+   	- [Ruru](https://github.com/byxiaorun/Ruru) / [Applist Detector](https://github.com/Dr-TSNG/ApplistDetector) **`Full`**    
 - **Shizuku/Dhizuku/ADB**
    	- [Shizuku](https://github.com/RikkaApps/Shizuku) **`Full` `Multi`**    
    	- [Dhizuku](https://github.com/iamr0s/Dhizuku) **`Full` `Multi`**    
@@ -867,8 +867,7 @@ has applied Material You to their most system apps. You can find the download li
    	- [Thanox](https://play.google.com/store/apps/details?id=github.tornaco.android.thanos.pro) **`Full`**    
    	- [Redirect Storage](https://play.google.com/store/apps/details?id=moe.shizuku.redirectstorage) **`Full`**     
    	- [Hide My Applist](https://github.com/Dr-TSNG/Hide-My-Applist) **`Full`**
-   	- [Miller](https://github.com/UISSD/Miller) **`MD`**    
-   	- [Tomb](https://appshare.vip/page/app/detail?id=HyvgUDaeuABysIy882ueFQ) **`MD`** 
+   	- [Miller](https://github.com/UISSD/Miller) **`MD`**
    	- [HCEFUnlocker](https://github.com/OLIET2357/HCEFUnlocker) **`Full`**    
    	- [ClassicPowerMenu](https://github.com/KieronQuinn/ClassicPowerMenu) **`Full`**
    	- [Tigerinthewall](https://install.appcenter.ms/users/tigerbeanst/apps/rnshareclean/distribution_groups/tigerinthewall_test_build) **`MD`**   
@@ -891,6 +890,7 @@ has applied Material You to their most system apps. You can find the download li
    	- [FDE.AI](https://github.com/feravolt/FDE.AI-docs) **`Full` `Multi`**    
    	- [NFC Emulator](https://www.coolapk.com/apk/com.yuanwofei.cardemulator) **`MD-` `Monet`**
    	- [Smart Dock](https://github.com/axel358/smartdock) **`Full`**
+   	- [Tomb](https://jinnian.lanzouy.com/iTJGC0ovdsjg) **`MD`** 
 ---
 ### Games
 - **Emulator**    
