@@ -811,7 +811,8 @@ has applied Material You to their most system apps. You can find the download li
    	- [Plain](https://github.com/ismartcoding/plain-app) **`Full`**    
    	- [Rays](https://github.com/SkyD666/Rays-Android) **`Full` `Multi`**    
    	- [BilibiliFork](https://github.com/gitofleonardo/BilibiliFork) **`MD`**    
-   	- [Pocket Mode](https://play.google.com/store/apps/details?id=com.artemchep.pocketmode) **`Full`**    
+   	- [Pocket Mode](https://play.google.com/store/apps/details?id=com.artemchep.pocketmode) **`Full`**
+   	- [FontCreator](https://github.com/123Duo3/FontConverter) **`Full`**
 ---
 ### Developer Tools
 - **Server**    
@@ -877,7 +878,8 @@ has applied Material You to their most system apps. You can find the download li
    	- [HCEFUnlocker](https://github.com/OLIET2357/HCEFUnlocker) **`Full`**    
    	- [ClassicPowerMenu](https://github.com/KieronQuinn/ClassicPowerMenu) **`Full`**
    	- [Tigerinthewall](https://install.appcenter.ms/users/tigerbeanst/apps/rnshareclean/distribution_groups/tigerinthewall_test_build) **`MD`**   
-   	- [QDReaderHook](https://github.com/xihan123/QDReadHook) **`Full`**    
+   	- [QDReaderHook](https://github.com/xihan123/QDReadHook) **`MD`**
+   	- [HXReaderHook](https://github.com/xihan123/HXReadHook) **`MD-`**
    	- [Android Faker](https://github.com/Xposed-Modules-Repo/com.android1500.androidfaker) **`Full`**    
    	- [AOSP Mods](https://github.com/siavash79/AOSPMods) **`Full`**    
    	- [AnyDebug](https://github.com/gitofleonardo/AnyDebug) **`MD`**    
