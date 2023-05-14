@@ -711,7 +711,8 @@ has applied Material You to their most system apps. You can find the download li
    	- [Simple Calculator](https://github.com/SimpleMobileTools/Simple-Calculator) **`Full` `Multi`**    
    	- [Currencies](https://github.com/sal0max/currencies) **`MD-` `Monet` `Multi`**    
    	- [Tip Calculator](https://play.google.com/store/apps/details?id=com.chimbori.milliways) **`Full`**      
-   	- [Cart Calculator](https://github.com/D4rK7355608/com.d4rk.cartcalculator) **`Full`**    
+   	- [Cart Calculator](https://github.com/D4rK7355608/com.d4rk.cartcalculator) **`Full`**
+   	- [Calculator](https://play.google.com/store/apps/details?id=com.redmerah.calculator) **`MD`**
 - **Translator**    
    	- [Translate You](https://github.com/Bnyro/TranslateYou) **`Full`**    
    	- [FunnyTranslation](https://github.com/FunnySaltyFish/FunnyTranslation) **`Full` `Multi`**    
