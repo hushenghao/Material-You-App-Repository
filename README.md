@@ -276,7 +276,7 @@ has applied Material You to their most system apps. You can find the download li
 	- [Noterly](https://play.google.com/store/apps/details?id=uk.co.tdsstudios.noterly) **`Full`**
 	- [TimeTable](https://play.google.com/store/apps/details?id=app.smart.timetable) **`Full`**
 - **Tracking Services**
-	- [MyACG](https://tieba.baidu.com/f?kw=myacg) **`MD`**
+	- [MyACG](https://1drv.ms/u/s!Atk49Scq_BtYhGnlrCISLKe5fG3A?e=BIvlj6) **`MD`**
 	- [Cinexplore](https://play.google.com/store/apps/details?id=com.fidloo.cinexplore) **`Full` `Multi`**
 	- [SeriesGuide](https://github.com/UweTrottmann/SeriesGuide) **`Full`**
 	- [Pano Scrobbler for LastFM](https://github.com/kawaiiDango/pScrobbler) **`Full` `Multi`**
