@@ -222,14 +222,14 @@ has applied Material You to their most system apps. You can find the download li
 - **Podcasts**
 	- [Moon FM](https://play.google.com/store/apps/details?id=fm.moon.app) **`Monet`**
 	- [FocusPodcast](https://play.google.com/store/apps/details?id=allen.town.focus.podcast) **`Full` `Multi`**
-	- [AntennaPod](https://github.com/AntennaPod/AntennaPod)（beta）**`Full`**
+	- [AntennaPod](https://github.com/AntennaPod/AntennaPod) **`Full`**
 	- [URL Radio](https://github.com/jamal2362/URL-Radio) **`Full`**
 	- [Escapepod](https://codeberg.org/y20k/escapepod) **`Full`**
 - **Lives**
 	- [Hotlive](https://github.com/Jackiu1997/hot_live) **`Full`**
 	- [Purelive](https://github.com/Jackiu1997/pure_live/) **`Full` `Multi`**
 	- [Simple Live](https://github.com/xiaoyaocz/dart_simple_live) **`Full`**
-	- [ASeam](https://appshare.vip/page/app/detail?id=7m8A2oUUIJ_V5Xn0AMeQ2Q) **`Full`**
+	- [ASeam](www.aseam.site) **`Full`**
 - **Others**
 	- [Ambient Music Mod](https://github.com/KieronQuinn/AmbientMusicMod) **`Full` `MOD`**
 	- [Kayin](http://music.ijanz.cn/) **`MD`**
@@ -508,7 +508,7 @@ has applied Material You to their most system apps. You can find the download li
    	- [Themed Icons](https://play.google.com/store/apps/details?id=rk.android.app.themedicons) **`MD-` `Monet`**    
    	- [Dynamic Icon Pack](https://play.google.com/store/apps/details?id=iconpack.onsurface.monet) **`Full`**    
    	- [Epik Icon Pack](https://play.google.com/store/apps/details?id=com.lknninex.epik) **`Full`**    
-   	- [Chongyuan Iconpacklite](https://appshare.vip/page/app/detail?id=KycLn1Ghvx5K5HIvvR8Hgg%3D%3D) **`Full`**    
+   	- [Chongyuan Iconpacklite](https://www.coolapk.com/apk/com.re.circle.lite) **`Full`**
    	- [Saga Material You Icons](https://play.google.com/store/apps/details?id=com.lknninex.saga) **`Full`**    
    	- [Epik Material You Icons](https://play.google.com/store/apps/details?id=com.lknninex.epik) **`Full`**    
    	- [You Icon Pack](https://play.google.com/store/apps/details?id=com.jndapp.pastel.material.you.iconpack) **`Full`**    
@@ -596,6 +596,7 @@ has applied Material You to their most system apps. You can find the download li
    	- [Obtainium](https://github.com/ImranR98/Obtainium) **`Full`**
    	- [Apps by GrapheneOS](https://github.com/GrapheneOS/Apps) **`MD-` `Monet`**
    	- [accrescent](https://github.com/accrescent/accrescent) **`Full`**
+   	- [Aurora Store](https://gitlab.com/AuroraOSS/AuroraStore) **`MD-` `Monet`**
 - **Safety & Privacy**
    	- [AirGuard](https://github.com/seemoo-lab/AirGuard) **`MD-` `Monet`** 
    	- [Privacy Dots](https://play.google.com/store/apps/details?id=com.paget96.privacydots) **`Full`**
@@ -867,9 +868,9 @@ has applied Material You to their most system apps. You can find the download li
    	- [Redirect Storage](https://play.google.com/store/apps/details?id=moe.shizuku.redirectstorage) **`Full`**     
    	- [Hide My Applist](https://github.com/Dr-TSNG/Hide-My-Applist) **`Full`**
    	- [Miller](https://github.com/UISSD/Miller) **`MD`**    
-   	- [Tomb](https://appshare.vip/page/app/detail?id=HyvgUDaeuABysIy882ueFQ) **`MD`**    
+   	- [Tomb](https://appshare.vip/page/app/detail?id=HyvgUDaeuABysIy882ueFQ) **`MD`** 
    	- [HCEFUnlocker](https://github.com/OLIET2357/HCEFUnlocker) **`Full`**    
-   	- [ClassicPowerMenu](https://github.com/KieronQuinn/ClassicPowerMenu) **`Full`**    
+   	- [ClassicPowerMenu](https://github.com/KieronQuinn/ClassicPowerMenu) **`Full`**
    	- [Tigerinthewall](https://install.appcenter.ms/users/tigerbeanst/apps/rnshareclean/distribution_groups/tigerinthewall_test_build) **`MD`**   
    	- [QDReaderHook](https://github.com/xihan123/QDReadHook) **`Full`**    
    	- [Android Faker](https://github.com/Xposed-Modules-Repo/com.android1500.androidfaker) **`Full`**    
