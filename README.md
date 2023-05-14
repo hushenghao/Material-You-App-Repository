@@ -672,7 +672,7 @@ has applied Material You to their most system apps. You can find the download li
    	- [Mock My GPS](https://github.com/warren-bank/Android-Mock-Location) **`Monet`**    
    	- [WearOSbox](https://www.coolapk.com/apk/com.flyfishstudio.wearosbox) **`Full`**    
    	- [Mediascanner](https://www.coolapk.com/apk/com.ma.mediascanner) **`MD-`**    
-   	- [Screen Refresh Rate](https://appshare.vip/page/app/detail?id=EYQ4sF8tND1rAGWLbHlsCg%3D%3D) **`Full`**    
+   	- [Screen Refresh Rate](https://1drv.ms/u/s!Atk49Scq_BtYhGa4_8QAcwYhDFgH?e=mRiGAm) **`Full`**    
    	- [Carrier Vanity Name](https://github.com/nullbytepl/CarrierVanityName) **`MD`** 
    	- [LittleProcessy](https://www.coolapk.com/apk/com.absinthe.littleprocessy) **`Full`**    
 ---
@@ -690,7 +690,7 @@ has applied Material You to their most system apps. You can find the download li
 - **Resources Search/NetDisks**   
    	- [Magic Search](https://www.123pan.com/s/izDSVv-0JQWA) **`MD` `Multi`**   
    	- [Hunhepan](https://hunhepan.com/) **`MD`**    
-   	- [lanzoucloud](https://appshare.vip/page/app/detail?id=mHY20WG_GXveN4KJCpOT_Q) **`MD`**    
+   	- [lanzoucloud](https://1drv.ms/u/s!Atk49Scq_BtYhGd4LJN1fJftw-HQ?e=5jznMk) **`MD`**    
    	- [FolderSync](https://play.google.com/store/apps/details?id=dk.tacit.android.foldersync.lite) **`Full` `Multi`**    
    	- [Nextcloud Deck](https://github.com/stefan-niedermann/nextcloud-deck) **`MD`**    
    	- [Nextcloud Talk](https://github.com/nextcloud/talk-android) **`MD`**    
@@ -791,7 +791,7 @@ has applied Material You to their most system apps. You can find the download li
    	- [MIUI Rom](https://t.me/miuiappshare) **`Full`**    
    	- [downmi](https://play.google.com/store/apps/details?id=xyz.izadi.downmi2) **`Full`**    
 - **Toolbox**    
-   	- [Yuanhang Toolbox](https://appshare.vip/page/app/detail?id=0dzBjYDECb8YhfgsEbHU9A) **`Full`**    
+   	- [Voyage Toolbox](https://1drv.ms/u/s!Atk49Scq_BtYhGh4H5XMwB_QVDKK?e=uogimG) **`Full`**    
    	- [Xiaobu Toolbox](https://www.coolapk1s.com/feed/45145335) **`Full`**    
 - **VPN**
    	- [Surfboard](https://play.google.com/store/apps/details?id=com.getsurfboard) **`Full` `Multi`**
