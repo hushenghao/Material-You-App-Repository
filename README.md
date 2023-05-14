@@ -250,6 +250,7 @@ has applied Material You to their most system apps. You can find the download li
 	- [Spooky](https://play.google.com/store/apps/details?id=com.juniorise.spooky) **`Full`**
 	- [Nonsense Notes](https://www.coolapk.com/apk/com.hua.ssnote_coolapk) **`MD`**
 	- [Notes](https://play.google.com/store/apps/details?id=com.redmerah.notes) **`Full`**
+	- [Kubus Tasks](https://play.google.com/store/apps/details?id=com.ms.tasks) **`MD-`**
 - **Journal**
 	- [Graphite](https://play.google.com/store/apps/details?id=com.syncodec.graphite) **`MD`**
 	- [Durian Journal](https://www.coolapk.com/apk/com.weimu.duriandiary) **`MD`**
@@ -622,6 +623,7 @@ has applied Material You to their most system apps. You can find the download li
    	- [Pinned Shortcuts](https://play.google.com/store/apps/details?id=rk.android.app.pinnedshortcuts) **`Full`**
    	- [Root Activity Launcher](https://t.me/misakamaterial/123) **`Full` `Multi`**
    	- [Activity Manager](https://github.com/sdex/ActivityManager) **`MD-`**
+   	- [Shortcuts](https://www.coolapk.com/apk/com.syyf.quickpay) **`Full`**
 - **Backup**
    	- [DataBackup](https://github.com/XayahSuSuSu/Android-DataBackup) **`Full`**
    	- [Neo Backup](https://github.com/NeoApplications/Neo-Backup) **`Full`**
@@ -674,7 +676,8 @@ has applied Material You to their most system apps. You can find the download li
    	- [Mediascanner](https://www.coolapk.com/apk/com.ma.mediascanner) **`MD-`**    
    	- [Screen Refresh Rate](https://1drv.ms/u/s!Atk49Scq_BtYhGa4_8QAcwYhDFgH?e=mRiGAm) **`Full`**    
    	- [Carrier Vanity Name](https://github.com/nullbytepl/CarrierVanityName) **`MD`** 
-   	- [LittleProcessy](https://www.coolapk.com/apk/com.absinthe.littleprocessy) **`Full`**    
+   	- [LittleProcessy](https://www.coolapk.com/apk/com.absinthe.littleprocessy) **`Full`**
+   	- [Sensors](https://play.google.com/store/apps/details?id=com.ms.sensors) **`MD-`**
 ---
 ### Tools
 - **Downloader**
@@ -740,6 +743,8 @@ has applied Material You to their most system apps. You can find the download li
    	- [Workout Timer](https://play.google.com/store/apps/details?id=com.paget96.workouttimer) **`Full`**    
    	- [Cofi](https://github.com/rozPierog/Cofi) **`Full` `Multi`**    
    	- [Floating Timer](https://github.com/tberghuis/FloatingCountdownTimer) **`Full`**   
+   	- [Stopwatch(Wear OS)](https://play.google.com/store/apps/details?id=com.redmerah.stopwatch) **`Full` `Multi`**
+   	- [Stopwatch](https://play.google.com/store/apps/details?id=com.redmerah.stopwatch) **`MD`**
 - **Compass**    
    	- [Compass](https://github.com/Kr0oked/Compass) **`MD-` `Monet`**  
 - **Authenticator**
@@ -918,7 +923,8 @@ has applied Material You to their most system apps. You can find the download li
    	- [Score Counter](https://github.com/hegocre/ScoreCounter) **`Full`**    
    	- [Counter](https://play.google.com/store/apps/details?id=rahmouni.neil.counters) **`Full`**    
    	- [Tabletop Tools](https://github.com/mueller-ma/TabletopTools) **`Full`**    
-   	- [Saku](https://play.google.com/store/apps/details?id=com.anafthdev.saku) **`Full`**    
+   	- [Saku](https://play.google.com/store/apps/details?id=com.anafthdev.saku) **`Full`**
+   	- [Randomizer](https://play.google.com/store/apps/details?id=com.redmerah.randomizer) **`MD`**
 - **Others**  
    	- [Jetisteam](https://github.com/iTaysonLab/jetisteam) **`Full`**    
    	- [Boat_H2O2 Pro](https://github.com/NaCln4c1/Boat_H2O2) **`MD-`**    
