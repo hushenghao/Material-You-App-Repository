@@ -278,6 +278,7 @@ has applied Material You to their most system apps. You can find the download li
 	- [Doable](https://codeberg.org/florian-obernberger/flutter-doable) **`Full` `Multi`**
 	- [Noterly](https://play.google.com/store/apps/details?id=uk.co.tdsstudios.noterly) **`Full`**
 	- [TimeTable](https://play.google.com/store/apps/details?id=app.smart.timetable) **`Full`**
+	- [Engross](https://play.google.com/store/apps/details?id=com.engross) **`MD-`**
 - **Tracking Services**
 	- [MyACG](https://1drv.ms/u/s!Atk49Scq_BtYhGnlrCISLKe5fG3A?e=BIvlj6) **`MD`**
 	- [Cinexplore](https://play.google.com/store/apps/details?id=com.fidloo.cinexplore) **`Full` `Multi`**
