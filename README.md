@@ -384,6 +384,7 @@ has applied Material You to their most system apps. You can find the download li
 	- [Waterfly III](https://apt.izzysoft.de/fdroid/index/apk/com.dreautall.waterflyiii) **`MD`**
 	- [Dujer](https://play.google.com/store/apps/details?id=com.anafthdev.dujer) **`MD`**
 	- [WalletCount](https://github.com/GittyMac/WalletCount) **`Full`**
+	- [iviki](https://play.google.com/store/apps/details?id=com.xinran.iviki) **`Full`**
 - **Virtual Currency**
 	- [PapriCoin](https://github.com/T8RIN/PapriCoin) **`Full`**
 	- [CoinTrend](https://github.com/CoinTrend/CoinTrend) **`MD`**
