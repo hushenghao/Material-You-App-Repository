@@ -837,7 +837,7 @@ has applied Material You to their most system apps. You can find the download li
    	- [Rays](https://github.com/SkyD666/Rays-Android) **`Full` `Multi`**    
    	- [BilibiliFork](https://github.com/gitofleonardo/BilibiliFork) **`MD`**    
    	- [Pocket Mode](https://play.google.com/store/apps/details?id=com.artemchep.pocketmode) **`Full`**
-   	- [FontCreator](https://github.com/123Duo3/FontConverter) **`Full`**
+   	- [FontConverter](https://github.com/123Duo3/FontConverter) **`Full` `Multi`**
    	- [Lightmeter](https://github.com/vodemn/m3_lightmeter) **`Full`**
 ---
 ### 🔧Developer Tools
