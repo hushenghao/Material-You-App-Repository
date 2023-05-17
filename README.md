@@ -85,7 +85,19 @@ Additionally, some of the apps are ~~crossed out~~ as I couldn't find their down
 - [Sleep as Android](https://play.google.com/store/apps/details?id=com.urbandroid.sleep) **`Full` `Multi`**
 - [Surfboard](https://play.google.com/store/apps/details?id=com.getsurfboard) **`Full` `Multi`**
 - [Journey](https://play.google.com/store/apps/details?id=com.journey.app) **`MD` `Multi`**
+- [InstallerX](https://github.com/iamr0s/InstallerX) **`Full` `Multi`**
+- [Hail](https://github.com/aistra0528/Hail) **`Full` `Multi`**
 ## 🆕Newly Updated Apps
+- [EasyBangumi](https://easybangumi.org/zh/) **`Full`**
+- [Aware](http://t.me/misakamaterial/199) **`Full` `Multi`**
+- [FongMi TV](https://github.com/FongMi/TV) **`MD`**
+- [Hermit](https://play.google.com/store/apps/details?id=com.chimbori.hermitcrab) **`Full` `Multi`**
+- [Harry Potter](https://github.com/BENJAHJP/harrypotter) **`Full`**
+- [Stable Difusion AI](https://play.google.com/store/apps/details?id=com.shifthackz.aisdv1.app) **`Full`**
+- [Aurora Store](https://gitlab.com/AuroraOSS/AuroraStore) **`MD-` `Monet`**
+- [FontConverter](https://github.com/123Duo3/FontConverter) **`Full` `Multi`**
+- [Lightmeter](https://github.com/vodemn/m3_lightmeter) **`Full`**
+- [iviki](https://play.google.com/store/apps/details?id=com.xinran.iviki) **`Full`**
 ## 📱Applist
 ### 🦖Google Apps
 As the father of Material You, Google is changing its applications to Material Design 3. Most of Google Apps are based on Material Design 3 now, although there may be some imperfect. And I'm sorry, but as you can directly download these apps in Google Play, there isn't any link for these Google apps listed below.
@@ -355,6 +367,7 @@ has applied Material You to their most system apps. You can find the download li
 - [Styx](https://github.com/jamal2362/Styx) **`Full` `Multi`**
 - [Privacy Browser](https://play.google.com/store/apps/details?id=com.stoutner.privacybrowser.standard) **`Monet`**
 - [Vivaldi](https://play.google.com/store/apps/details?id=com.vivaldi.browser)  **`Monet`**
+- [Hermit](https://play.google.com/store/apps/details?id=com.chimbori.hermitcrab) **`Full` `Multi`**
 ---
 ### 📖Readers
 - **Novels**
@@ -363,7 +376,7 @@ has applied Material You to their most system apps. You can find the download li
 	- [LNReader](https://github.com/LNReader/lnreader) **`MD-`**
 	- [TaiwanEbookSearch](https://github.com/YuanLiou/TaiwanEbookSearch) **`Full` `Multi`**
 	- [Myne](https://github.com/Pool-Of-Tears/Myne) **`Full`**
-	- [Academy](https://play.google.com/store/apps/details?id=com.reamicro.academy) **`Full`**
+	- [Readmini](https://play.google.com/store/apps/details?id=com.reamicro.academy) **`Full`**
 	- [Shosetsu](https://gitlab.com/shosetsuorg/shosetsu) **`Full` `Multi`**
 	- [Voice](https://github.com/PaulWoitaschek/Voice) **`Full` `Multi`**
 	- [NovelDokusha](https://github.com/nanihadesuka/NovelDokusha) **`MD`**
