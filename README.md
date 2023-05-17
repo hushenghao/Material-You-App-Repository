@@ -376,6 +376,7 @@ has applied Material You to their most system apps. You can find the download li
 	- [Plenary](https://play.google.com/store/apps/details?id=com.spians.plenary) **`Monet`** **`Multi`**
 	- [Harmonic](https://play.google.com/store/apps/details?id=com.simon.harmonichackernews) **`MD-`**
 	- [Every Daily](https://pann.lanhuang.top/down.php/a3bc25e7e539af77463acea4411c26a1.apk) **`Full`**
+	- [MeRead](https://github.com/gvenusleo/meread) **`Full`**
 - **Comics**
 	- [Tachiyomi](https://github.com/tachiyomiorg/tachiyomi) / [TachiyomiJ2K](https://github.com/Jays2Kings/tachiyomiJ2K) / [TachiyomiSY](https://github.com/Hero-Over/TachiyomiSY) **`Full` `Multi`**
 	- [Kotatsu](https://github.com/KotatsuApp/Kotatsu) **`Full` `Multi`**
