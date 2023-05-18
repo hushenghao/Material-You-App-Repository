@@ -88,7 +88,7 @@ Additionally, some of the apps are ~~crossed out~~ as I couldn't find their down
 - [InstallerX](https://github.com/iamr0s/InstallerX) **`Full` `Multi`**
 - [Hail](https://github.com/aistra0528/Hail) **`Full` `Multi`**
 ## 🆕Newly Updated Apps
-- [EasyBangumi](https://easybangumi.org/zh/) **`Full`**
+- [EasyBangumi](https://easybangumi.org/zh/) **`Full` `Multi`**
 - [Aware](http://t.me/misakamaterial/199) **`Full` `Multi`**
 - [FongMi TV](https://github.com/FongMi/TV) **`MD`**
 - [Hermit](https://play.google.com/store/apps/details?id=com.chimbori.hermitcrab) **`Full` `Multi`**
@@ -233,7 +233,7 @@ has applied Material You to their most system apps. You can find the download li
 	- [Teapod](https://git.mosad.xyz/Seil0/teapod) **`MD-`**
 	- [MPlayer](https://play.google.com/store/apps/details?id=com.mplayer.streamcast) **`MD`**
 	- [CloudStream](https://github.com/recloudstream/cloudstream) **`MD-` `Monet` `Multi`**
-	- [Easybangumi](https://easybangumi.org/zh/) **`Full`**
+	- [Easybangumi](https://easybangumi.org/zh/) **`Full` `Multi`**
 	- [Aware](http://t.me/misakamaterial/199) **`Full` `Multi`**
 	- [FongMi TV](https://github.com/FongMi/TV) **`MD`**
 - **Offline Video Services**
