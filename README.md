@@ -90,14 +90,14 @@ Additionally, some of the apps are ~~crossed out~~ as I couldn't find their down
 ## 🆕Newly Updated Apps
 - [EasyBangumi](https://easybangumi.org/zh/) **`Full` `Multi`**
 - [Aware](http://t.me/misakamaterial/199) **`Full` `Multi`**
+- [FontConverter](https://github.com/123Duo3/FontConverter) **`Full` `Multi`**
+- [iviki](https://play.google.com/store/apps/details?id=com.xinran.iviki) **`Full`**
 - [FongMi TV](https://github.com/FongMi/TV) **`MD`**
 - [Hermit](https://play.google.com/store/apps/details?id=com.chimbori.hermitcrab) **`Full` `Multi`**
-- [Stable Difusion AI](https://play.google.com/store/apps/details?id=com.shifthackz.aisdv1.app) **`Full`**
-- [Aurora Store](https://gitlab.com/AuroraOSS/AuroraStore) **`MD-` `Monet`**
-- [FontConverter](https://github.com/123Duo3/FontConverter) **`Full` `Multi`**
-- [Lightmeter](https://github.com/vodemn/m3_lightmeter) **`Full`**
-- [iviki](https://play.google.com/store/apps/details?id=com.xinran.iviki) **`Full`**
 - [LuckyTool](https://github.com/luckyzyx/LuckyTool) **`MD`**
+- [Stock Wallpapers](https://play.google.com/store/apps/details?id=com.phonewalls.stockwallpapers) **`Full`**
+- WhatsApp Beta **`MD-`**
+- [Stryker](https://github.com/stryker-project/app) **`MD-`**
 ## 📱Applist
 ### 🦖Google Apps
 As the father of Material You, Google is changing its applications to Material Design 3. Most of Google Apps are based on Material Design 3 now, although there may be some imperfect. And I'm sorry, but as you can directly download these apps in Google Play, there isn't any link for these Google apps listed below.
@@ -160,6 +160,7 @@ has applied Material You to their most system apps. You can find the download li
 	- [Connect You](https://github.com/Bnyro/ConnectYou) **`Full`**
 	- [Simple Dialer](https://github.com/SimpleMobileTools/Simple-Dialer) **`Full`**
 	- [Simple SMS Messenger](https://github.com/SimpleMobileTools/Simple-SMS-Messenger) **`Full`**
+	- WhatsApp Beta **`MD-`**
 - **Telegram**
 	- [MDgram](https://github.com/MDGramYou/MDGramYou) **`MD` `Multi`**
 	- [exteraGram](https://github.com/exteraSquad/exteraGram) **`MD-` `Multi`**
@@ -535,6 +536,7 @@ has applied Material You to their most system apps. You can find the download li
    	- [DualWallpaper](https://github.com/Yanndroid/DualWallpaper) **`Monet`**   
    	- [iOSXPC Wallpapers](https://play.google.com/store/apps/details?id=com.iosxpc.wallpapers) **`Full`** 
    	- [EveryNASA](https://play.google.com/store/apps/details?id=ru.murzify.everynasa) **`MD`**
+   	- [Stock Wallpapers](https://play.google.com/store/apps/details?id=com.phonewalls.stockwallpapers) **`Full`**
 - **Icon Pack** 
    	- [Liquor](https://gaopengk.github.io/2022/08/26/%E6%9B%B4%E6%96%B0-Liquor-%E5%9B%BE%E6%A0%87/) **`Full`**
    	- [LawnIcons](https://www.apkmirror.com/apk/lawnchair/lawnicons/lawnicons-2-0-0-release/lawnicons-2-0-0-android-apk-download/) **`Full`**
@@ -869,7 +871,7 @@ has applied Material You to their most system apps. You can find the download li
    	- [Material You Style and Color G](https://play.google.com/store/apps/details?id=io.joshking.materialyoucolorviewer) **`Full`**    
    	- [Material You Colors](https://play.google.com/store/apps/details?id=com.ch3d.material.color) **`Monet`**    
    	- [Material Design 3 Android](https://play.google.com/store/apps/details?id=com.anafthdev.materialdesign3) **`Full`**    
-   	- [Goldex](https://play.google.com/store/apps/details?id=com.goldex) **`Full`**    
+   	- [Goldex](https://play.google.com/store/apps/details?id=com.goldex) **`Full`**
    	- [Compose Material Design 3](https://play.google.com/store/apps/details?id=com.anafthdev.md3compose) **`Full`**    
    	- [Material 3](https://play.google.com/store/apps/details?id=com.boltuix.material3) **`MD`** **`Multi`**    
 - **Others**
@@ -882,7 +884,8 @@ has applied Material You to their most system apps. You can find the download li
    	- [SetEdit](https://github.com/MuntashirAkon/SetEdit) **`Full`**    
    	- [IPFS Lite](https://gitlab.com/remmer.wilts/ipfs-lite) **`Full`**    
    	- [Android Studio Tutorials: Kotlin](https://github.com/D4rK7355608/com.d4rk.androidtutorials) **`Full`**    
-   	- [Android Studio Tutorials: Java](https://github.com/D4rK7355608/com.d4rk.androidtutorials.java) **`Full`**   
+   	- [Android Studio Tutorials: Java](https://github.com/D4rK7355608/com.d4rk.androidtutorials.java) **`Full`**
+   	- [Stryker](https://github.com/stryker-project/app) **`MD-`**
 ---
 ### #️⃣Root/ADB
 - **Manager**   
