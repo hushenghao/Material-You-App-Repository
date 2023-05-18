@@ -92,12 +92,12 @@ Additionally, some of the apps are ~~crossed out~~ as I couldn't find their down
 - [Aware](http://t.me/misakamaterial/199) **`Full` `Multi`**
 - [FongMi TV](https://github.com/FongMi/TV) **`MD`**
 - [Hermit](https://play.google.com/store/apps/details?id=com.chimbori.hermitcrab) **`Full` `Multi`**
-- [Harry Potter](https://github.com/BENJAHJP/harrypotter) **`Full`**
 - [Stable Difusion AI](https://play.google.com/store/apps/details?id=com.shifthackz.aisdv1.app) **`Full`**
 - [Aurora Store](https://gitlab.com/AuroraOSS/AuroraStore) **`MD-` `Monet`**
 - [FontConverter](https://github.com/123Duo3/FontConverter) **`Full` `Multi`**
 - [Lightmeter](https://github.com/vodemn/m3_lightmeter) **`Full`**
 - [iviki](https://play.google.com/store/apps/details?id=com.xinran.iviki) **`Full`**
+- [LuckyTool](https://github.com/luckyzyx/LuckyTool) **`MD`**
 ## 📱Applist
 ### 🦖Google Apps
 As the father of Material You, Google is changing its applications to Material Design 3. Most of Google Apps are based on Material Design 3 now, although there may be some imperfect. And I'm sorry, but as you can directly download these apps in Google Play, there isn't any link for these Google apps listed below.
@@ -929,7 +929,8 @@ has applied Material You to their most system apps. You can find the download li
    	- [ColorOSNotifyIcon](https://github.com/fankes/ColorOSNotifyIcon) **`MD`**    
    	- [TSBattery](https://github.com/fankes/TSBattery) **`MD`**    
    	- [Android Auto XLauncher Unlocked](https://github.com/Rikj000/Android-Auto-XLauncher-Unlocked) **`MD`**    
-   	- [Geergit](https://github.com/Xposed-Modules-Repo/com.pyshivam.geergit) **`Full`**    
+   	- [Geergit](https://github.com/Xposed-Modules-Repo/com.pyshivam.geergit) **`Full`**
+   	- [LuckyTool](https://github.com/luckyzyx/LuckyTool) **`MD`**
 - **Others**  
    	- [Byyoung Toolbox](https://www.coolapk.com/apk/com.byyoung.setting) **`Full`**    
    	- [Blocker](https://github.com/lihenggui/blocker) **`Full` `Multi`**    
