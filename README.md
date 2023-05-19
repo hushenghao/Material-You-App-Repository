@@ -505,6 +505,7 @@ has applied Material You to their most system apps. You can find the download li
    	- [Lis10](https://play.google.com/store/apps/details?id=com.urbandroid.lis10) **`Full`**
    	- [Universal Remote for Smart TVs](https://play.google.com/store/apps/details?id=com.quanticapps.universalremote) **`Full` `Multi`**
    	- [SpaceHub](https://github.com/LPirro/SpaceHub) **`TODO`**
+   	- [Food-E](https://github.com/SuhasDissa/Food-E-App) **`Full`**
 ---
 ### 🖌️Theming
 - **Launcher**    
