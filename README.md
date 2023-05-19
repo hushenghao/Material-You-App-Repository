@@ -934,6 +934,7 @@ has applied Material You to their most system apps. You can find the download li
    	- [Android Auto XLauncher Unlocked](https://github.com/Rikj000/Android-Auto-XLauncher-Unlocked) **`MD`**    
    	- [Geergit](https://github.com/Xposed-Modules-Repo/com.pyshivam.geergit) **`Full`**
    	- [LuckyTool](https://github.com/luckyzyx/LuckyTool) **`MD`**
+   	- [StarVoyager](https://github.com/hosizoraru/StarVoyager) **`Monet`**
 - **Others**  
    	- [Byyoung Toolbox](https://www.coolapk.com/apk/com.byyoung.setting) **`Full`**    
    	- [Blocker](https://github.com/lihenggui/blocker) **`Full` `Multi`**    
