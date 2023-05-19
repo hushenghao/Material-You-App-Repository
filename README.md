@@ -89,7 +89,6 @@ Additionally, some of the apps are ~~crossed out~~ as I couldn't find their down
 - [Hail](https://github.com/aistra0528/Hail) **`Full` `Multi`**
 ## 🆕Newly Updated Apps
 - [EasyBangumi](https://easybangumi.org/zh/) **`Full` `Multi`**
-- [Aware](http://t.me/misakamaterial/199) **`Full` `Multi`**
 - [FontConverter](https://github.com/123Duo3/FontConverter) **`Full` `Multi`**
 - [iviki](https://play.google.com/store/apps/details?id=com.xinran.iviki) **`Full`**
 - [FongMi TV](https://github.com/FongMi/TV) **`MD`**
@@ -98,6 +97,7 @@ Additionally, some of the apps are ~~crossed out~~ as I couldn't find their down
 - [Stock Wallpapers](https://play.google.com/store/apps/details?id=com.phonewalls.stockwallpapers) **`Full`**
 - WhatsApp Beta **`MD-`**
 - [Stryker](https://github.com/stryker-project/app) **`MD-`**
+- [Pho](https://github.com/fregie/pho) **`MD`**
 ## 📱Applist
 ### 🦖Google Apps
 As the father of Material You, Google is changing its applications to Material Design 3. Most of Google Apps are based on Material Design 3 now, although there may be some imperfect. And I'm sorry, but as you can directly download these apps in Google Play, there isn't any link for these Google apps listed below.
@@ -731,13 +731,14 @@ has applied Material You to their most system apps. You can find the download li
    	- [AliucordRN](https://github.com/Aliucord/AliucordRN) **`Full`**    
    	- [Vendetta Manager](https://github.com/vendetta-mod/VendettaManager) **`Full`**    
    	- [BiTGApps](https://bitgapps.io/app) **`Full`**    
-- **Resources Search/NetDisks**   
+- **Resources Search Tool/NetDisks**   
    	- [Magic Search](https://www.123pan.com/s/izDSVv-0JQWA) **`MD` `Multi`**   
    	- [Hunhepan](https://hunhepan.com/) **`MD`**    
    	- [lanzoucloud](https://1drv.ms/u/s!Atk49Scq_BtYhGd4LJN1fJftw-HQ?e=5jznMk) **`MD`**    
    	- [FolderSync](https://play.google.com/store/apps/details?id=dk.tacit.android.foldersync.lite) **`Full` `Multi`**    
    	- [Nextcloud Deck](https://github.com/stefan-niedermann/nextcloud-deck) **`MD`**    
-   	- [Nextcloud Talk](https://github.com/nextcloud/talk-android) **`MD`**    
+   	- [Nextcloud Talk](https://github.com/nextcloud/talk-android) **`MD`**
+   	- [Pho](https://github.com/fregie/pho) **`MD`**
 - **Keyboard**    
    	- [Simple Keyboard](https://github.com/SimpleMobileTools/Simple-Keyboard) **`Full`**    
    	- [Yandex Keyboard](https://play.google.com/store/apps/details?id=ru.yandex.androidkeyboard) **`Monet`**    
