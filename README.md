@@ -29,6 +29,7 @@ However in fact, sometimes Material You refers to the application which (may onl
 - **`Full`** - App that **completely** follows Material Design 3, inclouding completely-used MD3 components and Dynamic Color.
 - **`Multi`** - App that is more friendly for diffent devices, such as pad and fold.
 - **`MOD`** - App that is modified by unoffical teams. Its original app doesn't apply Material You comepletely.
+-  **`TODO`** - App that has no releases yet. You could preview it in its github repository.
 
 Additionally, some of the apps are ~~crossed out~~ as I couldn't find their download link and couldn't experience them.
 
@@ -98,6 +99,11 @@ Additionally, some of the apps are ~~crossed out~~ as I couldn't find their down
 - WhatsApp Beta **`MD-`**
 - [Stryker](https://github.com/stryker-project/app) **`MD-`**
 - [Pho](https://github.com/fregie/pho) **`MD`**
+- [SpaceHub](https://github.com/LPirro/SpaceHub) **`TODO`**
+- [wenku8x](https://github.com/zsakvo/wenku8x) **`TODO`**
+- [Pinapple](https://github.com/galaxygoldfish/pineapple) **`TODO`**
+- [SanaPlus](https://github.com/CakesTwix/SanaPlus) **`TODO`**
+- [notabug](https://github.com/Smooth-E/notabug-mobile) **`TODO`**
 ## 📱Applist
 ### 🦖Google Apps
 As the father of Material You, Google is changing its applications to Material Design 3. Most of Google Apps are based on Material Design 3 now, although there may be some imperfect. And I'm sorry, but as you can directly download these apps in Google Play, there isn't any link for these Google apps listed below.
@@ -169,8 +175,9 @@ has applied Material You to their most system apps. You can find the download li
 	- [Sync for Reddit](https://play.google.com/store/apps/details?id=com.laurencedawson.reddit_sync) **`Full` `Multi`**
 	- [Karma for Reddit](https://play.google.com/store/apps/details?id=com.brianrobles204.karmamachine_flutter) **`Full`**
 **`MD-` `Monet`** 
+	- [Infinity for Reddit](https://github.com/Docile-Alligator/Infinity-For-Reddit) **`MD-` `Monet`** 
 	- [Focus for Reddit](https://play.google.com/store/apps/details?id=allen.town.focus.reddit) **`Full` `Multi`**
-	- [Infinity for Reddit](https://github.com/Docile-Alligator/Infinity-For-Reddit) **`MD-` `Monet`**
+	- [Pinapple](https://github.com/galaxygoldfish/pineapple) **`TODO`**
 - **Discord**
 	- [OpenCord](https://github.com/MateriiApps/OpenCord) **`Full`**
 - **Mastodon**
@@ -382,6 +389,7 @@ has applied Material You to their most system apps. You can find the download li
 	- [Voice](https://github.com/PaulWoitaschek/Voice) **`Full` `Multi`**
 	- [NovelDokusha](https://github.com/nanihadesuka/NovelDokusha) **`MD`**
 	- [Moon+ Reader](https://play.google.com/store/apps/details?id=com.flyersoft.moonreader) **`MD-`** **`Multi`**
+	- [wenku8x](https://github.com/zsakvo/wenku8x) **`TODO`**
 - **RSS/News**
 	- [Read You](https://github.com/Ashinch/ReadYou) **`Full`**
 	- [News](https://github.com/bubelov/news) **`MD-` `Monet`**
@@ -421,6 +429,7 @@ has applied Material You to their most system apps. You can find the download li
 	- [Dujer](https://play.google.com/store/apps/details?id=com.anafthdev.dujer) **`MD`**
 	- [WalletCount](https://github.com/GittyMac/WalletCount) **`Full`**
 	- [iviki](https://play.google.com/store/apps/details?id=com.xinran.iviki) **`Full`**
+	- [SanaPlus](https://github.com/CakesTwix/SanaPlus) **`TODO`**
 - **Virtual Currency**
 	- [PapriCoin](https://github.com/T8RIN/PapriCoin) **`Full`**
 	- [CoinTrend](https://github.com/CoinTrend/CoinTrend) **`MD`**
@@ -495,6 +504,7 @@ has applied Material You to their most system apps. You can find the download li
    	- [openHAB](https://github.com/openhab/openhab-android) / [LogViewer for openHAB-App](https://github.com/cyb3rko/logviewer-for-openhab-app) **`Full`**
    	- [Lis10](https://play.google.com/store/apps/details?id=com.urbandroid.lis10) **`Full`**
    	- [Universal Remote for Smart TVs](https://play.google.com/store/apps/details?id=com.quanticapps.universalremote) **`Full` `Multi`**
+   	- [SpaceHub](https://github.com/LPirro/SpaceHub) **`TODO`**
 ---
 ### 🖌️Theming
 - **Launcher**    
@@ -887,6 +897,7 @@ has applied Material You to their most system apps. You can find the download li
    	- [Android Studio Tutorials: Kotlin](https://github.com/D4rK7355608/com.d4rk.androidtutorials) **`Full`**    
    	- [Android Studio Tutorials: Java](https://github.com/D4rK7355608/com.d4rk.androidtutorials.java) **`Full`**
    	- [Stryker](https://github.com/stryker-project/app) **`MD-`**
+   	- [notabug](https://github.com/Smooth-E/notabug-mobile) **`TODO`**
 ---
 ### #️⃣Root/ADB
 - **Manager**   
