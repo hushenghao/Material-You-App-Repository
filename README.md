@@ -89,9 +89,6 @@ Additionally, some of the apps are ~~crossed out~~ as I couldn't find their down
 - [InstallerX](https://github.com/iamr0s/InstallerX) **`Full` `Multi`**
 - [Hail](https://github.com/aistra0528/Hail) **`Full` `Multi`**
 ## 🆕Newly Updated Apps
-- [FontConverter](https://github.com/123Duo3/FontConverter) **`Full` `Multi`**
-- [FongMi TV](https://github.com/FongMi/TV) **`MD`**
-- [Hermit](https://play.google.com/store/apps/details?id=com.chimbori.hermitcrab) **`Full` `Multi`**
 - [LuckyTool](https://github.com/luckyzyx/LuckyTool) **`MD`**
 - [Stock Wallpapers](https://play.google.com/store/apps/details?id=com.phonewalls.stockwallpapers) **`Full`**
 - WhatsApp Beta **`MD-`**
@@ -104,6 +101,9 @@ Additionally, some of the apps are ~~crossed out~~ as I couldn't find their down
 - [notabug](https://github.com/Smooth-E/notabug-mobile) **`TODO`**
 - [Quacker](https://apt.izzysoft.de/fdroid/index/apk/com.thehcj.quacker) **`MD-`**
 - [Language Selecter](https://github.com/VegaBobo/Language-Selector) **`Full`**
+- [NextPlayer](https://github.com/anilbeesetti/nextplayer) **`Full`**
+- [AppLock](https://github.com/Mufanc/AppLock) **`MD-`**
+- [MiPushService](https://github.com/NihilityT/MiPushFramework) **`MD-`**
 ## 📱Applist
 ### 🦖Google Apps
 As the father of Material You, Google is changing its applications to Material Design 3. Most of Google Apps are based on Material Design 3 now, although there may be some imperfect. And I'm sorry, but as you can directly download these apps in Google Play, there isn't any link for these Google apps listed below.
@@ -250,6 +250,7 @@ has applied Material You to their most system apps. You can find the download li
 	- [MX Player Mod](https://www.coolapk1s.com/feed/44722057) **`Monet` `MOD`**
 	- [VideoYouX](https://github.com/Clearpole/VideoYouX)（Internal testing，[Telegram](https://t.me/VideoYouNotice)）**`Full` `Multi` `TODO`**
 	- [MX Player Mod](https://www.coolapk1s.com/feed/44722057) **`Monet` `MOD`**
+	- [NextPlayer](https://github.com/anilbeesetti/nextplayer) **`Full`**
 - **Offline Music Services**
 	- [Retro Music](https://github.com/RetroMusicPlayer/RetroMusicPlayer) / [Metro](https://github.com/MuntashirAkon/Metro) / [ApexMusic](https://github.com/TheTerminatorOfProgramming/ApexMusic) **`Full` `Multi`**
 	- [Vanilla Music](https://play.google.com/store/apps/details?id=com.kyant.vanilla) **`Full` `Multi`**
@@ -951,6 +952,8 @@ has applied Material You to their most system apps. You can find the download li
    	- [Geergit](https://github.com/Xposed-Modules-Repo/com.pyshivam.geergit) **`Full`**
    	- [LuckyTool](https://github.com/luckyzyx/LuckyTool) **`MD`**
    	- [StarVoyager](https://github.com/hosizoraru/StarVoyager) **`Monet`**
+   	- [AppLock](https://github.com/Mufanc/AppLock) **`MD-`**
+   	- [MiPushService](https://github.com/NihilityT/MiPushFramework) **`MD-`**
 - **Others**  
    	- [Byyoung Toolbox](https://www.coolapk.com/apk/com.byyoung.setting) **`Full`**    
    	- [Blocker](https://github.com/lihenggui/blocker) **`Full` `Multi`**    
