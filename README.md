@@ -91,7 +91,7 @@ Additionally, some of the apps are ~~crossed out~~ as I couldn't find their down
 ## 🆕Newly Updated Apps
 - [LuckyTool](https://github.com/luckyzyx/LuckyTool) **`MD`**
 - [Stock Wallpapers](https://play.google.com/store/apps/details?id=com.phonewalls.stockwallpapers) **`Full`**
-- WhatsApp Beta **`MD-`**
+- Whatsapp Beta **`MD-`**
 - [Stryker](https://github.com/stryker-project/app) **`MD-`**
 - [Pho](https://github.com/fregie/pho) **`MD`**
 - [SpaceHub](https://github.com/LPirro/SpaceHub) **`TODO`**
