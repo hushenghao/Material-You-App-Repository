@@ -248,7 +248,8 @@ has applied Material You to their most system apps. You can find the download li
 - **Offline Video Services**
 	- [VLC Mod](https://t.me/waifupx_official/233) **`Full` `Multi` `MOD`** 
 	- [MX Player Mod](https://www.coolapk1s.com/feed/44722057) **`Monet` `MOD`**
-	- VideoYouX（Internal testing，[Telegram](https://t.me/VideoYouNotice)）**`Full` `Multi`**
+	- [VideoYouX](https://github.com/Clearpole/VideoYouX)（Internal testing，[Telegram](https://t.me/VideoYouNotice)）**`Full` `Multi` `TODO`**
+	- [MX Player Mod](https://www.coolapk1s.com/feed/44722057) **`Monet` `MOD`**
 - **Offline Music Services**
 	- [Retro Music](https://github.com/RetroMusicPlayer/RetroMusicPlayer) / [Metro](https://github.com/MuntashirAkon/Metro) / [ApexMusic](https://github.com/TheTerminatorOfProgramming/ApexMusic) **`Full` `Multi`**
 	- [Vanilla Music](https://play.google.com/store/apps/details?id=com.kyant.vanilla) **`Full` `Multi`**
