@@ -90,7 +90,6 @@ Additionally, some of the apps are ~~crossed out~~ as I couldn't find their down
 - [Hail](https://github.com/aistra0528/Hail) **`Full` `Multi`**
 ## 🆕Newly Updated Apps
 - [FontConverter](https://github.com/123Duo3/FontConverter) **`Full` `Multi`**
-- [iviki](https://play.google.com/store/apps/details?id=com.xinran.iviki) **`Full`**
 - [FongMi TV](https://github.com/FongMi/TV) **`MD`**
 - [Hermit](https://play.google.com/store/apps/details?id=com.chimbori.hermitcrab) **`Full` `Multi`**
 - [LuckyTool](https://github.com/luckyzyx/LuckyTool) **`MD`**
@@ -104,6 +103,7 @@ Additionally, some of the apps are ~~crossed out~~ as I couldn't find their down
 - [SanaPlus](https://github.com/CakesTwix/SanaPlus) **`TODO`**
 - [notabug](https://github.com/Smooth-E/notabug-mobile) **`TODO`**
 - [Quacker](https://apt.izzysoft.de/fdroid/index/apk/com.thehcj.quacker) **`MD-`**
+- [Language Selecter](https://github.com/VegaBobo/Language-Selector) **`Full`**
 ## 📱Applist
 ### 🦖Google Apps
 As the father of Material You, Google is changing its applications to Material Design 3. Most of Google Apps are based on Material Design 3 now, although there may be some imperfect. And I'm sorry, but as you can directly download these apps in Google Play, there isn't any link for these Google apps listed below.
@@ -732,6 +732,7 @@ has applied Material You to their most system apps. You can find the download li
    	- [Carrier Vanity Name](https://github.com/nullbytepl/CarrierVanityName) **`MD`** 
    	- [LittleProcessy](https://www.coolapk.com/apk/com.absinthe.littleprocessy) **`Full`**
    	- [Sensors](https://play.google.com/store/apps/details?id=com.ms.sensors) **`MD-`**
+   	- [Language Selecter](https://github.com/VegaBobo/Language-Selector) **`Full`**
 ---
 ### 🧰Tools
 - **Downloader**
