@@ -104,6 +104,9 @@ Additionally, some of the apps are ~~crossed out~~ as I couldn't find their down
 - [NextPlayer](https://github.com/anilbeesetti/nextplayer) **`Full`**
 - [AppLock](https://github.com/Mufanc/AppLock) **`MD-`**
 - [MiPushService](https://github.com/NihilityT/MiPushFramework) **`MD-`**
+- [Secret Screenshots](https://play.google.com/store/apps/details?id=com.lware.secret_screenshots) **`MD`**
+- [PCR Tool](https://www.coolapk.com/apk/cn.wthee.pcrtool) **`Full` `Multi`**
+- [WA Tweaker](https://watweaker.com/#) **`MD`**
 ## 📱Applist
 ### 🦖Google Apps
 As the father of Material You, Google is changing its applications to Material Design 3. Most of Google Apps are based on Material Design 3 now, although there may be some imperfect. And I'm sorry, but as you can directly download these apps in Google Play, there isn't any link for these Google apps listed below.
@@ -871,6 +874,7 @@ has applied Material You to their most system apps. You can find the download li
    	- [Pocket Mode](https://play.google.com/store/apps/details?id=com.artemchep.pocketmode) **`Full`**
    	- [FontConverter](https://github.com/123Duo3/FontConverter) **`Full` `Multi`**
    	- [Lightmeter](https://github.com/vodemn/m3_lightmeter) **`Full`**
+   	- [Secret Screenshots](https://play.google.com/store/apps/details?id=com.lware.secret_screenshots) **`MD`**
 ---
 ### 🔧Developer Tools
 - **Server**    
@@ -954,6 +958,7 @@ has applied Material You to their most system apps. You can find the download li
    	- [StarVoyager](https://github.com/hosizoraru/StarVoyager) **`Monet`**
    	- [AppLock](https://github.com/Mufanc/AppLock) **`MD-`**
    	- [MiPushService](https://github.com/NihilityT/MiPushFramework) **`MD-`**
+   	- [WA Tweaker](https://watweaker.com/#) **`MD`**
 - **Others**  
    	- [Byyoung Toolbox](https://www.coolapk.com/apk/com.byyoung.setting) **`Full`**    
    	- [Blocker](https://github.com/lihenggui/blocker) **`Full` `Multi`**    
@@ -1002,6 +1007,7 @@ has applied Material You to their most system apps. You can find the download li
    	- [ArkToolBox Lite](https://github.com/JamXi233/ArkToolBox-Lite) **`MD`**    
    	- [TR Save Editor](https://www.coolapk.com/apk/top.juruo.terrariasaveconverter) **`Full` `Multi`**
    	- [Harry Potter](https://github.com/BENJAHJP/harrypotter) **`Full`**
+   	- [PCR Tool](https://www.coolapk.com/apk/cn.wthee.pcrtool) **`Full` `Multi`**
 ---
 ### 🪄Monet Modules
 - [Monet-All](https://github.com/YangguangZhou/Monet-All)
