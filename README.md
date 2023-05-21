@@ -89,10 +89,6 @@ Additionally, some of the apps are ~~crossed out~~ as I couldn't find their down
 - [InstallerX](https://github.com/iamr0s/InstallerX) **`Full` `Multi`**
 - [Hail](https://github.com/aistra0528/Hail) **`Full` `Multi`**
 ## 🆕Newly Updated Apps
-- [Pho](https://github.com/fregie/pho) **`MD`**
-- [SpaceHub](https://github.com/LPirro/SpaceHub) **`TODO`**
-- [wenku8x](https://github.com/zsakvo/wenku8x) **`TODO`**
-- [Pinapple](https://github.com/galaxygoldfish/pineapple) **`TODO`**
 - [SanaPlus](https://github.com/CakesTwix/SanaPlus) **`TODO`**
 - [notabug](https://github.com/Smooth-E/notabug-mobile) **`TODO`**
 - [Quacker](https://apt.izzysoft.de/fdroid/index/apk/com.thehcj.quacker) **`MD-`**
@@ -107,6 +103,7 @@ Additionally, some of the apps are ~~crossed out~~ as I couldn't find their down
 - [NeoGPT](https://play.google.com/store/apps/details?id=com.lware.neogpt) **`MD`**
 - [Momentum Editor](https://play.google.com/store/apps/details?id=com.lware.momentum) **`MD`**
 - [FairBird for Reddit](https://play.google.com/store/apps/details?id=com.niven.reddit) **`Full`**
+- [qBittorrent Manager](https://github.com/Yash-Garg/qBittorrent-Manager) **`MD`**
 ## 📱Applist
 ### 🦖Google Apps
 As the father of Material You, Google is changing its applications to Material Design 3. Most of Google Apps are based on Material Design 3 now, although there may be some imperfect. And I'm sorry, but as you can directly download these apps in Google Play, there isn't any link for these Google apps listed below.
@@ -759,6 +756,7 @@ has applied Material You to their most system apps. You can find the download li
    	- [Nextcloud Deck](https://github.com/stefan-niedermann/nextcloud-deck) **`MD`**    
    	- [Nextcloud Talk](https://github.com/nextcloud/talk-android) **`MD`**
    	- [Pho](https://github.com/fregie/pho) **`MD`**
+   	- [qBittorrent Manager](https://github.com/Yash-Garg/qBittorrent-Manager) **`MD`**
 - **Keyboard**    
    	- [Simple Keyboard](https://github.com/SimpleMobileTools/Simple-Keyboard) **`Full`**    
    	- [Yandex Keyboard](https://play.google.com/store/apps/details?id=ru.yandex.androidkeyboard) **`Monet`**    
