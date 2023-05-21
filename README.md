@@ -68,7 +68,7 @@ Additionally, some of the apps are ~~crossed out~~ as I couldn't find their down
 - [🎮 Games](#games)
 - [🪄 Monet Modules](#monet-modules)
 ## 🏆Recommended
-- [v2compose](https://github.com/cooaer/v2compose) **`Full`**
+- [vvex](https://github.com/guozhigq/flutter_v2ex) **`Full` `Multi`**
 - [FocusPodcast](https://play.google.com/store/apps/details?id=allen.town.focus.podcast) **`Full` `Multi`**
 - [Geometric Weather](https://github.com/WangDaYeeeeee/GeometricWeather) **`Full` `Multi`**
 - [Material Files](https://github.com/zhanghai/MaterialFiles) **`Full` `Multi`**
