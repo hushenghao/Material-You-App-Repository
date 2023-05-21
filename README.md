@@ -89,10 +89,6 @@ Additionally, some of the apps are ~~crossed out~~ as I couldn't find their down
 - [InstallerX](https://github.com/iamr0s/InstallerX) **`Full` `Multi`**
 - [Hail](https://github.com/aistra0528/Hail) **`Full` `Multi`**
 ## 🆕Newly Updated Apps
-- [LuckyTool](https://github.com/luckyzyx/LuckyTool) **`MD`**
-- [Stock Wallpapers](https://play.google.com/store/apps/details?id=com.phonewalls.stockwallpapers) **`Full`**
-- Whatsapp Beta **`MD-`**
-- [Stryker](https://github.com/stryker-project/app) **`MD-`**
 - [Pho](https://github.com/fregie/pho) **`MD`**
 - [SpaceHub](https://github.com/LPirro/SpaceHub) **`TODO`**
 - [wenku8x](https://github.com/zsakvo/wenku8x) **`TODO`**
@@ -107,6 +103,7 @@ Additionally, some of the apps are ~~crossed out~~ as I couldn't find their down
 - [Secret Screenshots](https://play.google.com/store/apps/details?id=com.lware.secret_screenshots) **`MD`**
 - [PCR Tool](https://www.coolapk.com/apk/cn.wthee.pcrtool) **`Full` `Multi`**
 - [WA Tweaker](https://watweaker.com/#) **`MD`**
+- [Drag and Drop Transfer Station Lite](https://gitee.com/Jesse205/DragAndDropTransferStationLite) **`Monet`**
 ## 📱Applist
 ### 🦖Google Apps
 As the father of Material You, Google is changing its applications to Material Design 3. Most of Google Apps are based on Material Design 3 now, although there may be some imperfect. And I'm sorry, but as you can directly download these apps in Google Play, there isn't any link for these Google apps listed below.
@@ -875,6 +872,7 @@ has applied Material You to their most system apps. You can find the download li
    	- [FontConverter](https://github.com/123Duo3/FontConverter) **`Full` `Multi`**
    	- [Lightmeter](https://github.com/vodemn/m3_lightmeter) **`Full`**
    	- [Secret Screenshots](https://play.google.com/store/apps/details?id=com.lware.secret_screenshots) **`MD`**
+   	- [Drag and Drop Transfer Station Lite](https://gitee.com/Jesse205/DragAndDropTransferStationLite) **`Monet`**
 ---
 ### 🔧Developer Tools
 - **Server**    
