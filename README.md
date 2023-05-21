@@ -104,6 +104,9 @@ Additionally, some of the apps are ~~crossed out~~ as I couldn't find their down
 - [PCR Tool](https://www.coolapk.com/apk/cn.wthee.pcrtool) **`Full` `Multi`**
 - [WA Tweaker](https://watweaker.com/#) **`MD`**
 - [Drag and Drop Transfer Station Lite](https://gitee.com/Jesse205/DragAndDropTransferStationLite) **`Monet`**
+- [NeoGPT](https://play.google.com/store/apps/details?id=com.lware.neogpt) **`MD`**
+- [Momentum Editor](https://play.google.com/store/apps/details?id=com.lware.momentum) **`MD`**
+- [FairBird for Reddit](https://play.google.com/store/apps/details?id=com.niven.reddit) **`Full`**
 ## 📱Applist
 ### 🦖Google Apps
 As the father of Material You, Google is changing its applications to Material Design 3. Most of Google Apps are based on Material Design 3 now, although there may be some imperfect. And I'm sorry, but as you can directly download these apps in Google Play, there isn't any link for these Google apps listed below.
@@ -178,6 +181,7 @@ has applied Material You to their most system apps. You can find the download li
 	- [Infinity for Reddit](https://github.com/Docile-Alligator/Infinity-For-Reddit) **`MD-` `Monet`** 
 	- [Focus for Reddit](https://play.google.com/store/apps/details?id=allen.town.focus.reddit) **`Full` `Multi`**
 	- [Pinapple](https://github.com/galaxygoldfish/pineapple) **`TODO`**
+	- [FairBird for Reddit](https://play.google.com/store/apps/details?id=com.niven.reddit) **`Full`**
 - **Discord**
 	- [OpenCord](https://github.com/MateriiApps/OpenCord) **`Full`**
 - **Mastodon**
@@ -365,6 +369,7 @@ has applied Material You to their most system apps. You can find the download li
 	- [EasyWatermark](https://github.com/rosuH/EasyWatermark) **`Full`**
 	- [EasySticker](https://play.google.com/store/apps/details?id=com.flowbro.easysticker) **`Full`**
 	- [Graphie](https://play.google.com/store/apps/details?id=com.pavelrekun.graphie) **`Full`**
+	- [Momentum Editor](https://play.google.com/store/apps/details?id=com.lware.momentum) **`MD`**
 ---
 ### 🌐Browser
 - [FOSS Browser](https://github.com/scoute-dich/browser) **`Full` `Multi`**
@@ -842,6 +847,7 @@ has applied Material You to their most system apps. You can find the download li
    	- [ChatBoost](https://play.google.com/store/apps/details?id=studio.muggle.chatboost) **`MD`**    
    	- [Sense](https://github.com/F0x1d/Sense) **`Full`**  
    	- [Stable Difusion AI](https://play.google.com/store/apps/details?id=com.shifthackz.aisdv1.app) **`Full`**
+   	- [NeoGPT](https://play.google.com/store/apps/details?id=com.lware.neogpt) **`MD`**
 - **AutoClicker**    
    	- [TapTap](https://github.com/KieronQuinn/TapTap) **`Full`**    
    	- [Auto Tasker](https://www.coolapk.com/apk/top.xjunz.tasker) **`MD`**    
