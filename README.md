@@ -104,6 +104,7 @@ Additionally, some of the apps are ~~crossed out~~ as I couldn't find their down
 - [Momentum Editor](https://play.google.com/store/apps/details?id=com.lware.momentum) **`MD`**
 - [FairBird for Reddit](https://play.google.com/store/apps/details?id=com.niven.reddit) **`Full`**
 - [qBittorrent Manager](https://github.com/Yash-Garg/qBittorrent-Manager) **`MD`**
+- [Prayer Times and Qibia](https://play.google.com/store/apps/details?id=com.reworewo.prayertimes) **`Full`**
 ## 📱Applist
 ### 🦖Google Apps
 As the father of Material You, Google is changing its applications to Material Design 3. Most of Google Apps are based on Material Design 3 now, although there may be some imperfect. And I'm sorry, but as you can directly download these apps in Google Play, there isn't any link for these Google apps listed below.
@@ -445,6 +446,7 @@ has applied Material You to their most system apps. You can find the download li
 	- [Mapleaf Calendar](https://www.coolapk.com/apk/me.mapleaf.calendar) **`Full`**
 	- [Simple Calendar](https://github.com/SimpleMobileTools/Simple-Calendar) **`Full`**
 	- [Persian Calendar](https://github.com/persian-calendar/persian-calendar) **`Full` `Multi`**
+	- [Prayer Times and Qibia](https://play.google.com/store/apps/details?id=com.reworewo.prayertimes) **`Full`**
 - **Weather**
 	- [Geometric Weather](https://github.com/WangDaYeeeeee/GeometricWeather) **`Full` `Multi`**
 	- [Maweihao Weather](https://www.coolapk.com/apk/top.maweihao.weather) **`Full`**
