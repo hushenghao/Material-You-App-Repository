@@ -254,7 +254,7 @@ has applied Material You to their most system apps. You can find the download li
 	- [NextPlayer](https://github.com/anilbeesetti/nextplayer) **`Full`**
 - **Offline Music Services**
 	- [Retro Music](https://github.com/RetroMusicPlayer/RetroMusicPlayer) / [Metro](https://github.com/MuntashirAkon/Metro) / [ApexMusic](https://github.com/TheTerminatorOfProgramming/ApexMusic) **`Full` `Multi`**
-	- [Vanilla Music](https://play.google.com/store/apps/details?id=com.kyant.vanilla) **`Full` `Multi`**
+	- [Vanilla Music](https://play.google.com/store/apps/details?id=com.kyant.vanilla) **`Full`**
 	- [Oto Music](https://play.google.com/store/apps/details?id=com.piyush.music) **`Full`**
 	- [Musicmax](https://github.com/MaximillianLeonov/Musicmax) **`Full`**
 	- [Zen Music](https://github.com/pakka-papad/Zen) **`Full`**
