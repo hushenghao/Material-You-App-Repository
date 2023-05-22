@@ -81,7 +81,7 @@ Additionally, some of the apps are ~~crossed out~~ as I couldn't find their down
 - [Oto Music](https://play.google.com/store/apps/details?id=com.piyush.music) **`Full`**
 - [FluffyChat](https://gitlab.com/famedly/fluffychat) **`Full` `Multi`**
 - [Seal](https://github.com/JunkFood02/Seal) **`Full`**
-- [WakeUp Schedule](https://www.coolapk.com/apk/com.suda.yzune.wakeupschedule) **`Full` `Multi`**
+- [WakeUp Scheduler](https://www.coolapk.com/apk/com.suda.yzune.wakeupschedule) **`Full` `Multi`**
 - [School Planner](https://play.google.com/store/apps/details?id=daldev.android.gradehelper) **`Full` `Multi`**
 - [Sleep as Android](https://play.google.com/store/apps/details?id=com.urbandroid.sleep) **`Full` `Multi`**
 - [Surfboard](https://play.google.com/store/apps/details?id=com.getsurfboard) **`Full` `Multi`**
@@ -499,7 +499,7 @@ has applied Material You to their most system apps. You can find the download li
    	- [Quaetor](https://play.google.com/store/apps/details?id=com.cyb3rko.quaetor) **`MD`**
    	- [Der Die Das](https://play.google.com/store/apps/details?id=com.lubosmikusiak.articuli.derdiedas) **`MD-`**
    	- [99 Names Of Allah](https://play.google.com/store/apps/details?id=com.appsforall.ninetyninenamesofallah) **`MD`**
-   	- [WakeUp Schedule](https://www.coolapk.com/apk/com.suda.yzune.wakeupschedule) **`Full` `Multi`**
+   	- [WakeUp Scheduler](https://www.coolapk.com/apk/com.suda.yzune.wakeupschedule) **`Full` `Multi`**
    	- [School](https://play.google.com/store/apps/details?id=com.dan.school) **`MD`**
    	- [Atomic](https://github.com/JLindemann42/Atomic-Periodic-Table.Android) **`Full`**
    	- [English with Lidia Plus](https://github.com/D4rK7355608/com.d4rk.englishwithlidia.plus) **`Full`**
