@@ -89,9 +89,6 @@ Additionally, some of the apps are ~~crossed out~~ as I couldn't find their down
 - [InstallerX](https://github.com/iamr0s/InstallerX) **`Full` `Multi`**
 - [Hail](https://github.com/aistra0528/Hail) **`Full` `Multi`**
 ## 🆕Newly Updated Apps
-- [SanaPlus](https://github.com/CakesTwix/SanaPlus) **`TODO`**
-- [notabug](https://github.com/Smooth-E/notabug-mobile) **`TODO`**
-- [Quacker](https://apt.izzysoft.de/fdroid/index/apk/com.thehcj.quacker) **`MD-`**
 - [Language Selecter](https://github.com/VegaBobo/Language-Selector) **`Full`**
 - [NextPlayer](https://github.com/anilbeesetti/nextplayer) **`Full`**
 - [AppLock](https://github.com/Mufanc/AppLock) **`MD-`**
@@ -105,6 +102,8 @@ Additionally, some of the apps are ~~crossed out~~ as I couldn't find their down
 - [FairBird for Reddit](https://play.google.com/store/apps/details?id=com.niven.reddit) **`Full`**
 - [qBittorrent Manager](https://github.com/Yash-Garg/qBittorrent-Manager) **`MD`**
 - [Prayer Times and Qibia](https://play.google.com/store/apps/details?id=com.reworewo.prayertimes) **`Full`**
+- [zCalc](https://github.com/ziadOUA/zCalc) **`MD-` `Monet`**
+- [zCard](https://github.com/ziadOUA/zCard) **`MD-` `Monet`**
 ## 📱Applist
 ### 🦖Google Apps
 As the father of Material You, Google is changing its applications to Material Design 3. Most of Google Apps are based on Material Design 3 now, although there may be some imperfect. And I'm sorry, but as you can directly download these apps in Google Play, there isn't any link for these Google apps listed below.
@@ -442,6 +441,7 @@ has applied Material You to their most system apps. You can find the download li
 	- [AgoraDesk / LocalMonero](https://github.com/AgoraDesk-LocalMonero/agoradesk-app-foss) **`MD`**
 - **Card Case**
 	- [Catima](https://github.com/CatimaLoyalty/Android) **`MD-` `Monet`**
+	- [zCard](https://github.com/ziadOUA/zCard) **`MD-` `Monet`**
 - **Calendar**
 	- [Mapleaf Calendar](https://www.coolapk.com/apk/me.mapleaf.calendar) **`Full`**
 	- [Simple Calendar](https://github.com/SimpleMobileTools/Simple-Calendar) **`Full`**
@@ -775,6 +775,7 @@ has applied Material You to their most system apps. You can find the download li
    	- [Tip Calculator](https://play.google.com/store/apps/details?id=com.chimbori.milliways) **`Full`**      
    	- [Cart Calculator](https://github.com/D4rK7355608/com.d4rk.cartcalculator) **`Full`**
    	- [Calculator](https://play.google.com/store/apps/details?id=com.redmerah.calculator) **`MD`**
+   	- [zCalc](https://github.com/ziadOUA/zCalc) **`MD-` `Monet`**
 - **Translator**    
    	- [Translate You](https://github.com/Bnyro/TranslateYou) **`Full`**    
    	- [FunnyTranslation](https://github.com/FunnySaltyFish/FunnyTranslation) **`Full` `Multi`**    
