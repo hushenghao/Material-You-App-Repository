@@ -185,6 +185,7 @@ Below I provide links of some ported apps. The links must be incomplete, and wel
 	- [Weather](https://1drv.ms/u/s!Atk49Scq_BtYhHcoe0oAADVVXs3T?e=sGW6zx) **`MD-` `Monet`**
 	- [Calculator](https://1drv.ms/u/s!Atk49Scq_BtYhHTNUhvzOyusNfez?e=c7oGAF) **`Full`**
 	- [Clock](https://1drv.ms/u/s!Atk49Scq_BtYhHa1Y2x5y_QXV539?e=NfiL9e) **`Full`**
+
 And, later I will consider uploading crDroid and other Octavi's apps and list them if these apps could be used in other phones.
 
 ---
