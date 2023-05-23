@@ -47,7 +47,6 @@ Additionally, some of the apps are ~~crossed out~~ as I couldn't find their down
 - Developers who keep using Material You. You have made an indelible contribution to Google's software ecosystem!
 - Telegram Channels: [某不知名杂货铺](https://t.me/youthkinga), [HUC-Projects](https://t.me/anubis_recommended), [WPX Projects](https://t.me/WSTprojects), [Android Reposity](https://t.me/AndroidRepo) and so on.
 - My good friend ZYClark, who is a Material You lover too and his coding ability is perfect!
-- Another friend Azusa, who provides this beautiful picture of my onee sama for me!
 - Friends who make suggestions to me to make this repository more pretty.
 - And **ALL OF YOU WHO LOVE MATERIAL YOU!**
 ## 📜Applist Menu
