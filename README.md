@@ -357,6 +357,7 @@ has applied Material You to their most system apps. You can find the download li
 	- [QuickPic](https://t.me/quickpicmd2021) **`MD-` `Monet` `MOD`**
 	- [Aves](https://github.com/deckerst/aves) **`Monet`**
 	- [MiniGallery](https://github.com/kabirnayeem99/miniGallery) **`Full`**
+	- [Simple Gallery](https://github.com/SimpleMobileTools/Simple-Gallery) **`Full`**
 - **Editor**
 	- [Photo Editor](https://t.me/anubis_recommended/139) **`Monet`** **`MOD`**
 	- [ExifEraser](https://github.com/Tommy-Geenexus/exif-eraser) **`Full`**
