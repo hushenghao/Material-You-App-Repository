@@ -153,11 +153,33 @@ As I know,
 
 - **Moto MYUI**
 - **crDroid**
-- **NothingOS**
+- **Nothing OS**
 - **OneUI**
 - **ASUS Zenui**
+- **Octavi OS**
 
-has applied Material You to their most system apps. You can find the download link of some of these apps in [Nyas1's applist](https://github.com/nyas1/Material-You-app-list/). 
+have applied Material You design or Dynamic Colors to their most system apps. 
+
+Some Native System's system apps may support Material Design 3, but in fact they're Google's apps instead of their own apps, so I won't consider them.
+
+Below I provide links of some ported apps. The links must be incomplete, and welcome to help me to add them!
+
+- **Moto MYUI**
+	- [Gallery](https://www.pling.com/p/1884299/) **`Full`**
+	- [Calendar](https://t.me/DroidRepo/245) **`Full`**
+	- [Dialer](https://www.pling.com/p/1884299/) **`Full`**
+	- [Messager](https://www.pling.com/p/1884299/) **`Full`**
+	- [Recorder](https://www.pling.com/p/1884299/) **`Full`**
+	- [Compass](https://www.pling.com/p/1884299/) **`Full`**
+	- [Clock](https://www.pling.com/p/1884299/) **`Full`**
+	- [Widget](https://www.pling.com/p/1884299/) **`Full`**
+	- [Calculator](https://www.pling.com/p/1884299/) **`Full`**
+- **Nothing OS**  
+	- [Weather](https://t.me/waifupx_official/205) **`MD`**
+- **Octavi OS**
+	- [Dialer](https://www.pling.com/p/1571900) **`Monet`**  
+
+And, later I will consider uploading crDroid and other Octavi's apps and list them if these apps could be used in other phones.
 
 ---
 ### [👥Chat & Social Network](#applist-menu)
