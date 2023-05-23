@@ -177,8 +177,14 @@ Below I provide links of some ported apps. The links must be incomplete, and wel
 - **Nothing OS**  
 	- [Weather](https://t.me/waifupx_official/205) **`MD`**
 - **Octavi OS**
-	- [Dialer](https://www.pling.com/p/1571900) **`Monet`**  
-
+	- [Dialer](https://www.pling.com/p/1571900) **`Monet`**
+- **ASUS Zenui**
+	- [Dialog](https://1drv.ms/u/s!Atk49Scq_BtYhHJ-sF_qVBqCHc4U?e=AhKxxI) **`MD-` `Monet`** (Inaccessible in other systems)
+	- [Contact](https://1drv.ms/u/s!Atk49Scq_BtYhHWgq1cgdMOfOXPR?e=IhKfSs) **`MD-` `Monet`** (Inaccessible in other systems)
+	- [File Explorer](https://1drv.ms/u/s!Atk49Scq_BtYhHhx754A6fZn27Zg?e=RdeWRf) **`Full`**
+	- [Weather](https://1drv.ms/u/s!Atk49Scq_BtYhHcoe0oAADVVXs3T?e=sGW6zx) **`MD-` `Monet`**
+	- [Calculator](https://1drv.ms/u/s!Atk49Scq_BtYhHTNUhvzOyusNfez?e=c7oGAF) **`Full`**
+	- [Clock](https://1drv.ms/u/s!Atk49Scq_BtYhHa1Y2x5y_QXV539?e=NfiL9e) **`Full`**
 And, later I will consider uploading crDroid and other Octavi's apps and list them if these apps could be used in other phones.
 
 ---
@@ -197,7 +203,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
 	- [Sync for Reddit](https://play.google.com/store/apps/details?id=com.laurencedawson.reddit_sync) **`Full` `Multi`**
 	- [Karma for Reddit](https://play.google.com/store/apps/details?id=com.brianrobles204.karmamachine_flutter) **`Full`**
 **`MD-` `Monet`** 
-	- [Infinity for Reddit](https://github.com/Docile-Alligator/Infinity-For-Reddit) **`MD-` `Monet`** 
+	- [Infinity for Reddit](https://github.com/Docile-Alligator/Infinity-For-Reddit) **`MD-` `Monet`**
 	- [Focus for Reddit](https://play.google.com/store/apps/details?id=allen.town.focus.reddit) **`Full` `Multi`**
 	- [Pinapple](https://github.com/galaxygoldfish/pineapple) **`TODO`**
 	- [FairBird for Reddit](https://play.google.com/store/apps/details?id=com.niven.reddit) **`Full`**
