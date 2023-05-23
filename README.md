@@ -1,7 +1,7 @@
 <h1 align="center">Misaka's Material You App Repository</h1>
 
 <p align="center">
-  <img src="https://i.ibb.co/NVVb64b/IMG-20230510-223915-841-1.jpg">
+  <img src="https://i.ibb.co/YTXvX49/Wallpaper3.png">
 </p>
 <p align="center">
   <a href="https://t.me/misakamaterial">
