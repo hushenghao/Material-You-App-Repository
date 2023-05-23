@@ -104,7 +104,8 @@ Additionally, some of the apps are ~~crossed out~~ as I couldn't find their down
 - [zCalc](https://github.com/ziadOUA/zCalc) **`MD-` `Monet`**
 - [zCard](https://github.com/ziadOUA/zCard) **`MD-` `Monet`**
 ## 📱Applist
-### 🦖Google Apps
+**Now you could click the title to return to the applist menu!**
+### 🦖[Google Apps](#applist-menu)
 As the father of Material You, Google is changing its applications to Material Design 3. Most of Google Apps are based on Material Design 3 now, although there may be some imperfect. And I'm sorry, but as you can directly download these apps in Google Play, there isn't any link for these Google apps listed below.
 
 - **Google Apps with Material You**
@@ -147,7 +148,7 @@ As the father of Material You, Google is changing its applications to Material D
 	- Compose Material Catalog
 	- Accessibility Kit (Voice Enhancer, Swich Control, Talkback, Voice Access)
 ---
-### 👨‍💻OEM ROMs
+### 👨‍💻[OEM Apps](#applist-menu)
 As I know, 
 
 - **Moto MYUI**
@@ -159,7 +160,7 @@ As I know,
 has applied Material You to their most system apps. You can find the download link of some of these apps in [Nyas1's applist](https://github.com/nyas1/Material-You-app-list/). 
 
 ---
-### 👥Chat & Social Network
+### [👥Chat & Social Network](#applist-menu)
 - **Contact/Dialer/SMS**
 	- [Simple Contacts](https://github.com/SimpleMobileTools/Simple-Contacts) **`Full`**
 	- [Connect You](https://github.com/Bnyro/ConnectYou) **`Full`**
@@ -210,7 +211,7 @@ has applied Material You to their most system apps. You can find the download li
 	- [Hejtter](https://github.com/mateusz-bak/hejtter) **`MD`**
 	- [Jerboa for Lemmy](https://github.com/dessalines/jerboa) **`Full`**
 ---
-### 🎵Media
+### [🎵Media](#applist-menu)
 - **Youtube/YTMusic Clients**
 	- [InnerTune](https://github.com/z-huang/InnerTune) **`MD-` `Monet` `Multi`**
 	- [LibreTube](https://github.com/libre-tube/LibreTube) **`Full`**
@@ -279,7 +280,7 @@ has applied Material You to their most system apps. You can find the download li
 	- [Ambient Music Mod](https://github.com/KieronQuinn/AmbientMusicMod) **`Full` `MOD`**
 	- [Kayin](http://music.ijanz.cn/) **`MD`**
 ---
-### ✍Writing & Drawing
+### [✍Writing & Drawing](#applist-menu)
 - **Notes**
 	- [flowte](https://www.coolapk1s.com/feed/42984209) **`Full`**
 	- [Saber](https://github.com/adil192/saber) **`Full` `Multi`**
@@ -345,7 +346,7 @@ has applied Material You to their most system apps. You can find the download li
 	- [Drafting](https://play.google.com/store/apps/details?id=sen.drafting) **`MD-` `Monet`**
 	- [Lyricistant](https://github.com/wardellbagby/lyricistant) **`MD-` `Monet` `Multi`**
 ---
-### 🖼️Photos
+### [🖼️Photos](#applist-menu)
 - **Camera**
 	- [Simple Camera](https://github.com/SimpleMobileTools/Simple-Camera) **`Full`**
 	- [Selfie Time Lapse](https://play.google.com/store/apps/details?id=com.isidroid.sfa) **`MD`**
@@ -367,7 +368,7 @@ has applied Material You to their most system apps. You can find the download li
 	- [Graphie](https://play.google.com/store/apps/details?id=com.pavelrekun.graphie) **`Full`**
 	- [Momentum Editor](https://play.google.com/store/apps/details?id=com.lware.momentum) **`MD`**
 ---
-### 🌐Browser
+### [🌐Browser](#applist-menu)
 - [FOSS Browser](https://github.com/scoute-dich/browser) **`Full` `Multi`**
 - [Stage Browser](https://github.com/thalloerupt/stage2) **`Full` `Multi`**
 - [Lemur Browser](https://play.google.com/store/apps/details?id=com.lemurbrowser.exts) **`Full` `Multi`**
@@ -381,7 +382,7 @@ has applied Material You to their most system apps. You can find the download li
 - [Vivaldi](https://play.google.com/store/apps/details?id=com.vivaldi.browser)  **`Monet`**
 - [Hermit](https://play.google.com/store/apps/details?id=com.chimbori.hermitcrab) **`Full` `Multi`**
 ---
-### 📖Readers
+### [📖Readers](#applist-menu)
 - **Novels**
 	- [Ranobe](https://github.com/ranobe-org/ranobe) **`Full`**
 	- [IReader](https://github.com/IReaderorg/IReader) **`MD`**
@@ -418,7 +419,7 @@ has applied Material You to their most system apps. You can find the download li
 	- [CopyManga](https://github.com/shizheng233/PicacgMaterial3/stargazers) **`Full`**
 	- [HACG](https://github.com/shizheng233/HACG) **`Full`**
 ---
-### 🌦️Daily Life
+### [🌦️Daily Life](#applist-menu)
 - **Wallets/Billing**
 	- [Xiaoxing Billing](https://www.coolapk.com/apk/com.cxincx.xxjz) **`MD`**
 	- [Paisa](https://play.google.com/store/apps/details?id=dev.hemanths.paisa) **`Full` `Multi`**
@@ -513,7 +514,7 @@ has applied Material You to their most system apps. You can find the download li
    	- [SpaceHub](https://github.com/LPirro/SpaceHub) **`TODO`**
    	- [Food-E](https://github.com/SuhasDissa/Food-E-App) **`Full`**
 ---
-### 🖌️Theming
+### [🖌️Theming](#applist-menu)
 - **Launcher**    
    	- [Niagara Launcher](https://play.google.com/store/apps/details?id=bitpit.launcher) **`Full` `Multi`**    
    	- [Lawnchair](https://t.me/youthkinga/6339) (A13) **`Full` `Multi`**    
@@ -615,7 +616,7 @@ has applied Material You to their most system apps. You can find the download li
    	- [ComboSkin for 4PDA forum app](https://github.com/PycmShoma/4PDA-ComboSkin-MaterialYou) **`Monet`**    
    	- [Theme Engine](https://github.com/prathameshmm02/ThemeEngine) **`Full`**
 ---
-### ⚙️System Tools
+### [⚙️System Tools](#applist-menu)
 - **File Browser**
    	- [Material Files](https://github.com/zhanghai/MaterialFiles) **`Full` `Multi`**
    	- [Simple File Manager](https://github.com/SimpleMobileTools/Simple-File-Manager) **`Full`**
@@ -738,7 +739,7 @@ has applied Material You to their most system apps. You can find the download li
    	- [Sensors](https://play.google.com/store/apps/details?id=com.ms.sensors) **`MD-`**
    	- [Language Selecter](https://github.com/VegaBobo/Language-Selector) **`Full`**
 ---
-### 🧰Tools
+### [🧰Tools](#applist-menu)
 - **Downloader**
    	- [ADM](https://play.google.com/store/apps/details?id=com.dv.adm) **`Monet` `Multi`**    
    	- [Seal](https://github.com/JunkFood02/Seal) **`Full`**    
@@ -880,7 +881,7 @@ has applied Material You to their most system apps. You can find the download li
    	- [Secret Screenshots](https://play.google.com/store/apps/details?id=com.lware.secret_screenshots) **`MD`**
    	- [Drag and Drop Transfer Station Lite](https://gitee.com/Jesse205/DragAndDropTransferStationLite) **`Monet`**
 ---
-### 🔧Developer Tools
+### [🔧Developer Tools](#applist-menu)
 - **Server**    
    	- [AdGuard Home Manager](https://github.com/JGeek00/adguard-home-manager) **`Full` `Multi`**    
    	- [My Server Status](https://github.com/JGeek00/my-server-status-app) **`Full`**    
@@ -912,7 +913,7 @@ has applied Material You to their most system apps. You can find the download li
    	- [Stryker](https://github.com/stryker-project/app) **`MD-`**
    	- [notabug](https://github.com/Smooth-E/notabug-mobile) **`TODO`**
 ---
-### #️⃣Root/ADB
+### [#️⃣Root/ADB](#applist-menu)
 - **Manager**   
    	- [Magisk Monet](https://github.com/datnerdguy/Magisk-Monet) **`Full`**    
    	- [Magisk Delta](https://github.com/HuskyDG/magisk-files) **`Full`**    
@@ -973,7 +974,7 @@ has applied Material You to their most system apps. You can find the download li
    	- [Smart Dock](https://github.com/axel358/smartdock) **`Full`**
    	- [Tomb](https://jinnian.lanzouy.com/iTJGC0ovdsjg) **`MD`** 
 ---
-### 🎮Games
+### [🎮Games](#applist-menu)
 - **Emulator**    
    	- [Skyline](https://skyline-emu.com/) **`Full`**    
    	- [Lemuroid](https://github.com/Swordfish90/Lemuroid) **`MD-` `Monet`**    
@@ -1013,7 +1014,7 @@ has applied Material You to their most system apps. You can find the download li
    	- [Harry Potter](https://github.com/BENJAHJP/harrypotter) **`Full`**
    	- [PCR Tool](https://www.coolapk.com/apk/cn.wthee.pcrtool) **`Full` `Multi`**
 ---
-### 🪄Monet Modules
+### [🪄Monet Modules](#applist-menu)
 - [Monet-All](https://github.com/YangguangZhou/Monet-All)
 - [MIUI Monet Project](https://t.me/MIUIMonetUpdate)
 - [How to make apps support Dymamic Color by yourself](https://www.coolapk1s.com/feed/38873051)
