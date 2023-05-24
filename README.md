@@ -210,8 +210,6 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
 	- [FairBird for Reddit](https://play.google.com/store/apps/details?id=com.niven.reddit) **`Full`**
 - **Discord**
 	- [OpenCord](https://github.com/MateriiApps/OpenCord) **`Full`**
-- **Mastodon**
-	
 - **Instagram**
 	- [Instander](https://thedise.me/instander/repo/) **`Monet`** **`MOD`**
 	- [Honista](https://t.me/Honistagram) **`Monet` `MOD`**
