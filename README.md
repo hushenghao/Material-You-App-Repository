@@ -88,7 +88,6 @@ Additionally, some of the apps are ~~crossed out~~ as I couldn't find their down
 - [InstallerX](https://github.com/iamr0s/InstallerX) **`Full` `Multi`**
 - [Hail](https://github.com/aistra0528/Hail) **`Full` `Multi`**
 ## 🆕Newly Updated Apps
-- [Secret Screenshots](https://play.google.com/store/apps/details?id=com.lware.secret_screenshots) **`MD`**
 - [PCR Tool](https://www.coolapk.com/apk/cn.wthee.pcrtool) **`Full` `Multi`**
 - [WA Tweaker](https://watweaker.com/#) **`MD`**
 - [Drag and Drop Transfer Station Lite](https://gitee.com/Jesse205/DragAndDropTransferStationLite) **`Monet`**
@@ -103,7 +102,7 @@ Additionally, some of the apps are ~~crossed out~~ as I couldn't find their down
 - [Onstream](https://onstream.to/) **`MD-`**
 - [PixEz](https://github.com/Notsfsssf/pixez-flutter) **`Full`**
 - [GApps Mod](https://github.com/jacopotediosi/GAppsMod) **`Full`**
-- [SmogIsland](https://github.com/123Duo3/XDNMB) **`TODO`**
+- [FogIsland](https://github.com/123Duo3/XDNMB) **`TODO`**
 ## 📱Applist
 **Now you could click the title to return to the applist menu!**
 ### 🦖[Google Apps](#applist-menu)
@@ -212,8 +211,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
 - **Discord**
 	- [OpenCord](https://github.com/MateriiApps/OpenCord) **`Full`**
 - **Mastodon**
-	- [Moshidon](https://github.com/LucasGGamerM/moshidon) **`Full`**
-	- [Megalodon for Mastodon](https://github.com/sk22/megalodon) **`Full`**
+	
 - **Instagram**
 	- [Instander](https://thedise.me/instander/repo/) **`Monet`** **`MOD`**
 	- [Honista](https://t.me/Honistagram) **`Monet` `MOD`**
@@ -222,25 +220,29 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
 	- [~~Albatross for Twitter~~](https://play.google.com/store/apps/details?id=com.nick.mowen.albatross) **`Monet`**
 	- [FocusTwitter](https://play.google.com/store/apps/details?id=allen.town.focus.twitter) **`Full` `Multi`**
 	- [Quacker](https://apt.izzysoft.de/fdroid/index/apk/com.thehcj.quacker) **`MD-`**
-- **Others**
-	- [Kizzy](https://github.com/dead8309/Kizzy) **`Full`**
-	- [Kaiteki](https://github.com/Kaiteki-Fedi/Kaiteki) **`Full` `Multi`**
+- **Other DAO Social Applications (with Mastodon Clients)**
+	- [Moshidon](https://github.com/LucasGGamerM/moshidon) **`Full`**
+	- [Megalodon for Mastodon](https://github.com/sk22/megalodon) **`Full`**
 	- [Nostros](https://github.com/KoalaSat/nostros) **`MD-`**
+	- [Kaiteki](https://github.com/Kaiteki-Fedi/Kaiteki) **`Full` `Multi`**
+	- [Jerboa for Lemmy](https://github.com/dessalines/jerboa) **`Full`**
+	- [Fedilab](https://codeberg.org/tom79/Fedilab) **`MD`**
+	- [Hejtter](https://github.com/mateusz-bak/hejtter) **`MD`**
+- **BBS**
 	- [msea](https://github.com/eternaljust/msea-compose) **`Full`**
 	- [vvex](https://github.com/guozhigq/flutter_v2ex) **`Full` `Multi`**
 	- [v2compose](https://github.com/cooaer/v2compose) **`Full`**
+	- [FogIsland](https://github.com/123Duo3/XDNMB) **`TODO`**
+	- [Stack for Stack Overflow](https://play.google.com/store/apps/details?id=me.tylerbwong.stack) **`Full`**
+- **Others**
+	- [Kizzy](https://github.com/dead8309/Kizzy) **`Full`**
 	- [LiPari](https://github.com/Stamir36/LiPari-Android) **`Full` `Multi`**
 	- [~~E2E Encrypted Chat~~](https://github.com/Project-Based-Learning-IT/e2ee-chat) **`Full`**
-	- [Fedilab](https://codeberg.org/tom79/Fedilab) **`MD`**
 	- [PixelDroid](https://github.com/H-PixelDroid/PixelDroid) **`MD`**
 	- [Staver](https://play.google.com/store/apps/details?id=com.anafthdev.staver) **`MD-` `Monet` `Multi`**
 	- [DankChat](https://github.com/flex3r/DankChat) **`Full`**
 	- [FluffyChat](https://gitlab.com/famedly/fluffychat) **`Full` `Multi`**
-	- [Stack for Stack Overflow](https://play.google.com/store/apps/details?id=me.tylerbwong.stack) **`Full`**
 	- [Blog2App](https://play.google.com/store/apps/details?id=com.boltuix.blogtoapp) **`MD`**
-	- [Hejtter](https://github.com/mateusz-bak/hejtter) **`MD`**
-	- [Jerboa for Lemmy](https://github.com/dessalines/jerboa) **`Full`**
-	- [SmogIsland](https://github.com/123Duo3/XDNMB) **`TODO`**
 ---
 ### [🎵Media](#applist-menu)
 - **Youtube/YTMusic Clients**
