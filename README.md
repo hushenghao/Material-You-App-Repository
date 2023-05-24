@@ -88,10 +88,6 @@ Additionally, some of the apps are ~~crossed out~~ as I couldn't find their down
 - [InstallerX](https://github.com/iamr0s/InstallerX) **`Full` `Multi`**
 - [Hail](https://github.com/aistra0528/Hail) **`Full` `Multi`**
 ## 🆕Newly Updated Apps
-- [Language Selecter](https://github.com/VegaBobo/Language-Selector) **`Full`**
-- [NextPlayer](https://github.com/anilbeesetti/nextplayer) **`Full`**
-- [AppLock](https://github.com/Mufanc/AppLock) **`MD-`**
-- [MiPushService](https://github.com/NihilityT/MiPushFramework) **`MD-`**
 - [Secret Screenshots](https://play.google.com/store/apps/details?id=com.lware.secret_screenshots) **`MD`**
 - [PCR Tool](https://www.coolapk.com/apk/cn.wthee.pcrtool) **`Full` `Multi`**
 - [WA Tweaker](https://watweaker.com/#) **`MD`**
@@ -103,6 +99,10 @@ Additionally, some of the apps are ~~crossed out~~ as I couldn't find their down
 - [Prayer Times and Qibia](https://play.google.com/store/apps/details?id=com.reworewo.prayertimes) **`Full`**
 - [zCalc](https://github.com/ziadOUA/zCalc) **`MD-` `Monet`**
 - [zCard](https://github.com/ziadOUA/zCard) **`MD-` `Monet`**
+- [Habit Builder](https://github.com/ofalvai/HabitBuilder) **`Full`**
+- [Onstream](https://onstream.to/) **`MD-`**
+- [PixEz](https://github.com/Notsfsssf/pixez-flutter) **`Full`**
+- [GApps Mod](https://github.com/jacopotediosi/GAppsMod) **`Full`**
 ## 📱Applist
 **Now you could click the title to return to the applist menu!**
 ### 🦖[Google Apps](#applist-menu)
@@ -275,6 +275,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
 	- [Easybangumi](https://easybangumi.org/zh/) **`Full` `Multi`**
 	- [Aware](http://t.me/misakamaterial/199) **`Full` `Multi`**
 	- [FongMi TV](https://github.com/FongMi/TV) **`MD`**
+	- [Onstream](https://onstream.to/) **`MD-`**
 - **Offline Video Services**
 	- [VLC Mod](https://t.me/waifupx_official/233) **`Full` `Multi` `MOD`** 
 	- [MX Player Mod](https://www.coolapk1s.com/feed/44722057) **`Monet` `MOD`**
@@ -437,6 +438,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
 - **Comics**
 	- [Tachiyomi](https://github.com/tachiyomiorg/tachiyomi) / [TachiyomiJ2K](https://github.com/Jays2Kings/tachiyomiJ2K) / [TachiyomiSY](https://github.com/Hero-Over/TachiyomiSY) **`Full` `Multi`**
 	- [Kotatsu](https://github.com/KotatsuApp/Kotatsu) **`Full` `Multi`**
+	- [PixEz](https://github.com/Notsfsssf/pixez-flutter) **`Full`**
 	- [PixivYou](https://t.me/anubis_recommended/127) **`Full`** 
 	- [SauceNao](https://github.com/LuK1337/SauceNAO) **`Full`**
 	- [Boorusphere](https://github.com/nullxception/boorusphere) **`Full`**
@@ -521,6 +523,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
    	- [Noice](https://github.com/trynoice/android-app) **`Full`**
    	- [Mindroid](https://play.google.com/store/apps/details?id=com.urbandroid.mind) **`MD`**
    	- [Habo](https://github.com/xpavle00/Habo) **`MD`**
+   	- [Habit Builder](https://github.com/ofalvai/HabitBuilder) **`Full`**
 - **Study**
    	- [Graded](https://github.com/NightDreamGames/Graded) **`Full`**
    	- [School Planner](https://play.google.com/store/apps/details?id=daldev.android.gradehelper) **`Full` `Multi`**
@@ -1003,6 +1006,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
    	- [NFC Emulator](https://www.coolapk.com/apk/com.yuanwofei.cardemulator) **`MD-` `Monet`**
    	- [Smart Dock](https://github.com/axel358/smartdock) **`Full`**
    	- [Tomb](https://jinnian.lanzouy.com/iTJGC0ovdsjg) **`MD`** 
+   	- [GApps Mod](https://github.com/jacopotediosi/GAppsMod) **`Full`**
 ---
 ### [🎮Games](#applist-menu)
 - **Emulator**    
