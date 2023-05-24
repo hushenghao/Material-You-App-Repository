@@ -103,6 +103,7 @@ Additionally, some of the apps are ~~crossed out~~ as I couldn't find their down
 - [Onstream](https://onstream.to/) **`MD-`**
 - [PixEz](https://github.com/Notsfsssf/pixez-flutter) **`Full`**
 - [GApps Mod](https://github.com/jacopotediosi/GAppsMod) **`Full`**
+- [SmogIsland](https://github.com/123Duo3/XDNMB) **`TODO`**
 ## 📱Applist
 **Now you could click the title to return to the applist menu!**
 ### 🦖[Google Apps](#applist-menu)
@@ -239,6 +240,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
 	- [Blog2App](https://play.google.com/store/apps/details?id=com.boltuix.blogtoapp) **`MD`**
 	- [Hejtter](https://github.com/mateusz-bak/hejtter) **`MD`**
 	- [Jerboa for Lemmy](https://github.com/dessalines/jerboa) **`Full`**
+	- [SmogIsland](https://github.com/123Duo3/XDNMB) **`TODO`**
 ---
 ### [🎵Media](#applist-menu)
 - **Youtube/YTMusic Clients**
