@@ -275,7 +275,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
 	- [MPlayer](https://play.google.com/store/apps/details?id=com.mplayer.streamcast) **`MD`**
 	- [CloudStream](https://github.com/recloudstream/cloudstream) **`MD-` `Monet` `Multi`**
 	- [Easybangumi](https://easybangumi.org/zh/) **`Full` `Multi`**
-	- [Aware](http://t.me/misakamaterial/199) **`Full` `Multi`**
+	- [Awara](http://t.me/misakamaterial/199) **`Full` `Multi`**
 	- [FongMi TV](https://github.com/FongMi/TV) **`MD`**
 	- [Onstream](https://onstream.to/) **`MD-`**
 - **Offline Video Services**
