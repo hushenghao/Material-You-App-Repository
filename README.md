@@ -106,47 +106,53 @@ Additionally, some of the apps are ~~crossed out~~ as I couldn't find their down
 ## 📱Applist
 **Now you could click the title to return to the applist menu!**
 ### 🦖[Google Apps](#applist-menu)
-As the father of Material You, Google is changing its applications to Material Design 3. Most of Google Apps are based on Material Design 3 now, although there may be some imperfect. And I'm sorry, but as you can directly download these apps in Google Play, there isn't any link for these Google apps listed below.
-
-- **Google Apps with Material You**
-
-	- Google
-	- Google Assistant
-	- Google Message
-	- Google Contacts
-	- Google Phone
-	- Google Translate
-	- Google Gallery
-	- Google Weather (In the future)
-	- Google Pixel Buds
-	- Google Maps
-	- Google Lens
-	- Google Podcasts
-	- Google Fit
-	- Google Meet
-	- Google Chat
-	- Google Family Link
-	- Google Tasks
-	- Google Wallet
-	- Google Calender
-	- Google Clock
-	- Google Calculator
-	- Google Recoder
-	- Google Camera
-	- Google Fi
-	- Google TV
-	- Google Ads
-	- Google News
-	- Google Home (Preview)
-	- Google One Kit (GMail, Keep, Cloud, Doc, Sheet, Slide, Drive)
-	- GPay
-	- Chrome
-	- GBoard
-	- Health Connect
-	- Find My Device
-	- Files by Google
-	- Compose Material Catalog
-	- Accessibility Kit (Voice Enhancer, Swich Control, Talkback, Voice Access)
+As the father of Material You, Google is changing its applications to Material Design 3. Most of Google Apps are based on Material Design 3 now, although there may be some imperfect. Below are Google Apps with Material You nowadays.
+- [Google Clock](https://play.google.com/store/apps/details?id=com.google.android.deskclock) **`Full` `Multi`**
+- [Google Camera](https://play.google.com/store/apps/details?id=com.google.android.GoogleCamera) **`Full` `Multi`**
+- [Google Recorder](https://play.google.com/store/apps/details?id=com.google.android.apps.recorder) **`Full` `Multi`**
+- [Google Calculator](https://play.google.com/store/apps/details?id=com.google.android.calculator) **`Full` `Multi`**
+- [Google Keep](https://play.google.com/store/apps/details?id=com.google.android.keep) **`Full` `Multi`**
+- [Google Home](https://play.google.com/store/apps/details?id=com.google.android.apps.chromecast.app) **`MD-` `Multi`**
+- [Google](https://play.google.com/store/apps/details?id=com.google.android.googlequicksearchbox) **`MD-` `Multi`**
+- [Google Assistant](https://play.google.com/store/apps/details?id=com.google.android.apps.googleassistant) **`Monet`**
+- [Google Phone](https://play.google.com/store/apps/details?id=com.google.android.dialer) **`MD-` `Monet`**
+- [Google Contacts](https://play.google.com/store/apps/details?id=com.google.android.contacts) **`MD-` `Monet`**
+- [Google Message](https://play.google.com/store/apps/details?id=com.google.android.apps.messaging) **`MD-` `Monet` `Multi`**
+- [Google Photos](https://play.google.com/store/apps/details?id=com.google.android.apps.photos) **`MD-` `Monet` `Multi`**
+- [Google Chrome](https://play.google.com/store/apps/details?id=com.android.chrome) **`MD-` `Monet` `Multi`**
+- [Google Maps](https://play.google.com/store/apps/details?id=com.google.android.apps.maps) **`MD-`**
+- [Files by Google](https://play.google.com/store/apps/details?id=com.google.android.apps.nbu.files) **`MD-` `Monet` `Multi`**
+- [Google Podcasts](https://play.google.com/store/apps/details?id=com.google.android.apps.podcasts) **`MD-` `Monet`**
+- [Google Lens](https://play.google.com/store/apps/details?id=com.google.ar.lens) **`MD-` `Monet`**
+- [Google News](https://play.google.com/store/apps/details?id=com.google.android.apps.magazines) **`MD-` `Multi`**
+- [Google Voice](https://play.google.com/store/apps/details?id=com.google.android.apps.googlevoice) **`MD-` `Monet`**
+- [Google Chat](https://play.google.com/store/apps/details?id=com.google.android.apps.dynamite) **`MD-` `Monet`**
+- [Google Meet](https://play.google.com/store/apps/details?id=com.google.android.apps.tachyon) **`MD-` `Monet` `Multi`**
+- [Health Connect](https://play.google.com/store/apps/details?id=com.google.android.apps.healthdata) **`MD-` `Monet`**
+- [Google Calendar](https://play.google.com/store/apps/details?id=com.google.android.calendar) **`MD-` `Monet`**
+- [Google Fi](https://play.google.com/store/apps/details?id=com.google.android.apps.tycho) **`MD-` `Monet`**
+- [Google Family Link](https://play.google.com/store/apps/details?id=com.google.android.apps.kids.familylink) **`Full`**
+- [Google Wallet](https://play.google.com/store/apps/details?id=com.google.android.apps.walletnfcrel) **`MD-` `Monet`**
+- [GPay](https://play.google.com/store/apps/details?id=com.google.android.apps.nbu.paisa.user) **`MD-`**
+- [Google Translate](https://play.google.com/store/apps/details?id=com.google.android.apps.translate) **`MD-` `Monet`**
+- [GBoard](https://play.google.com/store/apps/details?id=com.google.android.inputmethod.latin) **`MD-` `Monet`**
+- [Google TV](https://play.google.com/store/apps/details?id=com.google.android.videos) **`MD-` `Monet` `Multi`**
+- [Google One](https://play.google.com/store/apps/details?id=com.google.android.apps.subscriptions.red) **`MD-` `Monet`**
+- [Google Tasks](https://play.google.com/store/apps/details?id=com.google.android.apps.tasks) **`Full` `Multi`**
+- [Google Docs](https://play.google.com/store/apps/details?id=com.google.android.apps.docs.editors.docs) **`MD-` `Monet`**
+- [Google Slides](https://play.google.com/store/apps/details?id=com.google.android.apps.docs.editors.slides) **`MD-` `Monet`**
+- [Google Sheets](https://play.google.com/store/apps/details?id=com.google.android.apps.docs.editors.sheets) **`MD-` `Monet`**
+- [GMail](https://play.google.com/store/apps/details?id=com.google.android.gm) **`MD-` `Monet` `Multi`**
+- [Google Drive](https://play.google.com/store/apps/details?id=com.google.android.apps.docs) **`MD-` `Monet` `Multi`**
+- [Google Pixel Buds](https://play.google.com/store/apps/details?id=com.google.android.apps.wearables.maestro.companion) **`MD-` `Monet`**
+- [Google Pixel Watch](https://play.google.com/store/apps/details?id=com.google.android.apps.wear.companion) **`MD-` `Monet`**
+- [Reading Mode](https://play.google.com/store/apps/details?id=com.google.android.accessibility.reader) **`MD-` `Monet`**
+- [Voice Access](https://play.google.com/store/apps/details?id=com.google.android.apps.accessibility.voiceaccess) **`MD-` `Monet`**
+- [Switch Access](https://play.google.com/store/apps/details?id=com.google.android.accessibility.switchaccess) **`Full`**
+- [Find My Device](https://play.google.com/store/apps/details?id=com.google.android.apps.adm) **`Full`**
+- [Compose Material Catalog](https://play.google.com/store/apps/details?id=androidx.compose.material.catalog) **`MD`**
+- [Android Device Policy](https://play.google.com/store/apps/details?id=com.google.android.apps.work.clouddpc) **`MD-` `Monet`**
+- [Personal Safety](https://play.google.com/store/apps/details?id=com.google.android.apps.safetyhub) **`MD`**
 ---
 ### 👨‍💻[OEM Apps](#applist-menu)
 As I know, 
