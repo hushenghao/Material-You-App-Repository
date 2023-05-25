@@ -88,9 +88,6 @@ Additionally, some of the apps are ~~crossed out~~ as I couldn't find their down
 - [InstallerX](https://github.com/iamr0s/InstallerX) **`Full` `Multi`**
 - [Hail](https://github.com/aistra0528/Hail) **`Full` `Multi`**
 ## 🆕Newly Updated Apps
-- [PCR Tool](https://www.coolapk.com/apk/cn.wthee.pcrtool) **`Full` `Multi`**
-- [WA Tweaker](https://watweaker.com/#) **`MD`**
-- [Drag and Drop Transfer Station Lite](https://gitee.com/Jesse205/DragAndDropTransferStationLite) **`Monet`**
 - [NeoGPT](https://play.google.com/store/apps/details?id=com.lware.neogpt) **`MD`**
 - [Momentum Editor](https://play.google.com/store/apps/details?id=com.lware.momentum) **`MD`**
 - [FairBird for Reddit](https://play.google.com/store/apps/details?id=com.niven.reddit) **`Full`**
@@ -103,6 +100,9 @@ Additionally, some of the apps are ~~crossed out~~ as I couldn't find their down
 - [PixEz](https://github.com/Notsfsssf/pixez-flutter) **`Full`**
 - [GApps Mod](https://github.com/jacopotediosi/GAppsMod) **`Full`**
 - [FogIsland](https://github.com/123Duo3/XDNMB) **`TODO`**
+- [JustWeather](https://github.com/jjewuz/JustWeather) **`Full` `Multi`**
+- [Windmill](https://www.coolapk.com/apk/com.agyer.windmill) **`Full` `Multi`**
+- [Sevendots Toolbox](https://1drv.ms/u/s!Atk49Scq_BtYhHkWJxcDuAPY25PZ?e=l89paX) **Full**
 ## 📱Applist
 **Now you could click the title to return to the applist menu!**
 ### 🦖[Google Apps](#applist-menu)
@@ -492,6 +492,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
 	- [Rain](https://github.com/DarkMooNight/Rain) **`MD`**
 	- [Textual Weather](https://play.google.com/store/apps/details?id=app.wakirox.rainy) **`Full`**
 	- [Nothing Weather](https://t.me/waifupx_official/205) **`Full` `MOD`**
+	- [JustWeather](https://github.com/jjewuz/JustWeather) **`Full` `Multi`**
 - **Maps/Navigation**
 	- [BTC Map](https://github.com/teambtcmap/btcmap-android) **`MD-`**
 	- [Tridenta](https://github.com/Stypox/tridenta) **`Full`**
@@ -897,7 +898,8 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
    	- [downmi](https://play.google.com/store/apps/details?id=xyz.izadi.downmi2) **`Full`**    
 - **Toolbox**    
    	- [Voyage Toolbox](https://1drv.ms/u/s!Atk49Scq_BtYhGh4H5XMwB_QVDKK?e=uogimG) **`Full`**    
-   	- [Xiaobu Toolbox](https://www.coolapk1s.com/feed/45145335) **`Full`**    
+   	- [Xiaobu Toolbox](https://www.coolapk1s.com/feed/45145335) **`Full`**
+   	- [Sevendots Toolbox](https://1drv.ms/u/s!Atk49Scq_BtYhHkWJxcDuAPY25PZ?e=l89paX) **Full**  
 - **VPN**
    	- [Surfboard](https://play.google.com/store/apps/details?id=com.getsurfboard) **`Full` `Multi`**
    	- [WireGuard](https://git.zx2c4.com/wireguard-android/) **`Full`**
@@ -947,6 +949,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
    	- [Android Studio Tutorials: Java](https://github.com/D4rK7355608/com.d4rk.androidtutorials.java) **`Full`**
    	- [Stryker](https://github.com/stryker-project/app) **`MD-`**
    	- [notabug](https://github.com/Smooth-E/notabug-mobile) **`TODO`**
+   	- [Windmill](https://www.coolapk.com/apk/com.agyer.windmill) **`Full` `Multi`**
 ---
 ### [#️⃣Root/ADB](#applist-menu)
 - **Manager**   
