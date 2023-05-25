@@ -135,7 +135,7 @@ As the father of Material You, Google is changing its applications to Material D
 - [Google Wallet](https://play.google.com/store/apps/details?id=com.google.android.apps.walletnfcrel) **`MD-` `Monet`**
 - [GPay](https://play.google.com/store/apps/details?id=com.google.android.apps.nbu.paisa.user) **`MD-`**
 - [Google Translate](https://play.google.com/store/apps/details?id=com.google.android.apps.translate) **`MD-` `Monet`**
-- [GBoard](https://play.google.com/store/apps/details?id=com.google.android.inputmethod.latin) **`MD-` `Monet`**
+- [GBoard](https://play.google.com/store/apps/details?id=com.google.android.inputmethod.latin) **`Full`**
 - [Google TV](https://play.google.com/store/apps/details?id=com.google.android.videos) **`MD-` `Monet` `Multi`**
 - [Google One](https://play.google.com/store/apps/details?id=com.google.android.apps.subscriptions.red) **`MD-` `Monet`**
 - [Google Tasks](https://play.google.com/store/apps/details?id=com.google.android.apps.tasks) **`Full` `Multi`**
@@ -1062,7 +1062,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
 ### [🪄Monet Modules](#applist-menu)
 - [Monet-All](https://github.com/YangguangZhou/Monet-All)
 - [MIUI Monet Project](https://t.me/MIUIMonetUpdate)
-- [How to make apps support Dymamic Color by yourself](https://www.coolapk1s.com/feed/38873051)
+- [How to make apps support Dynamic Color by yourself](https://www.coolapk1s.com/feed/38873051)
 ## 🫠Epilogue
 This repository is originated from this [applist](https://chemical-soap-be1.notion.site/Material-You-e6194409c46d44419c70a1c68ca3e278) in Chinese. If you're interested in it, you could follow it!
 
