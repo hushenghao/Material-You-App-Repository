@@ -748,7 +748,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
    	- [Qingzhuo](https://www.coolapk.com/apk/com.farplace.qingzhuo) **`MD-` `Monet`**    
    	- [SD Maid SE](https://github.com/d4rken-org/sdmaid-se) **`MD`**    
    	- [Cleaner Plus](https://github.com/D4rK7355608/com.d4rk.cleaner.plus) **`Full`**
-   	- [Cleaner](https://github.com/MaterialCleaner/MaterialCleaner) **`Monet`**    
+   	- [Cleaner](https://github.com/MaterialCleaner/MaterialCleaner) **`Full`**
 - **Logger/Feedback**   
    	- [logfox](https://github.com/F0x1d/LogFox) **`Full`**    
    	- [logra](https://github.com/wingio/Logra) **`Full`**    
