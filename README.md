@@ -87,7 +87,7 @@ Additionally, some of the apps are ~~crossed out~~ as I couldn't find their down
 - [Journey](https://play.google.com/store/apps/details?id=com.journey.app) **`MD` `Multi`**
 - [InstallerX](https://github.com/iamr0s/InstallerX) **`Full` `Multi`**
 - [Hail](https://github.com/aistra0528/Hail) **`Full` `Multi`**
-## 🆕Newly Updated Apps
+## 🆕Newly Added Apps
 - [NeoGPT](https://play.google.com/store/apps/details?id=com.lware.neogpt) **`MD`**
 - [Momentum Editor](https://play.google.com/store/apps/details?id=com.lware.momentum) **`MD`**
 - [FairBird for Reddit](https://play.google.com/store/apps/details?id=com.niven.reddit) **`Full`**
