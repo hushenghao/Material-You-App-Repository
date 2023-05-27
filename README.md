@@ -88,7 +88,6 @@ Additionally, some of the apps are ~~crossed out~~ as I couldn't find their down
 - [InstallerX](https://github.com/iamr0s/InstallerX) **`Full` `Multi`**
 - [Hail](https://github.com/aistra0528/Hail) **`Full` `Multi`**
 ## 🆕Newly Added Apps
-- [FairBird for Reddit](https://play.google.com/store/apps/details?id=com.niven.reddit) **`Full`**
 - [qBittorrent Manager](https://github.com/Yash-Garg/qBittorrent-Manager) **`MD`**
 - [Prayer Times and Qibia](https://play.google.com/store/apps/details?id=com.reworewo.prayertimes) **`Full`**
 - [zCalc](https://github.com/ziadOUA/zCalc) **`MD-` `Monet`**
@@ -103,6 +102,7 @@ Additionally, some of the apps are ~~crossed out~~ as I couldn't find their down
 - [Sevendots Toolbox](https://1drv.ms/u/s!Atk49Scq_BtYhHkWJxcDuAPY25PZ?e=l89paX) **Full**
 - [wenku8reader](https://github.com/15dd/wenku8reader) **`Full`**
 - [Yumesuki](https://github.com/nullxception/yumetsuki) **`TODO`**
+- [CopyMangaX](https://github.com/CrowForKotlin/CopyMangaX) **`MD`**
 ## 📱Applist
 **Now you could click the title to return to the applist menu!**
 ### 🦖[Google Apps](#applist-menu)
@@ -459,6 +459,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
 	- [Hentoid](https://github.com/h6rd/Hentoid-Material-You) **`MD-` `Monet`**
 	- [CopyManga](https://github.com/shizheng233/PicacgMaterial3/stargazers) **`Full`**
 	- [HACG](https://github.com/shizheng233/HACG) **`Full`**
+	- [CopyMangaX](https://github.com/CrowForKotlin/CopyMangaX) **`MD`**
 ---
 ### [🌦️Daily Life](#applist-menu)
 - **Wallets/Billing**
