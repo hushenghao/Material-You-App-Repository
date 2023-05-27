@@ -88,8 +88,6 @@ Additionally, some of the apps are ~~crossed out~~ as I couldn't find their down
 - [InstallerX](https://github.com/iamr0s/InstallerX) **`Full` `Multi`**
 - [Hail](https://github.com/aistra0528/Hail) **`Full` `Multi`**
 ## 🆕Newly Added Apps
-- [NeoGPT](https://play.google.com/store/apps/details?id=com.lware.neogpt) **`MD`**
-- [Momentum Editor](https://play.google.com/store/apps/details?id=com.lware.momentum) **`MD`**
 - [FairBird for Reddit](https://play.google.com/store/apps/details?id=com.niven.reddit) **`Full`**
 - [qBittorrent Manager](https://github.com/Yash-Garg/qBittorrent-Manager) **`MD`**
 - [Prayer Times and Qibia](https://play.google.com/store/apps/details?id=com.reworewo.prayertimes) **`Full`**
@@ -103,6 +101,8 @@ Additionally, some of the apps are ~~crossed out~~ as I couldn't find their down
 - [JustWeather](https://github.com/jjewuz/JustWeather) **`Full` `Multi`**
 - [Windmill](https://www.coolapk.com/apk/com.agyer.windmill) **`Full` `Multi`**
 - [Sevendots Toolbox](https://1drv.ms/u/s!Atk49Scq_BtYhHkWJxcDuAPY25PZ?e=l89paX) **Full**
+- [wenku8reader](https://github.com/15dd/wenku8reader) **`Full`**
+- [Yumesuki](https://github.com/nullxception/yumetsuki) **`TODO`**
 ## 📱Applist
 **Now you could click the title to return to the applist menu!**
 ### 🦖[Google Apps](#applist-menu)
@@ -434,6 +434,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
 	- [NovelDokusha](https://github.com/nanihadesuka/NovelDokusha) **`MD`**
 	- [Moon+ Reader](https://play.google.com/store/apps/details?id=com.flyersoft.moonreader) **`MD-`** **`Multi`**
 	- [wenku8x](https://github.com/zsakvo/wenku8x) **`TODO`**
+	- [wenku8reader](https://github.com/15dd/wenku8reader) **`Full`**
 - **RSS/News**
 	- [Read You](https://github.com/Ashinch/ReadYou) **`Full`**
 	- [News](https://github.com/bubelov/news) **`MD-` `Monet`**
@@ -1058,6 +1059,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
    	- [TR Save Editor](https://www.coolapk.com/apk/top.juruo.terrariasaveconverter) **`Full` `Multi`**
    	- [Harry Potter](https://github.com/BENJAHJP/harrypotter) **`Full`**
    	- [PCR Tool](https://www.coolapk.com/apk/cn.wthee.pcrtool) **`Full` `Multi`**
+   	- [Yumesuki](https://github.com/nullxception/yumetsuki) **`TODO`**
 ---
 ### [🪄Monet Modules](#applist-menu)
 - [Monet-All](https://github.com/YangguangZhou/Monet-All)
