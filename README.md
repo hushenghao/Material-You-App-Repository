@@ -99,7 +99,7 @@ Additionally, some of the apps are ~~crossed out~~ as I couldn't find their down
 - [FogIsland](https://github.com/123Duo3/XDNMB) **`TODO`**
 - [JustWeather](https://github.com/jjewuz/JustWeather) **`Full` `Multi`**
 - [Windmill](https://www.coolapk.com/apk/com.agyer.windmill) **`Full` `Multi`**
-- [Sevendots Toolbox](https://1drv.ms/u/s!Atk49Scq_BtYhHkWJxcDuAPY25PZ?e=l89paX) **Full**
+- [Sevendots Toolbox](https://1drv.ms/u/s!Atk49Scq_BtYhHkWJxcDuAPY25PZ?e=l89paX) **`Full`**
 - [wenku8reader](https://github.com/15dd/wenku8reader) **`Full`**
 - [Yumesuki](https://github.com/nullxception/yumetsuki) **`TODO`**
 - [CopyMangaX](https://github.com/CrowForKotlin/CopyMangaX) **`MD`**
