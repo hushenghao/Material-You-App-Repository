@@ -131,6 +131,7 @@ Additionally, some of the apps are ~~crossed out~~ as I couldn't find their down
 - [Vanced MicroG](https://github.com/cuynu/VancedMicroG) **`Monet`**
 - [Lalitham](https://play.google.com/store/apps/details?id=com.novelijk.lalitham) **`Monet`**
 - [Randomizer (Code Clickers)](https://play.google.com/store/apps/details?id=com.codeclickers.randomizer) **`Full`**
+- [NoyAcg](https://noy.asia/) **`MD-`**
 ## 📱Applist
 **Now you could click the title to return to the applist menu!**
 ### 🦖[Google Apps](#applist-menu)
@@ -495,6 +496,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
 	- [CopyManga](https://github.com/shizheng233/PicacgMaterial3/stargazers) **`Full`**
 	- [HACG](https://github.com/shizheng233/HACG) **`Full`**
 	- [CopyMangaX](https://github.com/CrowForKotlin/CopyMangaX) **`MD`**
+	- [NoyAcg](https://noy.asia/) **`MD-`*
 ---
 ### [🌦️Daily Life](#applist-menu)
 - **Wallets/Billing**
