@@ -806,6 +806,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
    	- [URLCheck](https://github.com/TrianguloY/UrlChecker) **`MD-` `Monet`**    
    	- [LinkSheet](https://github.com/1fexd/LinkSheet) **`Full`**    
    	- [My Link Manager](https://play.google.com/store/apps/details?id=com.michaelflisar.linkmanager) **`MD-` `Monet`**
+   	- [Tarnhelm](https://github.com/Xposed-Modules-Repo/cn.ac.lz233.tarnhelm) **`Full` `Multi`** 
 - **Installer**    
    	- [InstallerX](https://github.com/iamr0s/InstallerX) **`Full` `Multi`**    
    	- [APK Installer](https://wwfb.lanzoue.com/iZRpF0rbj1ba?p) **`Full`**    
@@ -1032,8 +1033,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
    	- [WADBS](https://github.com/Smooth-E/wireless-adb-switch) **`Full`**    
    	- [LSPatch](https://github.com/LSPosed/LSPatch) **`Full` `Multi`**    
 - **Xposed Modules**    
-   	- [SIM Number Setter](https://github.com/KieronQuinn/SIMNumberSetter) **`Full`**    
-   	- [Tarnhelm](https://github.com/Xposed-Modules-Repo/cn.ac.lz233.tarnhelm) **`Full`**    
+   	- [SIM Number Setter](https://github.com/KieronQuinn/SIMNumberSetter) **`Full`** 
    	- [MIFreeForm](https://www.coolapk.com/apk/com.sunshine.freeform) **`MD-` `Monet`**    
    	- [YAMF](https://github.com/duzhaokun123/YAMF) **`Full`**    
    	- [Guise](https://github.com/Houvven/Guise) **`Full`**    
