@@ -118,6 +118,19 @@ Additionally, some of the apps are ~~crossed out~~ as I couldn't find their down
 - [BookMan](https://play.google.com/store/apps/details?id=com.anafthdev.bookman) **`Full`**
 - [Cavedroid](https://play.google.com/store/apps/details?id=com.cyb3rko.cavedroid) **`MD-`**
 - [ACrypto](https://play.google.com/store/apps/details?id=dev.dworks.apps.acrypto) **`MD-` `Monet`**
+- [Nova Launcher](https://novalauncher.com/beta) **`MD-` `Monet` `Multi`**
+- [Simple App Launcher](https://github.com/SimpleMobileTools/Simple-App-Launcher) **`MD-` `Monet` `Multi`**
+- [Mini Car Launcher](https://github.com/jamal2362/Mini-Car-Launcher) **`MD-` `Monet` `Multi`**
+- [Drive Stream](https://github.com/itszechs/DriveStream) **`MD`**
+- [Remote Numpad](https://github.com/theolizard/remote-numpad) **`MD-` `Monet`**
+- [Android12 Weather Widget](https://play.google.com/store/apps/details?id=twelve.weather.mibrahim) **`MD-` `Monet`**
+- [AppErrorsTracking](https://github.com/KitsunePie/AppErrorsTracking) **`MD-`**
+- [Ml Manager](https://play.google.com/store/apps/details?id=com.javiersantos.mlmanager) **`MD-`**
+- [Sound Meter](https://play.google.com/store/apps/details?id=com.codeclickers.soundmeter) **`Full`**
+- [Simple Thank You](https://github.com/SimpleMobileTools/Simple-Thank-You) **`Full`**
+- [Vanced MicroG](https://github.com/cuynu/VancedMicroG) **`Monet`**
+- [Lalitham](https://play.google.com/store/apps/details?id=com.novelijk.lalitham) **`Monet`**
+- [Randomizer (Code Clickers)](https://play.google.com/store/apps/details?id=com.codeclickers.randomizer) **`Full`**
 ## 📱Applist
 **Now you could click the title to return to the applist menu!**
 ### 🦖[Google Apps](#applist-menu)
@@ -273,16 +286,18 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
 	- [Clipious](https://github.com/lamarios/clipious) **`MD`**
 	- [ViMusic](https://github.com/vfsfitvnm/ViMusic) **`MD` `Multi`**
 	- [Vibe Music](https://github.com/sheikhhaziq/vibemusic) **`Full`**
+	- [Vanced MicroG](https://github.com/cuynu/VancedMicroG) **`Monet`**
 - **Spotify/Netease Cloud Music Clients** 
 	- [Music You](https://github.com/GuihongWang/MusicYou) **`Full` `Multi`**
 	- [Jetispot](https://github.com/iTaysonLab/jetispot) **`Full`**
 	- [Spotube](https://github.com/KRTirtho/spotube) **`MD`**
-- **Subsonic/Kodi Clients**
+- **Streaming Server Clients**
 	- [SubTune](https://github.com/TaylorKunZhang/SubTune) **`MD`**
 	- [Ultrasonic](https://gitlab.com/ultrasonic/ultrasonic) **`Full`**
 	- [Symfonium](https://play.google.com/store/apps/details?id=app.symfonik.music.player) **`MD`**
 	- [Yatse](https://play.google.com/store/apps/details?id=org.leetzone.android.yatsewidgetfree) **`Full` `Multi`**
-- **Streaming Services**
+	- [Drive Stream](https://github.com/itszechs/DriveStream) **`MD`**
+- **Onling Videos Services**
 	- [Bili You](https://github.com/lucinhu/bili_you) **`Full`**
 	- [Sakura Anime](https://github.com/670848654/SakuraAnime) **`Full`**
 	- [AGE](https://github.com/xihan123/AGE) **`MD-`**
@@ -594,6 +609,9 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
    	- [AIO Launcher](https://play.google.com/store/apps/details?id=ru.execbit.aiolauncher) **`Full` `Multi`**    
    	- [Nothing launcher](https://www.apkmirror.com/apk/nothing-technology-limited/nothing-launcher-beta/nothing-launcher-beta-1-0-2-release/) **`Full`**
    	- [Stario Launcher](https://play.google.com/store/apps/details?id=com.stario.launcher) **`Full` `Multi`**
+   	- [Nova Launcher](https://novalauncher.com/beta) **`MD-` `Monet` `Multi`**
+   	- [Simple App Launcher](https://github.com/SimpleMobileTools/Simple-App-Launcher) **`MD-` `Monet` `Multi`**
+   	- [Mini Car Launcher](https://github.com/jamal2362/Mini-Car-Launcher) **`MD-` `Monet` `Multi`**
 - **Wallpapers**    
    	- [Pix Wallpapers](https://play.google.com/store/apps/details?id=com.pashapuma.pix.wallpapers) **`Full`**    
    	- [Swift Walls](https://play.google.com/store/apps/details?id=it.folgore95.mywall) **`Full`**    
@@ -658,7 +676,9 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
    	- [Battery Widget](https://play.google.com/store/apps/details?id=com.lstapps.batterywidget) **`Full`**    
    	- [Android 12 Weather Widget](https://play.google.com/store/apps/details?id=twelve.weather.mibrahim) **`MD-` `Monet`**    
    	- [Nothing Weather KOMP](https://github.com/bhaskar966/Nothing-Weather-KOMP) **`MD-` `Monet`**    
-   	- [Nothing KWGT](https://play.google.com/store/apps/details?id=nothing.cnt.kwgt) **`MD-` `Monet`**    
+   	- [Nothing KWGT](https://play.google.com/store/apps/details?id=nothing.cnt.kwgt) **`MD-` `Monet`**
+   	- [Lalitham](https://play.google.com/store/apps/details?id=com.novelijk.lalitham) **`Monet`**
+   	- [Android12 Weather Widget](https://play.google.com/store/apps/details?id=twelve.weather.mibrahim) **`MD-` `Monet`**
 - **Dynamic Island**    
    	- [MaterialYou-Dynamic-Island](https://github.com/Angel-Studio/MaterialYou-Dynamic-Island) **`Full`**    
    	- [Pixel Island](https://drive.google.com/drive/folders/1j1eWY73Zuq43kYHF6Qdjton8LZ02pA1C) **`Full`**    
@@ -715,6 +735,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
    	- [Skit](https://play.google.com/store/apps/details?id=com.pavelrekun.skit) **`Full`**
    	- [System Tools Android](https://play.google.com/store/apps/details?id=com.redhome.sta) **`MD-`**
    	- [AppDash](https://play.google.com/store/apps/details?id=flar2.appdashboard) **`Full`**
+   	- [Ml Manager](https://play.google.com/store/apps/details?id=com.javiersantos.mlmanager) **`MD-`**
    	- [Hail](https://github.com/aistra0528/Hail) **`Full` `Multi`**
    	- [FreezeYou](https://github.com/FreezeYou/FreezeYou) **`MD-` `Monet`**
    	- [Icebox](https://www.coolapk.com/apk/com.catchingnow.icebox) **`Monet`**
@@ -832,7 +853,8 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
    	- [Simple Keyboard](https://github.com/SimpleMobileTools/Simple-Keyboard) **`Full`**    
    	- [Yandex Keyboard](https://play.google.com/store/apps/details?id=ru.yandex.androidkeyboard) **`Monet`**    
    	- [thumb-key](https://github.com/dessalines/thumb-key) **`Full`**    
-   	- [Rkkr's Simple Keyboard](https://github.com/rkkr/simple-keyboard) **`Monet`** 
+   	- [Rkkr's Simple Keyboard](https://github.com/rkkr/simple-keyboard) **`Monet`**
+   	- [Remote Numpad](https://github.com/theolizard/remote-numpad) **`MD-` `Monet`** 
 - **Calculator**   
    	- [yetCalc](https://github.com/Yet-Zio/yetCalc) **`MD-` `Monet` `Multi`**    
    	- [Unitto](https://github.com/sadellie/unitto) **`Full` `Multi`**    
@@ -953,6 +975,8 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
    	- [Lightmeter](https://github.com/vodemn/m3_lightmeter) **`Full`**
    	- [Secret Screenshots](https://play.google.com/store/apps/details?id=com.lware.secret_screenshots) **`MD`**
    	- [Drag and Drop Transfer Station Lite](https://gitee.com/Jesse205/DragAndDropTransferStationLite) **`Monet`**
+   	- [Sound Meter](https://play.google.com/store/apps/details?id=com.codeclickers.soundmeter) **`Full`**
+   	- [Simple Thank You](https://github.com/SimpleMobileTools/Simple-Thank-You) **`Full`**
 ---
 ### [🔧Developer Tools](#applist-menu)
 - **Server**    
@@ -1032,13 +1056,14 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
    	- [MIUINativeNotifyIcon](https://github.com/fankes/MIUINativeNotifyIcon) **`MD`**    
    	- [ColorOSNotifyIcon](https://github.com/fankes/ColorOSNotifyIcon) **`MD`**    
    	- [TSBattery](https://github.com/fankes/TSBattery) **`MD`**    
-   	- [Android Auto XLauncher Unlocked](https://github.com/Rikj000/Android-Auto-XLauncher-Unlocked) **`MD`**    
+   	- [Android Auto XLauncher Unlocked](https://github.com/Rikj000/Android-Auto-XLauncher-Unlocked) **`MD-`**    
    	- [Geergit](https://github.com/Xposed-Modules-Repo/com.pyshivam.geergit) **`Full`**
    	- [LuckyTool](https://github.com/luckyzyx/LuckyTool) **`MD`**
    	- [StarVoyager](https://github.com/hosizoraru/StarVoyager) **`Monet`**
    	- [AppLock](https://github.com/Mufanc/AppLock) **`MD-`**
    	- [MiPushService](https://github.com/NihilityT/MiPushFramework) **`MD-`**
    	- [WA Tweaker](https://watweaker.com/#) **`MD`**
+   	- [AppErrorsTracking](https://github.com/KitsunePie/AppErrorsTracking) **`MD-`**
 - **Others**  
    	- [Byyoung Toolbox](https://www.coolapk.com/apk/com.byyoung.setting) **`Full`**    
    	- [Blocker](https://github.com/lihenggui/blocker) **`Full` `Multi`**    
@@ -1080,6 +1105,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
    	- [Randomizer](https://play.google.com/store/apps/details?id=com.redmerah.randomizer) **`MD`**
    	- [MathQ](https://play.google.com/store/apps/details?id=com.anafthdev.mathq) **`Full`**
    	- [Cavedroid](https://play.google.com/store/apps/details?id=com.cyb3rko.cavedroid) **`MD-`**
+   	- [Randomizer (Code Clickers)](https://play.google.com/store/apps/details?id=com.codeclickers.randomizer) **`Full`**
 - **Others**  
    	- [Jetisteam](https://github.com/iTaysonLab/jetisteam) **`Full`**    
    	- [Boat_H2O2 Pro](https://github.com/NaCln4c1/Boat_H2O2) **`MD-`**    
