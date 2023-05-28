@@ -88,7 +88,6 @@ Additionally, some of the apps are ~~crossed out~~ as I couldn't find their down
 - [InstallerX](https://github.com/iamr0s/InstallerX) **`Full` `Multi`**
 - [Hail](https://github.com/aistra0528/Hail) **`Full` `Multi`**
 ## 🆕Newly Added Apps
-- [qBittorrent Manager](https://github.com/Yash-Garg/qBittorrent-Manager) **`MD`**
 - [Prayer Times and Qibia](https://play.google.com/store/apps/details?id=com.reworewo.prayertimes) **`Full`**
 - [zCalc](https://github.com/ziadOUA/zCalc) **`MD-` `Monet`**
 - [zCard](https://github.com/ziadOUA/zCard) **`MD-` `Monet`**
@@ -103,6 +102,22 @@ Additionally, some of the apps are ~~crossed out~~ as I couldn't find their down
 - [wenku8reader](https://github.com/15dd/wenku8reader) **`Full`**
 - [Yumesuki](https://github.com/nullxception/yumetsuki) **`TODO`**
 - [CopyMangaX](https://github.com/CrowForKotlin/CopyMangaX) **`MD`**
+- [Turlecast](https://play.google.com/store/apps/details?id=com.bluckapps.turtlecast) **`MD-`**
+- [Diarium](https://play.google.com/store/apps/details?id=partl.Diarium) **`Full`**
+- [Working Rours](https://play.google.com/store/apps/details?id=partl.workinghours) **`Full`**
+- [Atomic Clock](https://play.google.com/store/apps/details?id=partl.atomicclock) **`Full`**
+- [SubTotal](https://play.google.com/store/apps/details?id=partl.grandtotal) **`Full`**
+- [EdgeBlock](https://play.google.com/store/apps/details?id=flar2.edgeblock) **`Full`**
+- [ilDoppiaggio](https://play.google.com/store/apps/details?id=app.wakirox.il_doppiaggio) **`MD-` `Monet`**
+- [ShowMeMore](https://play.google.com/store/apps/details?id=app.wakirox.freecensorship) **`Full`**
+- [Tasse Forfettario](https://play.google.com/store/apps/details?id=com.wakirox.adecotax) **`Full`**
+- [Zoho Apptics](https://play.google.com/store/apps/details?id=com.zoho.apptics) **`MD-` `Monet`**
+- [Zoho Calendar](https://play.google.com/store/apps/details?id=com.zoho.android.calendar) **`MD-` `Monet`**
+- [MathQ](https://play.google.com/store/apps/details?id=com.anafthdev.mathq) **`Full`**
+- [Project Management](https://play.google.com/store/apps/details?id=com.anafthdev.projectmanagement) **`Full`**
+- [BookMan](https://play.google.com/store/apps/details?id=com.anafthdev.bookman) **`Full`**
+- [Cavedroid](https://play.google.com/store/apps/details?id=com.cyb3rko.cavedroid) **`MD-`**
+- [ACrypto](https://play.google.com/store/apps/details?id=dev.dworks.apps.acrypto) **`MD-` `Monet`**
 ## 📱Applist
 **Now you could click the title to return to the applist menu!**
 ### 🦖[Google Apps](#applist-menu)
@@ -309,6 +324,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
 	- [AntennaPod](https://github.com/AntennaPod/AntennaPod) **`Full`**
 	- [URL Radio](https://github.com/jamal2362/URL-Radio) **`Full`**
 	- [Escapepod](https://codeberg.org/y20k/escapepod) **`Full`**
+	- [Turlecast](https://play.google.com/store/apps/details?id=com.bluckapps.turtlecast) **`MD-`**
 - **Lives**
 	- [Hotlive](https://github.com/Jackiu1997/hot_live) **`Full`**
 	- [Purelive](https://github.com/Jackiu1997/pure_live/) **`Full` `Multi`**
@@ -342,6 +358,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
 	- [jtxBoard](https://jtx.techbee.at/) **`Full`**
 	- [Journey](https://play.google.com/store/apps/details?id=com.journey.app) **`MD` `Multi`**
 	- [Tianyue Journal](https://www.tianyueapp.com/) **`MD` `Multi`**
+	- [Diarium](https://play.google.com/store/apps/details?id=partl.Diarium) **`Full`**
 - **Drawboard**
 	- [Simple Draw](https://github.com/SimpleMobileTools/Simple-Draw) **`Full`**
 	- [Linwood Butterfly](https://github.com/LinwoodCloud/butterfly) **`Full` `Multi`**
@@ -376,6 +393,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
 	- [Nyanpasu](https://play.google.com/store/apps/details?id=com.zhenxiang.nyaa) **`MD-` `Multi`**
 	- [Animite](https://github.com/imashnake0/Animite) **`Full`**
 	- [Moviebase](https://play.google.com/store/apps/details?id=com.moviebase) **`MD-`**
+	- [BookMan](https://play.google.com/store/apps/details?id=com.anafthdev.bookman) **`Full`**
 - **Others**
 	- [raca](https://github.com/SkyD666/Raca-Android) **`Full` `Multi`**
 	- [Counters](https://play.google.com/store/apps/details?id=rahmouni.neil.counters) **`Full` `Multi`**
@@ -383,6 +401,8 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
 	- [Project & task Management](https://play.google.com/store/apps/details?id=com.eunidev.projectmanagement) **`Full`**
 	- [Drafting](https://play.google.com/store/apps/details?id=sen.drafting) **`MD-` `Monet`**
 	- [Lyricistant](https://github.com/wardellbagby/lyricistant) **`MD-` `Monet` `Multi`**
+	- [ilDoppiaggio](https://play.google.com/store/apps/details?id=app.wakirox.il_doppiaggio) **`MD-` `Monet`**
+	- [Project Management](https://play.google.com/store/apps/details?id=com.anafthdev.projectmanagement) **`Full`**
 ---
 ### [🖼️Photos](#applist-menu)
 - **Camera**
@@ -471,16 +491,19 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
 	- [Tilla](https://play.google.com/store/apps/details?id=com.pavelrekun.tilla) **`Full`**
 	- [~~Taler Wallet~~](https://git.taler.net/taler-android.git/) **`?`**
 	- [Prepaid Balance](https://github.com/mueller-ma/PrepaidBalance) **`Full`**
-	- [Trust](https://play.google.com/store/apps/details?id=com.wallet.crypto.trustapp) **`MD`**
 	- [Waterfly III](https://apt.izzysoft.de/fdroid/index/apk/com.dreautall.waterflyiii) **`MD`**
 	- [Dujer](https://play.google.com/store/apps/details?id=com.anafthdev.dujer) **`MD`**
 	- [WalletCount](https://github.com/GittyMac/WalletCount) **`Full`**
 	- [iviki](https://play.google.com/store/apps/details?id=com.xinran.iviki) **`Full`**
 	- [SanaPlus](https://github.com/CakesTwix/SanaPlus) **`TODO`**
+	- [SubTotal](https://play.google.com/store/apps/details?id=partl.grandtotal) **`Full`**
+	- [Tasse Forfettario](https://play.google.com/store/apps/details?id=com.wakirox.adecotax) **`Full`**
 - **Virtual Currency**
 	- [PapriCoin](https://github.com/T8RIN/PapriCoin) **`Full`**
 	- [CoinTrend](https://github.com/CoinTrend/CoinTrend) **`MD`**
 	- [AgoraDesk / LocalMonero](https://github.com/AgoraDesk-LocalMonero/agoradesk-app-foss) **`MD`**
+	- [Trust](https://play.google.com/store/apps/details?id=com.wallet.crypto.trustapp) **`MD`**
+	- [ACrypto](https://play.google.com/store/apps/details?id=dev.dworks.apps.acrypto) **`MD-` `Monet`**
 - **Card Case**
 	- [Catima](https://github.com/CatimaLoyalty/Android) **`MD-` `Monet`**
 	- [zCard](https://github.com/ziadOUA/zCard) **`MD-` `Monet`**
@@ -489,6 +512,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
 	- [Simple Calendar](https://github.com/SimpleMobileTools/Simple-Calendar) **`Full`**
 	- [Persian Calendar](https://github.com/persian-calendar/persian-calendar) **`Full` `Multi`**
 	- [Prayer Times and Qibia](https://play.google.com/store/apps/details?id=com.reworewo.prayertimes) **`Full`**
+	- [Zoho Calendar](https://play.google.com/store/apps/details?id=com.zoho.android.calendar) **`MD-` `Monet`**
 - **Weather**
 	- [Geometric Weather](https://github.com/WangDaYeeeeee/GeometricWeather) **`Full` `Multi`**
 	- [Maweihao Weather](https://www.coolapk.com/apk/top.maweihao.weather) **`Full`**
@@ -782,6 +806,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
    	- [LittleProcessy](https://www.coolapk.com/apk/com.absinthe.littleprocessy) **`Full`**
    	- [Sensors](https://play.google.com/store/apps/details?id=com.ms.sensors) **`MD-`**
    	- [Language Selecter](https://github.com/VegaBobo/Language-Selector) **`Full`**
+   	- [EdgeBlock](https://play.google.com/store/apps/details?id=flar2.edgeblock) **`Full`**
 ---
 ### [🧰Tools](#applist-menu)
 - **Downloader**
@@ -838,6 +863,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
    	- [Codora](https://play.google.com/store/apps/details?id=com.kokoschka.michael.qrtools) **`Full` `Multi`**    
    	- [~~Pixel Scanner~~](https://github.com/jaikeerthick/Pixel-Scanner) **`Full`**
    	- [MyQR](https://github.com/sankethsj/qr-code-generator) **`Full`**
+   	- [ShowMeMore](https://play.google.com/store/apps/details?id=app.wakirox.freecensorship) **`Full`**
 - **Flashlight**    
    	- [Tiramisu](https://github.com/polodarb/Flashlight-Tiramisu) **`Full`**    
    	- [Flashdim](https://github.com/cyb3rko/flashdim) **`Full`**    
@@ -853,6 +879,8 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
    	- [Floating Timer](https://github.com/tberghuis/FloatingCountdownTimer) **`Full`**   
    	- [Stopwatch(Wear OS)](https://play.google.com/store/apps/details?id=com.redmerah.stopwatch) **`Full` `Multi`**
    	- [Stopwatch](https://play.google.com/store/apps/details?id=com.redmerah.stopwatch) **`MD`**
+   	- [Atomic Clock](https://play.google.com/store/apps/details?id=partl.atomicclock) **`Full`**
+   	- [Working Rours](https://play.google.com/store/apps/details?id=partl.workinghours) **`Full`**
 - **Compass**    
    	- [Compass](https://github.com/Kr0oked/Compass) **`MD-` `Monet`**  
 - **Authenticator**
@@ -958,6 +986,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
    	- [Stryker](https://github.com/stryker-project/app) **`MD-`**
    	- [notabug](https://github.com/Smooth-E/notabug-mobile) **`TODO`**
    	- [Windmill](https://www.coolapk.com/apk/com.agyer.windmill) **`Full` `Multi`**
+   	- [Zoho Apptics](https://play.google.com/store/apps/details?id=com.zoho.apptics) **`MD-` `Monet`**
 ---
 ### [#️⃣Root/ADB](#applist-menu)
 - **Manager**   
@@ -1049,6 +1078,8 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
    	- [Tabletop Tools](https://github.com/mueller-ma/TabletopTools) **`Full`**    
    	- [Saku](https://play.google.com/store/apps/details?id=com.anafthdev.saku) **`Full`**
    	- [Randomizer](https://play.google.com/store/apps/details?id=com.redmerah.randomizer) **`MD`**
+   	- [MathQ](https://play.google.com/store/apps/details?id=com.anafthdev.mathq) **`Full`**
+   	- [Cavedroid](https://play.google.com/store/apps/details?id=com.cyb3rko.cavedroid) **`MD-`**
 - **Others**  
    	- [Jetisteam](https://github.com/iTaysonLab/jetisteam) **`Full`**    
    	- [Boat_H2O2 Pro](https://github.com/NaCln4c1/Boat_H2O2) **`MD-`**    
