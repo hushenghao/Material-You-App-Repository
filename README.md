@@ -963,7 +963,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
 - **Toolbox**    
    	- [Voyage Toolbox](https://1drv.ms/u/s!Atk49Scq_BtYhGh4H5XMwB_QVDKK?e=uogimG) **`Full`**    
    	- [Xiaobu Toolbox](https://www.coolapk1s.com/feed/45145335) **`Full`**
-   	- [Sevendots Toolbox](https://1drv.ms/u/s!Atk49Scq_BtYhHkWJxcDuAPY25PZ?e=l89paX) **Full**  
+   	- [Sevendots Toolbox](https://1drv.ms/u/s!Atk49Scq_BtYhHkWJxcDuAPY25PZ?e=l89paX) **`Full`**  
 - **VPN**
    	- [Surfboard](https://play.google.com/store/apps/details?id=com.getsurfboard) **`Full` `Multi`**
    	- [WireGuard](https://git.zx2c4.com/wireguard-android/) **`Full`**
