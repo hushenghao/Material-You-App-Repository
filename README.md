@@ -102,7 +102,8 @@ Additionally, some of the apps are ~~crossed out~~ as I couldn't find their down
 - **`NEW`** [SoftBoard](https://github.com/SuhasDissa/SoftBoard) **`TODO`**  
 - **`NEW`** [Sinhala Lyrics](https://github.com/SuhasDissa/Sinhala-Lyrics-App)  **`Full`**  
 - **`NEW`** [You Tune](https://github.com/SuhasDissa/You-Tune) **`TODO`**
-- **`NEW`** [MemorizeApp](https://github.com/SuhasDissa/MemerizeApp)  **`Full`** 
+- **`NEW`** [MemorizeApp](https://github.com/SuhasDissa/MemerizeApp)  **`Full`**
+- **`NEW`** [DGIcons](https://t.me/MaterialYouAppsChat/2362)  **`Full`**
 ## 📱Applist
 **Now you could click the title to return to the applist menu!**
 ### 🦖[Google Apps](#applist-menu)
@@ -645,6 +646,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
    	- [Glossy Blue Icons](https://play.google.com/store/apps/details?id=com.arjunarora.glossyblueicons) **`MD-` `Monet`**
    	- [Wooden Icons](https://play.google.com/store/apps/details?id=com.arjunarora.woodenicons) **`MD-` `Monet`**
    	- [Royale Blue Icons](https://play.google.com/store/apps/details?id=com.arjunarora.royaleblueicons) **`MD-` `Monet`**
+   	- [DGIcons](https://t.me/MaterialYouAppsChat/2362)  **`Full`**
 - **Widget/KWGT**    
    	- [Blur for You](https://www.coolapk.com/apk/com.riv3rdesign.you) **`MD-` `Monet`**    
    	- [Android 12 Clock Widget](https://play.google.com/store/apps/details?id=twelve.clock.mibrahim) **`Full`**    
