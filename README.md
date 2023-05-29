@@ -88,34 +88,6 @@ Additionally, some of the apps are ~~crossed out~~ as I couldn't find their down
 - [InstallerX](https://github.com/iamr0s/InstallerX) **`Full` `Multi`**
 - [Hail](https://github.com/aistra0528/Hail) **`Full` `Multi`**
 ## 🆕Newly Added Apps
-- [Turlecast](https://play.google.com/store/apps/details?id=com.bluckapps.turtlecast) **`MD-`**
-- [Diarium](https://play.google.com/store/apps/details?id=partl.Diarium) **`Full`**
-- [Working Rours](https://play.google.com/store/apps/details?id=partl.workinghours) **`Full`**
-- [Atomic Clock](https://play.google.com/store/apps/details?id=partl.atomicclock) **`Full`**
-- [SubTotal](https://play.google.com/store/apps/details?id=partl.grandtotal) **`Full`**
-- [EdgeBlock](https://play.google.com/store/apps/details?id=flar2.edgeblock) **`Full`**
-- [ilDoppiaggio](https://play.google.com/store/apps/details?id=app.wakirox.il_doppiaggio) **`MD-` `Monet`**
-- [ShowMeMore](https://play.google.com/store/apps/details?id=app.wakirox.freecensorship) **`Full`**
-- [Tasse Forfettario](https://play.google.com/store/apps/details?id=com.wakirox.adecotax) **`Full`**
-- [Zoho Apptics](https://play.google.com/store/apps/details?id=com.zoho.apptics) **`MD-` `Monet`**
-- [Zoho Calendar](https://play.google.com/store/apps/details?id=com.zoho.android.calendar) **`MD-` `Monet`**
-- [MathQ](https://play.google.com/store/apps/details?id=com.anafthdev.mathq) **`Full`**
-- [Project Management](https://play.google.com/store/apps/details?id=com.anafthdev.projectmanagement) **`Full`**
-- [BookMan](https://play.google.com/store/apps/details?id=com.anafthdev.bookman) **`Full`**
-- [Cavedroid](https://play.google.com/store/apps/details?id=com.cyb3rko.cavedroid) **`MD-`**
-- [ACrypto](https://play.google.com/store/apps/details?id=dev.dworks.apps.acrypto) **`MD-` `Monet`**
-- [Nova Launcher](https://novalauncher.com/beta) **`MD-` `Monet` `Multi`**
-- [Simple App Launcher](https://github.com/SimpleMobileTools/Simple-App-Launcher) **`MD-` `Monet` `Multi`**
-- [Mini Car Launcher](https://github.com/jamal2362/Mini-Car-Launcher) **`MD-` `Monet` `Multi`**
-- [Drive Stream](https://github.com/itszechs/DriveStream) **`MD`**
-- [Remote Numpad](https://github.com/theolizard/remote-numpad) **`MD-` `Monet`**
-- [Android12 Weather Widget](https://play.google.com/store/apps/details?id=twelve.weather.mibrahim) **`MD-` `Monet`**
-- [AppErrorsTracking](https://github.com/KitsunePie/AppErrorsTracking) **`MD-`**
-- [Ml Manager](https://play.google.com/store/apps/details?id=com.javiersantos.mlmanager) **`MD-`**
-- [Sound Meter](https://play.google.com/store/apps/details?id=com.codeclickers.soundmeter) **`Full`**
-- [Simple Thank You](https://github.com/SimpleMobileTools/Simple-Thank-You) **`Full`**
-- [Vanced MicroG](https://github.com/cuynu/VancedMicroG) **`Monet`**
-- [Lalitham](https://play.google.com/store/apps/details?id=com.novelijk.lalitham) **`Monet`**
 - [Randomizer (Code Clickers)](https://play.google.com/store/apps/details?id=com.codeclickers.randomizer) **`Full`**
 - [NoyAcg](https://noy.asia/) **`MD-`**
 - [Athena](https://github.com/SebaUbuntu/Athena) **`Full`**
@@ -127,6 +99,10 @@ Additionally, some of the apps are ~~crossed out~~ as I couldn't find their down
 - [Glossy Blue Icons](https://play.google.com/store/apps/details?id=com.arjunarora.glossyblueicons) **`MD-` `Monet`**
 - [Wooden Icons](https://play.google.com/store/apps/details?id=com.arjunarora.woodenicons) **`MD-` `Monet`**
 - [Royale Blue Icons](https://play.google.com/store/apps/details?id=com.arjunarora.royaleblueicons) **`MD-` `Monet`**
+- [SoftBoard](https://github.com/SuhasDissa/SoftBoard) **`TODO`**  **`NEW`**
+- [Sinhala Lyrics](https://github.com/SuhasDissa/Sinhala-Lyrics-App)  **`Full`**  **`NEW`**
+- [You Tune](https://github.com/SuhasDissa/You-Tune) **`TODO`**  **`NEW`**
+- [MemorizeApp](https://github.com/SuhasDissa/MemerizeApp)  **`Full`**  **`NEW`**
 ## 📱Applist
 **Now you could click the title to return to the applist menu!**
 ### 🦖[Google Apps](#applist-menu)
@@ -230,6 +206,8 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
 	- [MDgram](https://github.com/MDGramYou/MDGramYou) **`MD` `Multi`**
 	- [exteraGram](https://github.com/exteraSquad/exteraGram) **`MD-` `Multi`**
 	- [Lilgram](https://github.com/lilchill666/LilGram) **`Full` `Multi`**
+	- [Nekogram](https://nekogram.app/) **`Monet`**
+	- [Nagram](https://github.com/NextAlone/Nagram) **`Monet`**
 - **Reddit**
 	- [Sync for Reddit](https://play.google.com/store/apps/details?id=com.laurencedawson.reddit_sync) **`Full` `Multi`**
 	- [Karma for Reddit](https://play.google.com/store/apps/details?id=com.brianrobles204.karmamachine_flutter) **`Full`**
@@ -374,6 +352,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
 	- [Simple Draw](https://github.com/SimpleMobileTools/Simple-Draw) **`Full`**
 	- [Linwood Butterfly](https://github.com/LinwoodCloud/butterfly) **`Full` `Multi`**
 	- [PixaPencil](https://github.com/therealbluepandabear/PixaPencil) **`MD`**
+	- [SoftBoard](https://github.com/SuhasDissa/SoftBoard) **`TODO`**
 - **Docs**
 	- [Paperless Mobile](https://github.com/astubenbord/paperless-mobile) **`MD`**
 - **To-do**
@@ -389,13 +368,15 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
 	- [Noterly](https://play.google.com/store/apps/details?id=uk.co.tdsstudios.noterly) **`Full`**
 	- [TimeTable](https://play.google.com/store/apps/details?id=app.smart.timetable) **`Full`**
 	- [Engross](https://play.google.com/store/apps/details?id=com.engross) **`MD-`**
+- **Lyrics Editor**
+	- [Lyricistant](https://github.com/wardellbagby/lyricistant) **`MD-` `Monet` `Multi`**
+	- [Sinhala Lyrics](https://github.com/SuhasDissa/Sinhala-Lyrics-App)  **`Full`**
 - **Others**
 	- [raca](https://github.com/SkyD666/Raca-Android) **`Full` `Multi`**
 	- [Counters](https://play.google.com/store/apps/details?id=rahmouni.neil.counters) **`Full` `Multi`**
 	- [Typing Hero](https://play.google.com/store/apps/details?id=sen.typinghero) **`Full`**
 	- [Project & task Management](https://play.google.com/store/apps/details?id=com.eunidev.projectmanagement) **`Full`**
 	- [Drafting](https://play.google.com/store/apps/details?id=sen.drafting) **`MD-` `Monet`**
-	- [Lyricistant](https://github.com/wardellbagby/lyricistant) **`MD-` `Monet` `Multi`**
 	- [ilDoppiaggio](https://play.google.com/store/apps/details?id=app.wakirox.il_doppiaggio) **`MD-` `Monet`**
 	- [Project Management](https://play.google.com/store/apps/details?id=com.anafthdev.projectmanagement) **`Full`**
 ---
@@ -594,6 +575,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
    	- [Universal Remote for Smart TVs](https://play.google.com/store/apps/details?id=com.quanticapps.universalremote) **`Full` `Multi`**
    	- [SpaceHub](https://github.com/LPirro/SpaceHub) **`TODO`**
    	- [Food-E](https://github.com/SuhasDissa/Food-E-App) **`Full`**
+   	- [You Tune](https://github.com/SuhasDissa/You-Tune) **`TODO`**
 ---
 ### [🖌️Theming](#applist-menu)
 - **Launcher**    
@@ -882,7 +864,8 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
    	- [micCheck](https://play.google.com/store/apps/details?id=com.jlong.miccheck) **`Full`**    
    	- [Record You](https://github.com/Bnyro/recordYou) **`Full`**    
    	- [Simple Voice Recorder](https://github.com/SimpleMobileTools/Simple-Voice-Recorder) **`Full`**    
-   	- [Audio Notes](https://github.com/certified84/AudioNote) **`MD-`**    
+   	- [Audio Notes](https://github.com/certified84/AudioNote) **`MD-`**
+   	- [You Tune](https://github.com/SuhasDissa/You-Tune) **`TODO`**
 - **Scanner**    
    	- [Monochrome](https://play.google.com/store/apps/details?id=moe.zhs.monochrome) **`Full`**    
    	-  [Barcode Scanner](https://gitlab.com/Atharok/BarcodeScanner) **`Full` `Multi`**    
