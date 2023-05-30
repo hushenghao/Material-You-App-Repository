@@ -788,7 +788,7 @@ Material Design 3伴随着Android 12而来。它的诞生，彻底改变了人�
    	- [Crypto](https://play.google.com/store/apps/details?id=com.kokoschka.michael.crypto) **`Full`**
    	- [AnonAddy](https://gitlab.com/Stjin/anonaddy-android) **`MD`**
 - **均衡器**
-     	- [Wavelet](https://github.com/Pittvandewitt/Wavelet) **`Full`**
+   	- [Wavelet](https://github.com/Pittvandewitt/Wavelet) **`Full`**
    	- [ViperFX RE](https://t.me/WSTprojects/1567) **`Full`**  
    	- [RootlessJamesDSP](https://github.com/thepbone/RootlessJamesDSP) **`Full`**
    	- [Poweramp Equalizer](https://play.google.com/store/apps/details?id=com.maxmpz.equalizer) **`Monet`**
@@ -863,6 +863,158 @@ Material Design 3伴随着Android 12而来。它的诞生，彻底改变了人�
    	- [Language Selecter](https://github.com/VegaBobo/Language-Selector) **`Full`**
    	- [EdgeBlock](https://play.google.com/store/apps/details?id=flar2.edgeblock) **`Full`**
 ---
+## [🧰小工具](#目录)
+- **下载器**
+   	- [ADM](https://play.google.com/store/apps/details?id=com.dv.adm) **`Monet` `Multi`**    
+   	- [Seal](https://github.com/JunkFood02/Seal) **`Full`**    
+   	- [忻视down](https://github.com/Yos-X/YBVD_Release) **`Full`**    
+   	- [YTDLnis](https://github.com/deniscerri/ytdlnis) **`Full` `Multi`**    
+   	- [Spowlo](https://github.com/BobbyESP/Spowlo) **`Full`**    
+   	- [Revanced Manager](https://github.com/revanced/revanced-manager) **`Full`**    
+   	- [AliucordRN](https://github.com/Aliucord/AliucordRN) **`Full`**    
+   	- [Vendetta Manager](https://github.com/vendetta-mod/VendettaManager) **`Full`**    
+   	- [BiTGApps](https://bitgapps.io/app) **`Full`** 
+- **资源搜索/网盘**
+   	- [奇妙搜索](https://www.123pan.com/s/izDSVv-0JQWA) **`MD` `Multi`**   
+   	- [混合盘](https://hunhepan.com/) **`MD`**    
+   	- [lanzoucloud](https://1drv.ms/u/s!Atk49Scq_BtYhGd4LJN1fJftw-HQ?e=5jznMk) **`MD`**    
+   	- [FolderSync](https://play.google.com/store/apps/details?id=dk.tacit.android.foldersync.lite) **`Full` `Multi`**    
+   	- [Nextcloud Deck](https://github.com/stefan-niedermann/nextcloud-deck) **`MD`**    
+   	- [Nextcloud Talk](https://github.com/nextcloud/talk-android) **`MD`**
+   	- [Pho](https://github.com/fregie/pho) **`MD`**
+   	- [qBittorrent Manager](https://github.com/Yash-Garg/qBittorrent-Manager) **`MD`**
+- **输入法**
+   	- [Simple Keyboard](https://github.com/SimpleMobileTools/Simple-Keyboard) **`Full`**    
+   	- [Yandex Keyboard](https://play.google.com/store/apps/details?id=ru.yandex.androidkeyboard) **`Monet`**    
+   	- [thumb-key](https://github.com/dessalines/thumb-key) **`Full`**    
+   	- [Rkkr's Simple Keyboard](https://github.com/rkkr/simple-keyboard) **`Monet`**
+   	- [Remote Numpad](https://github.com/theolizard/remote-numpad) **`MD-` `Monet`** 
+- **计算器**
+   	- [yetCalc](https://github.com/Yet-Zio/yetCalc) **`MD-` `Monet` `Multi`**    
+   	- [Unitto](https://github.com/sadellie/unitto) **`Full` `Multi`**    
+   	- [Calculator-inator](https://github.com/prathameshmm02/Calculator-inator) **`Full` `Multi`**    
+   	- [OpenCalc](https://github.com/Darkempire78/OpenCalc) **`Full` `Multi`**    
+   	- [全能计算器](https://play.google.com/store/apps/details?id=all.in.one.calculator) **`MD-` `Monet` `Multi`**    
+   	- [Simple Calculator](https://github.com/SimpleMobileTools/Simple-Calculator) **`Full` `Multi`**    
+   	- [Currencies](https://github.com/sal0max/currencies) **`MD-` `Monet` `Multi`**    
+   	- [Tip Calculator](https://play.google.com/store/apps/details?id=com.chimbori.milliways) **`Full`**      
+   	- [Cart Calculator](https://github.com/D4rK7355608/com.d4rk.cartcalculator) **`Full`**
+   	- [Calculator](https://play.google.com/store/apps/details?id=com.redmerah.calculator) **`MD`**
+   	- [zCalc](https://github.com/ziadOUA/zCalc) **`MD-` `Monet`**
+- **翻译**
+   	- [Translate You](https://github.com/Bnyro/TranslateYou) **`Full`**    
+   	- [译站](https://github.com/FunnySaltyFish/FunnyTranslation) **`Full` `Multi`**
+   	- [Lentil Translate](https://github.com/yaxarat/lingvaandroid) **`Full`**
+   	- [Monocles Translator](https://codeberg.org/Arne/monocles_translator) **`Full`**
+   	- [瞬译](https://play.google.com/store/apps/details?id=com.spaceship.screen.textcopy) **`MD-`**    
+- **录音机**
+   	- [micCheck](https://play.google.com/store/apps/details?id=com.jlong.miccheck) **`Full`**    
+   	- [Record You](https://github.com/Bnyro/recordYou) **`Full`**    
+   	- [Simple Voice Recorder](https://github.com/SimpleMobileTools/Simple-Voice-Recorder) **`Full`**    
+   	- [Audio Notes](https://github.com/certified84/AudioNote) **`MD-`**
+   	- [You Tune](https://github.com/SuhasDissa/You-Tune) **`TODO`**
+- **扫一扫**
+   	- [Monochrome](https://play.google.com/store/apps/details?id=moe.zhs.monochrome) **`Full`**    
+   	-  [Barcode Scanner](https://gitlab.com/Atharok/BarcodeScanner) **`Full` `Multi`**    
+   	- [Barquode](https://play.google.com/store/apps/details?id=com.pranavpandey.matrix) **`Full` `Multi`**   
+   	- [Codora](https://play.google.com/store/apps/details?id=com.kokoschka.michael.qrtools) **`Full` `Multi`**    
+   	- [~~Pixel Scanner~~](https://github.com/jaikeerthick/Pixel-Scanner) **`Full`**
+   	- [MyQR](https://github.com/sankethsj/qr-code-generator) **`Full`**
+   	- [ShowMeMore](https://play.google.com/store/apps/details?id=app.wakirox.freecensorship) **`Full`**
+   	- [QScan](https://github.com/Henry-Hiles/QScan) **`Full`**
+- **手电筒**
+   	- [Tiramisu](https://github.com/polodarb/Flashlight-Tiramisu) **`Full`**    
+   	- [Flashdim](https://github.com/cyb3rko/flashdim) **`Full`**    
+   	- [Shake Flashlight](https://play.google.com/store/apps/details?id=com.paget96.shakeflashlight) **`Full`**
+   	- [Simple Flashlight](https://github.com/SimpleMobileTools/Simple-Launcher) **`Full`**
+- **时钟**
+   	- [Timer +X](https://gitlab.com/humbertofraga/timerx) **`MD-`**    
+   	- [Clock You](https://github.com/Bnyro/ClockYou) **`Full`**    
+   	- [精准时间](https://www.coolapk.com/apk/com.kimger.floattime) **`MD-`**    
+   	- [Simple Clock](https://github.com/SimpleMobileTools/Simple-Clock) **`Full`**    
+   	- [Workout Timer](https://play.google.com/store/apps/details?id=com.paget96.workouttimer) **`Full`**    
+   	- [Cofi](https://github.com/rozPierog/Cofi) **`Full` `Multi`**    
+   	- [Floating Timer](https://github.com/tberghuis/FloatingCountdownTimer) **`Full`**   
+   	- [Stopwatch(Wear OS)](https://play.google.com/store/apps/details?id=com.redmerah.stopwatch) **`Full` `Multi`**
+   	- [Stopwatch](https://play.google.com/store/apps/details?id=com.redmerah.stopwatch) **`MD`**
+   	- [Atomic Clock](https://play.google.com/store/apps/details?id=partl.atomicclock) **`Full`**
+   	- [Working Rours](https://play.google.com/store/apps/details?id=partl.workinghours) **`Full`**
+- **指南针**
+   	- [Compass](https://github.com/Kr0oked/Compass) **`MD-` `Monet`**
+- **账号二步验证**
+   	- [Mauth](https://github.com/X1nto/Mauth) **`Full`** 
+   	- [Authenticator Pro](https://github.com/jamie-mh/AuthenticatorPro) **`Full`**
+   	- [Keyring OTP](https://gitlab.com/aorszulak/keyring) **`Full`**
+   	- [踟蹰](https://github.com/zsakvo/Kakunin-Mobile) **`Full`**
+- **密码管理**
+   	- [Keyspace](https://github.com/Keyspace-cloud/android) **`MD`**    
+   	- [PassStore](https://play.google.com/store/apps/details?id=app.jjyy.passstore) **`Full`**    
+   	- [Pazzword](https://github.com/cyb3rko/pazzword) **`Full`**    
+   	- [Pincredible](https://github.com/cyb3rko/pincredible) **`Full`**    
+   	- [Wassword](https://github.com/polilluminato/wassword-flutter) **`MD`**    
+   	- [Keyguard for Bitwarden](https://play.google.com/store/apps/details?id=com.artemchep.keyguard) **`Full` `Multi`**   
+   	- [Simple Password](https://github.com/grigorevmp/Simple_Passwords_QuickPass) **`Full`**
+- **文件互传/设备互联**
+   	- [Warpinator](https://github.com/slowscript/warpinator-android) **`MD-` `Monet`**    
+   	- [Arc](https://play.google.com/store/apps/details?id=com.quadren.arc) **`Full`**    
+   	- [FnSync](https://www.coolapk.com/apk/holmium.fnsync.ngp) **`Full`**    
+   	- [LocalSend](https://github.com/localsend/localsend) **`MD` `Multi`**    
+   	- [Octi](https://github.com/d4rken-org/octi) **`MD-` `Monet`**    
+   	- [Photon](https://github.com/abhi16180/photon) **`MD-`**    
+   	- [KDE Connect](https://invent.kde.org/network/kdeconnect-android) **`Full` `Multi`**   
+- **外设**
+   	- [MiDoze](https://github.com/Keddnyo/MiDoze) **`Full`**    
+   	- [CAPod](https://github.com/d4rken-org/capod) **`MD`**    
+   	- [OpenSCQ30](https://github.com/Oppzippy/OpenSCQ30) **`Full`**    
+   	- [Yubico Authenticator](https://github.com/Yubico/yubioath-flutter) **`Full` `Multi`**
+   	- [RS Tool](https://misaka13766.lanzoup.com/idNa20xo6x6d) (密码ea85) **`MD`**
+- **邮件**
+   	- [Spark邮箱](https://play.google.com/store/apps/details?id=com.readdle.spark) **`Monet`**    
+   	- [Informaniak KMail](https://github.com/Infomaniak/android-kMail) **`Full`**    
+   	- [Gotify](https://github.com/gotify/android) **`MD`**    
+- **AI**
+   	- [Colors AI](https://github.com/tsinis/colors_ai) **`Full`**    
+   	- [CommuniqAI](https://play.google.com/store/apps/details?id=dev.mtc.ga) **`MD-`**    
+   	- [BotForge](https://github.com/L4TTiCe/BotForge) **`Full`**    
+   	- [TalkAI](https://play.google.com/store/apps/details?id=studio.muggle.talkai) **`MD`**    
+   	- [ChatBoost](https://play.google.com/store/apps/details?id=studio.muggle.chatboost) **`MD`**    
+   	- [Sense](https://github.com/F0x1d/Sense) **`Full`**  
+   	- [Stable Difusion AI](https://play.google.com/store/apps/details?id=com.shifthackz.aisdv1.app) **`Full`**
+   	- [NeoGPT](https://play.google.com/store/apps/details?id=com.lware.neogpt) **`MD`**
+- **自动任务**
+   	- [TapTap](https://github.com/KieronQuinn/TapTap) **`Full`**    
+   	- [自动任务](https://www.coolapk.com/apk/top.xjunz.tasker) **`MD`**    
+   	- [Smart AutoClicker](https://github.com/Nain57/Smart-AutoClicker) **`Full`**    
+   	- [Tasker](https://play.google.com/store/apps/details?id=net.dinglisch.android.taskerm) **`Monet`**    
+- **搜索**
+   	- [Gugal](https://gitlab.com/narektor/gugal) **`Full`**    
+   	- [Pixel Search](https://play.google.com/store/apps/details?id=rk.android.app.pixelsearch) **`Full`**   
+- **MIUI ROM查找**
+   	- [MIUI Rom](https://t.me/miuiappshare) **`Full`**    
+   	- [downmi](https://play.google.com/store/apps/details?id=xyz.izadi.downmi2) **`Full`**
+- **多功能工具箱**
+   	- [远航工具箱](https://wwqv.lanzout.com/iHKDj0skeiub) (密码2bhy) **`Full`**
+   	- [小布百宝箱](https://www.coolapk1s.com/feed/45145335?shareKey=YjRlMjU2M2JlMDhlNjQ0YTcwODA~&shareUid=26677673&shareFrom=com.coolapk.market_13.1.3) **`Full`**
+   	- [七点工具箱](https://wwja.lanzoub.com/iLTin0x3rjzi) **`Full`**
+- **VPN**
+   	- [Surfboard](https://play.google.com/store/apps/details?id=com.getsurfboard) **`Full` `Multi`**
+   	- [WireGuard](https://git.zx2c4.com/wireguard-android/) **`Full`**
+- **其他**
+   	- [TSViewer](https://github.com/BlazeCodeDev/TSViewer) **`Full`**    
+   	- [Easter Eggs](https://play.google.com/store/apps/details?id=com.dede.android_eggs) **`Full`**    
+   	- [Bubble Level](https://play.google.com/store/apps/details?id=com.codeclickers.bubblelevel) **`MD`**    
+   	- [Beta Maniac](https://play.google.com/store/apps/details?id=it.mirko.beta) **`Full`**    
+   	- [traewelldroid](https://github.com/Traewelldroid/traewelldroid) **`MD`**    
+   	- [简朴](https://github.com/ismartcoding/plain-app) **`Full`**    
+   	- [Rays](https://github.com/SkyD666/Rays-Android) **`Full` `Multi`**    
+   	- [BilibiliFork](https://github.com/gitofleonardo/BilibiliFork) **`MD`**    
+   	- [Pocket Mode](https://play.google.com/store/apps/details?id=com.artemchep.pocketmode) **`Full`**
+   	- [FontConverter](https://github.com/123Duo3/FontConverter) **`Full` `Multi`**
+   	- [Lightmeter](https://github.com/vodemn/m3_lightmeter) **`Full`**
+   	- [Secret Screenshots](https://play.google.com/store/apps/details?id=com.lware.secret_screenshots) **`MD`**
+   	- [Drag and Drop Transfer Station Lite](https://gitee.com/Jesse205/DragAndDropTransferStationLite) **`Monet`**
+   	- [Sound Meter](https://play.google.com/store/apps/details?id=com.codeclickers.soundmeter) **`Full`**
+   	- [Simple Thank You](https://github.com/SimpleMobileTools/Simple-Thank-You) **`Full`**
 ---
 ## [🔧开发工具](#目录)
 - **服务器**
@@ -899,6 +1051,67 @@ Material Design 3伴随着Android 12而来。它的诞生，彻底改变了人�
    	- [Zoho Apptics](https://play.google.com/store/apps/details?id=com.zoho.apptics) **`MD-` `Monet`**
    	- [Maybe](https://1drv.ms/u/s!Atk49Scq_BtYhHpVn8A3ZDu-aKHX?e=51dtFM) **`Full`**
 ---
+## [#️⃣Root/ADB](#目录)
+- **管理器**
+   	- [Magisk Monet](https://github.com/datnerdguy/Magisk-Monet) **`Full`**    
+   	- [Magisk Delta](https://github.com/HuskyDG/magisk-files) **`Full`**    
+   	- [LSPosed Manager](https://github.com/LSPosed/LSPosed) **`Full` `Multi`**    
+   	- [KernelSU](https://kernelsu.org/) **`Full`**    
+   	- [MRepo](https://github.com/ya0211/MRepo) **`Full`**   
+   	- [FoxMMM](https://github.com/Fox2Code/FoxMagiskModuleManager) **`Full`**    
+   	- [Kernel Flasher](https://github.com/capntrips/KernelFlasher) **`Monet`** 
+- **Root检测器**
+   	- [Ruru](https://github.com/byxiaorun/Ruru) / [Applist Detector](https://github.com/Dr-TSNG/ApplistDetector) **`Full`**    
+- **Shizuku/Dhizuku/ADB**
+   	- [Shizuku](https://github.com/RikkaApps/Shizuku) **`Full` `Multi`**    
+   	- [Dhizuku](https://github.com/iamr0s/Dhizuku) **`Full` `Multi`**    
+   	- [ShizukuRunner](https://github.com/WuDi-ZhanShen/ShizukuRunner) **`Monet`**    
+   	- [WADBS](https://github.com/Smooth-E/wireless-adb-switch) **`Full`**    
+   	- [LSPatch](https://github.com/LSPosed/LSPatch) **`Full` `Multi`**    
+- **Xposed模块**
+   	- [SIM Number Setter](https://github.com/KieronQuinn/SIMNumberSetter) **`Full`**
+   	- [米窗](https://www.coolapk.com/apk/com.sunshine.freeform) **`MD-` `Monet`**
+   	- [YAMF](https://github.com/duzhaokun123/YAMF) **`Full`**
+   	- [Guise](https://github.com/Houvven/Guise) **`Full`**
+   	- [JSHook](https://jshook.org/) **`MD`**
+   	- [MIUI Extra](https://www.123pan.com/s/efK7Vv-7OBsv.html)（提取码：chen）**`Full`**
+   	- [HMSPush](https://github.com/fei-ke/HMSPush) **`Full`**
+   	- [CustoMIUIzer](https://github.com/monwf/customiuizer) **`MD-`**
+   	- [Thanox](https://play.google.com/store/apps/details?id=github.tornaco.android.thanos.pro) **`Full`**
+   	- [存储空间隔离](https://play.google.com/store/apps/details?id=moe.shizuku.redirectstorage) **`Full`**
+   	- [隐藏应用列表](https://github.com/Dr-TSNG/Hide-My-Applist) **`Full`**
+   	- [Miller](https://github.com/UISSD/Miller) **`MD`**
+   	- [HCEFUnlocker](https://github.com/OLIET2357/HCEFUnlocker) **`Full`**
+   	- [ClassicPowerMenu](https://github.com/KieronQuinn/ClassicPowerMenu) **`Full`**
+   	- [墙中虎](https://install.appcenter.ms/users/tigerbeanst/apps/rnshareclean/distribution_groups/tigerinthewall_test_build) **`MD`**
+   	- [QDReaderHook](https://github.com/xihan123/QDReadHook) **`MD`**
+   	- [HXReaderHook](https://github.com/xihan123/HXReadHook) **`MD-`**
+   	- [Android Faker](https://github.com/Xposed-Modules-Repo/com.android1500.androidfaker) **`Full`**
+   	- [AOSP Mods](https://github.com/siavash79/AOSPMods) **`Full`**
+   	- [AnyDebug](https://github.com/gitofleonardo/AnyDebug) **`MD`**
+   	- [Launcher30](https://github.com/gitofleonardo/Launcher30) **`Full`**
+   	- [ExtClipboardManager](https://github.com/gitofleonardo/ExtClipboardManager) **`MD`**
+   	- [MIUI原生通知图标](https://github.com/fankes/MIUINativeNotifyIcon) **`MD`**
+   	- [ColorOS原生通知图标](https://github.com/fankes/ColorOSNotifyIcon) **`MD`**
+   	- [TSBattery](https://github.com/fankes/TSBattery) **`MD`**
+   	- [Android Auto XLauncher Unlocked](https://github.com/Rikj000/Android-Auto-XLauncher-Unlocked) **`MD-`**
+   	- [Geergit](https://github.com/Xposed-Modules-Repo/com.pyshivam.geergit) **`Full`**
+   	- [LuckyTool](https://github.com/luckyzyx/LuckyTool) **`MD`**
+   	- [StarVoyager](https://github.com/hosizoraru/StarVoyager) **`Monet`**
+   	- [AppLock](https://github.com/Mufanc/AppLock) **`MD-`**
+   	- [MiPushService](https://github.com/NihilityT/MiPushFramework) **`MD-`**
+   	- [WA Tweaker](https://watweaker.com/#) **`MD`**
+   	- [错误追踪](https://github.com/KitsunePie/AppErrorsTracking) **`MD-`**
+- **其他需要Root权限的工具**
+   	- [爱玩机工具箱](https://www.coolapk.com/apk/com.byyoung.setting) **`Full`**
+   	- [Blocker](https://github.com/lihenggui/blocker) **`Full` `Multi`**
+   	- [DSU Sideloader](https://github.com/VegaBobo/DSU-Sideloader) **`Full`**
+   	- [酷客工具箱](https://www.coolapk.com/apk/com.yorick.cokotools) **`Full`**
+   	- [FDE.AI](https://github.com/feravolt/FDE.AI-docs) **`Full` `Multi`**
+   	- [NFC卡模拟](https://www.coolapk.com/apk/com.yuanwofei.cardemulator) **`MD-` `Monet`**
+   	- [墓碑](https://jinnian.lanzouy.com/iTJGC0ovdsjg) **`MD`**
+   	- [Smart Dock](https://github.com/axel358/smartdock) **`Full`**
+   	- [GApps Mod](https://github.com/jacopotediosi/GAppsMod) **`Full`**
 ---
 ## [🎮游戏](#目录)
 - **模拟器**
@@ -960,3 +1173,6 @@ Material Design 3伴随着Android 12而来。它的诞生，彻底改变了人�
 - 在我的Github仓库中[提issue](https://github.com/misaka-13766/Material-You-App-Repository/issues)；
 - 在酷安@我或者给我发私信，我的酷安ID是[也许是御坂13766号吧](https://www.coolapk.com/u/26677673)（可能是大多数人的选择XD）；
 - 在我的Telegram群聊中提，直接跟我PM也是欢迎哒！
+# ⛩️附注
+- 应用集logo来源：[You Icon Pack](https://play.google.com/store/apps/details?id=com.jndapp.pastel.material.you.iconpack)
+- 标题图片来源：Pixiv ID [82225040](https://www.pixiv.net/artworks/82225040)，Author [@に](https://www.pixiv.net/users/1632590)
