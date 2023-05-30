@@ -88,13 +88,6 @@ Additionally, some of the apps are ~~crossed out~~ as I couldn't find their down
 - [InstallerX](https://github.com/iamr0s/InstallerX) **`Full` `Multi`**
 - [Hail](https://github.com/aistra0528/Hail) **`Full` `Multi`**
 ## 🆕Newly Added Apps
-- [Randomizer (Code Clickers)](https://play.google.com/store/apps/details?id=com.codeclickers.randomizer) **`Full`**
-- [NoyAcg](https://noy.asia/) **`MD-`**
-- [Athena](https://github.com/SebaUbuntu/Athena) **`Full`**
-- [QScan](https://github.com/Henry-Hiles/QScan) **`Full`**
-- [TicTacYou](https://github.com/AykoSc/TicTacYou) **`MD`**
-- [PickYou](https://github.com/XayahSuSuSu/AndroidModule-PickYou) **`MD`**
-- [AniHyou](https://github.com/axiel7/AniHyou-android) **`Full`**
 - [Alluring Iconpack](https://play.google.com/store/apps/details?id=com.arjunarora.alluring_iconpack) **`MD-` `Monet`**
 - [Glossy Blue Icons](https://play.google.com/store/apps/details?id=com.arjunarora.glossyblueicons) **`MD-` `Monet`**
 - [Wooden Icons](https://play.google.com/store/apps/details?id=com.arjunarora.woodenicons) **`MD-` `Monet`**
