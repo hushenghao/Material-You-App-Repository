@@ -97,11 +97,11 @@ Material Design 3伴随着Android 12而来。它的诞生，彻底改变了人�
 - **正在浏览这个列表的，热爱Material You的你们！**
 ## 📜目录
 - [🦖 谷歌应用](#谷歌应用)
-- [👨‍💻 OEM厂商/类原生定制应用](#OEM厂商类原生定制应用)
+- [👨‍💻 OEM厂商/类原生定制应用](#oem%E5%8E%82%E5%95%86%E7%B1%BB%E5%8E%9F%E7%94%9F%E5%AE%9A%E5%88%B6%E5%BA%94%E7%94%A8)
 - [👥 聊天社交](#聊天社交)
 - [🎵 媒体播放](#媒体播放)
 - [✍ 写写画画](#写写画画)
-- [🖼️ 图片摄像](#图片摄像)
+- [🖼️ 图片摄像](#%EF%B8%8F%E5%9B%BE%E7%89%87%E6%91%84%E5%83%8F)
 - [🌐 浏览器](#浏览器)
 - [📖 阅读](#阅读)
 - [🌦️ 日常生活](#日常生活)
@@ -296,7 +296,7 @@ Material Design 3伴随着Android 12而来。它的诞生，彻底改变了人�
 	- [FluffyChat](https://gitlab.com/famedly/fluffychat) **`Full` `Multi`**
 	- [Blog2App](https://play.google.com/store/apps/details?id=com.boltuix.blogtoapp) **`MD`**
 ---
-## **🎵媒体播放**
+## [🎵媒体播放](#目录)
 - **YouTube/YouTube Music第三方**
 	- [InnerTune](https://github.com/z-huang/InnerTune) **`MD-` `Monet` `Multi`**
 	- [LibreTube](https://github.com/libre-tube/LibreTube) **`Full`**
@@ -368,7 +368,7 @@ Material Design 3伴随着Android 12而来。它的诞生，彻底改变了人�
 	- [Ambient Music Mod](https://github.com/KieronQuinn/AmbientMusicMod) **`Full` `MOD`**
 	- [卡音](http://music.ijanz.cn/) **`MD`**
 ---
-## **✍写写画画**
+## [✍写写画画](#目录)
 - **笔记**
 	- [flowte](https://www.coolapk1s.com/feed/42984209) **`Full`**
 	- [Saber](https://github.com/adil192/saber) **`Full` `Multi`**
@@ -427,7 +427,7 @@ Material Design 3伴随着Android 12而来。它的诞生，彻底改变了人�
 	- [ilDoppiaggio](https://play.google.com/store/apps/details?id=app.wakirox.il_doppiaggio) **`MD-` `Monet`**
 	- [卡片盒子](https://www.coolapk.com/apk/cards.putin.box) **`MD-`**
 ---
-## **🖼️图片摄像**
+## [🖼️图片摄像](#目录)
 - **相机**
 	- [Simple Camera](https://github.com/SimpleMobileTools/Simple-Camera) **`Full`**
 	- [Selfie Time Lapse](https://play.google.com/store/apps/details?id=com.isidroid.sfa) **`MD`**
@@ -450,7 +450,7 @@ Material Design 3伴随着Android 12而来。它的诞生，彻底改变了人�
 	- [Graphie](https://play.google.com/store/apps/details?id=com.pavelrekun.graphie) **`Full`**
 	- [Momentum Editor](https://play.google.com/store/apps/details?id=com.lware.momentum) **`MD`**
 ---
-## **🌐浏览器**
+## [🌐浏览器](#目录)
 - [FOSS Browser](https://github.com/scoute-dich/browser) **`Full` `Multi`**
 - [Stage浏览器](https://github.com/thalloerupt/stage2) **`Full` `Multi`**
 - [狐猴浏览器](https://play.google.com/store/apps/details?id=com.lemurbrowser.exts) **`Full` `Multi`**
@@ -464,7 +464,7 @@ Material Design 3伴随着Android 12而来。它的诞生，彻底改变了人�
 - [Vivaldi](https://play.google.com/store/apps/details?id=com.vivaldi.browser) **`Monet`**
 - [Hermit](https://play.google.com/store/apps/details?id=com.chimbori.hermitcrab) **`Full` `Multi`**
 ---
-## **📖阅读**
+## [📖阅读](#目录)
 - **小说**
 	- [Ranobe](https://github.com/ranobe-org/ranobe) **`Full`**
 	- [IReader](https://github.com/IReaderorg/IReader) **`MD`**
@@ -505,7 +505,7 @@ Material Design 3伴随着Android 12而来。它的诞生，彻底改变了人�
 	- [CopyMangaX](https://github.com/CrowForKotlin/CopyMangaX) **`MD`**
 	- [NoyAcg](https://noy.asia/) **`MD-`**
 ---
-## **🌦️日常生活**
+## [🌦️日常生活](#目录)
 - **钱包记账**
 	- [小星记账](https://www.coolapk.com/apk/com.cxincx.xxjz) **`MD`**
 	- [Paisa](https://play.google.com/store/apps/details?id=dev.hemanths.paisa) **`Full` `Multi`**
@@ -624,6 +624,197 @@ Material Design 3伴随着Android 12而来。它的诞生，彻底改变了人�
 	- [SpaceHub](https://github.com/LPirro/SpaceHub) **`TODO`**
 	- [Food-E](https://github.com/SuhasDissa/Food-E-App) **`Full`**
 	- [MemorizeApp](https://github.com/SuhasDissa/MemerizeApp) **`Full`**
+---
+## [🖌️主题美化](#目录)
+- **启动器**
+   	- [Niagara Launcher](https://play.google.com/store/apps/details?id=bitpit.launcher) **`Full` `Multi`**    
+   	- [Lawnchair](https://t.me/youthkinga/6339) (A13) **`Full` `Multi`**    
+   	- [Simple Launcher](https://github.com/SimpleMobileTools/Simple-App-Launcher) **`Full` `Multi`**    
+   	- [Lunar Launcher](https://github.com/iamrasel/lunar-launcher) **`Full` `Multi`**
+   	- [Pixel Launcher Extended](https://github.com/saitamasahil/Pixel-Launcher-Extended) **`Full` `Multi`**    
+   	- [Kvaesitso](https://github.com/MM2-0/Kvaesitso) **`Full` `Multi`**    
+   	- [Action Launcher](https://play.google.com/store/apps/details?id=com.actionlauncher.playstore) **`Full` `Multi`**    
+   	- [AIO Launcher](https://play.google.com/store/apps/details?id=ru.execbit.aiolauncher) **`Full` `Multi`**    
+   	- [Nothing launcher](https://www.apkmirror.com/apk/nothing-technology-limited/nothing-launcher-beta/nothing-launcher-beta-1-0-2-release/) **`Full`**
+   	- [Stario Launcher](https://play.google.com/store/apps/details?id=com.stario.launcher) **`Full` `Multi`**
+   	- [Nova Launcher](https://novalauncher.com/beta) **`MD-` `Monet` `Multi`**
+   	- [Simple App Launcher](https://github.com/SimpleMobileTools/Simple-App-Launcher) **`MD-` `Monet` `Multi`**
+   	- [Mini Car Launcher](https://github.com/jamal2362/Mini-Car-Launcher) **`MD-` `Monet` `Multi`**
+- **壁纸**
+   	- [Pix Wallpapers](https://play.google.com/store/apps/details?id=com.pashapuma.pix.wallpapers) **`Full`**    
+   	- [Swift Walls](https://play.google.com/store/apps/details?id=it.folgore95.mywall) **`Full`**    
+   	- [WallYou](https://github.com/Bnyro/WallYou) **`Full`**    
+   	- [Lamartine](https://play.google.com/store/apps/details?id=xyz.zedler.patrick.lamartine) **`Full`**    
+   	- [Doodle](https://github.com/patzly/doodle-android) **`Full`**    
+   	- [Papersplash](https://play.google.com/store/apps/details?id=com.jlindemann.papersplash) **`Full`**    
+   	- [Dynamic Wallpaper](https://play.google.com/store/apps/details?id=rk.android.app.dynamic.wallpaper) **`Full`**    
+   	- [Pixr](https://play.google.com/store/apps/details?id=com.paget96.pixr) **`Full`**    
+   	- [Pallax](https://github.com/patzly/pallax-android) **`Full`**    
+   	- [WAIFUPX](https://github.com/WaifuPX-DG/WaifuPX) **`Full`**    
+   	- [UtopiaWalls+](https://github.com/WaifuPX-DG/UtopiaWalls) **`Full`**    
+   	- [Backdrops](https://play.google.com/store/apps/details?id=com.backdrops.wallpapers) **`Full`**    
+   	- [MWalls](https://play.google.com/store/apps/details?id=com.theveloper.mwalls.app) **`Full`**    
+   	- [Nothingbutwallpapers](https://play.google.com/store/apps/details?id=com.dev.nothingbutwalls.app) **`Full`**    
+   	- [Wavy Wallpapers](https://play.google.com/store/apps/details?id=wavy.walls.droidbeauty.pack) **`Full`**    
+   	- [Wallrox Wallpapers](https://play.google.com/store/apps/details?id=com.material.wallrox) **`Full`**    
+   	- [Zade’s Wallpaper](https://github.com/zadeviggers/wallpaper) **`Full`**    
+   	- [Wallfever](https://play.google.com/store/apps/details?id=com.amaan.wallfever) **`Full`**    
+   	- [Team Pixel Wallpapers](https://play.google.com/store/apps/details?id=com.lagguy.teampixelwallpapers) **`Full`**    
+   	- [Smudgess](https://play.google.com/store/apps/details?id=com.gng.smudgess) **`Full`**    
+   	- [Widepaper](https://play.google.com/store/apps/details?id=com.lagguy.widepapers) **`Full`**    
+   	- [Abstracto](https://play.google.com/store/apps/details?id=com.lagguy.abstracto) **`Full`**    
+   	- [Frames](https://github.com/jahirfiquitiva/Frames) **`Full`**    
+   	- [Backdrops](https://play.google.com/store/apps/details?id=com.backdrops.wallpapers) **`MD`**    
+   	- [DualWallpaper](https://github.com/Yanndroid/DualWallpaper) **`Monet`**   
+   	- [iOSXPC Wallpapers](https://play.google.com/store/apps/details?id=com.iosxpc.wallpapers) **`Full`** 
+   	- [EveryNASA](https://play.google.com/store/apps/details?id=ru.murzify.everynasa) **`MD`**
+   	- [Stock Wallpapers](https://play.google.com/store/apps/details?id=com.phonewalls.stockwallpapers) **`Full`**
+- **图标包**
+   	- [Liquor](https://gaopengk.github.io/2022/08/26/%E6%9B%B4%E6%96%B0-Liquor-%E5%9B%BE%E6%A0%87/) **`Full`**
+   	- [LawnIcons](https://www.apkmirror.com/apk/lawnchair/lawnicons/lawnicons-2-0-0-release/lawnicons-2-0-0-android-apk-download/) **`Full`**
+   	- [纯净图标包](https://www.coolapk.com/apk/com.panpandada.pure) **`Full`**
+   	- [Bar](https://www.coolapk.com/apk/com.bar.iconpack) **`Full`**    
+   	- [Cayicons](https://www.coolapk.com/apk/app.lawnchair.lawnicons) **`Full`**    
+   	- [Pix Material You Icons](https://play.google.com/store/apps/details?id=com.pashapuma.pix.material.you.iconpack) **`Full`**    
+   	- [Pix You Dark Android Icon Pack](https://play.google.com/store/apps/details?id=com.arjunarora.pix_you_cornflower_dark_icons) **`Full`*    
+   	- [Pix Material You Light/Dark](https://play.google.com/store/apps/details?id=com.pashapuma.pix.material.you.dark) **`Full`**    
+   	- [Pix Material Colors Icon Pack](https://play.google.com/store/apps/details?id=com.pashapuma.pix.material.color) **`Full`**    
+   	- [Themed Icons](https://play.google.com/store/apps/details?id=rk.android.app.themedicons) **`MD-` `Monet`**    
+   	- [Dynamic Icon Pack](https://play.google.com/store/apps/details?id=iconpack.onsurface.monet) **`Full`**    
+   	- [Epik Icon Pack](https://play.google.com/store/apps/details?id=com.lknninex.epik) **`Full`**  
+   	- [重圆图标包lite](https://www.coolapk.com/apk/com.re.circle.lite) **`Full`**
+   	- [Saga Material You Icons](https://play.google.com/store/apps/details?id=com.lknninex.saga) **`Full`**    
+   	- [Epik Material You Icons](https://play.google.com/store/apps/details?id=com.lknninex.epik) **`Full`**    
+   	- [You Icon Pack](https://play.google.com/store/apps/details?id=com.jndapp.pastel.material.you.iconpack) **`Full`**    
+   	- [Material You Dynamic Icon Pack](https://play.google.com/store/apps/details?id=com.akbon.myd) **`Full`**    
+   	- [Adaptive You Icon Pack](https://play.google.com/store/apps/details?id=com.jndapp.adaptive.material.you.iconpack) **`Full`**    
+   	- [One You Icon Pack](https://play.google.com/store/apps/details?id=com.pashapuma.oneyou.icons) **`Full`**
+   	- [Alluring Iconpack](https://play.google.com/store/apps/details?id=com.arjunarora.alluring_iconpack) **`MD-` `Monet`**
+   	- [Glossy Blue Icons](https://play.google.com/store/apps/details?id=com.arjunarora.glossyblueicons) **`MD-` `Monet`**
+   	- [Wooden Icons](https://play.google.com/store/apps/details?id=com.arjunarora.woodenicons) **`MD-` `Monet`**
+   	- [Royale Blue Icons](https://play.google.com/store/apps/details?id=com.arjunarora.royaleblueicons) **`MD-` `Monet`**
+   	- [DGIcons](https://t.me/MaterialYouAppsChat/2362)  **`Full`**
+- **微件/KWGT**
+   	- [Blur for You](https://www.coolapk.com/apk/com.riv3rdesign.you) **`MD-` `Monet`**    
+   	- [Android 12 Clock Widget](https://play.google.com/store/apps/details?id=twelve.clock.mibrahim) **`Full`**    
+   	- [Search Widget](https://play.google.com/store/apps/details?id=rk.android.app.searchbarwidget) **`MD-` `Monet`**    
+   	- [Clock Widget](https://play.google.com/store/apps/details?id=rk.android.app.clockwidget) **`MD-` `Monet`**    
+   	- [AppBar](https://play.google.com/store/apps/details?id=rk.android.app.appbar) **`MD-` `Monet`**   
+   	- [Music Widget Android 12](https://play.google.com/store/apps/details?id=com.lstapps.musicwidgetandroid12) **`Full`** 
+   	- [Bitcoin Timechain Widgets](https://github.com/gooGofZ/BitcoinTimechainWidgets) **`Full`**    
+   	- [Everyday](https://play.google.com/store/apps/details?id=com.pranavpandey.calendar) **`Full`**    
+   	- [Pix Material You Light/Dark](https://play.google.com/store/apps/details?id=com.pashapuma.pix.material.you.dark) **`Full`**    
+   	- [Material You Widget](https://play.google.com/store/apps/details?id=art.widgeet.android) **`Full`**    
+   	- [Android 13 Material You KWGT](https://play.google.com/store/apps/details?id=pixel.material.you.android.kwgt.widgets) **`Full`**    
+   	- [Battery Widget](https://play.google.com/store/apps/details?id=com.lstapps.batterywidget) **`Full`**    
+   	- [Android 12 Weather Widget](https://play.google.com/store/apps/details?id=twelve.weather.mibrahim) **`MD-` `Monet`**    
+   	- [Nothing Weather KOMP](https://github.com/bhaskar966/Nothing-Weather-KOMP) **`MD-` `Monet`**    
+   	- [Nothing KWGT](https://play.google.com/store/apps/details?id=nothing.cnt.kwgt) **`MD-` `Monet`**
+   	- [Lalitham](https://play.google.com/store/apps/details?id=com.novelijk.lalitham) **`Monet`**
+   	- [Android12 Weather Widget](https://play.google.com/store/apps/details?id=twelve.weather.mibrahim) **`MD-` `Monet`**
+- **原生系统定制**
+   	- [Seeker](https://play.google.com/store/apps/details?id=com.looper.seeker) **`Full`**    
+   	- [DiscoverKiller](https://github.com/KieronQuinn/DiscoverKiller) **`Full`**    
+   	- [PixelLauncherMods](https://github.com/KieronQuinn/PixelLauncherMods) **`Full`**    
+   	- [QuickSwitch](https://github.com/skittles9823/QuickSwitch) **`Full`**
+   	- [Repainter](https://play.google.com/store/apps/details?id=dev.kdrag0n.dyntheme) **`Full`**    
+   	- [SystemUI Tuner](https://github.com/zacharee/Tweaker) **`MD-` `Monet` `Multi`**    
+   	- [PowerLine](https://play.google.com/store/apps/details?id=com.urbandroid.inline) **`Full`**    
+   	- [Palettes](https://play.google.com/store/apps/details?id=com.pranavpandey.theme) **`Full`**    
+   	- [Android 12 Extensions](https://github.com/kdrag0n/android12-extensions) **`MD-` `Monet`**   
+   	- [Iconify](https://github.com/Mahmud0808/Iconify) **`Full`**    
+- **其他**
+   	- [Rboard Theme Manager](https://github.com/DerTyp7214/RboardThemeManagerV3) **`Full`**    
+   	- [Rboard Patcher](https://github.com/DerTyp7214/RboardPatcher) **`Full`**    
+   	- [Rboard Theme Creator](https://github.com/DerTyp7214/RboardThemeCreator) **`Full`**    
+   	- [Rboard IME Tester](https://github.com/DerTyp7214/RboardIMETester) **`Full`**    
+   	- [Monet Generator](https://github.com/jamal2362/Monet-Generator) **`Full`**    
+   	- [MixTheme Creator](https://github.com/DerTyp7214/MixplorerThemeCreator) **`Full`**    
+   	- [Telegram Monet](https://github.com/c3r5b8/Telegram-Monet) **`Full`**    
+   	- [ComboSkin for 4PDA forum app](https://github.com/PycmShoma/4PDA-ComboSkin-MaterialYou) **`Monet`**    
+   	- [Theme Engine](https://github.com/prathameshmm02/ThemeEngine) **`Full`**
+---
+---
+## [🔧开发工具](#目录)
+- **服务器**
+   	- [AdGuard Home Manager](https://github.com/JGeek00/adguard-home-manager) **`Full` `Multi`**    
+   	- [My Server Status](https://github.com/JGeek00/my-server-status-app) **`Full`**    
+   	- [DroidHole](https://github.com/JGeek00/droid-hole) **`Full`**    
+   	- [DaRemote](https://play.google.com/store/apps/details?id=com.deskangel.daremote) **`Full`**    
+   	- [Tremotesf](https://github.com/equeim/tremotesf-android) **`Monet`**   
+- **组件库与演示**
+   	- [Monet Color Previewer](https://github.com/Smooth-E/monet-color-previewer) **`Full`**    
+   	- [Material Components Gallery](https://github.com/NUmeroAndDev/MaterialGallery-android) **`Full`**    
+   	- [Android Material UI/UX](https://play.google.com/store/apps/details?id=com.boltuix.materialuiux) **`Full`**    
+   	- [Material Design Componets](https://play.google.com/store/apps/details?id=io.materialdesign.catalog) **`Full`**    
+   	- [Material You Style and Color G](https://play.google.com/store/apps/details?id=io.joshking.materialyoucolorviewer) **`Full`**    
+   	- [Material You Colors](https://play.google.com/store/apps/details?id=com.ch3d.material.color) **`Monet`**    
+   	- [Material Design 3 Android](https://play.google.com/store/apps/details?id=com.anafthdev.materialdesign3) **`Full`**    
+   	- [Goldex](https://play.google.com/store/apps/details?id=com.goldex) **`Full`**
+   	- [Compose Material Design 3](https://play.google.com/store/apps/details?id=com.anafthdev.md3compose) **`Full`**    
+   	- [Material 3](https://play.google.com/store/apps/details?id=com.boltuix.material3) **`MD`** **`Multi`**  
+- **其他**
+   	- [Termux Monet](https://t.me/AndroidRepo/3793) **`Monet` `MOD`**    
+   	- [SWKLua](https://www.coolapk1s.com/feed/44867507) **`Full`**    
+   	- [APK Editor](https://t.me/WSTprojects/1509) **`Full`**    
+   	- [HalfDot](https://github.com/davquar/halfdot) **`MD`**    
+   	- [Gloom](https://github.com/MateriiApps/Gloom) **`MD`**    
+   	- [M3O](https://github.com/m3o/m3o-android) **`MD`**    
+   	- [SetEdit](https://github.com/MuntashirAkon/SetEdit) **`Full`**    
+   	- [IPFS Lite](https://gitlab.com/remmer.wilts/ipfs-lite) **`Full`**    
+   	- [Android Studio Tutorials: Kotlin](https://github.com/D4rK7355608/com.d4rk.androidtutorials) **`Full`**    
+   	- [Android Studio Tutorials: Java](https://github.com/D4rK7355608/com.d4rk.androidtutorials.java) **`Full`**
+   	- [Stryker](https://github.com/stryker-project/app) **`MD-`**
+   	- [notabug](https://github.com/Smooth-E/notabug-mobile) **`TODO`**
+   	- [Windmill](https://www.coolapk.com/apk/com.agyer.windmill) **`Full` `Multi`**
+   	- [Zoho Apptics](https://play.google.com/store/apps/details?id=com.zoho.apptics) **`MD-` `Monet`**
+   	- [Maybe](https://1drv.ms/u/s!Atk49Scq_BtYhHpVn8A3ZDu-aKHX?e=51dtFM) **`Full`**
+---
+---
+## [🎮游戏](#目录)
+- **模拟器**
+   	- [Skyline](https://skyline-emu.com/) **`Full`**    
+   	- [Lemuroid](https://github.com/Swordfish90/Lemuroid) **`MD-` `Monet`**    
+   	- [Rekado](https://github.com/MenosGrante/Rekado) **`Full`**    
+   	- [JoiPlay](https://joiplay.org/) **`Full`**    
+   	- [Dolphin Emulator](https://github.com/dolphin-emu/dolphin) **`MD`** 
+- **乐器弹奏**
+   	- [Metronome](https://github.com/Kr0oked/Metronome) **`MD-` `Monet`**   
+- **小游戏**
+   	- [Trivia You](https://github.com/Bnyro/TriviaYou) **`Full`**    
+   	- [Randomix](https://github.com/m-i-n-a-r/randomix) **`Full`**    
+   	- [LibreSudoku](https://github.com/kaajjo/Libre-Sudoku) **`Full`**    
+   	- [Dooz](https://github.com/yamin8000/Dooz) **`Full`**    
+   	- [New Quiz](https://github.com/joaomanaia/newquiz) **`Full`**    
+   	- [Material You Tic Tac Toe](https://github.com/marek-guran/Material-You-Tic-Tac-Toe) **`Full`**    
+   	- [Zerocros](https://play.google.com/store/apps/details?id=com.pranavpandey.tictactoe) **`Full`**    
+   	- [TicTacToe](https://github.com/kafri8889/Compose-TicTacToe) **`Full`**
+   	- [TicTacYou](https://github.com/AykoSc/TicTacYou) **`MD`**
+   	- [Snake Classic](https://github.com/kafri8889/Compose-Classic-Snake-Game) **`Full`**    
+   	- [NPuzzle](https://play.google.com/store/apps/details?id=com.anafthdev.npuzzle) **`Full`**    
+   	- [TKCompaionApp](https://codeberg.org/marco.bresciani/TKCompanionApp) **`Full`**    
+   	- [Antimine](https://github.com/lucasnlm/antimine-android) **`Full`**    
+   	- [Forkyz](https://github.com/yourealwaysbe/forkyz) **`Full`**    
+   	- [Score Counter](https://github.com/hegocre/ScoreCounter) **`Full`**    
+   	- [计数器](https://play.google.com/store/apps/details?id=rahmouni.neil.counters) **`Full`**    
+   	- [Tabletop Tools](https://github.com/mueller-ma/TabletopTools) **`Full`**    
+   	- [Saku](https://play.google.com/store/apps/details?id=com.anafthdev.saku) **`Full`**
+   	- [Randomizer](https://play.google.com/store/apps/details?id=com.redmerah.randomizer) **`MD`**
+   	- [MathQ](https://play.google.com/store/apps/details?id=com.anafthdev.mathq) **`Full`**
+   	- [Cavedroid](https://play.google.com/store/apps/details?id=com.cyb3rko.cavedroid) **`MD-`**
+   	- [Randomizer (Code Clickers)](https://play.google.com/store/apps/details?id=com.codeclickers.randomizer) **`Full`**
+- **其他**
+   	- [Jetisteam](https://github.com/iTaysonLab/jetisteam) **`Full`**    
+   	- [Boat_H2O2 Pro](https://github.com/NaCln4c1/Boat_H2O2) **`MD-`**    
+   	- [J2ME下载](https://github.com/zf1234d/J2me-res-store) **`MD-`**
+   	- [萌卡YGO竞技助手](https://www.coolapk.com/apk/xjunz.tool.mycard) **`MD-`**   
+   	- [Cuberite](https://github.com/cuberite/android) **`MD-` `Monet`**    
+   	- [GuessThatPokemon](https://github.com/NimaKhajehpour/GuessThatPokemon) **`MD-`**
+   	- [罗德岛移动终端lite](https://github.com/JamXi233/ArkToolBox-Lite) **`MD`**
+   	- [TR Save Editor](https://www.coolapk.com/apk/top.juruo.terrariasaveconverter) **`Full` `Multi`**
+   	- [Harry Potter](https://github.com/BENJAHJP/harrypotter) **`Full`**
+   	- [PCR Tool](https://www.coolapk.com/apk/cn.wthee.pcrtool) **`Full` `Multi`**
+   	- [Yumesuki](https://github.com/nullxception/yumetsuki) **`TODO`**
 ---
 ### [🪄Monet取色修改模块](#目录)
 - [Monet-All](https://github.com/YangguangZhou/Monet-All)（为微信、B站等应用添加Monet取色）
