@@ -99,11 +99,18 @@ Additionally, some of the apps are ~~crossed out~~ as I couldn't find their down
 - [Glossy Blue Icons](https://play.google.com/store/apps/details?id=com.arjunarora.glossyblueicons) **`MD-` `Monet`**
 - [Wooden Icons](https://play.google.com/store/apps/details?id=com.arjunarora.woodenicons) **`MD-` `Monet`**
 - [Royale Blue Icons](https://play.google.com/store/apps/details?id=com.arjunarora.royaleblueicons) **`MD-` `Monet`**
-- **`NEW`** [SoftBoard](https://github.com/SuhasDissa/SoftBoard) **`TODO`**  
-- **`NEW`** [Sinhala Lyrics](https://github.com/SuhasDissa/Sinhala-Lyrics-App)  **`Full`**  
-- **`NEW`** [You Tune](https://github.com/SuhasDissa/You-Tune) **`TODO`**
-- **`NEW`** [MemorizeApp](https://github.com/SuhasDissa/MemerizeApp)  **`Full`**
-- **`NEW`** [DGIcons](https://t.me/MaterialYouAppsChat/2362)  **`Full`**
+- [SoftBoard](https://github.com/SuhasDissa/SoftBoard) **`TODO`**  
+- [Sinhala Lyrics](https://github.com/SuhasDissa/Sinhala-Lyrics-App)  **`Full`**  
+- [You Tune](https://github.com/SuhasDissa/You-Tune) **`TODO`**
+- [MemorizeApp](https://github.com/SuhasDissa/MemerizeApp)  **`Full`**
+- [DGIcons](https://t.me/MaterialYouAppsChat/2362)  **`Full`**
+- **`NEW`** [Start Now](https://www.coolapk.com/apk/com.start.now) **`MD-`**
+- **`NEW`** [Putin Box](https://www.coolapk.com/apk/cards.putin.box) **`MD-`**
+- **`NEW`** [One Nofication](https://www.coolapk.com/apk/cn.skyrin.ntfh) **`MD`**
+- **`NEW`** [Light Billing](https://www.coolapk.com/apk/kylec.me.lightbookkeeping) **`MD-`**
+- **`NEW`** [Kakunin](https://github.com/zsakvo/Kakunin-Mobile) **`Full`**
+- **`NEW`** [Maybe](https://1drv.ms/u/s!Atk49Scq_BtYhHpVn8A3ZDu-aKHX?e=51dtFM) **`Full`**
+- **`NEW`** [RS Tool](https://1drv.ms/u/s!Atk49Scq_BtYhHsoHNUSMxfYyauF?e=AeEWov) **`MD`**
 ## 📱Applist
 **Now you could click the title to return to the applist menu!**
 ### 🦖[Google Apps](#applist-menu)
@@ -341,6 +348,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
 	- [Nonsense Notes](https://www.coolapk.com/apk/com.hua.ssnote_coolapk) **`MD`**
 	- [Notes](https://play.google.com/store/apps/details?id=com.redmerah.notes) **`Full`**
 	- [Kubus Tasks](https://play.google.com/store/apps/details?id=com.ms.tasks) **`MD-`**
+	- [Start Now](https://www.coolapk.com/apk/com.start.now) **`MD-`**
 - **Journal**
 	- [Graphite](https://play.google.com/store/apps/details?id=com.syncodec.graphite) **`MD`**
 	- [Durian Journal](https://www.coolapk.com/apk/com.weimu.duriandiary) **`MD`**
@@ -380,6 +388,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
 	- [Drafting](https://play.google.com/store/apps/details?id=sen.drafting) **`MD-` `Monet`**
 	- [ilDoppiaggio](https://play.google.com/store/apps/details?id=app.wakirox.il_doppiaggio) **`MD-` `Monet`**
 	- [Project Management](https://play.google.com/store/apps/details?id=com.anafthdev.projectmanagement) **`Full`**
+	- [Putin Box](https://www.coolapk.com/apk/cards.putin.box) **`MD-`**
 ---
 ### [🖼️Photos](#applist-menu)
 - **Camera**
@@ -476,6 +485,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
 	- [SanaPlus](https://github.com/CakesTwix/SanaPlus) **`TODO`**
 	- [SubTotal](https://play.google.com/store/apps/details?id=partl.grandtotal) **`Full`**
 	- [Tasse Forfettario](https://play.google.com/store/apps/details?id=com.wakirox.adecotax) **`Full`**
+	- [Light Billing](https://www.coolapk.com/apk/kylec.me.lightbookkeeping) **`MD-`**
 - **Virtual Currency**
 	- [PapriCoin](https://github.com/T8RIN/PapriCoin) **`Full`**
 	- [CoinTrend](https://github.com/CoinTrend/CoinTrend) **`MD`**
@@ -798,7 +808,8 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
    	- [APK Installer](https://wwfb.lanzoue.com/iZRpF0rbj1ba?p) **`Full`**    
 - **Notification Filter**   
    	- [Notification Filter](https://www.coolapk.com/apk/top.webb_l.notificationfilter) **`MD-` `Monet`**   
-   	- [Filter Box](https://www.coolapk.com/apk/com.catchingnow.np) **`MD-` `Monet`**    
+   	- [Filter Box](https://www.coolapk.com/apk/com.catchingnow.np) **`MD-` `Monet`**
+   	- [One Nofication](https://www.coolapk.com/apk/cn.skyrin.ntfh) **`MD`**
 - **Others**    
    	- [Data Monitor](https://github.com/itsdrnoob/DataMonitor) **`Full`**   
    	- [DarQ](https://github.com/KieronQuinn/DarQ) **`MD-`**
@@ -896,10 +907,11 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
    	- [Working Rours](https://play.google.com/store/apps/details?id=partl.workinghours) **`Full`**
 - **Compass**    
    	- [Compass](https://github.com/Kr0oked/Compass) **`MD-` `Monet`**  
-- **Authenticator**
+- **2FA**
    	- [Mauth](https://github.com/X1nto/Mauth) **`Full`** 
    	- [Authenticator Pro](https://github.com/jamie-mh/AuthenticatorPro) **`Full`**
    	- [Keyring OTP](https://gitlab.com/aorszulak/keyring) **`Full`**
+   	- [Kakunin](https://github.com/zsakvo/Kakunin-Mobile) **`Full`**
 - **Key Manager**    
    	- [Keyspace](https://github.com/Keyspace-cloud/android) **`MD`**    
    	- [PassStore](https://play.google.com/store/apps/details?id=app.jjyy.passstore) **`Full`**    
@@ -916,11 +928,12 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
    	- [Octi](https://github.com/d4rken-org/octi) **`MD-` `Monet`**    
    	- [Photon](https://github.com/abhi16180/photon) **`MD-`**    
    	- [KDE Connect](https://invent.kde.org/network/kdeconnect-android) **`Full` `Multi`**    
-- **Sender/Connect**    
+- **Peripherals**    
    	- [MiDoze](https://github.com/Keddnyo/MiDoze) **`Full`**    
    	- [CAPod](https://github.com/d4rken-org/capod) **`MD`**    
    	- [OpenSCQ30](https://github.com/Oppzippy/OpenSCQ30) **`Full`**    
-   	- [Yubico Authenticator](https://github.com/Yubico/yubioath-flutter) **`Full` `Multi`**    
+   	- [Yubico Authenticator](https://github.com/Yubico/yubioath-flutter) **`Full` `Multi`**
+   	- [RS Tool](https://1drv.ms/u/s!Atk49Scq_BtYhHsoHNUSMxfYyauF?e=AeEWov) **`MD`**
 - **Mail**    
    	- [Spark Mail](https://play.google.com/store/apps/details?id=com.readdle.spark) **`Monet`**    
    	- [Informaniak KMail](https://github.com/Infomaniak/android-kMail) **`Full`**    
@@ -1002,6 +1015,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
    	- [notabug](https://github.com/Smooth-E/notabug-mobile) **`TODO`**
    	- [Windmill](https://www.coolapk.com/apk/com.agyer.windmill) **`Full` `Multi`**
    	- [Zoho Apptics](https://play.google.com/store/apps/details?id=com.zoho.apptics) **`MD-` `Monet`**
+   	- [Maybe](https://1drv.ms/u/s!Atk49Scq_BtYhHpVn8A3ZDu-aKHX?e=51dtFM) **`Full`**
 ---
 ### [#️⃣Root/ADB](#applist-menu)
 - **Manager**   
