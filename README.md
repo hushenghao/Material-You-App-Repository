@@ -86,7 +86,7 @@ Additionally, some of the apps are ~~crossed out~~ as I couldn't find their down
 - [Cinexplore](https://play.google.com/store/apps/details?id=com.fidloo.cinexplore) **`Full` `Multi`**
 - [Barcode Scanner](https://gitlab.com/Atharok/BarcodeScanner) **`Full` `Multi`**
 - [Blocker](https://github.com/lihenggui/blocker) **`Full` `Multi`**
-- [Oto Music](https://play.google.com/store/apps/details?id=com.piyush.music) **`Full`**
+- [Pica Comic](https://github.com/wgh136/PicaComic) **`Full` `Multi`**
 - [FluffyChat](https://gitlab.com/famedly/fluffychat) **`Full` `Multi`**
 - [Seal](https://github.com/JunkFood02/Seal) **`Full`**
 - [WakeUp Scheduler](https://www.coolapk.com/apk/com.suda.yzune.wakeupschedule) **`Full` `Multi`**
