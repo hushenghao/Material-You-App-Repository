@@ -10,6 +10,9 @@
   <img src="https://i.ibb.co/3CYKN00/Wallpaper4.png">
 </p>
 <p align="center">
+ <img src="https://img.shields.io/github/stars/misaka-13766/Material-You-App-Repository?style=for-the-badge&colorA=FFEBEB&colorB=FFD9DC&logo=github&logoColor=black">
+</p>
+<p align="center">
   <a href="https://t.me/misakamaterialyou">
     <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&colorA=DAE9FC&colorB=056DE8&label=%E9%A2%91%E9%81%93&logo=telegram&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dtelegram%26queryKey%3Dmisakamaterialyou" alt="Telegram">
   </a>
