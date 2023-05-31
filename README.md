@@ -113,6 +113,7 @@ Additionally, some of the apps are ~~crossed out~~ as I couldn't find their down
 - **`NEW`** [Kakunin](https://github.com/zsakvo/Kakunin-Mobile) **`Full`**
 - **`NEW`** [Maybe](https://1drv.ms/u/s!Atk49Scq_BtYhHpVn8A3ZDu-aKHX?e=51dtFM) **`Full`**
 - **`NEW`** [RS Tool](https://1drv.ms/u/s!Atk49Scq_BtYhHsoHNUSMxfYyauF?e=AeEWov) **`MD`**
+- **`NEW`** [Yuzu Emulator](https://github.com/yuzu-emu/yuzu) **`Full` `Multi`** 
 ## 📱Applist
 **Now you could click the title to return to the applist menu!**
 ### 🦖[Google Apps](#applist-menu)
@@ -1086,7 +1087,8 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
    	- [Lemuroid](https://github.com/Swordfish90/Lemuroid) **`MD-` `Monet`**    
    	- [Rekado](https://github.com/MenosGrante/Rekado) **`Full`**    
    	- [JoiPlay](https://joiplay.org/) **`Full`**    
-   	- [Dolphin Emulator](https://github.com/dolphin-emu/dolphin) **`MD`**    
+   	- [Dolphin Emulator](https://github.com/dolphin-emu/dolphin) **`MD`**
+   	- [Yuzu Emulator](https://github.com/yuzu-emu/yuzu) **`Full` `Multi`** 
 - **Instruments**    
    	- [Metronome](https://github.com/Kr0oked/Metronome) **`MD-` `Monet`**    
 - **Small Games**    
