@@ -11,17 +11,17 @@
 </p>
 <p align="center">
   <a href="https://t.me/misakamaterialyou">
-    <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&colorA=DAE9FC&colorB=056DE8&label=Channel&logo=telegram&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dtelegram%26queryKey%3Dmisakamaterialyou" alt="Telegram">
+    <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&colorA=DAE9FC&colorB=056DE8&label=频道&logo=telegram&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dtelegram%26queryKey%3Dmisakamaterialyou" alt="Telegram">
   </a>
   <a href="https://t.me/misakamaterialyouchat">
-    <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&colorA=DAE9FC&colorB=056DE8&label=Chat&logo=telegram&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dtelegram%26queryKey%3Dmisakamaterialyouchat" alt="Telegram">
+    <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&colorA=DAE9FC&colorB=056DE8&label=群聊&logo=telegram&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dtelegram%26queryKey%3Dmisakamaterialyouchat" alt="Telegram">
   </a>
   <a href="https://www.coolapk.com/u/26677673">
-    <img src="https://img.shields.io/badge/Coolapk-yuban13766-%231B914C?style=for-the-badge&colorA=E1F6E1&colorB=126736" alt="Coolapk">
+    <img src="https://img.shields.io/badge/Coolapk-yuban13766-%231B914C?style=for-the-badge&colorA=E1F6E1&colorB=126736" alt="酷安">
   </a>
 </p>
 
-## ⛩️Introduction
+## ⛩️序言
 ### ❓️什么是Material Design 3？Material You又是什么？
 *以下内容部分来源于谷歌官方文档*
 
@@ -86,14 +86,13 @@ Material Design 3伴随着Android 12而来。它的诞生，彻底改变了人�
 |**`Full`**|✅|✅|
 
 ### 💖感谢
-- **Special thanks to**：[Material-You-app-list](https://github.com/nyas1/Material-You-app-list)，目前最著名的Material You APP收集项目，它为我的收集工作提供了莫大的帮助。  
+- **特别感谢**：[Material-You-app-list](https://github.com/nyas1/Material-You-app-list)，目前最著名的Material You APP收集项目，它为我的收集工作提供了莫大的帮助。  
 - 酷安用户[@培明](http://www.coolapk.com/u/2080396)，他的应用集为这次Applist的收集也提供了不少素材。
 - [F-Droid](https://f-droid.org)，fd里收录了很多基于最新设计的开源APP，为本列表中的应用来源提供不少线索。
 - 在github、酷安等平台活跃的那些坚持使用Material Design 3开发APP的开发者大大们，你们为谷歌的软件生态做出了不可埋没的贡献！
 - Telegram频道：[某不知名杂货铺](https://t.me/youthkinga)、[HUC-Projects](https://t.me/anubis_recommended)、[WPX Projects](https://t.me/WSTprojects)、[Android Reposity](https://t.me/AndroidRepo)等。
 - 我的好友CK酱，帮助我收集了不少APP，提了不少建议，代码技术也很高超，贴贴！
 - 列表建设初期为我提供建议的大佬们。
-- Notion，为我提供制作列表的平台。
 - **正在浏览这个列表的，热爱Material You的你们！**
 ## 📜目录
 - [🦖 谷歌应用](#谷歌应用)
@@ -341,7 +340,6 @@ Material Design 3伴随着Android 12而来。它的诞生，彻底改变了人�
 	- [NextPlayer](https://github.com/anilbeesetti/nextplayer) **`Full`**
 - **本地音乐播放**
 	- [Retro Music](https://github.com/RetroMusicPlayer/RetroMusicPlayer) / [Metro](https://github.com/MuntashirAkon/Metro) / [ApexMusic](https://github.com/TheTerminatorOfProgramming/ApexMusic) **`Full` `Multi`**
-	- [香草音乐](https://play.google.com/store/apps/details?id=com.kyant.vanilla) **`Full`**
 	- [Oto Music](https://play.google.com/store/apps/details?id=com.piyush.music) **`Full`**
 	- [Musicmax](https://github.com/MaximillianLeonov/Musicmax) **`Full`**
 	- [Zen Music](https://github.com/pakka-papad/Zen) **`Full`**
