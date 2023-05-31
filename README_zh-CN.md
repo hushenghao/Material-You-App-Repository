@@ -126,7 +126,7 @@ Material Design 3伴随着Android 12而来。它的诞生，彻底改变了人�
 - [Cinexplore](https://play.google.com/store/apps/details?id=com.fidloo.cinexplore) **`Full` `Multi`**
 - [Barcode Scanner](https://gitlab.com/Atharok/BarcodeScanner) **`Full` `Multi`**
 - [Blocker](https://github.com/lihenggui/blocker) **`Full` `Multi`**
-- [Oto Music](https://play.google.com/store/apps/details?id=com.piyush.music) **`Full`**
+- [Pica Comic](https://github.com/wgh136/PicaComic) **`Full` `Multi`**
 - [FluffyChat](https://gitlab.com/famedly/fluffychat) **`Full` `Multi`**
 - [Seal](https://github.com/JunkFood02/Seal) **`Full`**
 - [WakeUp课程表](https://www.coolapk.com/apk/com.suda.yzune.wakeupschedule) **`Full` `Multi`**
