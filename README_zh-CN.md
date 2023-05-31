@@ -154,6 +154,7 @@ Material Design 3伴随着Android 12而来。它的诞生，彻底改变了人�
 - **`NEW`** [踟蹰](https://github.com/zsakvo/Kakunin-Mobile) **`Full`**
 - **`NEW`** [Maybe](https://xuaoyuyu.lanzoue.com/b02dz79jg) (密码dh8i) **`Full`**
 - **`NEW`** [RS Tool](https://misaka13766.lanzoup.com/idNa20xo6x6d) (密码ea85) **`MD`**
+- **`NEW`** [Yuzu Emulator](https://github.com/yuzu-emu/yuzu) **`Full` `Multi`** 
 ## 📱应用列表
 **点击标题即可回到目录XD**
 ### 🦖[谷歌应用](#目录)
@@ -1121,6 +1122,7 @@ Material Design 3伴随着Android 12而来。它的诞生，彻底改变了人�
    	- [Rekado](https://github.com/MenosGrante/Rekado) **`Full`**    
    	- [JoiPlay](https://joiplay.org/) **`Full`**    
    	- [Dolphin Emulator](https://github.com/dolphin-emu/dolphin) **`MD`** 
+   	- [Yuzu Emulator](https://github.com/yuzu-emu/yuzu) **`Full` `Multi`** 
 - **乐器弹奏**
    	- [Metronome](https://github.com/Kr0oked/Metronome) **`MD-` `Monet`**   
 - **小游戏**
