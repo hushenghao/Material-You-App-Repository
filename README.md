@@ -97,23 +97,21 @@ Additionally, some of the apps are ~~crossed out~~ as I couldn't find their down
 - [InstallerX](https://github.com/iamr0s/InstallerX) **`Full` `Multi`**
 - [Hail](https://github.com/aistra0528/Hail) **`Full` `Multi`**
 ## 🆕Newly Added Apps
-- [Alluring Iconpack](https://play.google.com/store/apps/details?id=com.arjunarora.alluring_iconpack) **`MD-` `Monet`**
-- [Glossy Blue Icons](https://play.google.com/store/apps/details?id=com.arjunarora.glossyblueicons) **`MD-` `Monet`**
-- [Wooden Icons](https://play.google.com/store/apps/details?id=com.arjunarora.woodenicons) **`MD-` `Monet`**
-- [Royale Blue Icons](https://play.google.com/store/apps/details?id=com.arjunarora.royaleblueicons) **`MD-` `Monet`**
-- [SoftBoard](https://github.com/SuhasDissa/SoftBoard) **`TODO`**  
-- [Sinhala Lyrics](https://github.com/SuhasDissa/Sinhala-Lyrics-App)  **`Full`**  
-- [You Tune](https://github.com/SuhasDissa/You-Tune) **`TODO`**
-- [MemorizeApp](https://github.com/SuhasDissa/MemerizeApp)  **`Full`**
-- [DGIcons](https://t.me/MaterialYouAppsChat/2362)  **`Full`**
-- **`NEW`** [Start Now](https://www.coolapk.com/apk/com.start.now) **`MD-`**
-- **`NEW`** [Putin Box](https://www.coolapk.com/apk/cards.putin.box) **`MD-`**
-- **`NEW`** [One Nofication](https://www.coolapk.com/apk/cn.skyrin.ntfh) **`MD`**
-- **`NEW`** [Light Billing](https://www.coolapk.com/apk/kylec.me.lightbookkeeping) **`MD-`**
-- **`NEW`** [Kakunin](https://github.com/zsakvo/Kakunin-Mobile) **`Full`**
-- **`NEW`** [Maybe](https://1drv.ms/u/s!Atk49Scq_BtYhHpVn8A3ZDu-aKHX?e=51dtFM) **`Full`**
-- **`NEW`** [RS Tool](https://1drv.ms/u/s!Atk49Scq_BtYhHsoHNUSMxfYyauF?e=AeEWov) **`MD`**
+- [One Nofication](https://www.coolapk.com/apk/cn.skyrin.ntfh) **`MD`**
+- [Light Billing](https://www.coolapk.com/apk/kylec.me.lightbookkeeping) **`MD-`**
+- [Kakunin](https://github.com/zsakvo/Kakunin-Mobile) **`Full`**
+- [Maybe](https://1drv.ms/u/s!Atk49Scq_BtYhHpVn8A3ZDu-aKHX?e=51dtFM) **`Full`**
+- [RS Tool](https://1drv.ms/u/s!Atk49Scq_BtYhHsoHNUSMxfYyauF?e=AeEWov) **`MD`**
 - **`NEW`** [Yuzu Emulator](https://github.com/yuzu-emu/yuzu) **`Full` `Multi`** 
+- **`NEW`** [locus](https://github.com/Myzel394/locus) **`Full`**
+- **`NEW`** [Reader](https://github.com/msasikanth/reader) **`MD-`**
+- **`NEW`** [Tuner](https://github.com/thetwom/Tuner) **`MD-` `Monet`**
+- **`NEW`** [Textbender](https://github.com/elizagamedev/android-textbender) **`Monet`**
+- **`NEW`** [Justnotes](https://github.com/jjewuz/JustNotes) **`Full`**
+- **`NEW`** [Hammer](https://github.com/Wavesonics/hammer-editor) **`MD`**
+- **`NEW`** [Keep Tally](https://github.com/123Duo3/KeepTally) **`Full`**
+- **`NEW`** [Celenganku](https://play.google.com/store/apps/details?id=id.celenganku.app) **`Full`**
+- **`NEW`** [Wallcanic Walls](https://play.google.com/store/apps/details?id=com.paradox.wallcanic) **`Full`**
 ## 📱Applist
 **Now you could click the title to return to the applist menu!**
 ### 🦖[Google Apps](#applist-menu)
@@ -351,6 +349,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
 	- [Notes](https://play.google.com/store/apps/details?id=com.redmerah.notes) **`Full`**
 	- [Kubus Tasks](https://play.google.com/store/apps/details?id=com.ms.tasks) **`MD-`**
 	- [Start Now](https://www.coolapk.com/apk/com.start.now) **`MD-`**
+	- [Justnotes](https://github.com/jjewuz/JustNotes) **`Full`**
 - **Journal**
 	- [Graphite](https://play.google.com/store/apps/details?id=com.syncodec.graphite) **`MD`**
 	- [Durian Journal](https://www.coolapk.com/apk/com.weimu.duriandiary) **`MD`**
@@ -391,6 +390,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
 	- [ilDoppiaggio](https://play.google.com/store/apps/details?id=app.wakirox.il_doppiaggio) **`MD-` `Monet`**
 	- [Project Management](https://play.google.com/store/apps/details?id=com.anafthdev.projectmanagement) **`Full`**
 	- [Putin Box](https://www.coolapk.com/apk/cards.putin.box) **`MD-`**
+	- [Hammer](https://github.com/Wavesonics/hammer-editor) **`MD`**
 ---
 ### [🖼️Photos](#applist-menu)
 - **Camera**
@@ -452,6 +452,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
 	- [Harmonic](https://play.google.com/store/apps/details?id=com.simon.harmonichackernews) **`MD-`**
 	- [Every Daily](https://pann.lanhuang.top/down.php/a3bc25e7e539af77463acea4411c26a1.apk) **`Full`**
 	- [MeRead](https://github.com/gvenusleo/meread) **`Full`**
+	- [Reader](https://github.com/msasikanth/reader) **`MD-`**
 - **Comics**
 	- [Tachiyomi](https://github.com/tachiyomiorg/tachiyomi) / [TachiyomiJ2K](https://github.com/Jays2Kings/tachiyomiJ2K) / [TachiyomiSY](https://github.com/Hero-Over/TachiyomiSY) **`Full` `Multi`**
 	- [Kotatsu](https://github.com/KotatsuApp/Kotatsu) **`Full` `Multi`**
@@ -488,6 +489,8 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
 	- [SubTotal](https://play.google.com/store/apps/details?id=partl.grandtotal) **`Full`**
 	- [Tasse Forfettario](https://play.google.com/store/apps/details?id=com.wakirox.adecotax) **`Full`**
 	- [Light Billing](https://www.coolapk.com/apk/kylec.me.lightbookkeeping) **`MD-`**
+	- [Keep Tally](https://github.com/123Duo3/KeepTally) **`Full`**
+	- [Celenganku](https://play.google.com/store/apps/details?id=id.celenganku.app) **`Full`**
 - **Virtual Currency**
 	- [PapriCoin](https://github.com/T8RIN/PapriCoin) **`Full`**
 	- [CoinTrend](https://github.com/CoinTrend/CoinTrend) **`MD`**
@@ -526,6 +529,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
 	- [Insigno](https://github.com/MindsHub/insigno_frontend) **`MD-` `Monet`**
 	- [Alpi Maps](https://github.com/Akylas/alpimaps) **`MD`**
 	- [OpenStop](https://github.com/OPENER-next/OpenStop) **`MD-`**
+	- [locus](https://github.com/Myzel394/locus) **`Full`**
 - **Shopping**
 	- [Grocy](https://github.com/patzly/grocy-android) **`Full` `Multi`**
 	- [Shopin](https://github.com/erdemklync/Shopin) **`MD`**
@@ -634,6 +638,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
    	- [iOSXPC Wallpapers](https://play.google.com/store/apps/details?id=com.iosxpc.wallpapers) **`Full`** 
    	- [EveryNASA](https://play.google.com/store/apps/details?id=ru.murzify.everynasa) **`MD`**
    	- [Stock Wallpapers](https://play.google.com/store/apps/details?id=com.phonewalls.stockwallpapers) **`Full`**
+   	- [Wallcanic Walls](https://play.google.com/store/apps/details?id=com.paradox.wallcanic) **`Full`**
 - **Icon Pack** 
    	- [Liquor](https://gaopengk.github.io/2022/08/26/%E6%9B%B4%E6%96%B0-Liquor-%E5%9B%BE%E6%A0%87/) **`Full`**
    	- [LawnIcons](https://www.apkmirror.com/apk/lawnchair/lawnicons/lawnicons-2-0-0-release/lawnicons-2-0-0-android-apk-download/) **`Full`**
@@ -981,6 +986,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
    	- [Lightmeter](https://github.com/vodemn/m3_lightmeter) **`Full`**
    	- [Secret Screenshots](https://play.google.com/store/apps/details?id=com.lware.secret_screenshots) **`MD`**
    	- [Drag and Drop Transfer Station Lite](https://gitee.com/Jesse205/DragAndDropTransferStationLite) **`Monet`**
+   	- [Textbender](https://github.com/elizagamedev/android-textbender) **`Monet`**
    	- [Sound Meter](https://play.google.com/store/apps/details?id=com.codeclickers.soundmeter) **`Full`**
    	- [Simple Thank You](https://github.com/SimpleMobileTools/Simple-Thank-You) **`Full`**
 ---
@@ -1090,7 +1096,8 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
    	- [Dolphin Emulator](https://github.com/dolphin-emu/dolphin) **`MD`**
    	- [Yuzu Emulator](https://github.com/yuzu-emu/yuzu) **`Full` `Multi`** 
 - **Instruments**    
-   	- [Metronome](https://github.com/Kr0oked/Metronome) **`MD-` `Monet`**    
+   	- [Metronome](https://github.com/Kr0oked/Metronome) **`MD-` `Monet`**
+   	- [Tuner](https://github.com/thetwom/Tuner) **`MD-` `Monet`**
 - **Small Games**    
    	- [Trivia You](https://github.com/Bnyro/TriviaYou) **`Full`**    
    	- [Randomix](https://github.com/m-i-n-a-r/randomix) **`Full`**    
