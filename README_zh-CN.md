@@ -138,23 +138,22 @@ Material Design 3伴随着Android 12而来。它的诞生，彻底改变了人�
 - [雹](https://github.com/aistra0528/Hail) **`Full` `Multi`**
 ## 🆕最近上新
 少女祈祷中…
-- [Alluring Iconpack](https://play.google.com/store/apps/details?id=com.arjunarora.alluring_iconpack) **`MD-` `Monet`**
-- [Glossy Blue Icons](https://play.google.com/store/apps/details?id=com.arjunarora.glossyblueicons) **`MD-` `Monet`**
-- [Wooden Icons](https://play.google.com/store/apps/details?id=com.arjunarora.woodenicons) **`MD-` `Monet`**
-- [Royale Blue Icons](https://play.google.com/store/apps/details?id=com.arjunarora.royaleblueicons) **`MD-` `Monet`**
-- [MemorizeApp](https://github.com/SuhasDissa/MemerizeApp) **`Full`**
-- [You Tune](https://github.com/SuhasDissa/You-Tune) **`TODO`**
-- [Sinhala Lyrics](https://github.com/SuhasDissa/Sinhala-Lyrics-App) **`Full`**
-- [SoftBoard](https://github.com/SuhasDissa/SoftBoard) **`TODO`**
-- **`NEW`** [DGIcons](https://t.me/MaterialYouAppsChat/2362) **`Full`**
-- **`NEW`** [知识库](https://www.coolapk.com/apk/com.start.now) **`MD-`**
-- **`NEW`** [卡片盒子](https://www.coolapk.com/apk/cards.putin.box) **`MD-`**
-- **`NEW`** [一条通知](https://www.coolapk.com/apk/cn.skyrin.ntfh) **`MD`**
-- **`NEW`** [一羽记账](https://www.coolapk.com/apk/kylec.me.lightbookkeeping) **`MD-`**
-- **`NEW`** [踟蹰](https://github.com/zsakvo/Kakunin-Mobile) **`Full`**
-- **`NEW`** [Maybe](https://xuaoyuyu.lanzoue.com/b02dz79jg) (密码dh8i) **`Full`**
-- **`NEW`** [RS Tool](https://misaka13766.lanzoup.com/idNa20xo6x6d) (密码ea85) **`MD`**
-- **`NEW`** [Yuzu Emulator](https://github.com/yuzu-emu/yuzu) **`Full` `Multi`** 
+- [卡片盒子](https://www.coolapk.com/apk/cards.putin.box) **`MD-`**
+- [一条通知](https://www.coolapk.com/apk/cn.skyrin.ntfh) **`MD`**
+- [一羽记账](https://www.coolapk.com/apk/kylec.me.lightbookkeeping) **`MD-`**
+- [踟蹰](https://github.com/zsakvo/Kakunin-Mobile) **`Full`**
+- [Maybe](https://xuaoyuyu.lanzoue.com/b02dz79jg) (密码dh8i) **`Full`**
+- [RS Tool](https://misaka13766.lanzoup.com/idNa20xo6x6d) (密码ea85) **`MD`**
+- **`NEW`** [Yuzu Emulator](https://github.com/yuzu-emu/yuzu) **`Full` `Multi`**
+- **`NEW`** [locus](https://github.com/Myzel394/locus) **`Full`**
+- **`NEW`** [Reader](https://github.com/msasikanth/reader) **`MD-`**
+- **`NEW`** [Tuner](https://github.com/thetwom/Tuner) **`MD-` `Monet`**
+- **`NEW`** [Textbender](https://github.com/elizagamedev/android-textbender) **`Monet`**
+- **`NEW`** [Justnotes](https://github.com/jjewuz/JustNotes) **`Full`**
+- **`NEW`** [Hammer](https://github.com/Wavesonics/hammer-editor) **`MD`**
+- **`NEW`** [持记](https://github.com/123Duo3/KeepTally) **`Full`**
+- **`NEW`** [Celenganku](https://play.google.com/store/apps/details?id=id.celenganku.app) **`Full`**
+- **`NEW`** [Wallcanic Walls](https://play.google.com/store/apps/details?id=com.paradox.wallcanic) **`Full`**
 ## 📱应用列表
 **点击标题即可回到目录XD**
 ### 🦖[谷歌应用](#目录)
@@ -388,6 +387,7 @@ Material Design 3伴随着Android 12而来。它的诞生，彻底改变了人�
 	- [Notes](https://play.google.com/store/apps/details?id=com.redmerah.notes) **`Full`**
 	- [Kubus Tasks](https://play.google.com/store/apps/details?id=com.ms.tasks) **`MD-`**
 	- [知识库](https://www.coolapk.com/apk/com.start.now) **`MD-`**
+	- [Justnotes](https://github.com/jjewuz/JustNotes) **`Full`**
 - **日记**
 	- [Graphite](https://play.google.com/store/apps/details?id=com.syncodec.graphite) **`MD`**
 	- [榴莲日记](https://www.coolapk.com/apk/com.weimu.duriandiary) **`MD`**
@@ -428,6 +428,7 @@ Material Design 3伴随着Android 12而来。它的诞生，彻底改变了人�
 	- [Project Management](https://play.google.com/store/apps/details?id=com.anafthdev.projectmanagement) **`Full`**
 	- [ilDoppiaggio](https://play.google.com/store/apps/details?id=app.wakirox.il_doppiaggio) **`MD-` `Monet`**
 	- [卡片盒子](https://www.coolapk.com/apk/cards.putin.box) **`MD-`**
+	- [Hammer](https://github.com/Wavesonics/hammer-editor) **`MD`**
 ---
 ## [🖼️图片摄像](#目录)
 - **相机**
@@ -489,6 +490,7 @@ Material Design 3伴随着Android 12而来。它的诞生，彻底改变了人�
 	- [Harmonic](https://play.google.com/store/apps/details?id=com.simon.harmonichackernews) **`MD-`**
 	- [每日早报](https://pann.lanhuang.top/down.php/a3bc25e7e539af77463acea4411c26a1.apk) **`Full`**
 	- [MeRead](https://github.com/gvenusleo/meread) **`Full`**
+	- [Reader](https://github.com/msasikanth/reader) **`MD-`**
 - **漫画/ACG图片浏览**
 	- [Tachiyomi](https://github.com/tachiyomiorg/tachiyomi) / [TachiyomiJ2K](https://github.com/Jays2Kings/tachiyomiJ2K) / [TachiyomiSY](https://github.com/Hero-Over/TachiyomiSY) **`Full` `Multi`**
 	- [Kotatsu](https://github.com/KotatsuApp/Kotatsu) **`Full` `Multi`**
@@ -525,6 +527,8 @@ Material Design 3伴随着Android 12而来。它的诞生，彻底改变了人�
 	- [Tasse Forfettario](https://play.google.com/store/apps/details?id=com.wakirox.adecotax) **`Full`**
 	- [SubTotal](https://play.google.com/store/apps/details?id=partl.grandtotal) **`Full`**
 	- [一羽记账](https://www.coolapk.com/apk/kylec.me.lightbookkeeping) **`MD-`**
+	- [Celenganku](https://play.google.com/store/apps/details?id=id.celenganku.app) **`Full`**
+	- [持记](https://github.com/123Duo3/KeepTally) **`Full`**
 - **虚拟货币**
 	- [PapriCoin](https://github.com/T8RIN/PapriCoin) **`Full`**
 	- [CoinTrend](https://github.com/CoinTrend/CoinTrend) **`MD`**
@@ -563,6 +567,7 @@ Material Design 3伴随着Android 12而来。它的诞生，彻底改变了人�
 	- [Insigno](https://github.com/MindsHub/insigno_frontend) **`MD-` `Monet`**
 	- [Alpi Maps](https://github.com/Akylas/alpimaps) **`MD`**
 	- [OpenStop](https://github.com/OPENER-next/OpenStop) **`MD-`**
+	- [locus](https://github.com/Myzel394/locus) **`Full`**
 - **购物**
 	- [Grocy](https://github.com/patzly/grocy-android) **`Full` `Multi`**
 	- [Shopin](https://github.com/erdemklync/Shopin) **`MD`**
@@ -671,6 +676,7 @@ Material Design 3伴随着Android 12而来。它的诞生，彻底改变了人�
    	- [iOSXPC Wallpapers](https://play.google.com/store/apps/details?id=com.iosxpc.wallpapers) **`Full`** 
    	- [EveryNASA](https://play.google.com/store/apps/details?id=ru.murzify.everynasa) **`MD`**
    	- [Stock Wallpapers](https://play.google.com/store/apps/details?id=com.phonewalls.stockwallpapers) **`Full`**
+   	- [Wallcanic Walls](https://play.google.com/store/apps/details?id=com.paradox.wallcanic) **`Full`**
 - **图标包**
    	- [Liquor](https://gaopengk.github.io/2022/08/26/%E6%9B%B4%E6%96%B0-Liquor-%E5%9B%BE%E6%A0%87/) **`Full`**
    	- [LawnIcons](https://www.apkmirror.com/apk/lawnchair/lawnicons/lawnicons-2-0-0-release/lawnicons-2-0-0-android-apk-download/) **`Full`**
@@ -1015,6 +1021,7 @@ Material Design 3伴随着Android 12而来。它的诞生，彻底改变了人�
    	- [Lightmeter](https://github.com/vodemn/m3_lightmeter) **`Full`**
    	- [Secret Screenshots](https://play.google.com/store/apps/details?id=com.lware.secret_screenshots) **`MD`**
    	- [Drag and Drop Transfer Station Lite](https://gitee.com/Jesse205/DragAndDropTransferStationLite) **`Monet`**
+   	- [Textbender](https://github.com/elizagamedev/android-textbender) **`Monet`**
    	- [Sound Meter](https://play.google.com/store/apps/details?id=com.codeclickers.soundmeter) **`Full`**
    	- [Simple Thank You](https://github.com/SimpleMobileTools/Simple-Thank-You) **`Full`**
 ---
@@ -1124,7 +1131,8 @@ Material Design 3伴随着Android 12而来。它的诞生，彻底改变了人�
    	- [Dolphin Emulator](https://github.com/dolphin-emu/dolphin) **`MD`** 
    	- [Yuzu Emulator](https://github.com/yuzu-emu/yuzu) **`Full` `Multi`** 
 - **乐器弹奏**
-   	- [Metronome](https://github.com/Kr0oked/Metronome) **`MD-` `Monet`**   
+   	- [Metronome](https://github.com/Kr0oked/Metronome) **`MD-` `Monet`**
+   	- [Tuner](https://github.com/thetwom/Tuner) **`MD-` `Monet`**  
 - **小游戏**
    	- [Trivia You](https://github.com/Bnyro/TriviaYou) **`Full`**    
    	- [Randomix](https://github.com/m-i-n-a-r/randomix) **`Full`**    
