@@ -321,6 +321,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
 	- [Simple Music Player](https://github.com/SimpleMobileTools/Simple-Music-Player) **`Full`**
 	- [Musify](https://github.com/gokadzev/Musify) **`Full`**
 	- [Pixel](https://play.google.com/store/apps/details?id=it.ncaferra.pixelplayerfree) **`Full`**
+	- [Vanilla Music](https://play.google.com/store/apps/details?id=com.kyant.vanilla) **`Full`**
 - **Podcasts**
 	- [Moon FM](https://play.google.com/store/apps/details?id=fm.moon.app) **`Monet`**
 	- [FocusPodcast](https://play.google.com/store/apps/details?id=allen.town.focus.podcast) **`Full` `Multi`**
