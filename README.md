@@ -38,9 +38,13 @@ However in fact, sometimes Material You refers to the application which (may onl
 - **`Full`** - App that **completely** follows Material Design 3, inclouding completely-used MD3 components and Dynamic Color.
 - **`Multi`** - App that is more friendly for diffent devices, such as pad and fold.
 - **`MOD`** - App that is modified by unoffical teams. Its original app doesn't apply Material You comepletely.
--  **`TODO`** - App that has no releases yet. You could preview it in its github repository.
+- **`TODO`** - App that has no releases yet. You could preview it in its github repository.
+- **`FOSS`** - App that is free and open-sourse.
+- **`💴`** - App that needs to pay to activate some features.
 
 Additionally, some of the apps are ~~crossed out~~ as I couldn't find their download link and couldn't experience them.
+
+*And then, the label **`FOSS`** & **`💴`** will be added step by step. I will finish it as soon as possible XD*
 
 |  | Fully Designed | Dynamic Color |
 |:-:|:-:|:-:|
