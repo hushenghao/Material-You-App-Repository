@@ -365,6 +365,7 @@ Material Design 3伴随着Android 12而来。它的诞生，彻底改变了人�
 	- [Simple Music Player](https://github.com/SimpleMobileTools/Simple-Music-Player) **`Full`**
 	- [Musify](https://github.com/gokadzev/Musify) **`Full`**
 	- [Pixel](https://play.google.com/store/apps/details?id=it.ncaferra.pixelplayerfree) **`Full`**
+	- [香草音乐](https://play.google.com/store/apps/details?id=com.kyant.vanilla) **`Full`**
 - **播客/电台**
 	- [FocusPodcast](https://play.google.com/store/apps/details?id=allen.town.focus.podcast) **`Full` `Multi`**
 	- [Moon FM](https://play.google.com/store/apps/details?id=fm.moon.app) **`Monet`**
