@@ -112,6 +112,7 @@ Additionally, some of the apps are ~~crossed out~~ as I couldn't find their down
 - **`NEW`** [Keep Tally](https://github.com/123Duo3/KeepTally) **`Full`**
 - **`NEW`** [Celenganku](https://play.google.com/store/apps/details?id=id.celenganku.app) **`Full`**
 - **`NEW`** [Wallcanic Walls](https://play.google.com/store/apps/details?id=com.paradox.wallcanic) **`Full`**
+- **`NEW`** [Koler](https://github.com/Chooloo/koler) **`Full`**
 ## 📱Applist
 **Now you could click the title to return to the applist menu!**
 ### 🦖[Google Apps](#applist-menu)
@@ -211,6 +212,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
 	- [Simple Dialer](https://github.com/SimpleMobileTools/Simple-Dialer) **`Full`**
 	- [Simple SMS Messenger](https://github.com/SimpleMobileTools/Simple-SMS-Messenger) **`Full`**
 	- WhatsApp Beta **`MD-`**
+	- [Koler](https://github.com/Chooloo/koler) **`Full`**
 - **Telegram**
 	- [MDgram](https://github.com/MDGramYou/MDGramYou) **`MD` `Multi`**
 	- [exteraGram](https://github.com/exteraSquad/exteraGram) **`MD-` `Multi`**
