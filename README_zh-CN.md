@@ -154,6 +154,7 @@ Material Design 3伴随着Android 12而来。它的诞生，彻底改变了人�
 - **`NEW`** [持记](https://github.com/123Duo3/KeepTally) **`Full`**
 - **`NEW`** [Celenganku](https://play.google.com/store/apps/details?id=id.celenganku.app) **`Full`**
 - **`NEW`** [Wallcanic Walls](https://play.google.com/store/apps/details?id=com.paradox.wallcanic) **`Full`**
+- **`NEW`** [Koler](https://github.com/Chooloo/koler) **`Full`**
 ## 📱应用列表
 **点击标题即可回到目录XD**
 ### 🦖[谷歌应用](#目录)
@@ -251,6 +252,7 @@ Material Design 3伴随着Android 12而来。它的诞生，彻底改变了人�
 	- [Simple Dialer](https://github.com/SimpleMobileTools/Simple-Dialer) **`Full`**
 	- [Simple SMS Messenger](https://github.com/SimpleMobileTools/Simple-SMS-Messenger) **`Full`**
 	- WhatsApp Beta **`MD-`**
+	- [Koler](https://github.com/Chooloo/koler) **`Full`**
 - **Telegram第三方**
 	- [MDgram](https://github.com/MDGramYou/MDGramYou) **`MD` `Multi`**
 	- [exteraGram](https://github.com/exteraSquad/exteraGram) **`MD-` `Multi`**
