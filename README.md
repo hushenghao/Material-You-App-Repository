@@ -117,6 +117,18 @@ Additionally, some of the apps are ~~crossed out~~ as I couldn't find their down
 - **`NEW`** [TermPlux](https://github.com/TermPlux/TermPlux-App) **`MD-` `Monet`**
 - **`NEW`** [Touch Find](https://play.google.com/store/apps/details?id=com.davesla.easyfind) **`Full`**
 - **`NEW`** [Echo](https://play.google.com/store/apps/details?id=com.niven.chat) **`MD`**
+- **`NEW`** [Hypatia](https://gitlab.com/divested-mobile/hypatia) **`Monet`**
+- **`NEW`** [Extripater](https://gitlab.com/divested-mobile/extirpater) **`Monet`**
+- **`NEW`** [Wulkanowy](https://github.com/wulkanowy/wulkanowy) **`MD-` `Monet`**
+- **`NEW`** [Leon](https://github.com/svenjacobs/leon) **`Full`**
+- **`NEW`** [Kitchen Owl](https://github.com/TomBursch/kitchenowl) **`MD-`**
+- **`NEW`** [SongTube](https://github.com/SongTube/SongTube-App) **`MD-`**
+- **`NEW`** [wX](https://gitlab.com/joshua.tee/wx) **`MD-`**
+- **`NEW`** [Cuppa](https://github.com/ncosgray/cuppa_mobile) **`Full`**
+- **`NEW`** [Stocks Widget](https://github.com/premnirmal/StockTicker) **`MD-` `Monet`**
+- **`NEW`** [KrypeEY](https://github.com/amnesica/KryptEY) **`Monet`**
+- **`NEW`** [Nekome](https://github.com/Chesire/Nekome) **`Full`**
+- **`NEW`** [Plex Manager](https://github.com/sikelio/plexmanager) **`MD-`**
 ## 📱Applist
 **Now you could click the title to return to the applist menu!**
 ### 🦖[Google Apps](#applist-menu)
@@ -290,7 +302,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
 	- [Bili You](https://github.com/lucinhu/bili_you) **`Full`**
 	- [Sakura Anime](https://github.com/670848654/SakuraAnime) **`Full`**
 	- [AGE](https://github.com/xihan123/AGE) **`MD-`**
-	- [Aniyomi](https://github.com/jmir1/aniyomi) **`Full` `Multi`**
+	- [Aniyomi](https://github.com/jmir1/aniyomi) **`MD-`**
 	- [NoFasel](https://github.com/N0-0NE-Dev/NoFasel) **`MD-` `Monet`**
 	- [DangoPlayer](https://github.com/brunochanrio/DangoPlayer) **`MD`**
 	- [Burning Series](https://github.com/DATL4G/Burning-Series) **`MD`**
@@ -525,6 +537,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
 	- [Textual Weather](https://play.google.com/store/apps/details?id=app.wakirox.rainy) **`Full`**
 	- [Nothing Weather](https://t.me/waifupx_official/205) **`Full` `MOD`**
 	- [JustWeather](https://github.com/jjewuz/JustWeather) **`Full` `Multi`**
+	- [wX](https://gitlab.com/joshua.tee/wx) **`MD-`**
 - **Maps/Navigation**
 	- [BTC Map](https://github.com/teambtcmap/btcmap-android) **`MD-`**
 	- [Tridenta](https://github.com/Stypox/tridenta) **`Full`**
@@ -540,6 +553,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
 - **Shopping**
 	- [Grocy](https://github.com/patzly/grocy-android) **`Full` `Multi`**
 	- [Shopin](https://github.com/erdemklync/Shopin) **`MD`**
+	- [Kitchen Owl](https://github.com/TomBursch/kitchenowl) **`MD-`**
 - **Recipe**
 	- [CTU Menza](https://github.com/Lastaapps/menza) **`Full` `Multi`**   
 	- [CookHelper](https://github.com/T8RIN/CookHelper) **`Full`**
@@ -575,6 +589,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
    	- [Atomic](https://github.com/JLindemann42/Atomic-Periodic-Table.Android) **`Full`**
    	- [English with Lidia Plus](https://github.com/D4rK7355608/com.d4rk.englishwithlidia.plus) **`Full`**
    	- [reSentral](https://github.com/JumpyJacko/resentral_flutter) **`MD`**
+   	- [Wulkanowy](https://github.com/wulkanowy/wulkanowy) **`MD-` `Monet`**
 - **Tracking Services**
 	- [MyACG](https://1drv.ms/u/s!Atk49Scq_BtYhGnlrCISLKe5fG3A?e=BIvlj6) **`MD`**
 	- [Cinexplore](https://play.google.com/store/apps/details?id=com.fidloo.cinexplore) **`Full` `Multi`**
@@ -592,6 +607,9 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
 	- [Moviebase](https://play.google.com/store/apps/details?id=com.moviebase) **`MD-`**
 	- [BookMan](https://play.google.com/store/apps/details?id=com.anafthdev.bookman) **`Full`**
 	- [AniHyou](https://github.com/axiel7/AniHyou-android) **`Full`**
+	- [Nekome](https://github.com/Chesire/Nekome) **`Full`**
+- **Stocks**
+   	- [Stocks Widget](https://github.com/premnirmal/StockTicker) **`MD-` `Monet`**
 - **Others**
    	- [OpenBl](https://github.com/Ounzy/OpenBl) **`Full`**   
    	- [openHAB](https://github.com/openhab/openhab-android) / [LogViewer for openHAB-App](https://github.com/cyb3rko/logviewer-for-openhab-app) **`Full`**
@@ -653,7 +671,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
    	- [Bar](https://www.coolapk.com/apk/com.bar.iconpack) **`Full`**    
    	- [Cayicons](https://www.coolapk.com/apk/app.lawnchair.lawnicons) **`Full`**    
    	- [Pix Material You Icons](https://play.google.com/store/apps/details?id=com.pashapuma.pix.material.you.iconpack) **`Full`**    
-   	- [Pix You Dark Android Icon Pack](https://play.google.com/store/apps/details?id=com.arjunarora.pix_you_cornflower_dark_icons) **`Full`*    
+   	- [Pix You Dark Android Icon Pack](https://play.google.com/store/apps/details?id=com.arjunarora.pix_you_cornflower_dark_icons) **`Full`**    
    	- [Pix Material You Light/Dark](https://play.google.com/store/apps/details?id=com.pashapuma.pix.material.you.dark) **`Full`**    
    	- [Pix Material Colors Icon Pack](https://play.google.com/store/apps/details?id=com.pashapuma.pix.material.color) **`Full`**    
    	- [Themed Icons](https://play.google.com/store/apps/details?id=rk.android.app.themedicons) **`MD-` `Monet`**    
@@ -768,6 +786,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
    	- [AstraCrypt](https://play.google.com/store/apps/details?id=com.nevidimka655.astracrypt) **`Full`**
    	- [Crypto](https://play.google.com/store/apps/details?id=com.kokoschka.michael.crypto) **`Full`**
    	- [AnonAddy](https://gitlab.com/Stjin/anonaddy-android) **`MD`**
+   	- [Hypatia](https://gitlab.com/divested-mobile/hypatia) **`Monet`**
 - **Equalizer**
    	- [Wavelet](https://github.com/Pittvandewitt/Wavelet) **`Full`**
    	- [ViperFX RE](https://t.me/WSTprojects/1567) **`Full`**  
@@ -809,6 +828,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
    	- [SD Maid SE](https://github.com/d4rken-org/sdmaid-se) **`MD`**    
    	- [Cleaner Plus](https://github.com/D4rK7355608/com.d4rk.cleaner.plus) **`Full`**
    	- [Cleaner](https://github.com/MaterialCleaner/MaterialCleaner) **`Full`**
+   	- [Extripater](https://gitlab.com/divested-mobile/extirpater) **`Monet`**
 - **Logger/Feedback**   
    	- [logfox](https://github.com/F0x1d/LogFox) **`Full`**    
    	- [logra](https://github.com/wingio/Logra) **`Full`**    
@@ -818,6 +838,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
    	- [LinkSheet](https://github.com/1fexd/LinkSheet) **`Full`**    
    	- [My Link Manager](https://play.google.com/store/apps/details?id=com.michaelflisar.linkmanager) **`MD-` `Monet`**
    	- [Tarnhelm](https://github.com/Xposed-Modules-Repo/cn.ac.lz233.tarnhelm) **`Full` `Multi`** 
+   	- [Leon](https://github.com/svenjacobs/leon) **`Full`**
 - **Installer**    
    	- [InstallerX](https://github.com/iamr0s/InstallerX) **`Full` `Multi`**    
    	- [APK Installer](https://wwfb.lanzoue.com/iZRpF0rbj1ba?p) **`Full`**    
@@ -853,8 +874,9 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
    	- [Spowlo](https://github.com/BobbyESP/Spowlo) **`Full`**    
    	- [Revanced Manager](https://github.com/revanced/revanced-manager) **`Full`**    
    	- [AliucordRN](https://github.com/Aliucord/AliucordRN) **`Full`**    
-   	- [Vendetta Manager](https://github.com/vendetta-mod/VendettaManager) **`Full`**    
-   	- [BiTGApps](https://bitgapps.io/app) **`Full`**    
+   	- [Vendetta Manager](https://github.com/vendetta-mod/VendettaManager) **`Full`** 
+   	- [BiTGApps](https://bitgapps.io/app) **`Full`**
+   	- [SongTube](https://github.com/SongTube/SongTube-App) **`MD-`**
 - **Resources Search Tool/NetDisks**   
    	- [Magic Search](https://www.123pan.com/s/izDSVv-0JQWA) **`MD` `Multi`**   
    	- [Hunhepan](https://hunhepan.com/) **`MD`**    
@@ -870,6 +892,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
    	- [thumb-key](https://github.com/dessalines/thumb-key) **`Full`**    
    	- [Rkkr's Simple Keyboard](https://github.com/rkkr/simple-keyboard) **`Monet`**
    	- [Remote Numpad](https://github.com/theolizard/remote-numpad) **`MD-` `Monet`** 
+   	- [KrypeEY](https://github.com/amnesica/KryptEY) **`Monet`**
 - **Calculator**   
    	- [yetCalc](https://github.com/Yet-Zio/yetCalc) **`MD-` `Monet` `Multi`**    
    	- [Unitto](https://github.com/sadellie/unitto) **`Full` `Multi`**    
@@ -912,7 +935,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
    	- [Timer +X](https://gitlab.com/humbertofraga/timerx) **`MD-`**    
    	- [Clock You](https://github.com/Bnyro/ClockYou) **`Full`**    
    	- [Floattime](https://www.coolapk.com/apk/com.kimger.floattime) **`MD-`**    
-   	- [Simple Clock](https://github.com/SimpleMobileTools/Simple-Clock) **`Full`**    
+   	- [Simple Clock](https://github.com/SimpleMobileTools/Simple-Clock) **`Full`** 
    	- [Workout Timer](https://play.google.com/store/apps/details?id=com.paget96.workouttimer) **`Full`**    
    	- [Cofi](https://github.com/rozPierog/Cofi) **`Full` `Multi`**    
    	- [Floating Timer](https://github.com/tberghuis/FloatingCountdownTimer) **`Full`**   
@@ -920,6 +943,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
    	- [Stopwatch](https://play.google.com/store/apps/details?id=com.redmerah.stopwatch) **`MD`**
    	- [Atomic Clock](https://play.google.com/store/apps/details?id=partl.atomicclock) **`Full`**
    	- [Working Rours](https://play.google.com/store/apps/details?id=partl.workinghours) **`Full`**
+   	- [Cuppa](https://github.com/ncosgray/cuppa_mobile) **`Full`**
 - **Compass**    
    	- [Compass](https://github.com/Kr0oked/Compass) **`MD-` `Monet`**  
 - **2FA**
@@ -1005,7 +1029,8 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
    	- [My Server Status](https://github.com/JGeek00/my-server-status-app) **`Full`**    
    	- [DroidHole](https://github.com/JGeek00/droid-hole) **`Full`**    
    	- [DaRemote](https://play.google.com/store/apps/details?id=com.deskangel.daremote) **`Full`**    
-   	- [Tremotesf](https://github.com/equeim/tremotesf-android) **`Monet`**    
+   	- [Tremotesf](https://github.com/equeim/tremotesf-android) **`Monet`**  
+   	- [Plex Manager](https://github.com/sikelio/plexmanager) **`MD-`**  
 - **Componets & Demo**    
    	- [Monet Color Previewer](https://github.com/Smooth-E/monet-color-previewer) **`Full`**    
    	- [Material Components Gallery](https://github.com/NUmeroAndDev/MaterialGallery-android) **`Full`**    
