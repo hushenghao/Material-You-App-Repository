@@ -101,22 +101,22 @@ Additionally, some of the apps are ~~crossed out~~ as I couldn't find their down
 - [InstallerX](https://github.com/iamr0s/InstallerX) **`Full` `Multi`**
 - [Hail](https://github.com/aistra0528/Hail) **`Full` `Multi`**
 ## 🆕Newly Added Apps
-- [One Nofication](https://www.coolapk.com/apk/cn.skyrin.ntfh) **`MD`**
-- [Light Billing](https://www.coolapk.com/apk/kylec.me.lightbookkeeping) **`MD-`**
-- [Kakunin](https://github.com/zsakvo/Kakunin-Mobile) **`Full`**
 - [Maybe](https://1drv.ms/u/s!Atk49Scq_BtYhHpVn8A3ZDu-aKHX?e=51dtFM) **`Full`**
 - [RS Tool](https://1drv.ms/u/s!Atk49Scq_BtYhHsoHNUSMxfYyauF?e=AeEWov) **`MD`**
-- **`NEW`** [Yuzu Emulator](https://github.com/yuzu-emu/yuzu) **`Full` `Multi`** 
-- **`NEW`** [locus](https://github.com/Myzel394/locus) **`Full`**
-- **`NEW`** [Reader](https://github.com/msasikanth/reader) **`MD-`**
-- **`NEW`** [Tuner](https://github.com/thetwom/Tuner) **`MD-` `Monet`**
-- **`NEW`** [Textbender](https://github.com/elizagamedev/android-textbender) **`Monet`**
-- **`NEW`** [Justnotes](https://github.com/jjewuz/JustNotes) **`Full`**
-- **`NEW`** [Hammer](https://github.com/Wavesonics/hammer-editor) **`MD`**
-- **`NEW`** [Keep Tally](https://github.com/123Duo3/KeepTally) **`Full`**
-- **`NEW`** [Celenganku](https://play.google.com/store/apps/details?id=id.celenganku.app) **`Full`**
-- **`NEW`** [Wallcanic Walls](https://play.google.com/store/apps/details?id=com.paradox.wallcanic) **`Full`**
-- **`NEW`** [Koler](https://github.com/Chooloo/koler) **`Full`**
+- [Yuzu Emulator](https://github.com/yuzu-emu/yuzu) **`Full` `Multi`** 
+- [locus](https://github.com/Myzel394/locus) **`Full`**
+- [Reader](https://github.com/msasikanth/reader) **`MD-`**
+- [Tuner](https://github.com/thetwom/Tuner) **`MD-` `Monet`**
+- [Textbender](https://github.com/elizagamedev/android-textbender) **`Monet`**
+- [Justnotes](https://github.com/jjewuz/JustNotes) **`Full`**
+- [Hammer](https://github.com/Wavesonics/hammer-editor) **`MD`**
+- [Keep Tally](https://github.com/123Duo3/KeepTally) **`Full`**
+- [Celenganku](https://play.google.com/store/apps/details?id=id.celenganku.app) **`Full`**
+- [Wallcanic Walls](https://play.google.com/store/apps/details?id=com.paradox.wallcanic) **`Full`**
+- [Koler](https://github.com/Chooloo/koler) **`Full`**
+- **`NEW`** [TermPlux](https://github.com/TermPlux/TermPlux-App) **`MD-` `Monet`**
+- **`NEW`** [Touch Find](https://play.google.com/store/apps/details?id=com.davesla.easyfind) **`Full`**
+- **`NEW`** [Echo](https://play.google.com/store/apps/details?id=com.niven.chat) **`MD`**
 ## 📱Applist
 **Now you could click the title to return to the applist menu!**
 ### 🦖[Google Apps](#applist-menu)
@@ -689,6 +689,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
    	- [Nothing KWGT](https://play.google.com/store/apps/details?id=nothing.cnt.kwgt) **`MD-` `Monet`**
    	- [Lalitham](https://play.google.com/store/apps/details?id=com.novelijk.lalitham) **`Monet`**
    	- [Android12 Weather Widget](https://play.google.com/store/apps/details?id=twelve.weather.mibrahim) **`MD-` `Monet`**
+   	- [Touch Find](https://play.google.com/store/apps/details?id=com.davesla.easyfind) **`Full`**
 - **Dynamic Island**    
    	- [MaterialYou-Dynamic-Island](https://github.com/Angel-Studio/MaterialYou-Dynamic-Island) **`Full`**    
    	- [Pixel Island](https://drive.google.com/drive/folders/1j1eWY73Zuq43kYHF6Qdjton8LZ02pA1C) **`Full`**    
@@ -961,6 +962,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
    	- [Sense](https://github.com/F0x1d/Sense) **`Full`**  
    	- [Stable Difusion AI](https://play.google.com/store/apps/details?id=com.shifthackz.aisdv1.app) **`Full`**
    	- [NeoGPT](https://play.google.com/store/apps/details?id=com.lware.neogpt) **`MD`**
+   	- [Echo](https://play.google.com/store/apps/details?id=com.niven.chat) **`MD`**
 - **AutoClicker**    
    	- [TapTap](https://github.com/KieronQuinn/TapTap) **`Full`**    
    	- [Auto Tasker](https://www.coolapk.com/apk/top.xjunz.tasker) **`MD`**    
@@ -1031,6 +1033,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
    	- [Windmill](https://www.coolapk.com/apk/com.agyer.windmill) **`Full` `Multi`**
    	- [Zoho Apptics](https://play.google.com/store/apps/details?id=com.zoho.apptics) **`MD-` `Monet`**
    	- [Maybe](https://1drv.ms/u/s!Atk49Scq_BtYhHpVn8A3ZDu-aKHX?e=51dtFM) **`Full`**
+   	- [TermPlux](https://github.com/TermPlux/TermPlux-App) **`MD-` `Monet`**
 ---
 ### [#️⃣Root/ADB](#applist-menu)
 - **Manager**   
