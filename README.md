@@ -298,7 +298,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
 	- [Symfonium](https://play.google.com/store/apps/details?id=app.symfonik.music.player) **`MD`**
 	- [Yatse](https://play.google.com/store/apps/details?id=org.leetzone.android.yatsewidgetfree) **`Full` `Multi`**
 	- [Drive Stream](https://github.com/itszechs/DriveStream) **`MD`**
-- **Onling Videos Services**
+- **Online Videos Services**
 	- [Bili You](https://github.com/lucinhu/bili_you) **`Full`**
 	- [Sakura Anime](https://github.com/670848654/SakuraAnime) **`Full`**
 	- [AGE](https://github.com/xihan123/AGE) **`MD-`**
