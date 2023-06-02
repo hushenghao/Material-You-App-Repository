@@ -340,7 +340,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
 	- [AntennaPod](https://github.com/AntennaPod/AntennaPod) **`Full`**
 	- [URL Radio](https://github.com/jamal2362/URL-Radio) **`Full`**
 	- [Escapepod](https://codeberg.org/y20k/escapepod) **`Full`**
-	- [Turlecast](https://play.google.com/store/apps/details?id=com.bluckapps.turtlecast) **`MD-`**
+	- [Turtlecast](https://play.google.com/store/apps/details?id=com.bluckapps.turtlecast) **`MD-`**
 - **Lives**
 	- [Hotlive](https://github.com/Jackiu1997/hot_live) **`Full`**
 	- [Purelive](https://github.com/Jackiu1997/pure_live/) **`Full` `Multi`**
