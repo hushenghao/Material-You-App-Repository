@@ -990,8 +990,7 @@ Material Design 3伴随着Android 12而来。它的诞生，彻底改变了人�
    	- [Warpinator](https://github.com/slowscript/warpinator-android) **`MD-` `Monet`**    
    	- [Arc](https://play.google.com/store/apps/details?id=com.quadren.arc) **`Full`**    
    	- [FnSync](https://www.coolapk.com/apk/holmium.fnsync.ngp) **`Full`**    
-   	- [LocalSend](https://github.com/localsend/localsend) **`Full
-   	- ` `Multi`**    
+   	- [LocalSend](https://github.com/localsend/localsend) **`Full` `Multi`**    
    	- [Octi](https://github.com/d4rken-org/octi) **`MD-` `Monet`**    
    	- [Photon](https://github.com/abhi16180/photon) **`MD-`**    
    	- [KDE Connect](https://invent.kde.org/network/kdeconnect-android) **`Full` `Multi`**   
