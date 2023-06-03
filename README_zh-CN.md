@@ -467,7 +467,7 @@ Material Design 3伴随着Android 12而来。它的诞生，彻底改变了人�
 ## [🌐浏览器](#目录)
 - [FOSS Browser](https://github.com/scoute-dich/browser) **`Full` `Multi`**
 - [Stage浏览器](https://github.com/thalloerupt/stage2) **`Full` `Multi`**
-- [狐猴浏览器](https://play.google.com/store/apps/details?id=com.lemurbrowser.exts) **`Full` `Multi`**
+- [狐猴浏览器](https://play.google.com/store/apps/details?id=com.lemurbrowser.exts) (仅在设置页可见取色) **`Full` `Multi`**
 - [Kiwi Browser](https://github.com/kiwibrowser/src) **`Full` `Multi`**
 - [Hermit](https://play.google.com/store/apps/details?id=com.chimbori.hermitcrab) **`Full` `Multi`**
 - [Thor](https://gitlab.com/remmer.wilts/thor) **`MD-` `Multi`**
