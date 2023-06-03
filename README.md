@@ -424,7 +424,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
 ### [🌐Browser](#applist-menu)
 - [FOSS Browser](https://github.com/scoute-dich/browser) **`Full` `Multi`**
 - [Stage Browser](https://github.com/thalloerupt/stage2) **`Full` `Multi`**
-- [Lemur Browser](https://play.google.com/store/apps/details?id=com.lemurbrowser.exts) **`Full` `Multi`**
+- [Lemur Browser](https://play.google.com/store/apps/details?id=com.lemurbrowser.exts) (Monet in settings only) **`Full` `Multi`**
 - [Kiwi Browser](https://github.com/kiwibrowser/src) **`Full` `Multi`**
 - [Hermit](https://play.google.com/store/apps/details?id=com.chimbori.hermitcrab) **`Full` `Multi`**
 - [Thor](https://gitlab.com/remmer.wilts/thor) **`MD-` `Multi`**
