@@ -475,7 +475,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
 	- [CopyManga](https://github.com/shizheng233/PicacgMaterial3/stargazers) **`Full`**
 	- [HACG](https://github.com/shizheng233/HACG) **`Full`**
 	- [CopyMangaX](https://github.com/CrowForKotlin/CopyMangaX) **`MD`**
-	- [NoyAcg](https://noy.asia/) **`MD-`*
+	- [NoyAcg](https://noy.asia/) **`MD-`**
 ---
 ### [🌦️Daily Life](#applist-menu)
 - **Wallets/Billing**
