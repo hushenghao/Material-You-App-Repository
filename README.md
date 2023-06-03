@@ -101,34 +101,21 @@ Additionally, some of the apps are ~~crossed out~~ as I couldn't find their down
 - [InstallerX](https://github.com/iamr0s/InstallerX) **`Full` `Multi`**
 - [Hail](https://github.com/aistra0528/Hail) **`Full` `Multi`**
 ## 🆕Newly Added Apps
-- [Maybe](https://1drv.ms/u/s!Atk49Scq_BtYhHpVn8A3ZDu-aKHX?e=51dtFM) **`Full`**
-- [RS Tool](https://1drv.ms/u/s!Atk49Scq_BtYhHsoHNUSMxfYyauF?e=AeEWov) **`MD`**
-- [Yuzu Emulator](https://github.com/yuzu-emu/yuzu) **`Full` `Multi`** 
-- [locus](https://github.com/Myzel394/locus) **`Full`**
-- [Reader](https://github.com/msasikanth/reader) **`MD-`**
-- [Tuner](https://github.com/thetwom/Tuner) **`MD-` `Monet`**
-- [Textbender](https://github.com/elizagamedev/android-textbender) **`Monet`**
-- [Justnotes](https://github.com/jjewuz/JustNotes) **`Full`**
-- [Hammer](https://github.com/Wavesonics/hammer-editor) **`MD`**
-- [Keep Tally](https://github.com/123Duo3/KeepTally) **`Full`**
-- [Celenganku](https://play.google.com/store/apps/details?id=id.celenganku.app) **`Full`**
-- [Wallcanic Walls](https://play.google.com/store/apps/details?id=com.paradox.wallcanic) **`Full`**
-- [Koler](https://github.com/Chooloo/koler) **`Full`**
-- **`NEW`** [TermPlux](https://github.com/TermPlux/TermPlux-App) **`MD-` `Monet`**
-- **`NEW`** [Touch Find](https://play.google.com/store/apps/details?id=com.davesla.easyfind) **`Full`**
-- **`NEW`** [Echo](https://play.google.com/store/apps/details?id=com.niven.chat) **`MD`**
-- **`NEW`** [Hypatia](https://gitlab.com/divested-mobile/hypatia) **`Monet`**
-- **`NEW`** [Extripater](https://gitlab.com/divested-mobile/extirpater) **`Monet`**
-- **`NEW`** [Wulkanowy](https://github.com/wulkanowy/wulkanowy) **`MD-` `Monet`**
-- **`NEW`** [Leon](https://github.com/svenjacobs/leon) **`Full`**
-- **`NEW`** [Kitchen Owl](https://github.com/TomBursch/kitchenowl) **`MD-`**
-- **`NEW`** [SongTube](https://github.com/SongTube/SongTube-App) **`MD-`**
-- **`NEW`** [wX](https://gitlab.com/joshua.tee/wx) **`MD-`**
-- **`NEW`** [Cuppa](https://github.com/ncosgray/cuppa_mobile) **`Full`**
-- **`NEW`** [Stocks Widget](https://github.com/premnirmal/StockTicker) **`MD-` `Monet`**
-- **`NEW`** [KrypeEY](https://github.com/amnesica/KryptEY) **`Monet`**
-- **`NEW`** [Nekome](https://github.com/Chesire/Nekome) **`Full`**
-- **`NEW`** [Plex Manager](https://github.com/sikelio/plexmanager) **`MD-`**
+- [Touch Find](https://play.google.com/store/apps/details?id=com.davesla.easyfind) **`Full`**
+- [Echo](https://play.google.com/store/apps/details?id=com.niven.chat) **`MD`**
+- [Hypatia](https://gitlab.com/divested-mobile/hypatia) **`Monet`**
+- [Extripater](https://gitlab.com/divested-mobile/extirpater) **`Monet`**
+- [Wulkanowy](https://github.com/wulkanowy/wulkanowy) **`MD-` `Monet`**
+- [Leon](https://github.com/svenjacobs/leon) **`Full`**
+- [Kitchen Owl](https://github.com/TomBursch/kitchenowl) **`MD-`**
+- [SongTube](https://github.com/SongTube/SongTube-App) **`MD-`**
+- [wX](https://gitlab.com/joshua.tee/wx) **`MD-`**
+- [Cuppa](https://github.com/ncosgray/cuppa_mobile) **`Full`**
+- [Stocks Widget](https://github.com/premnirmal/StockTicker) **`MD-` `Monet`**
+- [KrypeEY](https://github.com/amnesica/KryptEY) **`Monet`**
+- [Nekome](https://github.com/Chesire/Nekome) **`Full`**
+- [Plex Manager](https://github.com/sikelio/plexmanager) **`MD-`**
+- **`NEW`** [WS Proxy](https://gitlab.com/Nekogram/wsproxy) **`Full`**
 ## 📱Applist
 **Now you could click the title to return to the applist menu!**
 ### 🦖[Google Apps](#applist-menu)
@@ -963,7 +950,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
    	- [Warpinator](https://github.com/slowscript/warpinator-android) **`MD-` `Monet`**    
    	- [Arc](https://play.google.com/store/apps/details?id=com.quadren.arc) **`Full`**    
    	- [FnSync](https://www.coolapk.com/apk/holmium.fnsync.ngp) **`Full`**    
-   	- [LocalSend](https://github.com/localsend/localsend) **`MD` `Multi`**    
+   	- [LocalSend](https://github.com/localsend/localsend) **`Full` `Multi`**    
    	- [Octi](https://github.com/d4rken-org/octi) **`MD-` `Monet`**    
    	- [Photon](https://github.com/abhi16180/photon) **`MD-`**    
    	- [KDE Connect](https://invent.kde.org/network/kdeconnect-android) **`Full` `Multi`**    
@@ -1002,9 +989,10 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
    	- [Voyage Toolbox](https://1drv.ms/u/s!Atk49Scq_BtYhGh4H5XMwB_QVDKK?e=uogimG) **`Full`**    
    	- [Xiaobu Toolbox](https://www.coolapk1s.com/feed/45145335) **`Full`**
    	- [Sevendots Toolbox](https://1drv.ms/u/s!Atk49Scq_BtYhHkWJxcDuAPY25PZ?e=l89paX) **`Full`**  
-- **VPN**
+- **Proxy**
    	- [Surfboard](https://play.google.com/store/apps/details?id=com.getsurfboard) **`Full` `Multi`**
    	- [WireGuard](https://git.zx2c4.com/wireguard-android/) **`Full`**
+   	- [WS Proxy](https://gitlab.com/Nekogram/wsproxy) **`Full`**
 - **Others**    
    	- [TSViewer](https://github.com/BlazeCodeDev/TSViewer) **`Full`**    
    	- [Easter Eggs](https://play.google.com/store/apps/details?id=com.dede.android_eggs) **`Full`**    
