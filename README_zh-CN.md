@@ -148,33 +148,21 @@ Material Design 3伴随着Android 12而来。它的诞生，彻底改变了人�
 - [雹](https://github.com/aistra0528/Hail) **`Full` `Multi`**
 ## 🆕最近上新
 少女祈祷中…
-- [Maybe](https://xuaoyuyu.lanzoue.com/b02dz79jg) (密码dh8i) **`Full`**
-- [RS Tool](https://misaka13766.lanzoup.com/idNa20xo6x6d) (密码ea85) **`MD`**
-- [Yuzu Emulator](https://github.com/yuzu-emu/yuzu) **`Full` `Multi`**
-- [locus](https://github.com/Myzel394/locus) **`Full`**
-- [Reader](https://github.com/msasikanth/reader) **`MD-`**
-- [Tuner](https://github.com/thetwom/Tuner) **`MD-` `Monet`**
-- [Textbender](https://github.com/elizagamedev/android-textbender) **`Monet`**
-- [Justnotes](https://github.com/jjewuz/JustNotes) **`Full`**
-- [Hammer](https://github.com/Wavesonics/hammer-editor) **`MD`**
-- [持记](https://github.com/123Duo3/KeepTally) **`Full`**
-- [Celenganku](https://play.google.com/store/apps/details?id=id.celenganku.app) **`Full`**
-- [Wallcanic Walls](https://play.google.com/store/apps/details?id=com.paradox.wallcanic) **`Full`**
-- [Koler](https://github.com/Chooloo/koler) **`Full`**
-- **`NEW`** [TermPlux](https://github.com/TermPlux/TermPlux-App) **`MD-` `Monet`**
-- **`NEW`** [Touch Find](https://play.google.com/store/apps/details?id=com.davesla.easyfind) **`Full`**
-- **`NEW`** [Echo](https://play.google.com/store/apps/details?id=com.niven.chat) **`MD`**
-- **`NEW`** [Extripater](https://gitlab.com/divested-mobile/extirpater) **`Monet`**
-- **`NEW`** [Wulkanowy](https://github.com/wulkanowy/wulkanowy) **`MD-` `Monet`**
-- **`NEW`** [Leon](https://github.com/svenjacobs/leon) **`Full`**
-- **`NEW`** [Kitchen Owl](https://github.com/TomBursch/kitchenowl) **`MD-`**
-- **`NEW`** [SongTube](https://github.com/SongTube/SongTube-App) **`MD-`**
-- **`NEW`** [wX](https://gitlab.com/joshua.tee/wx) **`MD-`**
-- **`NEW`** [Cuppa](https://github.com/ncosgray/cuppa_mobile) **`Full`**
-- **`NEW`** [Stocks Widget](https://github.com/premnirmal/StockTicker) **`MD-` `Monet`**
-- **`NEW`** [KrypeEY](https://github.com/amnesica/KryptEY) **`Monet`**
-- **`NEW`** [Nekome](https://github.com/Chesire/Nekome) **`Full`**
-- **`NEW`** [Plex Manager](https://github.com/sikelio/plexmanager) **`MD-`**
+- [Touch Find](https://play.google.com/store/apps/details?id=com.davesla.easyfind) **`Full`**
+- [Echo](https://play.google.com/store/apps/details?id=com.niven.chat) **`MD`**
+- [Hypatia](https://gitlab.com/divested-mobile/hypatia) **`Monet`**
+- [Extripater](https://gitlab.com/divested-mobile/extirpater) **`Monet`**
+- [Wulkanowy](https://github.com/wulkanowy/wulkanowy) **`MD-` `Monet`**
+- [Leon](https://github.com/svenjacobs/leon) **`Full`**
+- [Kitchen Owl](https://github.com/TomBursch/kitchenowl) **`MD-`**
+- [SongTube](https://github.com/SongTube/SongTube-App) **`MD-`**
+- [wX](https://gitlab.com/joshua.tee/wx) **`MD-`**
+- [Cuppa](https://github.com/ncosgray/cuppa_mobile) **`Full`**
+- [Stocks Widget](https://github.com/premnirmal/StockTicker) **`MD-` `Monet`**
+- [KrypeEY](https://github.com/amnesica/KryptEY) **`Monet`**
+- [Nekome](https://github.com/Chesire/Nekome) **`Full`**
+- [Plex Manager](https://github.com/sikelio/plexmanager) **`MD-`**
+- **`NEW`** [WS Proxy](https://gitlab.com/Nekogram/wsproxy) **`Full`**
 ## 📱应用列表
 **点击标题即可回到目录XD**
 ### 🦖[谷歌应用](#目录)
@@ -1002,7 +990,8 @@ Material Design 3伴随着Android 12而来。它的诞生，彻底改变了人�
    	- [Warpinator](https://github.com/slowscript/warpinator-android) **`MD-` `Monet`**    
    	- [Arc](https://play.google.com/store/apps/details?id=com.quadren.arc) **`Full`**    
    	- [FnSync](https://www.coolapk.com/apk/holmium.fnsync.ngp) **`Full`**    
-   	- [LocalSend](https://github.com/localsend/localsend) **`MD` `Multi`**    
+   	- [LocalSend](https://github.com/localsend/localsend) **`Full
+   	- ` `Multi`**    
    	- [Octi](https://github.com/d4rken-org/octi) **`MD-` `Monet`**    
    	- [Photon](https://github.com/abhi16180/photon) **`MD-`**    
    	- [KDE Connect](https://invent.kde.org/network/kdeconnect-android) **`Full` `Multi`**   
@@ -1039,11 +1028,12 @@ Material Design 3伴随着Android 12而来。它的诞生，彻底改变了人�
    	- [downmi](https://play.google.com/store/apps/details?id=xyz.izadi.downmi2) **`Full`**
 - **多功能工具箱**
    	- [远航工具箱](https://wwqv.lanzout.com/iHKDj0skeiub) (密码2bhy) **`Full`**
-   	- [小布百宝箱](https://www.coolapk1s.com/feed/45145335?shareKey=YjRlMjU2M2JlMDhlNjQ0YTcwODA~&shareUid=26677673&shareFrom=com.coolapk.market_13.1.3) **`Full`**
+   	- [小布百宝箱](https://www.coolapk1s.com/feed/45145335) **`Full`**
    	- [七点工具箱](https://wwja.lanzoub.com/iLTin0x3rjzi) **`Full`**
-- **VPN**
+- **代理工具**
    	- [Surfboard](https://play.google.com/store/apps/details?id=com.getsurfboard) **`Full` `Multi`**
    	- [WireGuard](https://git.zx2c4.com/wireguard-android/) **`Full`**
+   	- [WS Proxy](https://gitlab.com/Nekogram/wsproxy) **`Full`**
 - **其他**
    	- [TSViewer](https://github.com/BlazeCodeDev/TSViewer) **`Full`**    
    	- [Easter Eggs](https://play.google.com/store/apps/details?id=com.dede.android_eggs) **`Full`**    
