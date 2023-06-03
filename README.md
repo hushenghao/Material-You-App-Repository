@@ -1162,8 +1162,6 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
 - [MIUI Monet Project](https://t.me/MIUIMonetUpdate)
 - [How to make apps support Dynamic Color by yourself](https://www.coolapk1s.com/feed/38873051)
 ## 🫠Epilogue
-This repository is originated from this [applist](https://chemical-soap-be1.notion.site/Material-You-e6194409c46d44419c70a1c68ca3e278) in Chinese. If you're interested in it, you could follow it!
-
-In fact, as I'm not good at decorating this repository as nyas1, the interface may looks very ugly qwq. At the same time, some apps may not appear in this repository for I haven't seen it. So if you have a good idea to decorate this repository, or if you find more Material You apps I haven't recorded here, welcome to tell me!
+As I'm not good at decorating this repository as nyas1, the interface may looks very ugly qwq. At the same time, some apps may not appear in this repository for I haven't seen it. So if you have a good idea to decorate this repository, or if you find more Material You apps I haven't recorded here, welcome to tell me!
 
 At last, I wanna call you, let's **make Material You sweep all over the world!**
