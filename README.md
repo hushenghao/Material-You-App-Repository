@@ -101,8 +101,6 @@ Additionally, some of the apps are ~~crossed out~~ as I couldn't find their down
 - [InstallerX](https://github.com/iamr0s/InstallerX) **`Full` `Multi`**
 - [Hail](https://github.com/aistra0528/Hail) **`Full` `Multi`**
 ## 🆕Newly Added Apps
-- [Touch Find](https://play.google.com/store/apps/details?id=com.davesla.easyfind) **`Full`**
-- [Echo](https://play.google.com/store/apps/details?id=com.niven.chat) **`MD`**
 - [Hypatia](https://gitlab.com/divested-mobile/hypatia) **`Monet`**
 - [Extripater](https://gitlab.com/divested-mobile/extirpater) **`Monet`**
 - [Wulkanowy](https://github.com/wulkanowy/wulkanowy) **`MD-` `Monet`**
@@ -117,6 +115,8 @@ Additionally, some of the apps are ~~crossed out~~ as I couldn't find their down
 - [Plex Manager](https://github.com/sikelio/plexmanager) **`MD-`**
 - **`NEW`** [WS Proxy](https://gitlab.com/Nekogram/wsproxy) **`Full`**
 - **`NEW`** [Batt](https://gitlab.com/narektor/batt) **`MD-` `FOSS`**
+- **`NEW`** [Flip Clock](https://play.google.com/store/apps/details?id=art.widgeet.android.clock.flip) **`Full`**
+- **`NEW`** [NITM](https://github.com/deskbtm/nitmgpt) **`MD`**
 ## 📱Applist
 **Now you could click the title to return to the applist menu!**
 ### 🦖[Google Apps](#applist-menu)
@@ -696,6 +696,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
    	- [Lalitham](https://play.google.com/store/apps/details?id=com.novelijk.lalitham) **`Monet`**
    	- [Android12 Weather Widget](https://play.google.com/store/apps/details?id=twelve.weather.mibrahim) **`MD-` `Monet`**
    	- [Touch Find](https://play.google.com/store/apps/details?id=com.davesla.easyfind) **`Full`**
+   	- [Flip Clock](https://play.google.com/store/apps/details?id=art.widgeet.android.clock.flip) **`Full`**
 - **Dynamic Island**    
    	- [MaterialYou-Dynamic-Island](https://github.com/Angel-Studio/MaterialYou-Dynamic-Island) **`Full`**    
    	- [Pixel Island](https://drive.google.com/drive/folders/1j1eWY73Zuq43kYHF6Qdjton8LZ02pA1C) **`Full`**    
@@ -835,6 +836,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
    	- [Notification Filter](https://www.coolapk.com/apk/top.webb_l.notificationfilter) **`MD-` `Monet`**   
    	- [Filter Box](https://www.coolapk.com/apk/com.catchingnow.np) **`MD-` `Monet`**
    	- [One Nofication](https://www.coolapk.com/apk/cn.skyrin.ntfh) **`MD`**
+   	- [Flip Clock](https://play.google.com/store/apps/details?id=art.widgeet.android.clock.flip) **`Full`**
 - **Others**    
    	- [Data Monitor](https://github.com/itsdrnoob/DataMonitor) **`Full`**   
    	- [DarQ](https://github.com/KieronQuinn/DarQ) **`MD-`**
