@@ -81,7 +81,7 @@ Additionally, some of the apps are ~~crossed out~~ as I couldn't find their down
 - [🪄 Monet Modules](#monet-modules)
 ## 🏆Recommended
 - [vvex](https://github.com/guozhigq/flutter_v2ex) **`Full` `Multi`**
-- [FocusPodcast](https://play.google.com/store/apps/details?id=allen.town.focus.podcast) **`Full` `Multi`**
+- [Sync for Reddit](https://play.google.com/store/apps/details?id=com.laurencedawson.reddit_sync) **`Full` `Multi`**
 - [Geometric Weather](https://github.com/WangDaYeeeeee/GeometricWeather) **`Full` `Multi`**
 - [Material Files](https://github.com/zhanghai/MaterialFiles) **`Full` `Multi`**
 - [Tachiyomi](https://github.com/tachiyomiorg/tachiyomi) **`Full` `Multi`**
@@ -116,6 +116,7 @@ Additionally, some of the apps are ~~crossed out~~ as I couldn't find their down
 - [Nekome](https://github.com/Chesire/Nekome) **`Full`**
 - [Plex Manager](https://github.com/sikelio/plexmanager) **`MD-`**
 - **`NEW`** [WS Proxy](https://gitlab.com/Nekogram/wsproxy) **`Full`**
+- **`NEW`** [Batt](https://gitlab.com/narektor/batt) **`MD-` `FOSS`**
 ## 📱Applist
 **Now you could click the title to return to the applist menu!**
 ### 🦖[Google Apps](#applist-menu)
@@ -324,7 +325,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
 - **Podcasts**
 	- [Moon FM](https://play.google.com/store/apps/details?id=fm.moon.app) **`Monet`**
 	- [FocusPodcast](https://play.google.com/store/apps/details?id=allen.town.focus.podcast) **`Full` `Multi`**
-	- [AntennaPod](https://github.com/AntennaPod/AntennaPod) **`Full`**
+	- [AntennaPod](https://github.com/AntennaPod/AntennaPod) **`MD-` `Monet`**
 	- [URL Radio](https://github.com/jamal2362/URL-Radio) **`Full`**
 	- [Escapepod](https://codeberg.org/y20k/escapepod) **`Full`**
 	- [Turtlecast](https://play.google.com/store/apps/details?id=com.bluckapps.turtlecast) **`MD-`**
@@ -799,6 +800,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
 - **Battery Manager**
    	- [Battery Charge Limiter](https://github.com/MuntashirAkon/BatteryChargeLimiter) **`MD-` `Monet`** 
    	- [Battery Guru](https://play.google.com/store/apps/details?id=com.paget96.batteryguru) **`Full`**
+   	- [Batt](https://gitlab.com/narektor/batt) **`MD-` `FOSS`**
 - **Screen Display**
    	- [Twilight](https://play.google.com/store/apps/details?id=com.urbandroid.lux) **`MD`**
    	- [Blue Light Filter](https://play.google.com/store/apps/details?id=com.paget96.bluelightfilter) **`Full`**
