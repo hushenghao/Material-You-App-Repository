@@ -148,8 +148,6 @@ Material Design 3伴随着Android 12而来。它的诞生，彻底改变了人�
 - [雹](https://github.com/aistra0528/Hail) **`Full` `Multi`**
 ## 🆕最近上新
 少女祈祷中…
-- [Touch Find](https://play.google.com/store/apps/details?id=com.davesla.easyfind) **`Full`**
-- [Echo](https://play.google.com/store/apps/details?id=com.niven.chat) **`MD`**
 - [Hypatia](https://gitlab.com/divested-mobile/hypatia) **`Monet`**
 - [Extripater](https://gitlab.com/divested-mobile/extirpater) **`Monet`**
 - [Wulkanowy](https://github.com/wulkanowy/wulkanowy) **`MD-` `Monet`**
@@ -164,6 +162,8 @@ Material Design 3伴随着Android 12而来。它的诞生，彻底改变了人�
 - [Plex Manager](https://github.com/sikelio/plexmanager) **`MD-`**
 - **`NEW`** [WS Proxy](https://gitlab.com/Nekogram/wsproxy) **`Full`**
 - **`NEW`** [Batt](https://gitlab.com/narektor/batt) **`MD-` `FOSS`**
+- **`NEW`** [Flip Clock](https://play.google.com/store/apps/details?id=art.widgeet.android.clock.flip) **`Full`**
+- **`NEW`** [NITM](https://github.com/deskbtm/nitmgpt) **`MD`**
 ## 📱应用列表
 **点击标题即可回到目录XD**
 ### 🦖[谷歌应用](#目录)
@@ -739,6 +739,7 @@ Material Design 3伴随着Android 12而来。它的诞生，彻底改变了人�
    	- [Lalitham](https://play.google.com/store/apps/details?id=com.novelijk.lalitham) **`Monet`**
    	- [Android12 Weather Widget](https://play.google.com/store/apps/details?id=twelve.weather.mibrahim) **`MD-` `Monet`**
    	- [Touch Find](https://play.google.com/store/apps/details?id=com.davesla.easyfind) **`Full`**
+   	- [Flip Clock](https://play.google.com/store/apps/details?id=art.widgeet.android.clock.flip) **`Full`**
 - **原生系统定制**
    	- [Seeker](https://play.google.com/store/apps/details?id=com.looper.seeker) **`Full`**    
    	- [DiscoverKiller](https://github.com/KieronQuinn/DiscoverKiller) **`Full`**    
@@ -875,6 +876,7 @@ Material Design 3伴随着Android 12而来。它的诞生，彻底改变了人�
    	- [通知过滤](https://www.coolapk.com/apk/top.webb_l.notificationfilter) **`MD-` `Monet`**   
    	- [通知滤盒](https://www.coolapk.com/apk/com.catchingnow.np) **`MD-` `Monet`**
    	- [一条通知](https://www.coolapk.com/apk/cn.skyrin.ntfh) **`MD`**
+   	- [NITM](https://github.com/deskbtm/nitmgpt) **`MD`**
 - **其他**
    	- [Data Monitor](https://github.com/itsdrnoob/DataMonitor) **`Full`**   
    	- [DarQ](https://github.com/KieronQuinn/DarQ) **`MD-`**
