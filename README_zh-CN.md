@@ -127,7 +127,7 @@ Material Design 3伴随着Android 12而来。它的诞生，彻底改变了人�
 ## 🏆小编推荐
 *下面是我认为最赞的20个Material You应用，从设计、功能上都很好的满足了我对Material You的想象w（排名不分先后）*
 - [vvex](https://github.com/guozhigq/flutter_v2ex) **`Full` `Multi`**
-- [FocusPodcast](https://play.google.com/store/apps/details?id=allen.town.focus.podcast) **`Full` `Multi`**
+- [Sync for Reddit](https://play.google.com/store/apps/details?id=com.laurencedawson.reddit_sync) **`Full` `Multi`**
 - [几何天气](https://github.com/WangDaYeeeeee/GeometricWeather) **`Full` `Multi`**
 - [质感文件](https://github.com/zhanghai/MaterialFiles) **`Full` `Multi`**
 - [Tachiyomi](https://github.com/tachiyomiorg/tachiyomi) **`Full` `Multi`**
@@ -163,6 +163,7 @@ Material Design 3伴随着Android 12而来。它的诞生，彻底改变了人�
 - [Nekome](https://github.com/Chesire/Nekome) **`Full`**
 - [Plex Manager](https://github.com/sikelio/plexmanager) **`MD-`**
 - **`NEW`** [WS Proxy](https://gitlab.com/Nekogram/wsproxy) **`Full`**
+- **`NEW`** [Batt](https://gitlab.com/narektor/batt) **`MD-` `FOSS`**
 ## 📱应用列表
 **点击标题即可回到目录XD**
 ### 🦖[谷歌应用](#目录)
@@ -367,7 +368,7 @@ Material Design 3伴随着Android 12而来。它的诞生，彻底改变了人�
 - **播客/电台**
 	- [FocusPodcast](https://play.google.com/store/apps/details?id=allen.town.focus.podcast) **`Full` `Multi`**
 	- [Moon FM](https://play.google.com/store/apps/details?id=fm.moon.app) **`Monet`**
-	- [AntennaPod](https://github.com/AntennaPod/AntennaPod) **`Full`**
+	- [AntennaPod](https://github.com/AntennaPod/AntennaPod) **`MD-` `Monet`**
 	- [URL Radio](https://github.com/jamal2362/URL-Radio) **`Full`**
 	- [Escapepod](https://codeberg.org/y20k/escapepod) **`Full`**
 	- [Turtlecast](https://play.google.com/store/apps/details?id=com.bluckapps.turtlecast) **`MD-`**
@@ -839,6 +840,7 @@ Material Design 3伴随着Android 12而来。它的诞生，彻底改变了人�
 - **电池管理**
    	- [Battery Charge Limiter](https://github.com/MuntashirAkon/BatteryChargeLimiter) **`MD-` `Monet`** 
    	- [Battery Guru](https://play.google.com/store/apps/details?id=com.paget96.batteryguru) **`Full`**
+   	- [Batt](https://gitlab.com/narektor/batt) **`MD-` `FOSS`**
 - **屏幕显示**
    	- [Twilight](https://play.google.com/store/apps/details?id=com.urbandroid.lux) **`MD`**
    	- [Blue Light Filter](https://play.google.com/store/apps/details?id=com.paget96.bluelightfilter) **`Full`**
