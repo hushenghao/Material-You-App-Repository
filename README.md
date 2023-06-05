@@ -101,9 +101,6 @@ Additionally, some of the apps are ~~crossed out~~ as I couldn't find their down
 - [InstallerX](https://github.com/iamr0s/InstallerX) **`Full` `Multi`**
 - [Hail](https://github.com/aistra0528/Hail) **`Full` `Multi`**
 ## 🆕Newly Added Apps
-- [SongTube](https://github.com/SongTube/SongTube-App) **`MD-`**
-- [wX](https://gitlab.com/joshua.tee/wx) **`MD-`**
-- [Cuppa](https://github.com/ncosgray/cuppa_mobile) **`Full`**
 - [Stocks Widget](https://github.com/premnirmal/StockTicker) **`MD-` `Monet`**
 - [KrypeEY](https://github.com/amnesica/KryptEY) **`Monet`**
 - [Nekome](https://github.com/Chesire/Nekome) **`Full`**
@@ -117,6 +114,9 @@ Additionally, some of the apps are ~~crossed out~~ as I couldn't find their down
 - **`NEW`** [Table Habit](https://github.com/FriesI23/mhabit) **`Full`**
 - **`NEW`** [Pure Music](https://github.com/pure-music/PureMusic) **`Full` `Multi`**
 - **`NEW`** [SuperImage](https://github.com/Lucchetto/SuperImage) **`MD`**
+- **`NEW`** [ChatGPT](https://github.com/thewolfprod/ChatGPT-Android) **`TODO`**
+- **`NEW`** [Life Chest](https://github.com/theskyblockman/life-chest) **`Full`**
+- **`NEW`** [Kafka](https://play.google.com/store/apps/details?id=com.kafka.user) **`Full` `Multi`**
 ## 📱Applist
 **Now you could click the title to return to the applist menu!**
 ### 🦖[Google Apps](#applist-menu)
@@ -330,6 +330,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
 	- [URL Radio](https://github.com/jamal2362/URL-Radio) **`Full`**
 	- [Escapepod](https://codeberg.org/y20k/escapepod) **`Full`**
 	- [Turtlecast](https://play.google.com/store/apps/details?id=com.bluckapps.turtlecast) **`MD-`**
+	- [Kafka](https://play.google.com/store/apps/details?id=com.kafka.user) **`Full` `Multi`**
 - **Lives**
 	- [Hotlive](https://github.com/Jackiu1997/hot_live) **`Full`**
 	- [Purelive](https://github.com/Jackiu1997/pure_live/) **`Full` `Multi`**
@@ -984,6 +985,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
    	- [Stable Difusion AI](https://play.google.com/store/apps/details?id=com.shifthackz.aisdv1.app) **`Full`**
    	- [NeoGPT](https://play.google.com/store/apps/details?id=com.lware.neogpt) **`MD`**
    	- [Echo](https://play.google.com/store/apps/details?id=com.niven.chat) **`MD`**
+   	- [ChatGPT](https://github.com/thewolfprod/ChatGPT-Android) **`TODO`**
 - **AutoClicker**    
    	- [TapTap](https://github.com/KieronQuinn/TapTap) **`Full`**    
    	- [Auto Tasker](https://www.coolapk.com/apk/top.xjunz.tasker) **`MD`**    
@@ -1020,6 +1022,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
    	- [Textbender](https://github.com/elizagamedev/android-textbender) **`Monet`**
    	- [Sound Meter](https://play.google.com/store/apps/details?id=com.codeclickers.soundmeter) **`Full`**
    	- [Simple Thank You](https://github.com/SimpleMobileTools/Simple-Thank-You) **`Full`**
+   	- [Life Chest](https://github.com/theskyblockman/life-chest) **`Full`**
 ---
 ### [🔧Developer Tools](#applist-menu)
 - **Server**    
