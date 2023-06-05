@@ -156,14 +156,20 @@ Material Design 3伴随着Android 12而来。它的诞生，彻底改变了人�
 - [Batt](https://gitlab.com/narektor/batt) **`MD-` `FOSS`**
 - [Flip Clock](https://play.google.com/store/apps/details?id=art.widgeet.android.clock.flip) **`Full`**
 - [NITM](https://github.com/deskbtm/nitmgpt) **`MD`**
-- **`NEW`** [AudioLab](https://play.google.com/store/apps/details?id=com.hitrolab.audioeditor) **`MD-` `Monet` `Multi`**
-- **`NEW`** [Allowance](https://github.com/jameskokoska/Allowance) **`Full`**
-- **`NEW`** [Table Habit](https://github.com/FriesI23/mhabit) **`Full`**
-- **`NEW`** [棉花音乐](https://github.com/pure-music/PureMusic) **`Full` `Multi`**
-- **`NEW`** [SuperImage](https://github.com/Lucchetto/SuperImage) **`MD`**
-- **`NEW`** [ChatGPT](https://github.com/thewolfprod/ChatGPT-Android) **`TODO`**
-- **`NEW`** [Life Chest](https://github.com/theskyblockman/life-chest) **`Full`**
-- **`NEW`** [Kafka](https://play.google.com/store/apps/details?id=com.kafka.user) **`Full` `Multi`**
+- [AudioLab](https://play.google.com/store/apps/details?id=com.hitrolab.audioeditor) **`MD-` `Monet` `Multi`**
+- [Allowance](https://github.com/jameskokoska/Allowance) **`Full`**
+- [Table Habit](https://github.com/FriesI23/mhabit) **`Full`**
+- [棉花音乐](https://github.com/pure-music/PureMusic) **`Full` `Multi`**
+- [SuperImage](https://github.com/Lucchetto/SuperImage) **`MD`**
+- [ChatGPT](https://github.com/thewolfprod/ChatGPT-Android) **`TODO`**
+- [Life Chest](https://github.com/theskyblockman/life-chest) **`Full`**
+- [Kafka](https://play.google.com/store/apps/details?id=com.kafka.user) **`Full` `Multi`**
+- **`NEW`** [BeauTyXT](https://github.com/soupslurpr/BeauTyXT) **`Full`**
+- **`NEW`** [Tap Counter](https://github.com/DDR13GIT/TapCounter) **`TODO`**
+- **`NEW`** [Budget Management](https://github.com/kabirnayeem99/budget_management_syarah) **`TODO`**
+- **`NEW`** [Markdown Editor](https://play.google.com/store/apps/details?id=com.adeeteya.markdown_editor) **`MD`**
+- **`NEW`** [VPN热点](https://github.com/Mygod/VPNHotspot) **`MD` `FOSS`**
+- **`NEW`** [无障碍管理器](https://www.coolapk.com/apk/com.accessibilitymanager) **`Monet`**
 ## 📱应用列表
 **点击标题即可回到目录XD**
 ### 🦖[谷歌应用](#目录)
@@ -404,6 +410,8 @@ Material Design 3伴随着Android 12而来。它的诞生，彻底改变了人�
 	- [Kubus Tasks](https://play.google.com/store/apps/details?id=com.ms.tasks) **`MD-`**
 	- [知识库](https://www.coolapk.com/apk/com.start.now) **`MD-`**
 	- [Justnotes](https://github.com/jjewuz/JustNotes) **`Full`**
+	- [BeauTyXT](https://github.com/soupslurpr/BeauTyXT) **`Full`**
+	- [Markdown Editor](https://play.google.com/store/apps/details?id=com.adeeteya.markdown_editor) **`MD`**
 - **日记**
 	- [Graphite](https://play.google.com/store/apps/details?id=com.syncodec.graphite) **`MD`**
 	- [榴莲日记](https://www.coolapk.com/apk/com.weimu.duriandiary) **`MD`**
@@ -547,6 +555,7 @@ Material Design 3伴随着Android 12而来。它的诞生，彻底改变了人�
 	- [Celenganku](https://play.google.com/store/apps/details?id=id.celenganku.app) **`Full`**
 	- [持记](https://github.com/123Duo3/KeepTally) **`Full`**
 	- [Allowance](https://github.com/jameskokoska/Allowance) **`Full`**
+	- [Budget Management](https://github.com/kabirnayeem99/budget_management_syarah) **`TODO`**
 - **虚拟货币**
 	- [PapriCoin](https://github.com/T8RIN/PapriCoin) **`Full`**
 	- [CoinTrend](https://github.com/CoinTrend/CoinTrend) **`MD`**
@@ -839,7 +848,7 @@ Material Design 3伴随着Android 12而来。它的诞生，彻底改变了人�
    	- [Pinned Shortcuts](https://play.google.com/store/apps/details?id=rk.android.app.pinnedshortcuts) **`Full`**
    	- [Root Activity Launcher](https://t.me/misakamaterial/123) **`Full` `Multi`**
    	- [Activity Manager](https://github.com/sdex/ActivityManager) **`MD-`**
-   	- [Shortcuts](https://www.coolapk.com/apk/com.syyf.quickpay) **`Full`**
+   	- [快捷方式](https://www.coolapk.com/apk/com.syyf.quickpay) **`Full`**
 - **备份**
    	- [数据备份](https://github.com/XayahSuSuSu/Android-DataBackup) **`Full`**
    	- [Neo Backup](https://github.com/NeoApplications/Neo-Backup) **`Full`**
@@ -902,6 +911,7 @@ Material Design 3伴随着Android 12而来。它的诞生，彻底改变了人�
    	- [Sensors](https://play.google.com/store/apps/details?id=com.ms.sensors) **`MD-`**
    	- [Language Selecter](https://github.com/VegaBobo/Language-Selector) **`Full`**
    	- [EdgeBlock](https://play.google.com/store/apps/details?id=flar2.edgeblock) **`Full`**
+   	- [Accessibility Manager](https://www.coolapk.com/apk/com.accessibilitymanager) **`Monet`**
 ---
 ## [🧰小工具](#目录)
 - **下载器**
@@ -1162,6 +1172,7 @@ Material Design 3伴随着Android 12而来。它的诞生，彻底改变了人�
    	- [墓碑](https://jinnian.lanzouy.com/iTJGC0ovdsjg) **`MD`**
    	- [Smart Dock](https://github.com/axel358/smartdock) **`Full`**
    	- [GApps Mod](https://github.com/jacopotediosi/GAppsMod) **`Full`**
+   	- [VPN Hotspot](https://github.com/Mygod/VPNHotspot) **`MD` `FOSS`**
 ---
 ## [🎮游戏](#目录)
 - **模拟器**
@@ -1197,6 +1208,7 @@ Material Design 3伴随着Android 12而来。它的诞生，彻底改变了人�
    	- [MathQ](https://play.google.com/store/apps/details?id=com.anafthdev.mathq) **`Full`**
    	- [Cavedroid](https://play.google.com/store/apps/details?id=com.cyb3rko.cavedroid) **`MD-`**
    	- [Randomizer (Code Clickers)](https://play.google.com/store/apps/details?id=com.codeclickers.randomizer) **`Full`**
+   	- [Tap Counter](https://github.com/DDR13GIT/TapCounter) **`TODO`**
 - **其他**
    	- [Jetisteam](https://github.com/iTaysonLab/jetisteam) **`Full`**    
    	- [Boat_H2O2 Pro](https://github.com/NaCln4c1/Boat_H2O2) **`MD-`**    
