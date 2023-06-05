@@ -221,15 +221,15 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
 	- [Connect You](https://github.com/Bnyro/ConnectYou) **`Full`**
 	- [Simple Dialer](https://github.com/SimpleMobileTools/Simple-Dialer) **`Full`**
 	- [Simple SMS Messenger](https://github.com/SimpleMobileTools/Simple-SMS-Messenger) **`Full`**
-	- WhatsApp Beta **`MD-`**
+	- [WhatsApp Beta](https://play.google.com/apps/testing/com.whatsapp) **`MD-`**
 	- [Koler](https://github.com/Chooloo/koler) **`Full`**
-- **Telegram**
+- **Telegram Clients**
 	- [MDgram](https://github.com/MDGramYou/MDGramYou) **`MD` `Multi`**
 	- [exteraGram](https://github.com/exteraSquad/exteraGram) **`MD-` `Multi`**
 	- [Lilgram](https://github.com/lilchill666/LilGram) **`Full` `Multi`**
 	- [Nekogram](https://nekogram.app/) **`Monet`**
 	- [Nagram](https://github.com/NextAlone/Nagram) **`Monet`**
-- **Reddit**
+- **Reddit Clients**
 	- [Sync for Reddit](https://play.google.com/store/apps/details?id=com.laurencedawson.reddit_sync) **`Full` `Multi`**
 	- [Karma for Reddit](https://play.google.com/store/apps/details?id=com.brianrobles204.karmamachine_flutter) **`Full`**
 **`MD-` `Monet`** 
@@ -237,12 +237,12 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
 	- [Focus for Reddit](https://play.google.com/store/apps/details?id=allen.town.focus.reddit) **`Full` `Multi`**
 	- [Pinapple](https://github.com/galaxygoldfish/pineapple) **`TODO`**
 	- [FairBird for Reddit](https://play.google.com/store/apps/details?id=com.niven.reddit) **`Full`**
-- **Discord**
+- **Discord Clients**
 	- [OpenCord](https://github.com/MateriiApps/OpenCord) **`Full`**
-- **Instagram**
+- **Instagram Clients**
 	- [Instander](https://thedise.me/instander/repo/) **`Monet`** **`MOD`**
 	- [Honista](https://t.me/Honistagram) **`Monet` `MOD`**
-- **Twitter**
+- **Twitter Clients**
 	- [harpy for Twitter](https://github.com/robertodoering/harpy) **`Monet`**
 	- [Albatross for Twitter](https://play.google.com/store/apps/details?id=com.nick.mowen.albatross) **`Monet`**
 	- [FocusTwitter](https://play.google.com/store/apps/details?id=allen.town.focus.twitter) **`Full` `Multi`**
@@ -261,6 +261,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
 	- [v2compose](https://github.com/cooaer/v2compose) **`Full`**
 	- [FogIsland](https://github.com/123Duo3/XDNMB) **`TODO`**
 	- [Stack for Stack Overflow](https://play.google.com/store/apps/details?id=me.tylerbwong.stack) **`Full`**
+	- [HACG](https://github.com/shizheng233/HACG) **`Full`**
 - **Others**
 	- [Kizzy](https://github.com/dead8309/Kizzy) **`Full`**
 	- [LiPari](https://github.com/Stamir36/LiPari-Android) **`Full` `Multi`**
@@ -388,7 +389,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
 	- [Scheduler](https://github.com/dgudim/Scheduler) **`Full`**
 	- [Wishapp](https://play.google.com/store/apps/details?id=ru.vitaliy.belyaev.wishapp) **`Full`**
 	- [Birday](https://github.com/m-i-n-a-r/birday) **`Full`**
-	- [~~RemindMe~~](https://github.com/kafri8889/Remind-Me) **`Full`**
+	- [RemindMe](https://github.com/kafri8889/Remind-Me) **`TODO`**
 	- [FoodExpirationDates](https://github.com/lorenzovngl/FoodExpirationDates) **`Full`**
 	- [Clever Tasks](https://play.google.com/store/apps/details?id=com.protivity.clever_tasks) **`Full`**
 	- [Todoist](https://play.google.com/store/apps/details?id=com.todoist) **`Monet`**
@@ -401,17 +402,17 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
 	- [Lyricistant](https://github.com/wardellbagby/lyricistant) **`MD-` `Monet` `Multi`**
 	- [Sinhala Lyrics](https://github.com/SuhasDissa/Sinhala-Lyrics-App)  **`Full`**
 - **Others**
-	- [raca](https://github.com/SkyD666/Raca-Android) **`Full` `Multi`**
+	- [Raca](https://github.com/SkyD666/Raca-Android) **`Full` `Multi`**
 	- [Counters](https://play.google.com/store/apps/details?id=rahmouni.neil.counters) **`Full` `Multi`**
 	- [Typing Hero](https://play.google.com/store/apps/details?id=sen.typinghero) **`Full`**
-	- [Project & task Management](https://play.google.com/store/apps/details?id=com.eunidev.projectmanagement) **`Full`**
+	- [Project & Task Management](https://play.google.com/store/apps/details?id=com.eunidev.projectmanagement) **`Full`**
 	- [Drafting](https://play.google.com/store/apps/details?id=sen.drafting) **`MD-` `Monet`**
 	- [ilDoppiaggio](https://play.google.com/store/apps/details?id=app.wakirox.il_doppiaggio) **`MD-` `Monet`**
 	- [Project Management](https://play.google.com/store/apps/details?id=com.anafthdev.projectmanagement) **`Full`**
 	- [Putin Box](https://www.coolapk.com/apk/cards.putin.box) **`MD-`**
 	- [Hammer](https://github.com/Wavesonics/hammer-editor) **`MD`**
 ---
-### [🖼️Photos](#applist-menu)
+### [🖼️Picture](#applist-menu)
 - **Camera**
 	- [Simple Camera](https://github.com/SimpleMobileTools/Simple-Camera) **`Full`**
 	- [Selfie Time Lapse](https://play.google.com/store/apps/details?id=com.isidroid.sfa) **`MD`**
@@ -423,6 +424,11 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
 	- [Aves](https://github.com/deckerst/aves) **`Monet`**
 	- [MiniGallery](https://github.com/kabirnayeem99/miniGallery) **`Full`**
 	- [Simple Gallery](https://github.com/SimpleMobileTools/Simple-Gallery) **`Full`**
+- **Illustrations**
+	- [PixEz](https://github.com/Notsfsssf/pixez-flutter) **`Full`**
+	- [PixivYou](https://t.me/anubis_recommended/127) **`Full`** 
+	- [SauceNao](https://github.com/LuK1337/SauceNAO) **`Full`**
+	- [Boorusphere](https://github.com/nullxception/boorusphere) **`Full`**
 - **Editor**
 	- [Photo Editor](https://t.me/anubis_recommended/139) **`Monet`** **`MOD`**
 	- [ExifEraser](https://github.com/Tommy-Geenexus/exif-eraser) **`Full`**
@@ -475,10 +481,6 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
 - **Comics**
 	- [Tachiyomi](https://github.com/tachiyomiorg/tachiyomi) / [TachiyomiJ2K](https://github.com/Jays2Kings/tachiyomiJ2K) / [TachiyomiSY](https://github.com/Hero-Over/TachiyomiSY) **`Full` `Multi`**
 	- [Kotatsu](https://github.com/KotatsuApp/Kotatsu) **`Full` `Multi`**
-	- [PixEz](https://github.com/Notsfsssf/pixez-flutter) **`Full`**
-	- [PixivYou](https://t.me/anubis_recommended/127) **`Full`** 
-	- [SauceNao](https://github.com/LuK1337/SauceNAO) **`Full`**
-	- [Boorusphere](https://github.com/nullxception/boorusphere) **`Full`**
 	- [Neko](https://github.com/CarlosEsco/Neko) **`Full` `Multi`**
 	- [Pica Comic](https://github.com/wgh136/PicaComic) **`Full` `Multi`**
 	- [BIKA](https://github.com/shizq123/BIKA) **`Full`**
@@ -486,7 +488,6 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
 	- [EhViewer](https://github.com/Ehviewer-Overhauled/Ehviewer) **`Full`**
 	- [Hentoid](https://github.com/h6rd/Hentoid-Material-You) **`MD-` `Monet`**
 	- [CopyManga](https://github.com/shizheng233/PicacgMaterial3/stargazers) **`Full`**
-	- [HACG](https://github.com/shizheng233/HACG) **`Full`**
 	- [CopyMangaX](https://github.com/CrowForKotlin/CopyMangaX) **`MD`**
 	- [NoyAcg](https://noy.asia/) **`MD-`**
 - **Audio Books**
@@ -501,7 +502,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
 	- [GreenStash](https://github.com/Pool-Of-Tears/GreenStash) **`Full`**
 	- [Fuelio](https://play.google.com/store/apps/details?id=com.kajda.fuelio) **`MD-` `Monet`**
 	- [Tilla](https://play.google.com/store/apps/details?id=com.pavelrekun.tilla) **`Full`**
-	- [~~Taler Wallet~~](https://git.taler.net/taler-android.git/) **`?`**
+	- [Taler Wallet](https://play.google.com/store/apps/details?id=net.taler.wallet) **`MD-` `Monet`**
 	- [Prepaid Balance](https://github.com/mueller-ma/PrepaidBalance) **`Full`**
 	- [Waterfly III](https://apt.izzysoft.de/fdroid/index/apk/com.dreautall.waterflyiii) **`MD`**
 	- [Dujer](https://play.google.com/store/apps/details?id=com.anafthdev.dujer) **`MD`**
