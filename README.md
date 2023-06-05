@@ -243,8 +243,8 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
 	- [Instander](https://thedise.me/instander/repo/) **`Monet`** **`MOD`**
 	- [Honista](https://t.me/Honistagram) **`Monet` `MOD`**
 - **Twitter**
-	- [~~harpy for Twitter~~](https://github.com/robertodoering/harpy) **`Monet`**
-	- [~~Albatross for Twitter~~](https://play.google.com/store/apps/details?id=com.nick.mowen.albatross) **`Monet`**
+	- [harpy for Twitter](https://github.com/robertodoering/harpy) **`Monet`**
+	- [Albatross for Twitter](https://play.google.com/store/apps/details?id=com.nick.mowen.albatross) **`Monet`**
 	- [FocusTwitter](https://play.google.com/store/apps/details?id=allen.town.focus.twitter) **`Full` `Multi`**
 	- [Quacker](https://apt.izzysoft.de/fdroid/index/apk/com.thehcj.quacker) **`MD-`**
 - **Other DAO Social Applications (with Mastodon Clients)**
@@ -264,7 +264,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
 - **Others**
 	- [Kizzy](https://github.com/dead8309/Kizzy) **`Full`**
 	- [LiPari](https://github.com/Stamir36/LiPari-Android) **`Full` `Multi`**
-	- [~~E2E Encrypted Chat~~](https://github.com/Project-Based-Learning-IT/e2ee-chat) **`Full`**
+	- [E2E Encrypted Chat](https://github.com/Project-Based-Learning-IT/e2ee-chat) **`TODO`**
 	- [PixelDroid](https://github.com/H-PixelDroid/PixelDroid) **`MD`**
 	- [Staver](https://play.google.com/store/apps/details?id=com.anafthdev.staver) **`MD-` `Monet` `Multi`**
 	- [DankChat](https://github.com/flex3r/DankChat) **`Full`**
@@ -272,49 +272,53 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
 	- [Blog2App](https://play.google.com/store/apps/details?id=com.boltuix.blogtoapp) **`MD`**
 ---
 ### [🎵Media](#applist-menu)
-- **Youtube/YTMusic Clients**
+- **Youtube Clients**
 	- [InnerTune](https://github.com/z-huang/InnerTune) **`MD-` `Monet` `Multi`**
 	- [LibreTube](https://github.com/libre-tube/LibreTube) **`Full`**
 	- [Revanced Extended](https://github.com/revanced/revanced-manager) **`Full`**
 	- [Hyperion](https://github.com/zt64/Hyperion) **`Full` `Multi`**
 	- [VueTube](https://github.com/VueTubeApp/VueTube) **`Full`**
 	- [Clipious](https://github.com/lamarios/clipious) **`MD`**
+	- [Vanced MicroG](https://github.com/cuynu/VancedMicroG) **`Monet`**
+- **Youtube Music Clients**
 	- [ViMusic](https://github.com/vfsfitvnm/ViMusic) **`MD` `Multi`**
 	- [Vibe Music](https://github.com/sheikhhaziq/vibemusic) **`Full`**
-	- [Vanced MicroG](https://github.com/cuynu/VancedMicroG) **`Monet`**
-- **Spotify/Netease Cloud Music Clients** 
-	- [Music You](https://github.com/GuihongWang/MusicYou) **`Full` `Multi`**
+- **Spotify Clients** 
 	- [Jetispot](https://github.com/iTaysonLab/jetispot) **`Full`**
 	- [Spotube](https://github.com/KRTirtho/spotube) **`MD`**
+- **Netease Cloud Music Clients** 
+	- [Music You](https://github.com/GuihongWang/MusicYou) **`Full` `Multi`**
 - **Streaming Server Clients**
 	- [SubTune](https://github.com/TaylorKunZhang/SubTune) **`MD`**
 	- [Ultrasonic](https://gitlab.com/ultrasonic/ultrasonic) **`Full`**
 	- [Symfonium](https://play.google.com/store/apps/details?id=app.symfonik.music.player) **`MD`**
 	- [Yatse](https://play.google.com/store/apps/details?id=org.leetzone.android.yatsewidgetfree) **`Full` `Multi`**
 	- [Drive Stream](https://github.com/itszechs/DriveStream) **`MD`**
-- **Online Videos Services**
-	- [Bili You](https://github.com/lucinhu/bili_you) **`Full`**
+- **Anime Services**
 	- [Sakura Anime](https://github.com/670848654/SakuraAnime) **`Full`**
 	- [AGE](https://github.com/xihan123/AGE) **`MD-`**
 	- [Aniyomi](https://github.com/jmir1/aniyomi) **`MD-`**
-	- [NoFasel](https://github.com/N0-0NE-Dev/NoFasel) **`MD-` `Monet`**
-	- [DangoPlayer](https://github.com/brunochanrio/DangoPlayer) **`MD`**
-	- [Burning Series](https://github.com/DATL4G/Burning-Series) **`MD`**
-	- [Findroid](https://github.com/jarnedemeulemeester/findroid) **`Full`**
-	- [myplayer](https://www.coolapk.com/apk/com.ltj.myplayer) **`MD-`**
 	- [Teapod](https://git.mosad.xyz/Seil0/teapod) **`MD-`**
-	- [MPlayer](https://play.google.com/store/apps/details?id=com.mplayer.streamcast) **`MD`**
-	- [CloudStream](https://github.com/recloudstream/cloudstream) **`MD-` `Monet` `Multi`**
 	- [Easybangumi](https://easybangumi.org/zh/) **`Full` `Multi`**
 	- [Awara](http://t.me/misakamaterial/199) **`Full` `Multi`**
+	- [Burning Series](https://github.com/DATL4G/Burning-Series) **`MD`**
+- **Online Videos Services**
+	- [Bili You](https://github.com/lucinhu/bili_you) **`Full`**
+	- [NoFasel](https://github.com/N0-0NE-Dev/NoFasel) **`MD-` `Monet`**
+	- [DangoPlayer](https://github.com/brunochanrio/DangoPlayer) **`MD`**
+	- [Findroid](https://github.com/jarnedemeulemeester/findroid) **`Full`**
+	- [MPlayer](https://play.google.com/store/apps/details?id=com.mplayer.streamcast) **`MD`**
+	- [CloudStream](https://github.com/recloudstream/cloudstream) **`MD-` `Monet` `Multi`**
 	- [FongMi TV](https://github.com/FongMi/TV) **`MD`**
 	- [Onstream](https://onstream.to/) **`MD-`**
-- **Offline Video Services**
+- **Offline Videos Services**
 	- [VLC Mod](https://t.me/waifupx_official/233) **`Full` `Multi` `MOD`** 
 	- [MX Player Mod](https://www.coolapk1s.com/feed/44722057) **`Monet` `MOD`**
-	- [VideoYouX](https://github.com/Clearpole/VideoYouX)（Internal testing，[Telegram](https://t.me/VideoYouNotice)）**`Full` `Multi` `TODO`**
-	- [MX Player Mod](https://www.coolapk1s.com/feed/44722057) **`Monet` `MOD`**
+	- [VideoYouX](https://github.com/Clearpole/VideoYouX) **`Full` `Multi` `TODO`**
 	- [NextPlayer](https://github.com/anilbeesetti/nextplayer) **`Full`**
+	- [myplayer](https://www.coolapk.com/apk/com.ltj.myplayer) **`MD-`**
+- **Online Music Services**
+	- [Kayin](http://music.ijanz.cn/) **`MD`**
 - **Offline Music Services**
 	- [Retro Music](https://github.com/RetroMusicPlayer/RetroMusicPlayer) / [Metro](https://github.com/MuntashirAkon/Metro) / [ApexMusic](https://github.com/TheTerminatorOfProgramming/ApexMusic) **`Full` `Multi`**
 	- [Oto Music](https://play.google.com/store/apps/details?id=com.piyush.music) **`Full`**
@@ -336,7 +340,6 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
 	- [URL Radio](https://github.com/jamal2362/URL-Radio) **`Full`**
 	- [Escapepod](https://codeberg.org/y20k/escapepod) **`Full`**
 	- [Turtlecast](https://play.google.com/store/apps/details?id=com.bluckapps.turtlecast) **`MD-`**
-	- [Kafka](https://play.google.com/store/apps/details?id=com.kafka.user) **`Full` `Multi`**
 - **Lives**
 	- [Hotlive](https://github.com/Jackiu1997/hot_live) **`Full`**
 	- [Purelive](https://github.com/Jackiu1997/pure_live/) **`Full` `Multi`**
@@ -344,9 +347,6 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
 	- [ASeam](www.aseam.site) **`Full`**
 - **Media Tools**
 	- [AudioLab](https://play.google.com/store/apps/details?id=com.hitrolab.audioeditor) **`MD-` `Monet` `Multi`**
-- **Others**
-	- [Ambient Music Mod](https://github.com/KieronQuinn/AmbientMusicMod) **`Full` `MOD`**
-	- [Kayin](http://music.ijanz.cn/) **`MD`**
 ---
 ### [✍Writing & Drawing](#applist-menu)
 - **Notes**
@@ -458,7 +458,6 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
 	- [Myne](https://github.com/Pool-Of-Tears/Myne) **`Full`**
 	- [Readmini](https://play.google.com/store/apps/details?id=com.reamicro.academy) **`Full`**
 	- [Shosetsu](https://gitlab.com/shosetsuorg/shosetsu) **`Full` `Multi`**
-	- [Voice](https://github.com/PaulWoitaschek/Voice) **`Full` `Multi`**
 	- [NovelDokusha](https://github.com/nanihadesuka/NovelDokusha) **`MD`**
 	- [Moon+ Reader](https://play.google.com/store/apps/details?id=com.flyersoft.moonreader) **`MD-`** **`Multi`**
 	- [wenku8x](https://github.com/zsakvo/wenku8x) **`TODO`**
@@ -490,6 +489,9 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
 	- [HACG](https://github.com/shizheng233/HACG) **`Full`**
 	- [CopyMangaX](https://github.com/CrowForKotlin/CopyMangaX) **`MD`**
 	- [NoyAcg](https://noy.asia/) **`MD-`**
+- **Audio Books**
+	- [Kafka](https://play.google.com/store/apps/details?id=com.kafka.user) **`Full` `Multi`**
+	- [Voice](https://github.com/PaulWoitaschek/Voice) **`Full` `Multi`**
 ---
 ### [🌦️Daily Life](#applist-menu)
 - **Wallets/Billing**
@@ -1133,6 +1135,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
    	- [Tomb](https://jinnian.lanzouy.com/iTJGC0ovdsjg) **`MD`** 
    	- [GApps Mod](https://github.com/jacopotediosi/GAppsMod) **`Full`**
    	- [VPN Hotspot](https://github.com/Mygod/VPNHotspot) **`MD` `FOSS`**
+   	- [Ambient Music Mod](https://github.com/KieronQuinn/AmbientMusicMod) **`Full`**
 ---
 ### [🎮Games](#applist-menu)
 - **Emulator**    
