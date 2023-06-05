@@ -148,9 +148,6 @@ Material Design 3伴随着Android 12而来。它的诞生，彻底改变了人�
 - [雹](https://github.com/aistra0528/Hail) **`Full` `Multi`**
 ## 🆕最近上新
 少女祈祷中…
-- [SongTube](https://github.com/SongTube/SongTube-App) **`MD-`**
-- [wX](https://gitlab.com/joshua.tee/wx) **`MD-`**
-- [Cuppa](https://github.com/ncosgray/cuppa_mobile) **`Full`**
 - [Stocks Widget](https://github.com/premnirmal/StockTicker) **`MD-` `Monet`**
 - [KrypeEY](https://github.com/amnesica/KryptEY) **`Monet`**
 - [Nekome](https://github.com/Chesire/Nekome) **`Full`**
@@ -166,6 +163,7 @@ Material Design 3伴随着Android 12而来。它的诞生，彻底改变了人�
 - **`NEW`** [SuperImage](https://github.com/Lucchetto/SuperImage) **`MD`**
 - **`NEW`** [ChatGPT](https://github.com/thewolfprod/ChatGPT-Android) **`TODO`**
 - **`NEW`** [Life Chest](https://github.com/theskyblockman/life-chest) **`Full`**
+- **`NEW`** [Kafka](https://play.google.com/store/apps/details?id=com.kafka.user) **`Full` `Multi`**
 ## 📱应用列表
 **点击标题即可回到目录XD**
 ### 🦖[谷歌应用](#目录)
@@ -375,6 +373,7 @@ Material Design 3伴随着Android 12而来。它的诞生，彻底改变了人�
 	- [URL Radio](https://github.com/jamal2362/URL-Radio) **`Full`**
 	- [Escapepod](https://codeberg.org/y20k/escapepod) **`Full`**
 	- [Turtlecast](https://play.google.com/store/apps/details?id=com.bluckapps.turtlecast) **`MD-`**
+	- [Kafka](https://play.google.com/store/apps/details?id=com.kafka.user) **`Full` `Multi`**
 - **直播**
 	- [Hotlive](https://github.com/Jackiu1997/hot_live) **`Full`**
 	- [Purelive](https://github.com/Jackiu1997/pure_live/) **`Full` `Multi`**
