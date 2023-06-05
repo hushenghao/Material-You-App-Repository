@@ -109,14 +109,20 @@ Additionally, some of the apps are ~~crossed out~~ as I couldn't find their down
 - [Batt](https://gitlab.com/narektor/batt) **`MD-` `FOSS`**
 - [Flip Clock](https://play.google.com/store/apps/details?id=art.widgeet.android.clock.flip) **`Full`**
 - [NITM](https://github.com/deskbtm/nitmgpt) **`MD`**
-- **`NEW`** [AudioLab](https://play.google.com/store/apps/details?id=com.hitrolab.audioeditor) **`MD-` `Monet` `Multi`**
-- **`NEW`** [Allowance](https://github.com/jameskokoska/Allowance) **`Full`**
-- **`NEW`** [Table Habit](https://github.com/FriesI23/mhabit) **`Full`**
-- **`NEW`** [Pure Music](https://github.com/pure-music/PureMusic) **`Full` `Multi`**
-- **`NEW`** [SuperImage](https://github.com/Lucchetto/SuperImage) **`MD`**
-- **`NEW`** [ChatGPT](https://github.com/thewolfprod/ChatGPT-Android) **`TODO`**
-- **`NEW`** [Life Chest](https://github.com/theskyblockman/life-chest) **`Full`**
-- **`NEW`** [Kafka](https://play.google.com/store/apps/details?id=com.kafka.user) **`Full` `Multi`**
+- [AudioLab](https://play.google.com/store/apps/details?id=com.hitrolab.audioeditor) **`MD-` `Monet` `Multi`**
+- [Allowance](https://github.com/jameskokoska/Allowance) **`Full`**
+- [Table Habit](https://github.com/FriesI23/mhabit) **`Full`**
+- [Pure Music](https://github.com/pure-music/PureMusic) **`Full` `Multi`**
+- [SuperImage](https://github.com/Lucchetto/SuperImage) **`MD`**
+- [ChatGPT](https://github.com/thewolfprod/ChatGPT-Android) **`TODO`**
+- [Life Chest](https://github.com/theskyblockman/life-chest) **`Full`**
+- [Kafka](https://play.google.com/store/apps/details?id=com.kafka.user) **`Full` `Multi`**
+- **`NEW`** [Accessibility Manager](https://www.coolapk.com/apk/com.accessibilitymanager) **`Monet`**
+- **`NEW`** [VPN Hotspot](https://github.com/Mygod/VPNHotspot) **`MD` `FOSS`**
+- **`NEW`** [Markdown Editor](https://play.google.com/store/apps/details?id=com.adeeteya.markdown_editor) **`MD`**
+- **`NEW`** [Budget Management](https://github.com/kabirnayeem99/budget_management_syarah) **`TODO`**
+- **`NEW`** [Tap Counter](https://github.com/DDR13GIT/TapCounter) **`TODO`**
+- **`NEW`** [BeauTyXT](https://github.com/soupslurpr/BeauTyXT) **`Full`**
 ## 📱Applist
 **Now you could click the title to return to the applist menu!**
 ### 🦖[Google Apps](#applist-menu)
@@ -361,6 +367,8 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
 	- [Kubus Tasks](https://play.google.com/store/apps/details?id=com.ms.tasks) **`MD-`**
 	- [Start Now](https://www.coolapk.com/apk/com.start.now) **`MD-`**
 	- [Justnotes](https://github.com/jjewuz/JustNotes) **`Full`**
+	- [BeauTyXT](https://github.com/soupslurpr/BeauTyXT) **`Full`**
+	- [Markdown Editor](https://play.google.com/store/apps/details?id=com.adeeteya.markdown_editor) **`MD`**
 - **Journal**
 	- [Graphite](https://play.google.com/store/apps/details?id=com.syncodec.graphite) **`MD`**
 	- [Durian Journal](https://www.coolapk.com/apk/com.weimu.duriandiary) **`MD`**
@@ -504,6 +512,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
 	- [Keep Tally](https://github.com/123Duo3/KeepTally) **`Full`**
 	- [Celenganku](https://play.google.com/store/apps/details?id=id.celenganku.app) **`Full`**
 	- [Allowance](https://github.com/jameskokoska/Allowance) **`Full`**
+	- [Budget Management](https://github.com/kabirnayeem99/budget_management_syarah) **`TODO`**
 - **Virtual Currency**
 	- [PapriCoin](https://github.com/T8RIN/PapriCoin) **`Full`**
 	- [CoinTrend](https://github.com/CoinTrend/CoinTrend) **`MD`**
@@ -862,6 +871,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
    	- [Sensors](https://play.google.com/store/apps/details?id=com.ms.sensors) **`MD-`**
    	- [Language Selecter](https://github.com/VegaBobo/Language-Selector) **`Full`**
    	- [EdgeBlock](https://play.google.com/store/apps/details?id=flar2.edgeblock) **`Full`**
+   	- [Accessibility Manager](https://www.coolapk.com/apk/com.accessibilitymanager) **`Monet`**
 ---
 ### [🧰Tools](#applist-menu)
 - **Downloader**
@@ -1122,6 +1132,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
    	- [Smart Dock](https://github.com/axel358/smartdock) **`Full`**
    	- [Tomb](https://jinnian.lanzouy.com/iTJGC0ovdsjg) **`MD`** 
    	- [GApps Mod](https://github.com/jacopotediosi/GAppsMod) **`Full`**
+   	- [VPN Hotspot](https://github.com/Mygod/VPNHotspot) **`MD` `FOSS`**
 ---
 ### [🎮Games](#applist-menu)
 - **Emulator**    
@@ -1157,6 +1168,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
    	- [MathQ](https://play.google.com/store/apps/details?id=com.anafthdev.mathq) **`Full`**
    	- [Cavedroid](https://play.google.com/store/apps/details?id=com.cyb3rko.cavedroid) **`MD-`**
    	- [Randomizer (Code Clickers)](https://play.google.com/store/apps/details?id=com.codeclickers.randomizer) **`Full`**
+   	- [Tap Counter](https://github.com/DDR13GIT/TapCounter) **`TODO`**
 - **Others**  
    	- [Jetisteam](https://github.com/iTaysonLab/jetisteam) **`Full`**    
    	- [Boat_H2O2 Pro](https://github.com/NaCln4c1/Boat_H2O2) **`MD-`**    
