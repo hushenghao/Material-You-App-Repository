@@ -822,7 +822,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
    	- [Sayit](https://play.google.com/store/apps/details?id=com.urbandroid.sayit) **`Full`**    
 - **Cleaner**    
    	- [Qingzhuo](https://www.coolapk.com/apk/com.farplace.qingzhuo) **`MD-` `Monet`**    
-   	- [SD Maid SE](https://github.com/d4rken-org/sdmaid-se) **`MD`**    
+   	- [SD Maid SE](https://github.com/d4rken-org/sdmaid-se) **`Full`**
    	- [Cleaner Plus](https://github.com/D4rK7355608/com.d4rk.cleaner.plus) **`Full`**
    	- [Cleaner](https://github.com/MaterialCleaner/MaterialCleaner) **`Full`**
    	- [Extripater](https://gitlab.com/divested-mobile/extirpater) **`Monet`**
