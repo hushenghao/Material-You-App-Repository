@@ -101,11 +101,6 @@ Additionally, some of the apps are ~~crossed out~~ as I couldn't find their down
 - [InstallerX](https://github.com/iamr0s/InstallerX) **`Full` `Multi`**
 - [Hail](https://github.com/aistra0528/Hail) **`Full` `Multi`**
 ## 🆕Newly Added Apps
-- [Hypatia](https://gitlab.com/divested-mobile/hypatia) **`Monet`**
-- [Extripater](https://gitlab.com/divested-mobile/extirpater) **`Monet`**
-- [Wulkanowy](https://github.com/wulkanowy/wulkanowy) **`MD-` `Monet`**
-- [Leon](https://github.com/svenjacobs/leon) **`Full`**
-- [Kitchen Owl](https://github.com/TomBursch/kitchenowl) **`MD-`**
 - [SongTube](https://github.com/SongTube/SongTube-App) **`MD-`**
 - [wX](https://gitlab.com/joshua.tee/wx) **`MD-`**
 - [Cuppa](https://github.com/ncosgray/cuppa_mobile) **`Full`**
@@ -113,10 +108,15 @@ Additionally, some of the apps are ~~crossed out~~ as I couldn't find their down
 - [KrypeEY](https://github.com/amnesica/KryptEY) **`Monet`**
 - [Nekome](https://github.com/Chesire/Nekome) **`Full`**
 - [Plex Manager](https://github.com/sikelio/plexmanager) **`MD-`**
-- **`NEW`** [WS Proxy](https://gitlab.com/Nekogram/wsproxy) **`Full`**
-- **`NEW`** [Batt](https://gitlab.com/narektor/batt) **`MD-` `FOSS`**
-- **`NEW`** [Flip Clock](https://play.google.com/store/apps/details?id=art.widgeet.android.clock.flip) **`Full`**
-- **`NEW`** [NITM](https://github.com/deskbtm/nitmgpt) **`MD`**
+- [WS Proxy](https://gitlab.com/Nekogram/wsproxy) **`Full`**
+- [Batt](https://gitlab.com/narektor/batt) **`MD-` `FOSS`**
+- [Flip Clock](https://play.google.com/store/apps/details?id=art.widgeet.android.clock.flip) **`Full`**
+- [NITM](https://github.com/deskbtm/nitmgpt) **`MD`**
+- **`NEW`** [AudioLab](https://play.google.com/store/apps/details?id=com.hitrolab.audioeditor) **`MD-` `Monet` `Multi`**
+- **`NEW`** [Allowance](https://github.com/jameskokoska/Allowance) **`Full`**
+- **`NEW`** [Table Habit](https://github.com/FriesI23/mhabit) **`Full`**
+- **`NEW`** [Pure Music](https://github.com/pure-music/PureMusic) **`Full` `Multi`**
+- **`NEW`** [SuperImage](https://github.com/Lucchetto/SuperImage) **`MD`**
 ## 📱Applist
 **Now you could click the title to return to the applist menu!**
 ### 🦖[Google Apps](#applist-menu)
@@ -321,6 +321,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
 	- [Simple Music Player](https://github.com/SimpleMobileTools/Simple-Music-Player) **`Full`**
 	- [Musify](https://github.com/gokadzev/Musify) **`Full`**
 	- [Pixel](https://play.google.com/store/apps/details?id=it.ncaferra.pixelplayerfree) **`Full`**
+	- [Pure Music](https://github.com/pure-music/PureMusic) **`Full` `Multi`**
 	- [Vanilla Music](https://play.google.com/store/apps/details?id=com.kyant.vanilla) **`Full`**
 - **Podcasts**
 	- [Moon FM](https://play.google.com/store/apps/details?id=fm.moon.app) **`Monet`**
@@ -334,6 +335,8 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
 	- [Purelive](https://github.com/Jackiu1997/pure_live/) **`Full` `Multi`**
 	- [Simple Live](https://github.com/xiaoyaocz/dart_simple_live) **`Full`**
 	- [ASeam](www.aseam.site) **`Full`**
+- **Media Tools**
+	- [AudioLab](https://play.google.com/store/apps/details?id=com.hitrolab.audioeditor) **`MD-` `Monet` `Multi`**
 - **Others**
 	- [Ambient Music Mod](https://github.com/KieronQuinn/AmbientMusicMod) **`Full` `MOD`**
 	- [Kayin](http://music.ijanz.cn/) **`MD`**
@@ -421,6 +424,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
 	- [EasySticker](https://play.google.com/store/apps/details?id=com.flowbro.easysticker) **`Full`**
 	- [Graphie](https://play.google.com/store/apps/details?id=com.pavelrekun.graphie) **`Full`**
 	- [Momentum Editor](https://play.google.com/store/apps/details?id=com.lware.momentum) **`MD`**
+	- [SuperImage](https://github.com/Lucchetto/SuperImage) **`MD`**
 ---
 ### [🌐Browser](#applist-menu)
 - [FOSS Browser](https://github.com/scoute-dich/browser) **`Full` `Multi`**
@@ -498,6 +502,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
 	- [Light Billing](https://www.coolapk.com/apk/kylec.me.lightbookkeeping) **`MD-`**
 	- [Keep Tally](https://github.com/123Duo3/KeepTally) **`Full`**
 	- [Celenganku](https://play.google.com/store/apps/details?id=id.celenganku.app) **`Full`**
+	- [Allowance](https://github.com/jameskokoska/Allowance) **`Full`**
 - **Virtual Currency**
 	- [PapriCoin](https://github.com/T8RIN/PapriCoin) **`Full`**
 	- [CoinTrend](https://github.com/CoinTrend/CoinTrend) **`MD`**
@@ -562,6 +567,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
    	- [Mindroid](https://play.google.com/store/apps/details?id=com.urbandroid.mind) **`MD`**
    	- [Habo](https://github.com/xpavle00/Habo) **`MD`**
    	- [Habit Builder](https://github.com/ofalvai/HabitBuilder) **`Full`**
+   	- [Table Habit](https://github.com/FriesI23/mhabit) **`Full`**
 - **Study**
    	- [Graded](https://github.com/NightDreamGames/Graded) **`Full`**
    	- [School Planner](https://play.google.com/store/apps/details?id=daldev.android.gradehelper) **`Full` `Multi`**
