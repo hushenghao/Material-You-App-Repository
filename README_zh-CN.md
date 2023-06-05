@@ -857,12 +857,12 @@ Material Design 3伴随着Android 12而来。它的诞生，彻底改变了人�
    	- [Extinguish](https://www.coolapk.com/apk/own.moderpach.extinguish) **`Full`**
    	- [夜屏](https://github.com/SkyD666/NightScreen) **`Full`**    
 - **TTS**
-   	- [TTS Server](https://github.com/jing332/tts-server-android) **`Full`**   
+   	- [TTS Server](https://github.com/jing332/tts-server-android) **`Full`**
    	- [Transcriber](https://play.google.com/store/apps/details?id=it.mirko.transcriber) **`Full`**    
    	- [Sayit](https://play.google.com/store/apps/details?id=com.urbandroid.sayit) **`Full`**
 - **系统清理**
    	- [清浊](https://www.coolapk.com/apk/com.farplace.qingzhuo) **`MD-` `Monet`** 
-   	- [SD Maid SE](https://github.com/d4rken-org/sdmaid-se) **`MD`**    
+   	- [SD Maid SE](https://github.com/d4rken-org/sdmaid-se) **`Full`**     
    	- [Cleaner Plus](https://github.com/D4rK7355608/com.d4rk.cleaner.plus) **`Full`**
    	- [Cleaner](https://github.com/MaterialCleaner/MaterialCleaner) **`Full`**
    	- [Extripater](https://gitlab.com/divested-mobile/extirpater) **`Monet`**
