@@ -895,10 +895,10 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
    	- [Vendetta Manager](https://github.com/vendetta-mod/VendettaManager) **`Full`** 
    	- [BiTGApps](https://bitgapps.io/app) **`Full`**
    	- [SongTube](https://github.com/SongTube/SongTube-App) **`MD-`**
-- **Resources Searching tool**   
+- **Resources Searching Tool**   
    	- [Magic Search](https://www.123pan.com/s/izDSVv-0JQWA) **`MD` `Multi`**   
    	- [Hunhepan](https://hunhepan.com/) **`MD`**    
-- **NetDisks** 
+- **Netdisks** 
    	- [lanzoucloud](https://1drv.ms/u/s!Atk49Scq_BtYhGd4LJN1fJftw-HQ?e=5jznMk) **`MD`**    
    	- [FolderSync](https://play.google.com/store/apps/details?id=dk.tacit.android.foldersync.lite) **`Full` `Multi`**    
    	- [Nextcloud Deck](https://github.com/stefan-niedermann/nextcloud-deck) **`MD`**    
