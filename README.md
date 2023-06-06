@@ -61,22 +61,156 @@ However in fact, sometimes Material You refers to the application which (may onl
 - Friends who make suggestions to me to make this repository more pretty.
 - And **ALL OF YOU WHO LOVE MATERIAL YOU!**
 ## 📜Applist Menu
-- [🦖 Google Apps](#google-apps)
-- [👨‍💻 OEM ROMs](#oem-roms)
-- [👥 Chat & Social Network](#chat--social-network)
-- [🎵 Media](#media)
-- [✍ Writing & Drawing](#writing--drawing)
-- [🖼️ Photos](#%EF%B8%8Fphotos)
-- [🌐 Browser](#browser)
-- [📖 Readers](#readers)
-- [🌦️ Daily Life](#%EF%B8%8Fdaily-life)
-- [🖌️ Theming](#%EF%B8%8Ftheming)
-- [⚙️ System Tools](#%EF%B8%8Fsystem-tools)
-- [🧰 Tools](#tools)
-- [🔧 Developer Tools](#developer-tools)
-- [#️⃣ Root/ADB](#%EF%B8%8F%E2%83%A3rootadb)
-- [🎮 Games](#games)
-- [🪄 Monet Modules](#monet-modules)
+- **[🦖 Google Apps](#google-apps)**
+- **[👨‍💻 OEM ROMs](#oem-roms)**
+	- **Moto MYUI**
+	- **Nothing OS** 
+	- **Octavi OS**
+	- **ASUS Zenui**
+- **[👥 Chat & Social Network](#chat--social-network)**
+	- **Contact**
+	- **Dialer**
+	- **SMS**
+	- **Telegram Clients**
+	- **Reddit Clients**
+	- **Discord Clients**
+	- **Instagram Clients**
+	- **Twitter Clients**
+	- **Other DAO Social Applications (with Mastodon Clients)**
+	- **BBS**
+	- **Mail**  
+	- **Others**
+- **[🎵 Media](#media)**
+	- **Youtube Clients**
+	- **Youtube Music Clients**
+	- **Spotify Clients** 
+	- **Netease Cloud Music Clients** 
+	- **Streaming Server Clients**
+	- **Anime Services**
+	- **Online Videos Services**
+	- **Offline Videos Services**
+	- **Online Music Services**
+	- **Offline Music Services**
+	- **Podcasts**
+	- **Lives**
+	- **Media Tools**
+- **[✍ Writing & Drawing](#writing--drawing)**
+	- **Notes**
+	- **Journal**
+	- **Drawboard**
+	- **Docs**
+	- **To-do**
+	- **Lyrics Editor**
+	- **Others**
+- **[🖼️ Photos](#%EF%B8%8Fphotos)**
+	- **Camera**
+	- **Gallery**
+	- **Illustrations**
+	- **Editor**
+- **[🌐 Browser](#browser)**
+- **[📖 Readers](#readers)**
+	- **Novels**
+	- **RSS/News**
+	- **Comics**
+- **[🌦️ Daily Life](#%EF%B8%8Fdaily-life)**
+	- **Bookkeeping**
+	- **Virtual Currency**
+	- **Card Case**
+	- **Calendar**
+	- **Weather**
+	- **Maps & Navigation**
+	- **Shopping**
+	- **Food**
+	- **Quote**
+	- **Health & Habits**
+	- **Study**
+	- **Tracking Services**
+	- **Stocks**
+	- **Others**
+- **[🖌️ Theming](#%EF%B8%8Ftheming)**
+	- **Launcher** 
+	- **Wallpapers**    
+	- **Icon Pack** 
+	- **Widget/KWGT**   
+	- **Dynamic Island** 
+	- **Native System Customization**
+	- **GBoard Customization**
+	- **Monet Theme for Other Apps**
+- **[⚙️ System Tools](#%EF%B8%8Fsystem-tools)**
+	- **File Browser**
+	- **Hardware Infomation**
+	- **App Manager**
+	- **Freezing Tool**
+	- **App Store**
+	- **Safety & Privacy**
+	- **Equalizer**
+	- **Permission Manager**
+	- **Shortcut**
+	- **Activity Manager**
+	- **Backup**
+	- **Battery Manager**
+	- **Screen Display**
+	- **TTS**  
+	- **Cleaner**  
+	- **Logger/Feedback**
+	- **Link Manager**
+	- **Installer**
+	- **Notification Filter**
+	- **Others**
+- **[🧰 Tools](#tools)**
+	- **Downloader**
+	- **App Downloader** 
+	- **Resources Searching Tool**   
+	- **Netdisk**
+	- **Keyboard**
+	- **Calculator**
+	- **Translator**
+	- **Recorder**
+	- **Scanner**
+	- **Flashlight**
+	- **Clock** 
+	- **Stopwatch**
+	- **Timer**
+	- **Compass**
+	- **2FA**
+	- **Password Manager** 
+	- **Sender**
+	- **Connecting Tool**
+	- **Peripheral**
+	- **AI** 
+	- **Auto Clicker**  
+	- **Searching Tool** 
+	- **MIUI ROM Downloading Tool** 
+	- **Toolbox** 
+	- **Proxy**
+	- **Measuring**
+	- **Others** 
+- **[🔧 Developer Tools](#developer-tools)**
+	- **Server** 
+	- **Componets & Demo**
+	- **Android Studio Tutorials**
+	- **Termux**
+	- **Lua**
+	- **Others**
+- **[#️⃣ Root/ADB](#%EF%B8%8F%E2%83%A3rootadb)**
+	- **Manager**  
+	- **Root Defender** 
+	- **Shizuku/Dhizuku/ADB**
+	- **Xposed Modules**
+	- **Others**
+- **[🎮 Games](#games)**
+	- **Emulator** 
+	- **Instruments** 
+	- **Trivia**
+	- **Sudoku**
+	- **Tic Tac Toe**
+	- **Counter**
+	- **Randomizer**
+	- **Puzzle**
+	- **Other Small Games**
+	- **Minecraft Tools**
+	- **Others** 
+- **[🪄 Monet Modules](#monet-modules)**
 ## 🏆Recommended
 - [vvex](https://github.com/guozhigq/flutter_v2ex) **`Full` `Multi`**
 - [Sync for Reddit](https://play.google.com/store/apps/details?id=com.laurencedawson.reddit_sync) **`Full` `Multi`**
@@ -207,13 +341,16 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
 
 ---
 ### [👥Chat & Social Network](#applist-menu)
-- **Contact/Dialer/SMS**
+- **Contact**
 	- [Simple Contacts](https://github.com/SimpleMobileTools/Simple-Contacts) **`Full`**
 	- [Connect You](https://github.com/Bnyro/ConnectYou) **`Full`**
+- **Dialer**
+	- [Koler](https://github.com/Chooloo/koler) **`Full`*
 	- [Simple Dialer](https://github.com/SimpleMobileTools/Simple-Dialer) **`Full`**
+- **SMS**
 	- [Simple SMS Messenger](https://github.com/SimpleMobileTools/Simple-SMS-Messenger) **`Full`**
 	- [WhatsApp Beta](https://play.google.com/apps/testing/com.whatsapp) **`MD-`**
-	- [Koler](https://github.com/Chooloo/koler) **`Full`**
+*
 - **Telegram Clients**
 	- [MDgram](https://github.com/MDGramYou/MDGramYou) **`MD` `Multi`**
 	- [exteraGram](https://github.com/exteraSquad/exteraGram) **`MD-` `Multi`**
