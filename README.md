@@ -35,7 +35,7 @@ However in fact, sometimes Material You refers to the application which (may onl
 - **`MD`** - App whose components are **completely** in MD3 style but **doesn't support** Dynamic Color.
 - **`MD-`** - App whose components are **partly** in MD3 style, which is common when a developer claims his application applies MD3 style but its switch or other component is not in MD3 style. If it supports Dynamic Color, a **`Monet`** label will be added.
 - **`Monet`** - App that **only** supports Dynamic Color, whose components are **completely not** in MD3 style.
-- **`Full`** - App that **completely** follows Material Design 3, inclouding completely-used MD3 components and Dynamic Color.
+- **`Full`** - App that **completely** follows Material Design 3, including completely-used MD3 components and Dynamic Color.
 - **`Multi`** - App that is more friendly for diffent devices, such as pad and fold.
 - **`MOD`** - App that is modified by unoffical teams. Its original app doesn't apply Material You comepletely.
 - **`TODO`** - App that has no releases yet. You could preview it in its github repository.
