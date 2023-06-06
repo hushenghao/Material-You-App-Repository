@@ -42,8 +42,6 @@ However in fact, sometimes Material You refers to the application which (may onl
 - **`FOSS`** - App that is free and open-sourse.
 - **`💴`** - App that needs to pay to activate some features.
 
-Additionally, some of the apps are ~~crossed out~~ as I couldn't find their download link and couldn't experience them.
-
 *And then, the label **`FOSS`** & **`💴`** will be added step by step. I will finish it as soon as possible XD*
 
 |  | Fully Designed | Dynamic Color |
@@ -262,6 +260,10 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
 	- [FogIsland](https://github.com/123Duo3/XDNMB) **`TODO`**
 	- [Stack for Stack Overflow](https://play.google.com/store/apps/details?id=me.tylerbwong.stack) **`Full`**
 	- [HACG](https://github.com/shizheng233/HACG) **`Full`**
+- **Mail**    
+   	- [Spark Mail](https://play.google.com/store/apps/details?id=com.readdle.spark) **`Monet`**    
+   	- [Informaniak KMail](https://github.com/Infomaniak/android-kMail) **`Full`**    
+   	- [Gotify](https://github.com/gotify/android) **`MD`**  
 - **Others**
 	- [Kizzy](https://github.com/dead8309/Kizzy) **`Full`**
 	- [LiPari](https://github.com/Stamir36/LiPari-Android) **`Full` `Multi`**
@@ -365,7 +367,6 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
 	- [Spooky](https://play.google.com/store/apps/details?id=com.juniorise.spooky) **`Full`**
 	- [Nonsense Notes](https://www.coolapk.com/apk/com.hua.ssnote_coolapk) **`MD`**
 	- [Notes](https://play.google.com/store/apps/details?id=com.redmerah.notes) **`Full`**
-	- [Kubus Tasks](https://play.google.com/store/apps/details?id=com.ms.tasks) **`MD-`**
 	- [Start Now](https://www.coolapk.com/apk/com.start.now) **`MD-`**
 	- [Justnotes](https://github.com/jjewuz/JustNotes) **`Full`**
 	- [BeauTyXT](https://github.com/soupslurpr/BeauTyXT) **`Full`**
@@ -390,7 +391,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
 	- [Wishapp](https://play.google.com/store/apps/details?id=ru.vitaliy.belyaev.wishapp) **`Full`**
 	- [Birday](https://github.com/m-i-n-a-r/birday) **`Full`**
 	- [RemindMe](https://github.com/kafri8889/Remind-Me) **`TODO`**
-	- [FoodExpirationDates](https://github.com/lorenzovngl/FoodExpirationDates) **`Full`**
+	- [Food Expiration Dates](https://github.com/lorenzovngl/FoodExpirationDates) **`Full`**
 	- [Clever Tasks](https://play.google.com/store/apps/details?id=com.protivity.clever_tasks) **`Full`**
 	- [Todoist](https://play.google.com/store/apps/details?id=com.todoist) **`Monet`**
 	- [Tasky](https://github.com/thatsmanmeet/Tasky) **`Full`**
@@ -398,6 +399,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
 	- [Noterly](https://play.google.com/store/apps/details?id=uk.co.tdsstudios.noterly) **`Full`**
 	- [TimeTable](https://play.google.com/store/apps/details?id=app.smart.timetable) **`Full`**
 	- [Engross](https://play.google.com/store/apps/details?id=com.engross) **`MD-`**
+	- [Kubus Tasks](https://play.google.com/store/apps/details?id=com.ms.tasks) **`MD-`**
 - **Lyrics Editor**
 	- [Lyricistant](https://github.com/wardellbagby/lyricistant) **`MD-` `Monet` `Multi`**
 	- [Sinhala Lyrics](https://github.com/SuhasDissa/Sinhala-Lyrics-App)  **`Full`**
@@ -495,8 +497,8 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
 	- [Voice](https://github.com/PaulWoitaschek/Voice) **`Full` `Multi`**
 ---
 ### [🌦️Daily Life](#applist-menu)
-- **Wallets/Billing**
-	- [Xiaoxing Billing](https://www.coolapk.com/apk/com.cxincx.xxjz) **`MD`**
+- **Bookkeeping**
+	- [Xiaoxing Bookkeeping](https://www.coolapk.com/apk/com.cxincx.xxjz) **`MD`**
 	- [Paisa](https://play.google.com/store/apps/details?id=dev.hemanths.paisa) **`Full` `Multi`**
 	- [Buckwheat](https://github.com/danilkinkin/buckwheat) **`Full` `Multi`**
 	- [GreenStash](https://github.com/Pool-Of-Tears/GreenStash) **`Full`**
@@ -511,7 +513,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
 	- [SanaPlus](https://github.com/CakesTwix/SanaPlus) **`TODO`**
 	- [SubTotal](https://play.google.com/store/apps/details?id=partl.grandtotal) **`Full`**
 	- [Tasse Forfettario](https://play.google.com/store/apps/details?id=com.wakirox.adecotax) **`Full`**
-	- [Light Billing](https://www.coolapk.com/apk/kylec.me.lightbookkeeping) **`MD-`**
+	- [Light Bookkeeping](https://www.coolapk.com/apk/kylec.me.lightbookkeeping) **`MD-`**
 	- [Keep Tally](https://github.com/123Duo3/KeepTally) **`Full`**
 	- [Celenganku](https://play.google.com/store/apps/details?id=id.celenganku.app) **`Full`**
 	- [Allowance](https://github.com/jameskokoska/Allowance) **`Full`**
@@ -560,20 +562,21 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
 	- [Grocy](https://github.com/patzly/grocy-android) **`Full` `Multi`**
 	- [Shopin](https://github.com/erdemklync/Shopin) **`MD`**
 	- [Kitchen Owl](https://github.com/TomBursch/kitchenowl) **`MD-`**
-- **Recipe**
+- **Food**
 	- [CTU Menza](https://github.com/Lastaapps/menza) **`Full` `Multi`**   
 	- [CookHelper](https://github.com/T8RIN/CookHelper) **`Full`**
 	- [Mealient](https://github.com/kirmanak/Mealient) **`Full`**
+   	- [Food-E](https://github.com/SuhasDissa/Food-E-App) **`Full`**
 - **Quote**
   	- [Onesentence](https://www.coolapk.com/apk/kenmizz.onesentence) **`Full`**
 	- [Qwotable](https://github.com/Lijukay/Qwotable) **`Full` `Multi`**
-- **Health**
+- **Health & Habits**
    	- [Sleep as Android](https://play.google.com/store/apps/details?id=com.urbandroid.sleep) **`Full` `Multi`**
    	- [Disconnect](https://gitlab.com/narektor/disconnect) **`Full`**
    	- [Digital Detox](https://play.google.com/store/apps/details?id=com.urbandroid.ddc) **`MD`**
    	- [Koduko](https://github.com/Mazahir26/koduko) **`MD`**
    	- [Respawn](https://play.google.com/store/apps/details?id=com.nek12.respawn) **`MD`**
-   	- [Soberity](https://github.com/KiARC/Sobriety/releases) **`Full`**
+   	- [Soberity](https://github.com/KiARC/Sobriety) **`Full`**
    	- [Lullaby Pack](https://play.google.com/store/apps/details?id=com.urbandroid.sleep.addon.lullaby) **`Full`**
    	- [Kine](https://play.google.com/store/apps/details?id=com.urbandroid.kinestop) **`MD-`**
    	- [Noice](https://github.com/trynoice/android-app) **`Full`**
@@ -623,8 +626,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
    	- [Lis10](https://play.google.com/store/apps/details?id=com.urbandroid.lis10) **`Full`**
    	- [Universal Remote for Smart TVs](https://play.google.com/store/apps/details?id=com.quanticapps.universalremote) **`Full` `Multi`**
    	- [SpaceHub](https://github.com/LPirro/SpaceHub) **`TODO`**
-   	- [Food-E](https://github.com/SuhasDissa/Food-E-App) **`Full`**
-   	- [You Tune](https://github.com/SuhasDissa/You-Tune) **`TODO`**
+   	- [Traewelldroid](https://github.com/Traewelldroid/traewelldroid) **`MD`**   
 ---
 ### [🖌️Theming](#applist-menu)
 - **Launcher**    
@@ -729,12 +731,14 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
    	- [PowerLine](https://play.google.com/store/apps/details?id=com.urbandroid.inline) **`Full`**    
    	- [Palettes](https://play.google.com/store/apps/details?id=com.pranavpandey.theme) **`Full`**    
    	- [Android 12 Extensions](https://github.com/kdrag0n/android12-extensions) **`MD-` `Monet`**   
-   	- [Iconify](https://github.com/Mahmud0808/Iconify) **`Full`**    
-- **Others**    
+   	- [Iconify](https://github.com/Mahmud0808/Iconify) **`Full`**
+   	- [Speed Monitor](https://www.coolapk.com/apk/com.dede.nativetools) **`MD-` `Monet` `Multi`** 
+- **GBoard Customization**
    	- [Rboard Theme Manager](https://github.com/DerTyp7214/RboardThemeManagerV3) **`Full`**    
    	- [Rboard Patcher](https://github.com/DerTyp7214/RboardPatcher) **`Full`**    
    	- [Rboard Theme Creator](https://github.com/DerTyp7214/RboardThemeCreator) **`Full`**    
    	- [Rboard IME Tester](https://github.com/DerTyp7214/RboardIMETester) **`Full`**    
+- **Monet Theme for Other Apps**
    	- [Monet Generator](https://github.com/jamal2362/Monet-Generator) **`Full`**    
    	- [MixTheme Creator](https://github.com/DerTyp7214/MixplorerThemeCreator) **`Full`**    
    	- [Telegram Monet](https://github.com/c3r5b8/Telegram-Monet) **`Full`**    
@@ -766,7 +770,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
    	- [Treble Info](https://gitlab.com/TrebleInfo/TrebleInfo) **`Full`**
    	- [CPU Monitor](https://play.google.com/store/apps/details?id=com.paget96.cpumonitor) **`Full`**
    	- [Athena](https://github.com/SebaUbuntu/Athena) **`Full`**
-- **App Manager/Freezing Tool**
+- **App Manager**
    	- [Exodus](https://github.com/Exodus-Privacy/exodus-android-app) **`MD`**
    	- [App Manager](https://github.com/MuntashirAkon/AppManager) **`Full`**
    	- [LibChecker](https://github.com/LibChecker/LibChecker) **`Full`**
@@ -775,6 +779,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
    	- [System Tools Android](https://play.google.com/store/apps/details?id=com.redhome.sta) **`MD-`**
    	- [AppDash](https://play.google.com/store/apps/details?id=flar2.appdashboard) **`Full`**
    	- [Ml Manager](https://play.google.com/store/apps/details?id=com.javiersantos.mlmanager) **`MD-`**
+- **Freezing Tool**
    	- [Hail](https://github.com/aistra0528/Hail) **`Full` `Multi`**
    	- [FreezeYou](https://github.com/FreezeYou/FreezeYou) **`MD-` `Monet`**
    	- [Icebox](https://www.coolapk.com/apk/com.catchingnow.icebox) **`Monet`**
@@ -783,7 +788,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
    	- [Droid-ify](https://github.com/Iamlooker/Droid-ify) **`MD-` `Monet`**
    	- [Obtainium](https://github.com/ImranR98/Obtainium) **`Full`**
    	- [Apps by GrapheneOS](https://github.com/GrapheneOS/Apps) **`MD-` `Monet`**
-   	- [accrescent](https://github.com/accrescent/accrescent) **`Full`**
+   	- [Accrescent](https://github.com/accrescent/accrescent) **`Full`**
    	- [Aurora Store](https://gitlab.com/AuroraOSS/AuroraStore) **`MD-` `Monet`**
 - **Safety & Privacy**
    	- [AirGuard](https://github.com/seemoo-lab/AirGuard) **`MD-` `Monet`** 
@@ -809,9 +814,10 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
    	- [Notification Shortcuts](https://play.google.com/store/apps/details?id=rk.android.app.notificationshortcuts) **`Full`**
    	- [Shortcut Maker](https://play.google.com/store/apps/details?id=rk.android.app.shortcutmaker) **`Full`**
    	- [Pinned Shortcuts](https://play.google.com/store/apps/details?id=rk.android.app.pinnedshortcuts) **`Full`**
+   	- [Shortcuts](https://www.coolapk.com/apk/com.syyf.quickpay) **`Full`**
+- **Activity Manager**
    	- [Root Activity Launcher](https://t.me/misakamaterial/123) **`Full` `Multi`**
    	- [Activity Manager](https://github.com/sdex/ActivityManager) **`MD-`**
-   	- [Shortcuts](https://www.coolapk.com/apk/com.syyf.quickpay) **`Full`**
 - **Backup**
    	- [DataBackup](https://github.com/XayahSuSuSu/Android-DataBackup) **`Full`**
    	- [Neo Backup](https://github.com/NeoApplications/Neo-Backup) **`Full`**
@@ -859,14 +865,13 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
 - **Others**    
    	- [Data Monitor](https://github.com/itsdrnoob/DataMonitor) **`Full`**   
    	- [DarQ](https://github.com/KieronQuinn/DarQ) **`MD-`**
-   	- [FarPush](https://www.coolapk.com/apk/com.farplace.farpush) **`MD`**    
-   	- [Nativetools](https://www.coolapk.com/apk/com.dede.nativetools) **`MD-` `Monet` `Multi`**    
+   	- [FarPush](https://www.coolapk.com/apk/com.farplace.farpush) **`MD`**       
    	- [Inputswitcher](https://www.coolapk.com/apk/com.inputswitcher) **`Monet`**    
    	- [Calmanager](https://www.coolapk.com/apk/fun.lifeupapp.calmanager) **`Full`**    
    	- [Rotation](https://play.google.com/store/apps/details?id=com.pranavpandey.rotation) **`Full` `Multi`**    
    	- [Flip DND](https://play.google.com/store/apps/details?id=com.urbandroid.dnd) **`Full`**    
    	- [Mock My GPS](https://github.com/warren-bank/Android-Mock-Location) **`Monet`**    
-   	- [WearOSbox](https://www.coolapk.com/apk/com.flyfishstudio.wearosbox) **`Full`**    
+   	- [WearOS Box](https://www.coolapk.com/apk/com.flyfishstudio.wearosbox) **`Full`**    
    	- [Mediascanner](https://www.coolapk.com/apk/com.ma.mediascanner) **`MD-`**    
    	- [Screen Refresh Rate](https://1drv.ms/u/s!Atk49Scq_BtYhGa4_8QAcwYhDFgH?e=mRiGAm) **`Full`**    
    	- [Carrier Vanity Name](https://github.com/nullbytepl/CarrierVanityName) **`MD`** 
@@ -882,15 +887,17 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
    	- [Seal](https://github.com/JunkFood02/Seal) **`Full`**    
    	- [YOSDown](https://github.com/Yos-X/YBVD_Release) **`Full`**    
    	- [YTDLnis](https://github.com/deniscerri/ytdlnis) **`Full` `Multi`**    
-   	- [Spowlo](https://github.com/BobbyESP/Spowlo) **`Full`**    
+   	- [Spowlo](https://github.com/BobbyESP/Spowlo) **`Full`**
+- **App Downloader**   
    	- [Revanced Manager](https://github.com/revanced/revanced-manager) **`Full`**    
    	- [AliucordRN](https://github.com/Aliucord/AliucordRN) **`Full`**    
    	- [Vendetta Manager](https://github.com/vendetta-mod/VendettaManager) **`Full`** 
    	- [BiTGApps](https://bitgapps.io/app) **`Full`**
    	- [SongTube](https://github.com/SongTube/SongTube-App) **`MD-`**
-- **Resources Search Tool/NetDisks**   
+- **Resources Searching tool**   
    	- [Magic Search](https://www.123pan.com/s/izDSVv-0JQWA) **`MD` `Multi`**   
    	- [Hunhepan](https://hunhepan.com/) **`MD`**    
+- **NetDisks** 
    	- [lanzoucloud](https://1drv.ms/u/s!Atk49Scq_BtYhGd4LJN1fJftw-HQ?e=5jznMk) **`MD`**    
    	- [FolderSync](https://play.google.com/store/apps/details?id=dk.tacit.android.foldersync.lite) **`Full` `Multi`**    
    	- [Nextcloud Deck](https://github.com/stefan-niedermann/nextcloud-deck) **`MD`**    
@@ -933,7 +940,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
    	-  [Barcode Scanner](https://gitlab.com/Atharok/BarcodeScanner) **`Full` `Multi`**    
    	- [Barquode](https://play.google.com/store/apps/details?id=com.pranavpandey.matrix) **`Full` `Multi`**   
    	- [Codora](https://play.google.com/store/apps/details?id=com.kokoschka.michael.qrtools) **`Full` `Multi`**    
-   	- [~~Pixel Scanner~~](https://github.com/jaikeerthick/Pixel-Scanner) **`Full`**
+   	- [Pixel Scanner](https://github.com/jaikeerthick/Pixel-Scanner) **`TODO`**
    	- [MyQR](https://github.com/sankethsj/qr-code-generator) **`Full`**
    	- [ShowMeMore](https://play.google.com/store/apps/details?id=app.wakirox.freecensorship) **`Full`**
    	- [QScan](https://github.com/Henry-Hiles/QScan) **`Full`**
@@ -943,18 +950,20 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
    	- [Shake Flashlight](https://play.google.com/store/apps/details?id=com.paget96.shakeflashlight) **`Full`**
    	- [Simple Flashlight](https://github.com/SimpleMobileTools/Simple-Launcher) **`Full`**    
 - **Clock**    
-   	- [Timer +X](https://gitlab.com/humbertofraga/timerx) **`MD-`**    
    	- [Clock You](https://github.com/Bnyro/ClockYou) **`Full`**    
    	- [Floattime](https://www.coolapk.com/apk/com.kimger.floattime) **`MD-`**    
    	- [Simple Clock](https://github.com/SimpleMobileTools/Simple-Clock) **`Full`** 
-   	- [Workout Timer](https://play.google.com/store/apps/details?id=com.paget96.workouttimer) **`Full`**    
-   	- [Cofi](https://github.com/rozPierog/Cofi) **`Full` `Multi`**    
-   	- [Floating Timer](https://github.com/tberghuis/FloatingCountdownTimer) **`Full`**   
+   	- [Atomic Clock](https://play.google.com/store/apps/details?id=partl.atomicclock) **`Full`**
+- **Stopwatch**
    	- [Stopwatch(Wear OS)](https://play.google.com/store/apps/details?id=com.redmerah.stopwatch) **`Full` `Multi`**
    	- [Stopwatch](https://play.google.com/store/apps/details?id=com.redmerah.stopwatch) **`MD`**
-   	- [Atomic Clock](https://play.google.com/store/apps/details?id=partl.atomicclock) **`Full`**
+- **Timer**
+   	- [Workout Timer](https://play.google.com/store/apps/details?id=com.paget96.workouttimer) **`Full`**    
+   	- [Cofi](https://github.com/rozPierog/Cofi) **`Full` `Multi`**
    	- [Working Rours](https://play.google.com/store/apps/details?id=partl.workinghours) **`Full`**
    	- [Cuppa](https://github.com/ncosgray/cuppa_mobile) **`Full`**
+   	- [Timer +X](https://gitlab.com/humbertofraga/timerx) **`MD-`**   
+   	- [Floating Timer](https://github.com/tberghuis/FloatingCountdownTimer) **`Full`**    
 - **Compass**    
    	- [Compass](https://github.com/Kr0oked/Compass) **`MD-` `Monet`**  
 - **2FA**
@@ -962,7 +971,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
    	- [Authenticator Pro](https://github.com/jamie-mh/AuthenticatorPro) **`Full`**
    	- [Keyring OTP](https://gitlab.com/aorszulak/keyring) **`Full`**
    	- [Kakunin](https://github.com/zsakvo/Kakunin-Mobile) **`Full`**
-- **Key Manager**    
+- **Password Manager**    
    	- [Keyspace](https://github.com/Keyspace-cloud/android) **`MD`**    
    	- [PassStore](https://play.google.com/store/apps/details?id=app.jjyy.passstore) **`Full`**    
    	- [Pazzword](https://github.com/cyb3rko/pazzword) **`Full`**    
@@ -970,24 +979,21 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
    	- [Wassword](https://github.com/polilluminato/wassword-flutter) **`MD`**    
    	- [Keyguard for Bitwarden](https://play.google.com/store/apps/details?id=com.artemchep.keyguard) **`Full` `Multi`**   
    	- [Simple Password](https://github.com/grigorevmp/Simple_Passwords_QuickPass) **`Full`**
-- **Sender/Connect**      
+- **Senders**      
    	- [Warpinator](https://github.com/slowscript/warpinator-android) **`MD-` `Monet`**    
    	- [Arc](https://play.google.com/store/apps/details?id=com.quadren.arc) **`Full`**    
-   	- [FnSync](https://www.coolapk.com/apk/holmium.fnsync.ngp) **`Full`**    
-   	- [LocalSend](https://github.com/localsend/localsend) **`Full` `Multi`**    
-   	- [Octi](https://github.com/d4rken-org/octi) **`MD-` `Monet`**    
+   	- [LocalSend](https://github.com/localsend/localsend) **`Full` `Multi`**       
    	- [Photon](https://github.com/abhi16180/photon) **`MD-`**    
-   	- [KDE Connect](https://invent.kde.org/network/kdeconnect-android) **`Full` `Multi`**    
+- **Connecting Tools**
+   	- [FnSync](https://www.coolapk.com/apk/holmium.fnsync.ngp) **`Full`**
+   	- [KDE Connect](https://invent.kde.org/network/kdeconnect-android) **`Full` `Multi`**
+   	- [Octi](https://github.com/d4rken-org/octi) **`MD-` `Monet`**
 - **Peripherals**    
    	- [MiDoze](https://github.com/Keddnyo/MiDoze) **`Full`**    
    	- [CAPod](https://github.com/d4rken-org/capod) **`MD`**    
    	- [OpenSCQ30](https://github.com/Oppzippy/OpenSCQ30) **`Full`**    
    	- [Yubico Authenticator](https://github.com/Yubico/yubioath-flutter) **`Full` `Multi`**
-   	- [RS Tool](https://1drv.ms/u/s!Atk49Scq_BtYhHsoHNUSMxfYyauF?e=AeEWov) **`MD`**
-- **Mail**    
-   	- [Spark Mail](https://play.google.com/store/apps/details?id=com.readdle.spark) **`Monet`**    
-   	- [Informaniak KMail](https://github.com/Infomaniak/android-kMail) **`Full`**    
-   	- [Gotify](https://github.com/gotify/android) **`MD`**    
+   	- [RS Tool](https://1drv.ms/u/s!Atk49Scq_BtYhHsoHNUSMxfYyauF?e=AeEWov) **`MD`**  
 - **AI**    
    	- [Colors AI](https://github.com/tsinis/colors_ai) **`Full`**    
    	- [CommuniqAI](https://play.google.com/store/apps/details?id=dev.mtc.ga) **`MD-`**    
@@ -999,12 +1005,12 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
    	- [NeoGPT](https://play.google.com/store/apps/details?id=com.lware.neogpt) **`MD`**
    	- [Echo](https://play.google.com/store/apps/details?id=com.niven.chat) **`MD`**
    	- [ChatGPT](https://github.com/thewolfprod/ChatGPT-Android) **`TODO`**
-- **AutoClicker**    
+- **Auto Clicker**    
    	- [TapTap](https://github.com/KieronQuinn/TapTap) **`Full`**    
    	- [Auto Tasker](https://www.coolapk.com/apk/top.xjunz.tasker) **`MD`**    
    	- [Smart AutoClicker](https://github.com/Nain57/Smart-AutoClicker) **`Full`**    
    	- [Tasker](https://play.google.com/store/apps/details?id=net.dinglisch.android.taskerm) **`Monet`**    
-- **Search**    
+- **Searching Tools**    
    	- [Gugal](https://gitlab.com/narektor/gugal) **`Full`**    
    	- [Pixel Search](https://play.google.com/store/apps/details?id=rk.android.app.pixelsearch) **`Full`**        
 - **MIUI ROM Search**   
@@ -1014,26 +1020,26 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
    	- [Voyage Toolbox](https://1drv.ms/u/s!Atk49Scq_BtYhGh4H5XMwB_QVDKK?e=uogimG) **`Full`**    
    	- [Xiaobu Toolbox](https://www.coolapk1s.com/feed/45145335) **`Full`**
    	- [Sevendots Toolbox](https://1drv.ms/u/s!Atk49Scq_BtYhHkWJxcDuAPY25PZ?e=l89paX) **`Full`**  
+   	- [Plain](https://github.com/ismartcoding/plain-app) **`Full`**   
 - **Proxy**
    	- [Surfboard](https://play.google.com/store/apps/details?id=com.getsurfboard) **`Full` `Multi`**
    	- [WireGuard](https://git.zx2c4.com/wireguard-android/) **`Full`**
    	- [WS Proxy](https://gitlab.com/Nekogram/wsproxy) **`Full`**
+- **Measuring**
+   	- [Bubble Level](https://play.google.com/store/apps/details?id=com.codeclickers.bubblelevel) **`MD`** 
+   	- [Lightmeter](https://github.com/vodemn/m3_lightmeter) **`Full`**
+   	- [Sound Meter](https://play.google.com/store/apps/details?id=com.codeclickers.soundmeter) **`Full`**
 - **Others**    
    	- [TSViewer](https://github.com/BlazeCodeDev/TSViewer) **`Full`**    
    	- [Easter Eggs](https://play.google.com/store/apps/details?id=com.dede.android_eggs) **`Full`**    
-   	- [Bubble Level](https://play.google.com/store/apps/details?id=com.codeclickers.bubblelevel) **`MD`**    
-   	- [Beta Maniac](https://play.google.com/store/apps/details?id=it.mirko.beta) **`Full`**    
-   	- [traewelldroid](https://github.com/Traewelldroid/traewelldroid) **`MD`**    
-   	- [Plain](https://github.com/ismartcoding/plain-app) **`Full`**    
+   	- [Beta Maniac](https://play.google.com/store/apps/details?id=it.mirko.beta) **`Full`**      
    	- [Rays](https://github.com/SkyD666/Rays-Android) **`Full` `Multi`**    
    	- [BilibiliFork](https://github.com/gitofleonardo/BilibiliFork) **`MD`**    
    	- [Pocket Mode](https://play.google.com/store/apps/details?id=com.artemchep.pocketmode) **`Full`**
    	- [FontConverter](https://github.com/123Duo3/FontConverter) **`Full` `Multi`**
-   	- [Lightmeter](https://github.com/vodemn/m3_lightmeter) **`Full`**
    	- [Secret Screenshots](https://play.google.com/store/apps/details?id=com.lware.secret_screenshots) **`MD`**
    	- [Drag and Drop Transfer Station Lite](https://gitee.com/Jesse205/DragAndDropTransferStationLite) **`Monet`**
    	- [Textbender](https://github.com/elizagamedev/android-textbender) **`Monet`**
-   	- [Sound Meter](https://play.google.com/store/apps/details?id=com.codeclickers.soundmeter) **`Full`**
    	- [Simple Thank You](https://github.com/SimpleMobileTools/Simple-Thank-You) **`Full`**
    	- [Life Chest](https://github.com/theskyblockman/life-chest) **`Full`**
 ---
@@ -1056,23 +1062,26 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
    	- [Goldex](https://play.google.com/store/apps/details?id=com.goldex) **`Full`**
    	- [Compose Material Design 3](https://play.google.com/store/apps/details?id=com.anafthdev.md3compose) **`Full`**    
    	- [Material 3](https://play.google.com/store/apps/details?id=com.boltuix.material3) **`MD`** **`Multi`**    
+- **Android Studio Tutorials**
+   	- [Android Studio Tutorials: Kotlin](https://github.com/D4rK7355608/com.d4rk.androidtutorials) **`Full`**    
+   	- [Android Studio Tutorials: Java](https://github.com/D4rK7355608/com.d4rk.androidtutorials.java) **`Full`**
+- **Termux**
+   	- [Termux Monet](https://t.me/AndroidRepo/3793) **`Monet` `MOD`** 
+   	- [TermPlux](https://github.com/TermPlux/TermPlux-App) **`MD-` `Monet`**   
+- **Lua**
+   	- [SWKLua](https://www.coolapk1s.com/feed/44867507) **`Full`**   
+   	- [Windmill](https://www.coolapk.com/apk/com.agyer.windmill) **`Full` `Multi`**
 - **Others**
-   	- [Termux Monet](https://t.me/AndroidRepo/3793) **`Monet` `MOD`**    
-   	- [SWKLua](https://www.coolapk1s.com/feed/44867507) **`Full`**    
    	- [APK Editor](https://t.me/WSTprojects/1509) **`Full`**    
    	- [HalfDot](https://github.com/davquar/halfdot) **`MD`**    
    	- [Gloom](https://github.com/MateriiApps/Gloom) **`MD`**    
    	- [M3O](https://github.com/m3o/m3o-android) **`MD`**    
    	- [SetEdit](https://github.com/MuntashirAkon/SetEdit) **`Full`**    
    	- [IPFS Lite](https://gitlab.com/remmer.wilts/ipfs-lite) **`Full`**    
-   	- [Android Studio Tutorials: Kotlin](https://github.com/D4rK7355608/com.d4rk.androidtutorials) **`Full`**    
-   	- [Android Studio Tutorials: Java](https://github.com/D4rK7355608/com.d4rk.androidtutorials.java) **`Full`**
    	- [Stryker](https://github.com/stryker-project/app) **`MD-`**
    	- [notabug](https://github.com/Smooth-E/notabug-mobile) **`TODO`**
-   	- [Windmill](https://www.coolapk.com/apk/com.agyer.windmill) **`Full` `Multi`**
    	- [Zoho Apptics](https://play.google.com/store/apps/details?id=com.zoho.apptics) **`MD-` `Monet`**
    	- [Maybe](https://1drv.ms/u/s!Atk49Scq_BtYhHpVn8A3ZDu-aKHX?e=51dtFM) **`Full`**
-   	- [TermPlux](https://github.com/TermPlux/TermPlux-App) **`MD-` `Monet`**
 ---
 ### [#️⃣Root/ADB](#applist-menu)
 - **Manager**   
@@ -1149,36 +1158,43 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
 - **Instruments**    
    	- [Metronome](https://github.com/Kr0oked/Metronome) **`MD-` `Monet`**
    	- [Tuner](https://github.com/thetwom/Tuner) **`MD-` `Monet`**
-- **Small Games**    
-   	- [Trivia You](https://github.com/Bnyro/TriviaYou) **`Full`**    
-   	- [Randomix](https://github.com/m-i-n-a-r/randomix) **`Full`**    
-   	- [LibreSudoku](https://github.com/kaajjo/Libre-Sudoku) **`Full`**    
-   	- [Dooz](https://github.com/yamin8000/Dooz) **`Full`**    
-   	- [New Quiz](https://github.com/joaomanaia/newquiz) **`Full`**    
-   	- [Material You Tic Tac Toe](https://github.com/marek-guran/Material-You-Tic-Tac-Toe) **`Full`**    
-   	- [Zerocros](https://play.google.com/store/apps/details?id=com.pranavpandey.tictactoe) **`Full`**    
+- **Trivia**
+   	- [Trivia You](https://github.com/Bnyro/TriviaYou) **`Full`** 
+   	- [New Quiz](https://github.com/joaomanaia/newquiz) **`Full`**
+   	- [TKCompaionApp](https://codeberg.org/marco.bresciani/TKCompanionApp) **`Full`** 
+- **Sudoku**
+   	- [LibreSudoku](https://github.com/kaajjo/Libre-Sudoku) **`Full`**
+   	- [Saku](https://play.google.com/store/apps/details?id=com.anafthdev.saku) **`Full`**
+- **Tic Tac Toe**
    	- [TicTacToe](https://github.com/kafri8889/Compose-TicTacToe) **`Full`**
    	- [TicTacYou](https://github.com/AykoSc/TicTacYou) **`MD`**
-   	- [Snake Classic](https://github.com/kafri8889/Compose-Classic-Snake-Game) **`Full`**    
-   	- [NPuzzle](https://play.google.com/store/apps/details?id=com.anafthdev.npuzzle) **`Full`**    
-   	- [TKCompaionApp](https://codeberg.org/marco.bresciani/TKCompanionApp) **`Full`**    
-   	- [Antimine](https://github.com/lucasnlm/antimine-android) **`Full`**    
-   	- [Forkyz](https://github.com/yourealwaysbe/forkyz) **`Full`**    
+   	- [Dooz](https://github.com/yamin8000/Dooz) **`Full`** 
+   	- [Material You Tic Tac Toe](https://github.com/marek-guran/Material-You-Tic-Tac-Toe) **`Full`**
+   	- [Zerocros](https://play.google.com/store/apps/details?id=com.pranavpandey.tictactoe) **`Full`**    
+- **Counter**
    	- [Score Counter](https://github.com/hegocre/ScoreCounter) **`Full`**    
-   	- [Counter](https://play.google.com/store/apps/details?id=rahmouni.neil.counters) **`Full`**    
-   	- [Tabletop Tools](https://github.com/mueller-ma/TabletopTools) **`Full`**    
-   	- [Saku](https://play.google.com/store/apps/details?id=com.anafthdev.saku) **`Full`**
+   	- [Counter](https://play.google.com/store/apps/details?id=rahmouni.neil.counters) **`Full`** 
+   	- [Tap Counter](https://github.com/DDR13GIT/TapCounter) **`TODO`**
+- **Randomizer**
+   	- [Randomix](https://github.com/m-i-n-a-r/randomix) **`Full`**   
+   	- [Tabletop Tools](https://github.com/mueller-ma/TabletopTools) **`Full`**  
    	- [Randomizer](https://play.google.com/store/apps/details?id=com.redmerah.randomizer) **`MD`**
+   	- [Randomizer (Code Clickers)](https://play.google.com/store/apps/details?id=com.codeclickers.randomizer) **`Full`**
+- **Puzzle**
+   	- [NPuzzle](https://play.google.com/store/apps/details?id=com.anafthdev.npuzzle) **`Full`** 
+   	- [Forkyz](https://github.com/yourealwaysbe/forkyz) **`Full`**   
+- **Other Small Games**
+   	- [Snake Classic](https://github.com/kafri8889/Compose-Classic-Snake-Game) **`Full`**    
+   	- [Antimine](https://github.com/lucasnlm/antimine-android) **`Full`**    
    	- [MathQ](https://play.google.com/store/apps/details?id=com.anafthdev.mathq) **`Full`**
    	- [Cavedroid](https://play.google.com/store/apps/details?id=com.cyb3rko.cavedroid) **`MD-`**
-   	- [Randomizer (Code Clickers)](https://play.google.com/store/apps/details?id=com.codeclickers.randomizer) **`Full`**
-   	- [Tap Counter](https://github.com/DDR13GIT/TapCounter) **`TODO`**
+- **Minecraft Tools**
+   	- [Boat_H2O2 Pro](https://github.com/NaCln4c1/Boat_H2O2) **`MD-`** 
+   	- [Cuberite](https://github.com/cuberite/android) **`MD-` `Monet`**    
 - **Others**  
-   	- [Jetisteam](https://github.com/iTaysonLab/jetisteam) **`Full`**    
-   	- [Boat_H2O2 Pro](https://github.com/NaCln4c1/Boat_H2O2) **`MD-`**    
+   	- [Jetisteam](https://github.com/iTaysonLab/jetisteam) **`Full`**
    	- [J2ME Downloader](https://github.com/zf1234d/J2me-res-store) **`MD-`**    
    	- [MyCard YGO Helper](https://www.coolapk.com/apk/xjunz.tool.mycard) **`MD-`**    
-   	- [Cuberite](https://github.com/cuberite/android) **`MD-` `Monet`**    
    	- [GuessThatPokemon](https://github.com/NimaKhajehpour/GuessThatPokemon) **`MD-`**    
    	- [ArkToolBox Lite](https://github.com/JamXi233/ArkToolBox-Lite) **`MD`**    
    	- [TR Save Editor](https://www.coolapk.com/apk/top.juruo.terrariasaveconverter) **`Full` `Multi`**
