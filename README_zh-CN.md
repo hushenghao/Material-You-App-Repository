@@ -106,22 +106,156 @@ Material Design 3伴随着Android 12而来。它的诞生，彻底改变了人�
 - 列表建设初期为我提供建议的大佬们。
 - **正在浏览这个列表的，热爱Material You的你们！**
 ## 📜目录
-- [🦖 谷歌应用](#谷歌应用)
-- [👨‍💻 OEM厂商/类原生定制应用](#oem%E5%8E%82%E5%95%86%E7%B1%BB%E5%8E%9F%E7%94%9F%E5%AE%9A%E5%88%B6%E5%BA%94%E7%94%A8)
-- [👥 聊天社交](#聊天社交)
-- [🎵 媒体播放](#媒体播放)
-- [✍ 写写画画](#写写画画)
-- [🖼️ 图片摄像](#%EF%B8%8F%E5%9B%BE%E7%89%87%E6%91%84%E5%83%8F)
-- [🌐 浏览器](#浏览器)
-- [📖 阅读](#阅读)
-- [🌦️ 日常生活](#%EF%B8%8F%E6%97%A5%E5%B8%B8%E7%94%9F%E6%B4%BB)
-- [🖌️ 主题美化](#%EF%B8%8F%E4%B8%BB%E9%A2%98%E7%BE%8E%E5%8C%96)
-- [⚙️ 系统工具](#%EF%B8%8F%E7%B3%BB%E7%BB%9F%E5%B7%A5%E5%85%B7)
-- [🧰 小工具](#小工具)
-- [🔧 开发工具](#开发工具)
-- [#️⃣ Root/ADB](#%EF%B8%8F%E2%83%A3rootadb)
-- [🎮 游戏](#游戏)
-- [🪄 Monet取色修改模块](#monet取色修改模块)
+- **[🦖 谷歌应用](#谷歌应用)**
+- **[👨‍💻 OEM厂商/类原生定制应用](#oem%E5%8E%82%E5%95%86%E7%B1%BB%E5%8E%9F%E7%94%9F%E5%AE%9A%E5%88%B6%E5%BA%94%E7%94%A8)**
+	- **Moto MYUI**
+	- **Nothing OS** 
+	- **Octavi OS**
+	- **ASUS Zenui** 
+- **[👥 聊天社交](#聊天社交)**
+	- **通讯录**
+	- **拨号**
+	- **短信**
+	- **Telegram第三方**
+	- **Reddit第三方**
+	- **Discord第三方**
+	- **Instagram第三方**
+	- **Twitter第三方**
+	- **其他去中心化社交平台（含Mastodon第三方）**
+	- **论坛**
+	- **邮件**
+	- **其他**
+- **[🎵 媒体播放](#媒体播放)**
+	- **YouTube第三方**
+	- **YouTube Music第三方**
+	- **Spotify第三方**
+	- **网易云音乐第三方**
+	- **流式媒体服务器**
+	- **番剧**
+	- **在线视频播放**
+	- **本地视频播放**
+	- **在线音乐播放**
+	- **本地音乐播放**
+	- **播客/电台**
+	- **直播**
+	- **媒体工具**
+- **[✍ 写写画画](#写写画画)**
+	- **笔记**
+	- **日记**
+	- **画板**
+	- **文档**
+	- **待办清单**
+	- **歌词编辑**
+	- **其他**
+- **[🖼️ 图片摄像](#%EF%B8%8F%E5%9B%BE%E7%89%87%E6%91%84%E5%83%8F)**
+	- **相机**
+	- **图片查看**
+	- **插画**
+	- **图片编辑**
+- **[🌐 浏览器](#浏览器)**
+- **[📖 阅读](#阅读)**
+	- **小说**
+	- **RSS/新闻**
+	- **漫画**
+	- **有声书**
+- **[🌦️ 日常生活](#%EF%B8%8F%E6%97%A5%E5%B8%B8%E7%94%9F%E6%B4%BB)**
+	- **记账**
+	- **虚拟货币**
+	- **卡包**
+	- **日历**
+	- **天气**
+	- **地图导航**
+	- **购物**
+	- **菜谱**
+	- **每日一言**
+	- **健康习惯**
+	- **学习**
+	- **追踪管理**
+	- **股票**
+	- **其他**
+- **[🖌️ 主题美化](#%EF%B8%8F%E4%B8%BB%E9%A2%98%E7%BE%8E%E5%8C%96)**
+	- **启动器**
+	- **壁纸**
+	- **图标包**
+	- **微件/KWGT**
+	- **原生系统定制**
+	- **GBoard主题定制**
+	- **Monet主题修改器**
+- **[⚙️ 系统工具](#%EF%B8%8F%E7%B3%BB%E7%BB%9F%E5%B7%A5%E5%85%B7)**
+	- **文件管理**
+	- **硬件信息**
+	- **应用管理**
+	- **应用冻结**
+	- **应用市场**
+	- **安全隐私**
+	- **均衡器**
+	- **权限管理**
+	- **Shortcut**
+	- **活动管理**
+	- **备份**
+	- **电池管理**
+	- **屏幕显示**
+	- **TTS**
+	- **系统清理**
+	- **日志抓取/反馈工具**
+	- **链接处理**
+	- **安装器**
+	- **通知过滤**
+	- **其他**
+- **[🧰 小工具](#小工具)**
+	- **下载器**
+	- **应用下载器**
+	- **资源搜索**
+	- **网盘** 
+	- **输入法**
+	- **计算器**
+	- **翻译**
+	- **录音机**
+	- **扫一扫**
+	- **手电筒**
+	- **时钟**
+	- **秒表**
+	- **计时器**
+	- **指南针**
+	- **账号二步验证**
+	- **密码管理**
+	- **文件互传**
+	- **设备互联**
+	- **外设**
+	- **AI**
+	- **自动任务**
+	- **搜索**
+	- **MIUI ROM查找**
+	- **多功能工具箱**
+	- **代理工具**
+	- **测量工具**
+	- **其他**
+- **[🔧 开发工具](#开发工具)**
+	- **服务器**
+	- **组件库与演示**
+	- **Android Studio教学**
+	- **Termux**
+	- **Lua**
+	- **其他**
+- **[#️⃣ Root/ADB](#%EF%B8%8F%E2%83%A3rootadb)**
+	- **管理器**
+	- **Root检测器**
+	- **Shizuku/Dhizuku/ADB**
+	- **Xposed模块**
+	- **其他需要Root权限的工具**
+- **[🎮 游戏](#游戏)**
+	- **模拟器**
+	- **乐器弹奏**
+	- **智力问答**
+	- **数独**
+	- **井字游戏**
+	- **计数器**
+	- **随机小工具**
+	- **迷宫**
+	- **其他小游戏**
+	- **Minecraft工具**
+	- **其他**
+- **[🪄 Monet取色修改模块](#monet取色修改模块)**
 ## 🏆小编推荐
 *下面是我认为最赞的20个Material You应用，从设计、功能上都很好的满足了我对Material You的想象w（排名不分先后）*
 - [vvex](https://github.com/guozhigq/flutter_v2ex) **`Full` `Multi`**
@@ -146,16 +280,6 @@ Material Design 3伴随着Android 12而来。它的诞生，彻底改变了人�
 - [雹](https://github.com/aistra0528/Hail) **`Full` `Multi`**
 ## 🆕最近上新
 少女祈祷中…
-- [Stocks Widget](https://github.com/premnirmal/StockTicker) **`MD-` `Monet`**
-- [KrypeEY](https://github.com/amnesica/KryptEY) **`Monet`**
-- [Nekome](https://github.com/Chesire/Nekome) **`Full`**
-- [Plex Manager](https://github.com/sikelio/plexmanager) **`MD-`**
-- [WS Proxy](https://gitlab.com/Nekogram/wsproxy) **`Full`**
-- [Batt](https://gitlab.com/narektor/batt) **`MD-` `FOSS`**
-- [Flip Clock](https://play.google.com/store/apps/details?id=art.widgeet.android.clock.flip) **`Full`**
-- [NITM](https://github.com/deskbtm/nitmgpt) **`MD`**
-- [AudioLab](https://play.google.com/store/apps/details?id=com.hitrolab.audioeditor) **`MD-` `Monet` `Multi`**
-- [Allowance](https://github.com/jameskokoska/Allowance) **`Full`**
 - [Table Habit](https://github.com/FriesI23/mhabit) **`Full`**
 - [棉花音乐](https://github.com/pure-music/PureMusic) **`Full` `Multi`**
 - [SuperImage](https://github.com/Lucchetto/SuperImage) **`MD`**
@@ -168,6 +292,9 @@ Material Design 3伴随着Android 12而来。它的诞生，彻底改变了人�
 - **`NEW`** [Markdown Editor](https://play.google.com/store/apps/details?id=com.adeeteya.markdown_editor) **`MD`**
 - **`NEW`** [VPN热点](https://github.com/Mygod/VPNHotspot) **`MD` `FOSS`**
 - **`NEW`** [无障碍管理器](https://www.coolapk.com/apk/com.accessibilitymanager) **`Monet`**
+- **`NEW`** [Tunedetective](https://github.com/n000tavailable/tunedetective) **`Full`**
+- **`NEW`** [TimePlanner](https://github.com/v1tzor/TimePlanner) **`MD`**
+- **`NEW`** [Giga Icon](https://play.google.com/store/apps/details?id=it.mirko.gigaicon) **`Full`**
 ## 📱应用列表
 **点击标题即可回到目录XD**
 ### 🦖[谷歌应用](#目录)
@@ -259,13 +386,15 @@ Material Design 3伴随着Android 12而来。它的诞生，彻底改变了人�
 
 ---
 ### [👥聊天社交](#目录)
-- **通讯录/拨号/短信**   
+- **通讯录**
 	- [Simple Contacts](https://github.com/SimpleMobileTools/Simple-Contacts) **`Full`**
 	- [Connect You](https://github.com/Bnyro/ConnectYou) **`Full`**
-	- [Simple Dialer](https://github.com/SimpleMobileTools/Simple-Dialer) **`Full`**
+- **拨号**
 	- [Simple SMS Messenger](https://github.com/SimpleMobileTools/Simple-SMS-Messenger) **`Full`**
-	- [WhatsApp Beta](https://play.google.com/apps/testing/com.whatsapp) **`MD-`**
 	- [Koler](https://github.com/Chooloo/koler) **`Full`**
+- **短信**
+	- [Simple Dialer](https://github.com/SimpleMobileTools/Simple-Dialer) **`Full`**
+	- [WhatsApp Beta](https://play.google.com/apps/testing/com.whatsapp) **`MD-`**
 - **Telegram第三方**
 	- [MDgram](https://github.com/MDGramYou/MDGramYou) **`MD` `Multi`**
 	- [exteraGram](https://github.com/exteraSquad/exteraGram) **`MD-` `Multi`**
@@ -338,7 +467,7 @@ Material Design 3伴随着Android 12而来。它的诞生，彻底改变了人�
 - **流式媒体服务器**
 	- [SubTune](https://github.com/TaylorKunZhang/SubTune) **`MD`**
 	- [Ultrasonic](https://gitlab.com/ultrasonic/ultrasonic) **`Full`**
-	- [Symfonium](https://play.google.com/store/apps/details?id=app.symfonik.music.player) **`MD`**
+	- [Symfonium](https://play.google.com/store/apps/details?id=app.symfonik.music.player) **`Full`**
 	- [Yatse](https://play.google.com/store/apps/details?id=org.leetzone.android.yatsewidgetfree) **`Full` `Multi`**
 	- [Drive Stream](https://github.com/itszechs/DriveStream) **`MD`**
 - **番剧**
@@ -445,6 +574,7 @@ Material Design 3伴随着Android 12而来。它的诞生，彻底改变了人�
 	- [TimeTable](https://play.google.com/store/apps/details?id=app.smart.timetable) **`Full`**
 	- [Engross](https://play.google.com/store/apps/details?id=com.engross) **`MD-`**
 	- [Kubus Tasks](https://play.google.com/store/apps/details?id=com.ms.tasks) **`MD-`**
+	- [TimePlanner](https://github.com/v1tzor/TimePlanner) **`MD`**
 - **歌词编辑**
 	- [Lyricistant](https://github.com/wardellbagby/lyricistant) **`MD-` `Monet` `Multi`**
 	- [Sinhala Lyrics](https://github.com/SuhasDissa/Sinhala-Lyrics-App) **`Full`**
@@ -744,6 +874,7 @@ Material Design 3伴随着Android 12而来。它的诞生，彻底改变了人�
    	- [Wooden Icons](https://play.google.com/store/apps/details?id=com.arjunarora.woodenicons) **`MD-` `Monet`**
    	- [Royale Blue Icons](https://play.google.com/store/apps/details?id=com.arjunarora.royaleblueicons) **`MD-` `Monet`**
    	- [DGIcons](https://t.me/MaterialYouAppsChat/2362)  **`Full`**
+   	- [Giga Icon](https://play.google.com/store/apps/details?id=it.mirko.gigaicon) **`Full`**
 - **微件/KWGT**
    	- [Blur for You](https://www.coolapk.com/apk/com.riv3rdesign.you) **`MD-` `Monet`**    
    	- [Android 12 Clock Widget](https://play.google.com/store/apps/details?id=twelve.clock.mibrahim) **`Full`**    
@@ -813,7 +944,7 @@ Material Design 3伴随着Android 12而来。它的诞生，彻底改变了人�
    	- [Treble信息](https://gitlab.com/TrebleInfo/TrebleInfo) **`Full`**
    	- [CPU Monitor](https://play.google.com/store/apps/details?id=com.paget96.cpumonitor) **`Full`**
    	- [Athena](https://github.com/SebaUbuntu/Athena) **`Full`**
-- **应用管理/冻结**
+- **应用管理**
    	- [Exodus](https://github.com/Exodus-Privacy/exodus-android-app) **`MD`**
    	- [App Manager](https://github.com/MuntashirAkon/AppManager) **`Full`**
    	- [LibChecker](https://github.com/LibChecker/LibChecker) **`Full`**
@@ -1055,7 +1186,8 @@ Material Design 3伴随着Android 12而来。它的诞生，彻底改变了人�
    	- [Tasker](https://play.google.com/store/apps/details?id=net.dinglisch.android.taskerm) **`Monet`**    
 - **搜索**
    	- [Gugal](https://gitlab.com/narektor/gugal) **`Full`**    
-   	- [Pixel Search](https://play.google.com/store/apps/details?id=rk.android.app.pixelsearch) **`Full`**   
+   	- [Pixel Search](https://play.google.com/store/apps/details?id=rk.android.app.pixelsearch) **`Full`**
+   	- [Tunedetective](https://github.com/n000tavailable/tunedetective) **`Full`**
 - **MIUI ROM查找**
    	- [MIUI Rom](https://t.me/miuiappshare) **`Full`**    
    	- [downmi](https://play.google.com/store/apps/details?id=xyz.izadi.downmi2) **`Full`**
