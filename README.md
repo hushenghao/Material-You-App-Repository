@@ -36,8 +36,8 @@ However in fact, sometimes Material You refers to the application which (may onl
 - **`MD-`** - App whose components are **partly** in MD3 style, which is common when a developer claims his application applies MD3 style but its switch or other component is not in MD3 style. If it supports Dynamic Color, a **`Monet`** label will be added.
 - **`Monet`** - App that **only** supports Dynamic Color, whose components are **completely not** in MD3 style.
 - **`Full`** - App that **completely** follows Material Design 3, including completely-used MD3 components and Dynamic Color.
-- **`Multi`** - App that is more friendly for diffent devices, such as pad and fold.
-- **`MOD`** - App that is modified by unoffical teams. Its original app doesn't apply Material You comepletely.
+- **`Multi`** - App that is more friendly for different devices, such as pad and fold.
+- **`MOD`** - App that is modified by unofficial teams. Its original app doesn't apply Material You completely.
 - **`TODO`** - App that has no releases yet. You could preview it in its github repository.
 - **`FOSS`** - App that is free and open-sourse.
 - **`💴`** - App that needs to pay to activate some features.
@@ -1341,6 +1341,6 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
 - [MIUI Monet Project](https://t.me/MIUIMonetUpdate)
 - [How to make apps support Dynamic Color by yourself](https://www.coolapk1s.com/feed/38873051)
 ## 🫠Epilogue
-As I'm not good at decorating this repository as nyas1, the interface may looks very ugly qwq. At the same time, some apps may not appear in this repository for I haven't seen it. So if you have a good idea to decorate this repository, or if you find more Material You apps I haven't recorded here, welcome to tell me!
+As I'm not good at decorating this repository as nyas1, the interface may look very ugly qwq. At the same time, some apps may not appear in this repository for I haven't seen it. So if you have a good idea to decorate this repository, or if you find more Material You apps I haven't recorded here, welcome to tell me!
 
 At last, I wanna call you, let's **make Material You sweep all over the world!**
