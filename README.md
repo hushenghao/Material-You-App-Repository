@@ -546,7 +546,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
 	- [Nothing Weather](https://t.me/waifupx_official/205) **`Full` `MOD`**
 	- [JustWeather](https://github.com/jjewuz/JustWeather) **`Full` `Multi`**
 	- [wX](https://gitlab.com/joshua.tee/wx) **`MD-`**
-- **Maps/Navigation**
+- **Maps & Navigation**
 	- [BTC Map](https://github.com/teambtcmap/btcmap-android) **`MD-`**
 	- [Tridenta](https://github.com/Stypox/tridenta) **`Full`**
 	- [Trail Sense](https://github.com/kylecorry31/Trail-Sense) **`MD-`**
@@ -626,6 +626,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
    	- [Lis10](https://play.google.com/store/apps/details?id=com.urbandroid.lis10) **`Full`**
    	- [Universal Remote for Smart TVs](https://play.google.com/store/apps/details?id=com.quanticapps.universalremote) **`Full` `Multi`**
    	- [SpaceHub](https://github.com/LPirro/SpaceHub) **`TODO`**
+	- [MemorizeApp](https://github.com/SuhasDissa/MemerizeApp) **`Full`**
    	- [Traewelldroid](https://github.com/Traewelldroid/traewelldroid) **`MD`**   
 ---
 ### [🖌️Theming](#applist-menu)
@@ -918,7 +919,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
    	- [OpenCalc](https://github.com/Darkempire78/OpenCalc) **`Full` `Multi`**    
    	- [All-In-One Calculator](https://play.google.com/store/apps/details?id=all.in.one.calculator) **`MD-` `Monet` `Multi`**    
    	- [Simple Calculator](https://github.com/SimpleMobileTools/Simple-Calculator) **`Full` `Multi`**    
-   	- [Currencies](https://github.com/sal0max/currencies) **`MD-` `Monet` `Multi`**    
+   	- [Currencies](https://github.com/sal0max/currencies) **`MD-` `Monet` `Multi`**   
    	- [Tip Calculator](https://play.google.com/store/apps/details?id=com.chimbori.milliways) **`Full`**      
    	- [Cart Calculator](https://github.com/D4rK7355608/com.d4rk.cartcalculator) **`Full`**
    	- [Calculator](https://play.google.com/store/apps/details?id=com.redmerah.calculator) **`MD`**
