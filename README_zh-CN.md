@@ -906,12 +906,12 @@ Material Design 3伴随着Android 12而来。它的诞生，彻底改变了人�
    	- [Palettes](https://play.google.com/store/apps/details?id=com.pranavpandey.theme) **`Full`**    
    	- [Android 12 Extensions](https://github.com/kdrag0n/android12-extensions) **`MD-` `Monet`**   
    	- [Iconify](https://github.com/Mahmud0808/Iconify) **`Full`** 
+   	- [网速指示器](https://www.coolapk.com/apk/com.dede.nativetools) **`MD-` `Monet` `Multi`**  
 - **GBoard主题定制**
    	- [Rboard Theme Manager](https://github.com/DerTyp7214/RboardThemeManagerV3) **`Full`**    
    	- [Rboard Patcher](https://github.com/DerTyp7214/RboardPatcher) **`Full`**    
    	- [Rboard Theme Creator](https://github.com/DerTyp7214/RboardThemeCreator) **`Full`**    
    	- [Rboard IME Tester](https://github.com/DerTyp7214/RboardIMETester) **`Full`** 
-   	- [网速指示器](https://www.coolapk.com/apk/com.dede.nativetools) **`MD-` `Monet` `Multi`**  
 - **Monet主题修改器**
    	- [Monet Generator](https://github.com/jamal2362/Monet-Generator) **`Full`**    
    	- [MixTheme Creator](https://github.com/DerTyp7214/MixplorerThemeCreator) **`Full`**    
