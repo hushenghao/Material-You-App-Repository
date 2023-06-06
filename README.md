@@ -99,16 +99,6 @@ However in fact, sometimes Material You refers to the application which (may onl
 - [InstallerX](https://github.com/iamr0s/InstallerX) **`Full` `Multi`**
 - [Hail](https://github.com/aistra0528/Hail) **`Full` `Multi`**
 ## 🆕Newly Added Apps
-- [Stocks Widget](https://github.com/premnirmal/StockTicker) **`MD-` `Monet`**
-- [KrypeEY](https://github.com/amnesica/KryptEY) **`Monet`**
-- [Nekome](https://github.com/Chesire/Nekome) **`Full`**
-- [Plex Manager](https://github.com/sikelio/plexmanager) **`MD-`**
-- [WS Proxy](https://gitlab.com/Nekogram/wsproxy) **`Full`**
-- [Batt](https://gitlab.com/narektor/batt) **`MD-` `FOSS`**
-- [Flip Clock](https://play.google.com/store/apps/details?id=art.widgeet.android.clock.flip) **`Full`**
-- [NITM](https://github.com/deskbtm/nitmgpt) **`MD`**
-- [AudioLab](https://play.google.com/store/apps/details?id=com.hitrolab.audioeditor) **`MD-` `Monet` `Multi`**
-- [Allowance](https://github.com/jameskokoska/Allowance) **`Full`**
 - [Table Habit](https://github.com/FriesI23/mhabit) **`Full`**
 - [Pure Music](https://github.com/pure-music/PureMusic) **`Full` `Multi`**
 - [SuperImage](https://github.com/Lucchetto/SuperImage) **`MD`**
@@ -121,6 +111,9 @@ However in fact, sometimes Material You refers to the application which (may onl
 - **`NEW`** [Budget Management](https://github.com/kabirnayeem99/budget_management_syarah) **`TODO`**
 - **`NEW`** [Tap Counter](https://github.com/DDR13GIT/TapCounter) **`TODO`**
 - **`NEW`** [BeauTyXT](https://github.com/soupslurpr/BeauTyXT) **`Full`**
+- **`NEW`** [Tunedetective](https://github.com/n000tavailable/tunedetective) **`Full`**
+- **`NEW`** [TimePlanner](https://github.com/v1tzor/TimePlanner) **`MD`**
+- **`NEW`** [Giga Icon](https://play.google.com/store/apps/details?id=it.mirko.gigaicon) **`Full`**
 ## 📱Applist
 **Now you could click the title to return to the applist menu!**
 ### 🦖[Google Apps](#applist-menu)
@@ -294,7 +287,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
 - **Streaming Server Clients**
 	- [SubTune](https://github.com/TaylorKunZhang/SubTune) **`MD`**
 	- [Ultrasonic](https://gitlab.com/ultrasonic/ultrasonic) **`Full`**
-	- [Symfonium](https://play.google.com/store/apps/details?id=app.symfonik.music.player) **`MD`**
+	- [Symfonium](https://play.google.com/store/apps/details?id=app.symfonik.music.player) **`Full`**
 	- [Yatse](https://play.google.com/store/apps/details?id=org.leetzone.android.yatsewidgetfree) **`Full` `Multi`**
 	- [Drive Stream](https://github.com/itszechs/DriveStream) **`MD`**
 - **Anime Services**
@@ -400,6 +393,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
 	- [TimeTable](https://play.google.com/store/apps/details?id=app.smart.timetable) **`Full`**
 	- [Engross](https://play.google.com/store/apps/details?id=com.engross) **`MD-`**
 	- [Kubus Tasks](https://play.google.com/store/apps/details?id=com.ms.tasks) **`MD-`**
+	- [TimePlanner](https://github.com/v1tzor/TimePlanner) **`MD`**
 - **Lyrics Editor**
 	- [Lyricistant](https://github.com/wardellbagby/lyricistant) **`MD-` `Monet` `Multi`**
 	- [Sinhala Lyrics](https://github.com/SuhasDissa/Sinhala-Lyrics-App)  **`Full`**
@@ -699,6 +693,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
    	- [Wooden Icons](https://play.google.com/store/apps/details?id=com.arjunarora.woodenicons) **`MD-` `Monet`**
    	- [Royale Blue Icons](https://play.google.com/store/apps/details?id=com.arjunarora.royaleblueicons) **`MD-` `Monet`**
    	- [DGIcons](https://t.me/MaterialYouAppsChat/2362)  **`Full`**
+   	- [Giga Icon](https://play.google.com/store/apps/details?id=it.mirko.gigaicon) **`Full`**
 - **Widget/KWGT**    
    	- [Blur for You](https://www.coolapk.com/apk/com.riv3rdesign.you) **`MD-` `Monet`**    
    	- [Android 12 Clock Widget](https://play.google.com/store/apps/details?id=twelve.clock.mibrahim) **`Full`**    
@@ -898,7 +893,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
 - **Resources Searching Tool**   
    	- [Magic Search](https://www.123pan.com/s/izDSVv-0JQWA) **`MD` `Multi`**   
    	- [Hunhepan](https://hunhepan.com/) **`MD`**    
-- **Netdisks** 
+- **Netdisk** 
    	- [lanzoucloud](https://1drv.ms/u/s!Atk49Scq_BtYhGd4LJN1fJftw-HQ?e=5jznMk) **`MD`**    
    	- [FolderSync](https://play.google.com/store/apps/details?id=dk.tacit.android.foldersync.lite) **`Full` `Multi`**    
    	- [Nextcloud Deck](https://github.com/stefan-niedermann/nextcloud-deck) **`MD`**    
@@ -980,16 +975,16 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
    	- [Wassword](https://github.com/polilluminato/wassword-flutter) **`MD`**    
    	- [Keyguard for Bitwarden](https://play.google.com/store/apps/details?id=com.artemchep.keyguard) **`Full` `Multi`**   
    	- [Simple Password](https://github.com/grigorevmp/Simple_Passwords_QuickPass) **`Full`**
-- **Senders**      
+- **Sender**      
    	- [Warpinator](https://github.com/slowscript/warpinator-android) **`MD-` `Monet`**    
    	- [Arc](https://play.google.com/store/apps/details?id=com.quadren.arc) **`Full`**    
    	- [LocalSend](https://github.com/localsend/localsend) **`Full` `Multi`**       
    	- [Photon](https://github.com/abhi16180/photon) **`MD-`**    
-- **Connecting Tools**
+- **Connecting Tool**
    	- [FnSync](https://www.coolapk.com/apk/holmium.fnsync.ngp) **`Full`**
    	- [KDE Connect](https://invent.kde.org/network/kdeconnect-android) **`Full` `Multi`**
    	- [Octi](https://github.com/d4rken-org/octi) **`MD-` `Monet`**
-- **Peripherals**    
+- **Peripheral**    
    	- [MiDoze](https://github.com/Keddnyo/MiDoze) **`Full`**    
    	- [CAPod](https://github.com/d4rken-org/capod) **`MD`**    
    	- [OpenSCQ30](https://github.com/Oppzippy/OpenSCQ30) **`Full`**    
@@ -1011,10 +1006,11 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
    	- [Auto Tasker](https://www.coolapk.com/apk/top.xjunz.tasker) **`MD`**    
    	- [Smart AutoClicker](https://github.com/Nain57/Smart-AutoClicker) **`Full`**    
    	- [Tasker](https://play.google.com/store/apps/details?id=net.dinglisch.android.taskerm) **`Monet`**    
-- **Searching Tools**    
+- **Searching Tool**    
    	- [Gugal](https://gitlab.com/narektor/gugal) **`Full`**    
-   	- [Pixel Search](https://play.google.com/store/apps/details?id=rk.android.app.pixelsearch) **`Full`**        
-- **MIUI ROM Search**   
+   	- [Pixel Search](https://play.google.com/store/apps/details?id=rk.android.app.pixelsearch) **`Full`**
+   	- [Tunedetective](https://github.com/n000tavailable/tunedetective) **`Full`**      
+- **MIUI ROM Downloading Tool**   
    	- [MIUI Rom](https://t.me/miuiappshare) **`Full`**    
    	- [downmi](https://play.google.com/store/apps/details?id=xyz.izadi.downmi2) **`Full`**    
 - **Toolbox**    
