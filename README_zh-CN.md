@@ -85,11 +85,9 @@ Material Design 3伴随着Android 12而来。它的诞生，彻底改变了人�
 - **`💴`**
     
     需要付费解锁一些功能的应用。
-    
 
-另外，一些应用被我用~~删除线~~划掉，那是因为我暂时没找到它们的下载链接所以暂时体验不了这些应用…
 
-*同时，**`FOSS`** 和 **`💴`** 这两个标签的添加工作正在逐步进行，我知道你很急，但是你先别急，我会尽力尽快搞好的XD*
+*同时，**`FOSS`** 和 **`💴`** 这两个标签的添加工作正在逐步进行，我知道你很急，但是请你先别急，我会尽力尽快搞好的XD*
 
 |  | 完全体MD3设计 | Monet取色 |
 |:-:|:-:|:-:|
@@ -306,6 +304,10 @@ Material Design 3伴随着Android 12而来。它的诞生，彻底改变了人�
 	- [雾岛](https://github.com/123Duo3/XDNMB) **`TODO`**
 	- [Stack for Stack Overflow](https://play.google.com/store/apps/details?id=me.tylerbwong.stack) **`Full`**
 	- [HACG](https://github.com/shizheng233/HACG) **`Full`**
+- **邮件**
+   	- [Spark邮箱](https://play.google.com/store/apps/details?id=com.readdle.spark) **`Monet`**    
+   	- [Informaniak KMail](https://github.com/Infomaniak/android-kMail) **`Full`**    
+   	- [Gotify](https://github.com/gotify/android) **`MD`** 
 - **其他**
 	- [Kizzy](https://github.com/dead8309/Kizzy) **`Full`**
 	- [LiPari](https://github.com/Stamir36/LiPari-Android) **`Full` `Multi`**
@@ -540,14 +542,14 @@ Material Design 3伴随着Android 12而来。它的诞生，彻底改变了人�
 	- [Voice](https://github.com/PaulWoitaschek/Voice) **`Full` `Multi`**
 ---
 ## [🌦️日常生活](#目录)
-- **钱包记账**
+- **记账**
 	- [小星记账](https://www.coolapk.com/apk/com.cxincx.xxjz) **`MD`**
 	- [Paisa](https://play.google.com/store/apps/details?id=dev.hemanths.paisa) **`Full` `Multi`**
 	- [Buckwheat](https://github.com/danilkinkin/buckwheat) **`Full` `Multi`**
 	- [GreenStash](https://github.com/Pool-Of-Tears/GreenStash) **`Full`**
 	- [Fuelio](https://play.google.com/store/apps/details?id=com.kajda.fuelio) **`MD-` `Monet`**
 	- [Tilla](https://play.google.com/store/apps/details?id=com.pavelrekun.tilla) **`Full`**
-	- [~~Taler Wallet~~](https://git.taler.net/taler-android.git/) **`?`**
+	- [Taler Wallet](https://play.google.com/store/apps/details?id=net.taler.wallet) **`MD-` `Monet`**
 	- [Prepaid Balance](https://github.com/mueller-ma/PrepaidBalance) **`Full`**
 	- [Waterfly III](https://apt.izzysoft.de/fdroid/index/apk/com.dreautall.waterflyiii) **`MD`**
 	- [Financial Records](https://play.google.com/store/apps/details?id=com.anafthdev.dujer) **`MD`**
@@ -609,10 +611,11 @@ Material Design 3伴随着Android 12而来。它的诞生，彻底改变了人�
 	- [CTU Menza](https://github.com/Lastaapps/menza) **`Full` `Multi`**
  	- [CookHelper](https://github.com/T8RIN/CookHelper) **`Full`**
 	- [Mealient](https://github.com/kirmanak/Mealient) **`Full`**
+	- [Food-E](https://github.com/SuhasDissa/Food-E-App) **`Full`**
 - **每日一言**
 	- [一句话](https://www.coolapk.com/apk/kenmizz.onesentence) **`Full`**
 	- [Qwotable](https://github.com/Lijukay/Qwotable) **`Full` `Multi`**
-- **健康**
+- **健康习惯**
 	- [睡眠追踪](https://play.google.com/store/apps/details?id=com.urbandroid.sleep) **`Full` `Multi`**
 	- [Disconnect](https://gitlab.com/narektor/disconnect) **`Full`**
 	- [Digital Detox](https://play.google.com/store/apps/details?id=com.urbandroid.ddc) **`MD`**
@@ -668,8 +671,8 @@ Material Design 3伴随着Android 12而来。它的诞生，彻底改变了人�
 	- [Lis10](https://play.google.com/store/apps/details?id=com.urbandroid.lis10) **`Full`**
 	- [Universal Remote for Smart TVs](https://play.google.com/store/apps/details?id=com.quanticapps.universalremote) **`Full` `Multi`**
 	- [SpaceHub](https://github.com/LPirro/SpaceHub) **`TODO`**
-	- [Food-E](https://github.com/SuhasDissa/Food-E-App) **`Full`**
 	- [MemorizeApp](https://github.com/SuhasDissa/MemerizeApp) **`Full`**
+   	- [Traewelldroid](https://github.com/Traewelldroid/traewelldroid) **`MD`**  
 ---
 ## [🖌️主题美化](#目录)
 - **启动器**
@@ -771,16 +774,18 @@ Material Design 3伴随着Android 12而来。它的诞生，彻底改变了人�
    	- [PowerLine](https://play.google.com/store/apps/details?id=com.urbandroid.inline) **`Full`**    
    	- [Palettes](https://play.google.com/store/apps/details?id=com.pranavpandey.theme) **`Full`**    
    	- [Android 12 Extensions](https://github.com/kdrag0n/android12-extensions) **`MD-` `Monet`**   
-   	- [Iconify](https://github.com/Mahmud0808/Iconify) **`Full`**    
-- **其他**
+   	- [Iconify](https://github.com/Mahmud0808/Iconify) **`Full`** 
+- **GBoard主题定制**
    	- [Rboard Theme Manager](https://github.com/DerTyp7214/RboardThemeManagerV3) **`Full`**    
    	- [Rboard Patcher](https://github.com/DerTyp7214/RboardPatcher) **`Full`**    
    	- [Rboard Theme Creator](https://github.com/DerTyp7214/RboardThemeCreator) **`Full`**    
-   	- [Rboard IME Tester](https://github.com/DerTyp7214/RboardIMETester) **`Full`**    
+   	- [Rboard IME Tester](https://github.com/DerTyp7214/RboardIMETester) **`Full`** 
+   	- [网速指示器](https://www.coolapk.com/apk/com.dede.nativetools) **`MD-` `Monet` `Multi`**  
+- **Monet主题修改器**
    	- [Monet Generator](https://github.com/jamal2362/Monet-Generator) **`Full`**    
    	- [MixTheme Creator](https://github.com/DerTyp7214/MixplorerThemeCreator) **`Full`**    
    	- [Telegram Monet](https://github.com/c3r5b8/Telegram-Monet) **`Full`**    
-   	- [ComboSkin for 4PDA forum app](https://github.com/PycmShoma/4PDA-ComboSkin-MaterialYou) **`Monet`**    
+   	- [ComboSkin for 4PDA forum app](https://github.com/PycmShoma/4PDA-ComboSkin-MaterialYou) **`Monet`**
    	- [Theme Engine](https://github.com/prathameshmm02/ThemeEngine) **`Full`**
 ---
 ## [⚙️系统工具](#目录)
@@ -818,6 +823,7 @@ Material Design 3伴随着Android 12而来。它的诞生，彻底改变了人�
    	- [AppDash](https://play.google.com/store/apps/details?id=flar2.appdashboard) **`Full`**
    	- [Ml Manager](https://play.google.com/store/apps/details?id=com.javiersantos.mlmanager) **`MD-`**
    	- [雹](https://github.com/aistra0528/Hail) **`Full` `Multi`**
+- **应用冻结**
    	- [FreezeYou](https://github.com/FreezeYou/FreezeYou) **`MD-` `Monet`**
    	- [冰箱](https://www.coolapk.com/apk/com.catchingnow.icebox) **`Monet`**
 - **应用市场**
@@ -825,7 +831,7 @@ Material Design 3伴随着Android 12而来。它的诞生，彻底改变了人�
    	- [Droid-ify](https://github.com/Iamlooker/Droid-ify) **`MD-` `Monet`**
    	- [Obtainium](https://github.com/ImranR98/Obtainium) **`Full`**
    	- [Apps by GrapheneOS](https://github.com/GrapheneOS/Apps) **`MD-` `Monet`**
-   	- [accrescent](https://github.com/accrescent/accrescent) **`Full`**
+   	- [Accrescent](https://github.com/accrescent/accrescent) **`Full`**
    	- [Aurora Store](https://gitlab.com/AuroraOSS/AuroraStore) **`MD-` `Monet`**
 - **安全隐私**
    	- [AirGuard](https://github.com/seemoo-lab/AirGuard) **`MD-` `Monet`** 
@@ -851,9 +857,10 @@ Material Design 3伴随着Android 12而来。它的诞生，彻底改变了人�
    	- [Notification Shortcuts](https://play.google.com/store/apps/details?id=rk.android.app.notificationshortcuts) **`Full`**
    	- [Shortcut Maker](https://play.google.com/store/apps/details?id=rk.android.app.shortcutmaker) **`Full`**
    	- [Pinned Shortcuts](https://play.google.com/store/apps/details?id=rk.android.app.pinnedshortcuts) **`Full`**
+   	- [快捷方式](https://www.coolapk.com/apk/com.syyf.quickpay) **`Full`**
+- **活动管理**
    	- [Root Activity Launcher](https://t.me/misakamaterial/123) **`Full` `Multi`**
    	- [Activity Manager](https://github.com/sdex/ActivityManager) **`MD-`**
-   	- [快捷方式](https://www.coolapk.com/apk/com.syyf.quickpay) **`Full`**
 - **备份**
    	- [数据备份](https://github.com/XayahSuSuSu/Android-DataBackup) **`Full`**
    	- [Neo Backup](https://github.com/NeoApplications/Neo-Backup) **`Full`**
@@ -901,8 +908,7 @@ Material Design 3伴随着Android 12而来。它的诞生，彻底改变了人�
 - **其他**
    	- [Data Monitor](https://github.com/itsdrnoob/DataMonitor) **`Full`**   
    	- [DarQ](https://github.com/KieronQuinn/DarQ) **`MD-`**
-   	- [FarPush](https://www.coolapk.com/apk/com.farplace.farpush) **`MD`**    
-   	- [网速指示器](https://www.coolapk.com/apk/com.dede.nativetools) **`MD-` `Monet` `Multi`**    
+   	- [FarPush](https://www.coolapk.com/apk/com.farplace.farpush) **`MD`**      
    	- [输入法切换](https://www.coolapk.com/apk/com.inputswitcher) **`Monet`**    
    	- [日历账号管理](https://www.coolapk.com/apk/fun.lifeupapp.calmanager) **`Full`**   
    	- [Rotation](https://play.google.com/store/apps/details?id=com.pranavpandey.rotation) **`Full` `Multi`**    
@@ -916,7 +922,7 @@ Material Design 3伴随着Android 12而来。它的诞生，彻底改变了人�
    	- [Sensors](https://play.google.com/store/apps/details?id=com.ms.sensors) **`MD-`**
    	- [Language Selecter](https://github.com/VegaBobo/Language-Selector) **`Full`**
    	- [EdgeBlock](https://play.google.com/store/apps/details?id=flar2.edgeblock) **`Full`**
-   	- [Accessibility Manager](https://www.coolapk.com/apk/com.accessibilitymanager) **`Monet`**
+   	- [无障碍管理器](https://www.coolapk.com/apk/com.accessibilitymanager) **`Monet`**
 ---
 ## [🧰小工具](#目录)
 - **下载器**
@@ -925,14 +931,16 @@ Material Design 3伴随着Android 12而来。它的诞生，彻底改变了人�
    	- [忻视down](https://github.com/Yos-X/YBVD_Release) **`Full`**    
    	- [YTDLnis](https://github.com/deniscerri/ytdlnis) **`Full` `Multi`**    
    	- [Spowlo](https://github.com/BobbyESP/Spowlo) **`Full`**    
+- **应用下载器**
    	- [Revanced Manager](https://github.com/revanced/revanced-manager) **`Full`**    
    	- [AliucordRN](https://github.com/Aliucord/AliucordRN) **`Full`**    
    	- [Vendetta Manager](https://github.com/vendetta-mod/VendettaManager) **`Full`** 
    	- [BiTGApps](https://bitgapps.io/app) **`Full`**
    	- [SongTube](https://github.com/SongTube/SongTube-App) **`MD-`**
-- **资源搜索/网盘**
+- **资源搜索**
    	- [奇妙搜索](https://www.123pan.com/s/izDSVv-0JQWA) **`MD` `Multi`**   
-   	- [混合盘](https://hunhepan.com/) **`MD`**    
+   	- [混合盘](https://hunhepan.com/) **`MD`**
+- **网盘** 
    	- [lanzoucloud](https://1drv.ms/u/s!Atk49Scq_BtYhGd4LJN1fJftw-HQ?e=5jznMk) **`MD`**    
    	- [FolderSync](https://play.google.com/store/apps/details?id=dk.tacit.android.foldersync.lite) **`Full` `Multi`**    
    	- [Nextcloud Deck](https://github.com/stefan-niedermann/nextcloud-deck) **`MD`**    
@@ -954,7 +962,7 @@ Material Design 3伴随着Android 12而来。它的诞生，彻底改变了人�
    	- [全能计算器](https://play.google.com/store/apps/details?id=all.in.one.calculator) **`MD-` `Monet` `Multi`**    
    	- [Simple Calculator](https://github.com/SimpleMobileTools/Simple-Calculator) **`Full` `Multi`**    
    	- [Currencies](https://github.com/sal0max/currencies) **`MD-` `Monet` `Multi`**    
-   	- [Tip Calculator](https://play.google.com/store/apps/details?id=com.chimbori.milliways) **`Full`**      
+   	- [Tip Calculator](https://play.google.com/store/apps/details?id=com.chimbori.milliways) **`Full`**
    	- [Cart Calculator](https://github.com/D4rK7355608/com.d4rk.cartcalculator) **`Full`**
    	- [Calculator](https://play.google.com/store/apps/details?id=com.redmerah.calculator) **`MD`**
    	- [zCalc](https://github.com/ziadOUA/zCalc) **`MD-` `Monet`**
@@ -984,19 +992,21 @@ Material Design 3伴随着Android 12而来。它的诞生，彻底改变了人�
    	- [Flashdim](https://github.com/cyb3rko/flashdim) **`Full`**    
    	- [Shake Flashlight](https://play.google.com/store/apps/details?id=com.paget96.shakeflashlight) **`Full`**
    	- [Simple Flashlight](https://github.com/SimpleMobileTools/Simple-Launcher) **`Full`**
-- **时钟**
-   	- [Timer +X](https://gitlab.com/humbertofraga/timerx) **`MD-`**    
+- **时钟**  
    	- [Clock You](https://github.com/Bnyro/ClockYou) **`Full`**    
    	- [精准时间](https://www.coolapk.com/apk/com.kimger.floattime) **`MD-`**    
-   	- [Simple Clock](https://github.com/SimpleMobileTools/Simple-Clock) **`Full`**   
-   	- [Workout Timer](https://play.google.com/store/apps/details?id=com.paget96.workouttimer) **`Full`**    
-   	- [Cofi](https://github.com/rozPierog/Cofi) **`Full` `Multi`**    
-   	- [Floating Timer](https://github.com/tberghuis/FloatingCountdownTimer) **`Full`**   
+   	- [Simple Clock](https://github.com/SimpleMobileTools/Simple-Clock) **`Full`** 
+   	- [Atomic Clock](https://play.google.com/store/apps/details?id=partl.atomicclock) **`Full`**
+- **秒表**
    	- [Stopwatch(Wear OS)](https://play.google.com/store/apps/details?id=com.redmerah.stopwatch) **`Full` `Multi`**
    	- [Stopwatch](https://play.google.com/store/apps/details?id=com.redmerah.stopwatch) **`MD`**
-   	- [Atomic Clock](https://play.google.com/store/apps/details?id=partl.atomicclock) **`Full`**
+- **计时器**
+   	- [Workout Timer](https://play.google.com/store/apps/details?id=com.paget96.workouttimer) **`Full`**    
+   	- [Cofi](https://github.com/rozPierog/Cofi) **`Full` `Multi`**
    	- [Working Rours](https://play.google.com/store/apps/details?id=partl.workinghours) **`Full`**
    	- [Cuppa](https://github.com/ncosgray/cuppa_mobile) **`Full`**
+   	- [Timer +X](https://gitlab.com/humbertofraga/timerx) **`MD-`**   
+   	- [Floating Timer](https://github.com/tberghuis/FloatingCountdownTimer) **`Full`**   
 - **指南针**
    	- [Compass](https://github.com/Kr0oked/Compass) **`MD-` `Monet`**
 - **账号二步验证**
@@ -1012,24 +1022,21 @@ Material Design 3伴随着Android 12而来。它的诞生，彻底改变了人�
    	- [Wassword](https://github.com/polilluminato/wassword-flutter) **`MD`**    
    	- [Keyguard for Bitwarden](https://play.google.com/store/apps/details?id=com.artemchep.keyguard) **`Full` `Multi`**   
    	- [Simple Password](https://github.com/grigorevmp/Simple_Passwords_QuickPass) **`Full`**
-- **文件互传/设备互联**
+- **文件互传**
    	- [Warpinator](https://github.com/slowscript/warpinator-android) **`MD-` `Monet`**    
-   	- [Arc](https://play.google.com/store/apps/details?id=com.quadren.arc) **`Full`**    
-   	- [FnSync](https://www.coolapk.com/apk/holmium.fnsync.ngp) **`Full`**    
-   	- [LocalSend](https://github.com/localsend/localsend) **`Full` `Multi`**    
-   	- [Octi](https://github.com/d4rken-org/octi) **`MD-` `Monet`**    
+   	- [Arc](https://play.google.com/store/apps/details?id=com.quadren.arc) **`Full`**       
+   	- [LocalSend](https://github.com/localsend/localsend) **`Full` `Multi`**       
    	- [Photon](https://github.com/abhi16180/photon) **`MD-`**    
-   	- [KDE Connect](https://invent.kde.org/network/kdeconnect-android) **`Full` `Multi`**   
+- **设备互联**
+   	- [FnSync](https://www.coolapk.com/apk/holmium.fnsync.ngp) **`Full`** 
+   	- [Octi](https://github.com/d4rken-org/octi) **`MD-` `Monet`**
+   	- [KDE Connect](https://invent.kde.org/network/kdeconnect-android) **`Full` `Multi`** 
 - **外设**
    	- [MiDoze](https://github.com/Keddnyo/MiDoze) **`Full`**    
    	- [CAPod](https://github.com/d4rken-org/capod) **`MD`**    
    	- [OpenSCQ30](https://github.com/Oppzippy/OpenSCQ30) **`Full`**    
    	- [Yubico Authenticator](https://github.com/Yubico/yubioath-flutter) **`Full` `Multi`**
-   	- [RS Tool](https://misaka13766.lanzoup.com/idNa20xo6x6d) (密码ea85) **`MD`**
-- **邮件**
-   	- [Spark邮箱](https://play.google.com/store/apps/details?id=com.readdle.spark) **`Monet`**    
-   	- [Informaniak KMail](https://github.com/Infomaniak/android-kMail) **`Full`**    
-   	- [Gotify](https://github.com/gotify/android) **`MD`**    
+   	- [RS Tool](https://misaka13766.lanzoup.com/idNa20xo6x6d) (密码ea85) **`MD`**   
 - **AI**
    	- [Colors AI](https://github.com/tsinis/colors_ai) **`Full`**    
    	- [CommuniqAI](https://play.google.com/store/apps/details?id=dev.mtc.ga) **`MD-`**    
@@ -1056,26 +1063,26 @@ Material Design 3伴随着Android 12而来。它的诞生，彻底改变了人�
    	- [远航工具箱](https://wwqv.lanzout.com/iHKDj0skeiub) (密码2bhy) **`Full`**
    	- [小布百宝箱](https://www.coolapk1s.com/feed/45145335) **`Full`**
    	- [七点工具箱](https://wwja.lanzoub.com/iLTin0x3rjzi) **`Full`**
+   	- [简朴](https://github.com/ismartcoding/plain-app) **`Full`** 
 - **代理工具**
    	- [Surfboard](https://play.google.com/store/apps/details?id=com.getsurfboard) **`Full` `Multi`**
    	- [WireGuard](https://git.zx2c4.com/wireguard-android/) **`Full`**
    	- [WS Proxy](https://gitlab.com/Nekogram/wsproxy) **`Full`**
+- **测量工具**
+   	- [Bubble Level](https://play.google.com/store/apps/details?id=com.codeclickers.bubblelevel) **`MD`** 
+   	- [Lightmeter](https://github.com/vodemn/m3_lightmeter) **`Full`**
+   	- [Sound Meter](https://play.google.com/store/apps/details?id=com.codeclickers.soundmeter) **`Full`**
 - **其他**
    	- [TSViewer](https://github.com/BlazeCodeDev/TSViewer) **`Full`**    
    	- [Easter Eggs](https://play.google.com/store/apps/details?id=com.dede.android_eggs) **`Full`**    
-   	- [Bubble Level](https://play.google.com/store/apps/details?id=com.codeclickers.bubblelevel) **`MD`**    
-   	- [Beta Maniac](https://play.google.com/store/apps/details?id=it.mirko.beta) **`Full`**    
-   	- [traewelldroid](https://github.com/Traewelldroid/traewelldroid) **`MD`**    
-   	- [简朴](https://github.com/ismartcoding/plain-app) **`Full`**    
+   	- [Beta Maniac](https://play.google.com/store/apps/details?id=it.mirko.beta) **`Full`**       
    	- [Rays](https://github.com/SkyD666/Rays-Android) **`Full` `Multi`**    
    	- [BilibiliFork](https://github.com/gitofleonardo/BilibiliFork) **`MD`**    
    	- [Pocket Mode](https://play.google.com/store/apps/details?id=com.artemchep.pocketmode) **`Full`**
    	- [FontConverter](https://github.com/123Duo3/FontConverter) **`Full` `Multi`**
-   	- [Lightmeter](https://github.com/vodemn/m3_lightmeter) **`Full`**
    	- [Secret Screenshots](https://play.google.com/store/apps/details?id=com.lware.secret_screenshots) **`MD`**
    	- [Drag and Drop Transfer Station Lite](https://gitee.com/Jesse205/DragAndDropTransferStationLite) **`Monet`**
    	- [Textbender](https://github.com/elizagamedev/android-textbender) **`Monet`**
-   	- [Sound Meter](https://play.google.com/store/apps/details?id=com.codeclickers.soundmeter) **`Full`**
    	- [Simple Thank You](https://github.com/SimpleMobileTools/Simple-Thank-You) **`Full`**
    	- [Life Chest](https://github.com/theskyblockman/life-chest) **`Full`**
 ---
@@ -1098,23 +1105,26 @@ Material Design 3伴随着Android 12而来。它的诞生，彻底改变了人�
    	- [Goldex](https://play.google.com/store/apps/details?id=com.goldex) **`Full`**
    	- [Compose Material Design 3](https://play.google.com/store/apps/details?id=com.anafthdev.md3compose) **`Full`**    
    	- [Material 3](https://play.google.com/store/apps/details?id=com.boltuix.material3) **`MD`** **`Multi`**  
+- **Android Studio教学**
+   	- [Android Studio Tutorials: Kotlin](https://github.com/D4rK7355608/com.d4rk.androidtutorials) **`Full`**    
+   	- [Android Studio Tutorials: Java](https://github.com/D4rK7355608/com.d4rk.androidtutorials.java) **`Full`**
+- **Termux**
+   	- [Termux Monet](https://t.me/AndroidRepo/3793) **`Monet` `MOD`** 
+   	- [TermPlux](https://github.com/TermPlux/TermPlux-App) **`MD-` `Monet`**   
+- **Lua**
+   	- [SWKLua](https://www.coolapk1s.com/feed/44867507) **`Full`**   
+   	- [Windmill](https://www.coolapk.com/apk/com.agyer.windmill) **`Full` `Multi`**
 - **其他**
-   	- [Termux Monet](https://t.me/AndroidRepo/3793) **`Monet` `MOD`**    
-   	- [SWKLua](https://www.coolapk1s.com/feed/44867507) **`Full`**    
    	- [APK Editor](https://t.me/WSTprojects/1509) **`Full`**    
    	- [HalfDot](https://github.com/davquar/halfdot) **`MD`**    
    	- [Gloom](https://github.com/MateriiApps/Gloom) **`MD`**    
    	- [M3O](https://github.com/m3o/m3o-android) **`MD`**    
    	- [SetEdit](https://github.com/MuntashirAkon/SetEdit) **`Full`**    
    	- [IPFS Lite](https://gitlab.com/remmer.wilts/ipfs-lite) **`Full`**    
-   	- [Android Studio Tutorials: Kotlin](https://github.com/D4rK7355608/com.d4rk.androidtutorials) **`Full`**    
-   	- [Android Studio Tutorials: Java](https://github.com/D4rK7355608/com.d4rk.androidtutorials.java) **`Full`**
    	- [Stryker](https://github.com/stryker-project/app) **`MD-`**
    	- [notabug](https://github.com/Smooth-E/notabug-mobile) **`TODO`**
-   	- [Windmill](https://www.coolapk.com/apk/com.agyer.windmill) **`Full` `Multi`**
    	- [Zoho Apptics](https://play.google.com/store/apps/details?id=com.zoho.apptics) **`MD-` `Monet`**
    	- [Maybe](https://1drv.ms/u/s!Atk49Scq_BtYhHpVn8A3ZDu-aKHX?e=51dtFM) **`Full`**
-   	- [TermPlux](https://github.com/TermPlux/TermPlux-App) **`MD-` `Monet`**
 ---
 ## [#️⃣Root/ADB](#目录)
 - **管理器**
@@ -1191,36 +1201,43 @@ Material Design 3伴随着Android 12而来。它的诞生，彻底改变了人�
 - **乐器弹奏**
    	- [Metronome](https://github.com/Kr0oked/Metronome) **`MD-` `Monet`**
    	- [Tuner](https://github.com/thetwom/Tuner) **`MD-` `Monet`**  
-- **小游戏**
-   	- [Trivia You](https://github.com/Bnyro/TriviaYou) **`Full`**    
-   	- [Randomix](https://github.com/m-i-n-a-r/randomix) **`Full`**    
-   	- [LibreSudoku](https://github.com/kaajjo/Libre-Sudoku) **`Full`**    
-   	- [Dooz](https://github.com/yamin8000/Dooz) **`Full`**    
-   	- [New Quiz](https://github.com/joaomanaia/newquiz) **`Full`**    
-   	- [Material You Tic Tac Toe](https://github.com/marek-guran/Material-You-Tic-Tac-Toe) **`Full`**    
-   	- [Zerocros](https://play.google.com/store/apps/details?id=com.pranavpandey.tictactoe) **`Full`**    
+- **智力问答**
+   	- [Trivia You](https://github.com/Bnyro/TriviaYou) **`Full`** 
+   	- [New Quiz](https://github.com/joaomanaia/newquiz) **`Full`**
+   	- [TKCompaionApp](https://codeberg.org/marco.bresciani/TKCompanionApp) **`Full`** 
+- **数独**
+   	- [LibreSudoku](https://github.com/kaajjo/Libre-Sudoku) **`Full`**
+   	- [Saku](https://play.google.com/store/apps/details?id=com.anafthdev.saku) **`Full`**
+- **井字游戏**
    	- [TicTacToe](https://github.com/kafri8889/Compose-TicTacToe) **`Full`**
    	- [TicTacYou](https://github.com/AykoSc/TicTacYou) **`MD`**
-   	- [Snake Classic](https://github.com/kafri8889/Compose-Classic-Snake-Game) **`Full`**    
-   	- [NPuzzle](https://play.google.com/store/apps/details?id=com.anafthdev.npuzzle) **`Full`**    
-   	- [TKCompaionApp](https://codeberg.org/marco.bresciani/TKCompanionApp) **`Full`**    
-   	- [Antimine](https://github.com/lucasnlm/antimine-android) **`Full`**    
-   	- [Forkyz](https://github.com/yourealwaysbe/forkyz) **`Full`**    
+   	- [Dooz](https://github.com/yamin8000/Dooz) **`Full`** 
+   	- [Material You Tic Tac Toe](https://github.com/marek-guran/Material-You-Tic-Tac-Toe) **`Full`**
+   	- [Zerocros](https://play.google.com/store/apps/details?id=com.pranavpandey.tictactoe) **`Full`**    
+- **计数器**
    	- [Score Counter](https://github.com/hegocre/ScoreCounter) **`Full`**    
-   	- [计数器](https://play.google.com/store/apps/details?id=rahmouni.neil.counters) **`Full`**    
-   	- [Tabletop Tools](https://github.com/mueller-ma/TabletopTools) **`Full`**    
-   	- [Saku](https://play.google.com/store/apps/details?id=com.anafthdev.saku) **`Full`**
+   	- [Counter](https://play.google.com/store/apps/details?id=rahmouni.neil.counters) **`Full`** 
+   	- [Tap Counter](https://github.com/DDR13GIT/TapCounter) **`TODO`**
+- **随机小工具**
+   	- [Randomix](https://github.com/m-i-n-a-r/randomix) **`Full`**   
+   	- [Tabletop Tools](https://github.com/mueller-ma/TabletopTools) **`Full`**  
    	- [Randomizer](https://play.google.com/store/apps/details?id=com.redmerah.randomizer) **`MD`**
+   	- [Randomizer (Code Clickers)](https://play.google.com/store/apps/details?id=com.codeclickers.randomizer) **`Full`**
+- **迷宫**
+   	- [NPuzzle](https://play.google.com/store/apps/details?id=com.anafthdev.npuzzle) **`Full`** 
+   	- [Forkyz](https://github.com/yourealwaysbe/forkyz) **`Full`**   
+- **其他小游戏**
+   	- [Snake Classic](https://github.com/kafri8889/Compose-Classic-Snake-Game) **`Full`**    
+   	- [Antimine](https://github.com/lucasnlm/antimine-android) **`Full`**    
    	- [MathQ](https://play.google.com/store/apps/details?id=com.anafthdev.mathq) **`Full`**
    	- [Cavedroid](https://play.google.com/store/apps/details?id=com.cyb3rko.cavedroid) **`MD-`**
-   	- [Randomizer (Code Clickers)](https://play.google.com/store/apps/details?id=com.codeclickers.randomizer) **`Full`**
-   	- [Tap Counter](https://github.com/DDR13GIT/TapCounter) **`TODO`**
-- **其他**
-   	- [Jetisteam](https://github.com/iTaysonLab/jetisteam) **`Full`**    
-   	- [Boat_H2O2 Pro](https://github.com/NaCln4c1/Boat_H2O2) **`MD-`**    
-   	- [J2ME下载](https://github.com/zf1234d/J2me-res-store) **`MD-`**
-   	- [萌卡YGO竞技助手](https://www.coolapk.com/apk/xjunz.tool.mycard) **`MD-`**   
+- **Minecraft工具**
+   	- [Boat_H2O2 Pro](https://github.com/NaCln4c1/Boat_H2O2) **`MD-`** 
    	- [Cuberite](https://github.com/cuberite/android) **`MD-` `Monet`**    
+- **其他**
+   	- [Jetisteam](https://github.com/iTaysonLab/jetisteam) **`Full`**      
+   	- [J2ME下载](https://github.com/zf1234d/J2me-res-store) **`MD-`**
+   	- [萌卡YGO竞技助手](https://www.coolapk.com/apk/xjunz.tool.mycard) **`MD-`**    
    	- [GuessThatPokemon](https://github.com/NimaKhajehpour/GuessThatPokemon) **`MD-`**
    	- [罗德岛移动终端lite](https://github.com/JamXi233/ArkToolBox-Lite) **`MD`**
    	- [TR Save Editor](https://www.coolapk.com/apk/top.juruo.terrariasaveconverter) **`Full` `Multi`**
