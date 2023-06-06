@@ -433,7 +433,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
 	- [Aniyomi](https://github.com/jmir1/aniyomi) **`MD-`**
 	- [Teapod](https://git.mosad.xyz/Seil0/teapod) **`MD-`**
 	- [Easybangumi](https://easybangumi.org/zh/) **`Full` `Multi`**
-	- [Awara](http://t.me/misakamaterial/199) **`Full` `Multi`**
+	- [Awara](http://t.me/misakamaterialyou/199) **`Full` `Multi`**
 	- [Burning Series](https://github.com/DATL4G/Burning-Series) **`MD`**
 - **Online Videos Services**
 	- [Bili You](https://github.com/lucinhu/bili_you) **`Full`**
