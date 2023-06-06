@@ -476,7 +476,7 @@ Material Design 3伴随着Android 12而来。它的诞生，彻底改变了人�
 	- [Aniyomi](https://github.com/jmir1/aniyomi) **`MD-`**
  	- [Teapod](https://git.mosad.xyz/Seil0/teapod) **`MD-`**
  	- [纯纯看番](https://easybangumi.org/zh/) **`Full` `Multi`**
-	- [Awara](http://t.me/misakamaterial/199) **`Full` `Multi`**
+	- [Awara](http://t.me/misakamaterialyou/199) **`Full` `Multi`**
 - **在线视频播放**
 	- [Bili You](https://github.com/lucinhu/bili_you) **`Full`**
 	- [NoFasel](https://github.com/N0-0NE-Dev/NoFasel) **`MD-` `Monet`**
