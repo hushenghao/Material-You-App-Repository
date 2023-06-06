@@ -266,7 +266,7 @@ Material Design 3伴随着Android 12而来。它的诞生，彻底改变了人�
 	- [Connect You](https://github.com/Bnyro/ConnectYou) **`Full`**
 	- [Simple Dialer](https://github.com/SimpleMobileTools/Simple-Dialer) **`Full`**
 	- [Simple SMS Messenger](https://github.com/SimpleMobileTools/Simple-SMS-Messenger) **`Full`**
-	- WhatsApp Beta **`MD-`**
+	- [WhatsApp Beta](https://play.google.com/apps/testing/com.whatsapp) **`MD-`**
 	- [Koler](https://github.com/Chooloo/koler) **`Full`**
 - **Telegram第三方**
 	- [MDgram](https://github.com/MDGramYou/MDGramYou) **`MD` `Multi`**
@@ -287,8 +287,8 @@ Material Design 3伴随着Android 12而来。它的诞生，彻底改变了人�
 	- [Instander](https://thedise.me/instander/repo/) **`Monet`** **`MOD`**
 	- [Honista](https://t.me/Honistagram) **`Monet` `MOD`**
 - **Twitter第三方**
-	- [~~harpy for Twitter~~](https://github.com/robertodoering/harpy) **`Monet`**
-	- [~~Albatross for Twitter~~](https://play.google.com/store/apps/details?id=com.nick.mowen.albatross) **`Monet`**
+	- [harpy for Twitter](https://github.com/robertodoering/harpy) **`Monet`**
+	- [Albatross for Twitter](https://play.google.com/store/apps/details?id=com.nick.mowen.albatross) **`Monet`**
 	- [FocusTwitter](https://play.google.com/store/apps/details?id=allen.town.focus.twitter) **`Full` `Multi`**
 	- [Quacker](https://apt.izzysoft.de/fdroid/index/apk/com.thehcj.quacker) **`MD-`**
 - **其他去中心化社交平台（含Mastodon第三方）**
@@ -305,10 +305,11 @@ Material Design 3伴随着Android 12而来。它的诞生，彻底改变了人�
 	- [msea](https://github.com/eternaljust/msea-compose) **`Full`**
 	- [雾岛](https://github.com/123Duo3/XDNMB) **`TODO`**
 	- [Stack for Stack Overflow](https://play.google.com/store/apps/details?id=me.tylerbwong.stack) **`Full`**
+	- [HACG](https://github.com/shizheng233/HACG) **`Full`**
 - **其他**
 	- [Kizzy](https://github.com/dead8309/Kizzy) **`Full`**
 	- [LiPari](https://github.com/Stamir36/LiPari-Android) **`Full` `Multi`**
-	- [~~E2E Encrypted Chat~~](https://github.com/Project-Based-Learning-IT/e2ee-chat) **`Full`**
+	- [E2E Encrypted Chat](https://github.com/Project-Based-Learning-IT/e2ee-chat) **`TODO`**
 	- [PixelDroid](https://github.com/H-PixelDroid/PixelDroid) **`MD`**
 	- [Staver](https://play.google.com/store/apps/details?id=com.anafthdev.staver) **`MD-` `Monet` `Multi`**
 	- [DankChat](https://github.com/flex3r/DankChat) **`Full`**
@@ -316,48 +317,53 @@ Material Design 3伴随着Android 12而来。它的诞生，彻底改变了人�
 	- [Blog2App](https://play.google.com/store/apps/details?id=com.boltuix.blogtoapp) **`MD`**
 ---
 ## [🎵媒体播放](#目录)
-- **YouTube/YouTube Music第三方**
+- **YouTube第三方**
 	- [InnerTune](https://github.com/z-huang/InnerTune) **`MD-` `Monet` `Multi`**
 	- [LibreTube](https://github.com/libre-tube/LibreTube) **`Full`**
 	- [Revanced Extended](https://github.com/revanced/revanced-manager) **`Full`**
 	- [Hyperion](https://github.com/zt64/Hyperion) **`Full` `Multi`**
 	- [VueTube](https://github.com/VueTubeApp/VueTube) **`Full`**
 	- [Clipious](https://github.com/lamarios/clipious) **`MD`**
+	- [Vanced MicroG](https://github.com/cuynu/VancedMicroG) **`Monet`**
+- **YouTube Music第三方**
 	- [ViMusic](https://github.com/vfsfitvnm/ViMusic) **`MD` `Multi`**
 	- [Vibe Music](https://github.com/sheikhhaziq/vibemusic) **`Full`**
-	- [Vanced MicroG](https://github.com/cuynu/VancedMicroG) **`Monet`**
-- **Spotify/网易云第三方**
-	- [Music You](https://github.com/GuihongWang/MusicYou) **`Full` `Multi`**
+- **Spotify第三方**
 	- [Jetispot](https://github.com/iTaysonLab/jetispot) **`Full`**
 	- [Spotube](https://github.com/KRTirtho/spotube) **`MD`**
-- **流式视频服务器第三方**
+- **网易云音乐第三方**
+	- [Music You](https://github.com/GuihongWang/MusicYou) **`Full` `Multi`**
+- **流式媒体服务器**
 	- [SubTune](https://github.com/TaylorKunZhang/SubTune) **`MD`**
 	- [Ultrasonic](https://gitlab.com/ultrasonic/ultrasonic) **`Full`**
 	- [Symfonium](https://play.google.com/store/apps/details?id=app.symfonik.music.player) **`MD`**
 	- [Yatse](https://play.google.com/store/apps/details?id=org.leetzone.android.yatsewidgetfree) **`Full` `Multi`**
 	- [Drive Stream](https://github.com/itszechs/DriveStream) **`MD`**
-- **在线视频/动漫播放**
-	- [Bili You](https://github.com/lucinhu/bili_you) **`Full`**
+- **番剧**
 	- [樱花动漫](https://github.com/670848654/SakuraAnime) **`Full`**
 	- [AGE](https://github.com/xihan123/AGE) **`MD-`**
 	- [Aniyomi](https://github.com/jmir1/aniyomi) **`MD-`**
+ 	- [Teapod](https://git.mosad.xyz/Seil0/teapod) **`MD-`**
+ 	- [纯纯看番](https://easybangumi.org/zh/) **`Full` `Multi`**
+	- [Awara](http://t.me/misakamaterial/199) **`Full` `Multi`**
+- **在线视频播放**
+	- [Bili You](https://github.com/lucinhu/bili_you) **`Full`**
 	- [NoFasel](https://github.com/N0-0NE-Dev/NoFasel) **`MD-` `Monet`**
 	- [DangoPlayer](https://github.com/brunochanrio/DangoPlayer) **`MD`**
 	- [Burning Series](https://github.com/DATL4G/Burning-Series) **`MD`**
 	- [Findroid](https://github.com/jarnedemeulemeester/findroid) **`Full`**
-	- [myplayer](https://www.coolapk.com/apk/com.ltj.myplayer) **`MD-`**
- 	- [Teapod](https://git.mosad.xyz/Seil0/teapod) **`MD-`**
 	- [MPlayer](https://play.google.com/store/apps/details?id=com.mplayer.streamcast) **`MD`**
 	- [CloudStream](https://github.com/recloudstream/cloudstream) **`MD-` `Monet` `Multi`**
-	- [纯纯看番](https://easybangumi.org/zh/) **`Full` `Multi`**
-	- [Awara](http://t.me/misakamaterial/199) **`Full` `Multi`**
 	- [影视TV](https://github.com/FongMi/TV) **`MD`**
 	- [Onstream](https://onstream.to/) **`MD-`**
 - **本地视频播放**
 	- [VLC Mod](https://t.me/waifupx_official/233) **`Full` `Multi` `MOD`** 
 	- [MX Player Mod](https://www.coolapk1s.com/feed/44722057) **`Monet` `MOD`**
-	- [VideoYouX](https://github.com/Clearpole/VideoYouX)（内测中，[频道链接](https://t.me/VideoYouNotice)）**`Full` `Multi` `TODO`**
+	- [VideoYouX](https://github.com/Clearpole/VideoYouX) **`Full` `Multi` `TODO`**
 	- [NextPlayer](https://github.com/anilbeesetti/nextplayer) **`Full`**
+	- [myplayer](https://www.coolapk.com/apk/com.ltj.myplayer) **`MD-`**
+- **在线音乐播放**
+	- [卡音](http://music.ijanz.cn/) **`MD`**
 - **本地音乐播放**
 	- [Retro Music](https://github.com/RetroMusicPlayer/RetroMusicPlayer) / [Metro](https://github.com/MuntashirAkon/Metro) / [ApexMusic](https://github.com/TheTerminatorOfProgramming/ApexMusic) **`Full` `Multi`**
 	- [Oto Music](https://play.google.com/store/apps/details?id=com.piyush.music) **`Full`**
@@ -371,7 +377,7 @@ Material Design 3伴随着Android 12而来。它的诞生，彻底改变了人�
 	- [Musify](https://github.com/gokadzev/Musify) **`Full`**
 	- [Pixel](https://play.google.com/store/apps/details?id=it.ncaferra.pixelplayerfree) **`Full`**
 	- [棉花音乐](https://github.com/pure-music/PureMusic) **`Full` `Multi`**
-	- [香草音乐](https://play.google.com/store/apps/details?id=com.kyant.vanilla) **`Full`**
+	- [Vanilla](https://play.google.com/store/apps/details?id=com.kyant.vanilla) **`Full`**
 - **播客/电台**
 	- [FocusPodcast](https://play.google.com/store/apps/details?id=allen.town.focus.podcast) **`Full` `Multi`**
 	- [Moon FM](https://play.google.com/store/apps/details?id=fm.moon.app) **`Monet`**
@@ -379,17 +385,14 @@ Material Design 3伴随着Android 12而来。它的诞生，彻底改变了人�
 	- [URL Radio](https://github.com/jamal2362/URL-Radio) **`Full`**
 	- [Escapepod](https://codeberg.org/y20k/escapepod) **`Full`**
 	- [Turtlecast](https://play.google.com/store/apps/details?id=com.bluckapps.turtlecast) **`MD-`**
-	- [Kafka](https://play.google.com/store/apps/details?id=com.kafka.user) **`Full` `Multi`**
 - **直播**
 	- [Hotlive](https://github.com/Jackiu1997/hot_live) **`Full`**
 	- [Purelive](https://github.com/Jackiu1997/pure_live/) **`Full` `Multi`**
 	- [Simple Live](https://github.com/xiaoyaocz/dart_simple_live) **`Full`**
 	- [ASeam](https://dl.aseam.site/download) **`Full`**
-- **剪辑工具**
+- **媒体工具**
 	- [AudioLab](https://play.google.com/store/apps/details?id=com.hitrolab.audioeditor) **`MD-` `Monet` `Multi`**
-- **其他**
-	- [Ambient Music Mod](https://github.com/KieronQuinn/AmbientMusicMod) **`Full` `MOD`**
-	- [卡音](http://music.ijanz.cn/) **`MD`**
+
 ---
 ## [✍写写画画](#目录)
 - **笔记**
@@ -407,7 +410,6 @@ Material Design 3伴随着Android 12而来。它的诞生，彻底改变了人�
 	- [Spooky](https://play.google.com/store/apps/details?id=com.juniorise.spooky) **`Full`**
 	- [无聊笔记](https://www.coolapk.com/apk/com.hua.ssnote_coolapk) **`MD`**
 	- [Notes](https://play.google.com/store/apps/details?id=com.redmerah.notes) **`Full`**
-	- [Kubus Tasks](https://play.google.com/store/apps/details?id=com.ms.tasks) **`MD-`**
 	- [知识库](https://www.coolapk.com/apk/com.start.now) **`MD-`**
 	- [Justnotes](https://github.com/jjewuz/JustNotes) **`Full`**
 	- [BeauTyXT](https://github.com/soupslurpr/BeauTyXT) **`Full`**
@@ -440,11 +442,12 @@ Material Design 3伴随着Android 12而来。它的诞生，彻底改变了人�
 	- [Noterly](https://play.google.com/store/apps/details?id=uk.co.tdsstudios.noterly) **`Full`**
 	- [TimeTable](https://play.google.com/store/apps/details?id=app.smart.timetable) **`Full`**
 	- [Engross](https://play.google.com/store/apps/details?id=com.engross) **`MD-`**
+	- [Kubus Tasks](https://play.google.com/store/apps/details?id=com.ms.tasks) **`MD-`**
 - **歌词编辑**
 	- [Lyricistant](https://github.com/wardellbagby/lyricistant) **`MD-` `Monet` `Multi`**
 	- [Sinhala Lyrics](https://github.com/SuhasDissa/Sinhala-Lyrics-App) **`Full`**
 - **其他**
-	- [raca](https://github.com/SkyD666/Raca-Android) **`Full` `Multi`**
+	- [Raca](https://github.com/SkyD666/Raca-Android) **`Full` `Multi`**
 	- [Counters](https://play.google.com/store/apps/details?id=rahmouni.neil.counters) **`Full` `Multi`**
 	- [Typing Hero](https://play.google.com/store/apps/details?id=sen.typinghero) **`Full`**
 	- [Project & task Management](https://play.google.com/store/apps/details?id=com.eunidev.projectmanagement) **`Full`**
@@ -466,6 +469,11 @@ Material Design 3伴随着Android 12而来。它的诞生，彻底改变了人�
 	- [Aves](https://github.com/deckerst/aves) **`Monet`**
 	- [MiniGallery](https://github.com/kabirnayeem99/miniGallery) **`Full`**
 	- [Simple Gallery](https://github.com/SimpleMobileTools/Simple-Gallery) **`Full`**
+- **插画**
+	- [PixEz](https://github.com/Notsfsssf/pixez-flutter) **`Full`**
+	- [PixivYou](https://t.me/anubis_recommended/127) **`Full`** 
+	- [SauceNao](https://github.com/LuK1337/SauceNAO) **`Full`**
+	- [Boorusphere](https://github.com/nullxception/boorusphere) **`Full`**
 - **图片编辑**
 	- [Photo Editor](https://t.me/anubis_recommended/139) **`Monet`** **`MOD`**
 	- [ExifEraser](https://github.com/Tommy-Geenexus/exif-eraser) **`Full`**
@@ -501,7 +509,6 @@ Material Design 3伴随着Android 12而来。它的诞生，彻底改变了人�
 	- [Myne](https://github.com/Pool-Of-Tears/Myne) **`Full`**
 	- [阅微](https://play.google.com/store/apps/details?id=com.reamicro.academy) **`Full`**
 	- [Shosetsu](https://gitlab.com/shosetsuorg/shosetsu) **`Full` `Multi`**
-	- [Voice](https://github.com/PaulWoitaschek/Voice) **`Full` `Multi`**
 	- [NovelDokusha](https://github.com/nanihadesuka/NovelDokusha) **`MD`**
 	- [Moon+ Reader](https://play.google.com/store/apps/details?id=com.flyersoft.moonreader) **`MD-`** **`Multi`**
 	- [wenku8x](https://github.com/zsakvo/wenku8x) **`TODO`**
@@ -516,13 +523,9 @@ Material Design 3伴随着Android 12而来。它的诞生，彻底改变了人�
 	- [每日早报](https://pann.lanhuang.top/down.php/a3bc25e7e539af77463acea4411c26a1.apk) **`Full`**
 	- [MeRead](https://github.com/gvenusleo/meread) **`Full`**
 	- [Reader](https://github.com/msasikanth/reader) **`MD-`**
-- **漫画/ACG图片浏览**
+- **漫画**
 	- [Tachiyomi](https://github.com/tachiyomiorg/tachiyomi) / [TachiyomiJ2K](https://github.com/Jays2Kings/tachiyomiJ2K) / [TachiyomiSY](https://github.com/Hero-Over/TachiyomiSY) **`Full` `Multi`**
 	- [Kotatsu](https://github.com/KotatsuApp/Kotatsu) **`Full` `Multi`**
-	- [PixEz](https://github.com/Notsfsssf/pixez-flutter) **`Full`**
-	- [PixivYou](https://t.me/anubis_recommended/127) **`Full`** 
-	- [SauceNao](https://github.com/LuK1337/SauceNAO) **`Full`**
-	- [Boorusphere](https://github.com/nullxception/boorusphere) **`Full`**
 	- [Neko](https://github.com/CarlosEsco/Neko) **`Full` `Multi`**
 	- [Pica Comic](https://github.com/wgh136/PicaComic) **`Full` `Multi`**
 	- [BIKA](https://github.com/shizq123/BIKA) **`Full`**
@@ -530,9 +533,11 @@ Material Design 3伴随着Android 12而来。它的诞生，彻底改变了人�
 	- [EhViewer](https://github.com/Ehviewer-Overhauled/Ehviewer) **`Full`**
 	- [Hentoid](https://github.com/h6rd/Hentoid-Material-You) **`MD-` `Monet`**
 	- [CopyManga](https://github.com/shizheng233/PicacgMaterial3/stargazers) **`Full`**
-	- [HACG](https://github.com/shizheng233/HACG) **`Full`**
 	- [CopyMangaX](https://github.com/CrowForKotlin/CopyMangaX) **`MD`**
 	- [NoyAcg](https://noy.asia/) **`MD-`**
+- **有声书**
+	- [Kafka](https://play.google.com/store/apps/details?id=com.kafka.user) **`Full` `Multi`**
+	- [Voice](https://github.com/PaulWoitaschek/Voice) **`Full` `Multi`**
 ---
 ## [🌦️日常生活](#目录)
 - **钱包记账**
@@ -1172,7 +1177,8 @@ Material Design 3伴随着Android 12而来。它的诞生，彻底改变了人�
    	- [墓碑](https://jinnian.lanzouy.com/iTJGC0ovdsjg) **`MD`**
    	- [Smart Dock](https://github.com/axel358/smartdock) **`Full`**
    	- [GApps Mod](https://github.com/jacopotediosi/GAppsMod) **`Full`**
-   	- [VPN Hotspot](https://github.com/Mygod/VPNHotspot) **`MD` `FOSS`**
+   	- [VPN热点](https://github.com/Mygod/VPNHotspot) **`MD` `FOSS`**
+	- [Ambient Music Mod](https://github.com/KieronQuinn/AmbientMusicMod) **`Full`**
 ---
 ## [🎮游戏](#目录)
 - **模拟器**
