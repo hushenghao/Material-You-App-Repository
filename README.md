@@ -233,7 +233,6 @@ However in fact, sometimes Material You refers to the application which (may onl
 - [InstallerX](https://github.com/iamr0s/InstallerX) **`Full` `Multi`**
 - [Hail](https://github.com/aistra0528/Hail) **`Full` `Multi`**
 ## 🆕Newly Added Apps
-- [Table Habit](https://github.com/FriesI23/mhabit) **`Full`**
 - [Pure Music](https://github.com/pure-music/PureMusic) **`Full` `Multi`**
 - [SuperImage](https://github.com/Lucchetto/SuperImage) **`MD`**
 - [ChatGPT](https://github.com/thewolfprod/ChatGPT-Android) **`TODO`**
@@ -248,6 +247,7 @@ However in fact, sometimes Material You refers to the application which (may onl
 - **`NEW`** [Tunedetective](https://github.com/n000tavailable/tunedetective) **`Full`**
 - **`NEW`** [TimePlanner](https://github.com/v1tzor/TimePlanner) **`MD`**
 - **`NEW`** [Giga Icon](https://play.google.com/store/apps/details?id=it.mirko.gigaicon) **`Full`**
+- **`NEW`** [TTS DictEditor](https://github.com/jing332/TtsDictEditor) **`MD`**
 ## 📱Applist
 **Now you could click the title to return to the applist menu!**
 ### 🦖[Google Apps](#applist-menu)
@@ -345,7 +345,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
 	- [Simple Contacts](https://github.com/SimpleMobileTools/Simple-Contacts) **`Full`**
 	- [Connect You](https://github.com/Bnyro/ConnectYou) **`Full`**
 - **Dialer**
-	- [Koler](https://github.com/Chooloo/koler) **`Full`*
+	- [Koler](https://github.com/Chooloo/koler) **`Full`**
 	- [Simple Dialer](https://github.com/SimpleMobileTools/Simple-Dialer) **`Full`**
 - **SMS**
 	- [Simple SMS Messenger](https://github.com/SimpleMobileTools/Simple-SMS-Messenger) **`Full`**
@@ -437,7 +437,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
 - **Online Videos Services**
 	- [Bili You](https://github.com/lucinhu/bili_you) **`Full`**
 	- [NoFasel](https://github.com/N0-0NE-Dev/NoFasel) **`MD-` `Monet`**
-	- [DangoPlayer](https://github.com/brunochanrio/DangoPlayer) **`MD`**
+	- [DangoPlayer](https://github.com/brunochanrio/DangoPlayer) **`MD` `Multi`**
 	- [Findroid](https://github.com/jarnedemeulemeester/findroid) **`Full`**
 	- [MPlayer](https://play.google.com/store/apps/details?id=com.mplayer.streamcast) **`MD`**
 	- [CloudStream](https://github.com/recloudstream/cloudstream) **`MD-` `Monet` `Multi`**
@@ -969,7 +969,8 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
 - **TTS**    
    	- [TTS Server](https://github.com/jing332/tts-server-android) **`Full`**   
    	- [Transcriber](https://play.google.com/store/apps/details?id=it.mirko.transcriber) **`Full`**    
-   	- [Sayit](https://play.google.com/store/apps/details?id=com.urbandroid.sayit) **`Full`**    
+   	- [Sayit](https://play.google.com/store/apps/details?id=com.urbandroid.sayit) **`Full`**   
+   	- [TTS DictEditor](https://github.com/jing332/TtsDictEditor) **`MD`** 
 - **Cleaner**    
    	- [Qingzhuo](https://www.coolapk.com/apk/com.farplace.qingzhuo) **`MD-` `Monet`**    
    	- [SD Maid SE](https://github.com/d4rken-org/sdmaid-se) **`Full`**
