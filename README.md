@@ -350,7 +350,6 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
 - **SMS**
 	- [Simple SMS Messenger](https://github.com/SimpleMobileTools/Simple-SMS-Messenger) **`Full`**
 	- [WhatsApp Beta](https://play.google.com/apps/testing/com.whatsapp) **`MD-`**
-*
 - **Telegram Clients**
 	- [MDgram](https://github.com/MDGramYou/MDGramYou) **`MD` `Multi`**
 	- [exteraGram](https://github.com/exteraSquad/exteraGram) **`MD-` `Multi`**
