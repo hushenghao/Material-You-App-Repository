@@ -280,7 +280,6 @@ Material Design 3伴随着Android 12而来。它的诞生，彻底改变了人�
 - [雹](https://github.com/aistra0528/Hail) **`Full` `Multi`**
 ## 🆕最近上新
 少女祈祷中…
-- [ChatGPT](https://github.com/thewolfprod/ChatGPT-Android) **`TODO`**
 - [Life Chest](https://github.com/theskyblockman/life-chest) **`Full`**
 - [Kafka](https://play.google.com/store/apps/details?id=com.kafka.user) **`Full` `Multi`**
 - [BeauTyXT](https://github.com/soupslurpr/BeauTyXT) **`Full`**
@@ -295,6 +294,7 @@ Material Design 3伴随着Android 12而来。它的诞生，彻底改变了人�
 - **`NEW`** [TTS词典编辑器](https://github.com/jing332/TtsDictEditor) **`MD`**
 - **`NEW`** [HiShoot2i](https://t.me/hishoot2imaterial) **`Full`**
 - **`NEW`** [自言自语](https://www.coolapk.com/apk/com.chiibeii.ZiYanZiYu) **`Full`**
+- **`NEW`** [工具大师](https://dmla.lanzouo.com/b05pbb76b) **`MD`**
 ## 📱应用列表
 **点击标题即可回到目录XD**
 ### 🦖[谷歌应用](#目录)
@@ -1199,6 +1199,7 @@ Material Design 3伴随着Android 12而来。它的诞生，彻底改变了人�
    	- [小布百宝箱](https://www.coolapk1s.com/feed/45145335) **`Full`**
    	- [七点工具箱](https://wwja.lanzoub.com/iLTin0x3rjzi) **`Full`**
    	- [简朴](https://github.com/ismartcoding/plain-app) **`Full`** 
+   	- [工具大师](https://dmla.lanzouo.com/b05pbb76b) **`MD`**
 - **代理工具**
    	- [Surfboard](https://play.google.com/store/apps/details?id=com.getsurfboard) **`Full` `Multi`**
    	- [WireGuard](https://git.zx2c4.com/wireguard-android/) **`Full`**
