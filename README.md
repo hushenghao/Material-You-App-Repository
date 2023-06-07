@@ -233,21 +233,22 @@ However in fact, sometimes Material You refers to the application which (may onl
 - [InstallerX](https://github.com/iamr0s/InstallerX) **`Full` `Multi`**
 - [Hail](https://github.com/aistra0528/Hail) **`Full` `Multi`**
 ## 🆕Newly Added Apps
-- [Pure Music](https://github.com/pure-music/PureMusic) **`Full` `Multi`**
 - [SuperImage](https://github.com/Lucchetto/SuperImage) **`MD`**
 - [ChatGPT](https://github.com/thewolfprod/ChatGPT-Android) **`TODO`**
 - [Life Chest](https://github.com/theskyblockman/life-chest) **`Full`**
 - [Kafka](https://play.google.com/store/apps/details?id=com.kafka.user) **`Full` `Multi`**
-- **`NEW`** [Accessibility Manager](https://www.coolapk.com/apk/com.accessibilitymanager) **`Monet`**
-- **`NEW`** [VPN Hotspot](https://github.com/Mygod/VPNHotspot) **`MD` `FOSS`**
-- **`NEW`** [Markdown Editor](https://play.google.com/store/apps/details?id=com.adeeteya.markdown_editor) **`MD`**
-- **`NEW`** [Budget Management](https://github.com/kabirnayeem99/budget_management_syarah) **`TODO`**
-- **`NEW`** [Tap Counter](https://github.com/DDR13GIT/TapCounter) **`TODO`**
-- **`NEW`** [BeauTyXT](https://github.com/soupslurpr/BeauTyXT) **`Full`**
-- **`NEW`** [Tunedetective](https://github.com/n000tavailable/tunedetective) **`Full`**
-- **`NEW`** [TimePlanner](https://github.com/v1tzor/TimePlanner) **`MD`**
-- **`NEW`** [Giga Icon](https://play.google.com/store/apps/details?id=it.mirko.gigaicon) **`Full`**
+- [Accessibility Manager](https://www.coolapk.com/apk/com.accessibilitymanager) **`Monet`**
+- [VPN Hotspot](https://github.com/Mygod/VPNHotspot) **`MD` `FOSS`**
+- [Markdown Editor](https://play.google.com/store/apps/details?id=com.adeeteya.markdown_editor) **`MD`**
+- [Budget Management](https://github.com/kabirnayeem99/budget_management_syarah) **`TODO`**
+- [Tap Counter](https://github.com/DDR13GIT/TapCounter) **`TODO`**
+- [BeauTyXT](https://github.com/soupslurpr/BeauTyXT) **`Full`**
+- [Tunedetective](https://github.com/n000tavailable/tunedetective) **`Full`**
+- [TimePlanner](https://github.com/v1tzor/TimePlanner) **`MD`**
+- [Giga Icon](https://play.google.com/store/apps/details?id=it.mirko.gigaicon) **`Full`**
 - **`NEW`** [TTS DictEditor](https://github.com/jing332/TtsDictEditor) **`MD`**
+- **`NEW`** [HiShoot2i](https://t.me/hishoot2imaterial) **`Full`**
+- **`NEW`** [Soliloquize](https://www.coolapk.com/apk/com.chiibeii.ZiYanZiYu) **`Full`**
 ## 📱Applist
 **Now you could click the title to return to the applist menu!**
 ### 🦖[Google Apps](#applist-menu)
@@ -572,6 +573,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
 	- [Graphie](https://play.google.com/store/apps/details?id=com.pavelrekun.graphie) **`Full`**
 	- [Momentum Editor](https://play.google.com/store/apps/details?id=com.lware.momentum) **`MD`**
 	- [SuperImage](https://github.com/Lucchetto/SuperImage) **`MD`**
+	- [HiShoot2i](https://t.me/hishoot2imaterial) **`Full`**
 ---
 ### [🌐Browser](#applist-menu)
 - [FOSS Browser](https://github.com/scoute-dich/browser) **`Full` `Multi`**
@@ -700,6 +702,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
 - **Quote**
   	- [Onesentence](https://www.coolapk.com/apk/kenmizz.onesentence) **`Full`**
 	- [Qwotable](https://github.com/Lijukay/Qwotable) **`Full` `Multi`**
+	- [Soliloquize](https://www.coolapk.com/apk/com.chiibeii.ZiYanZiYu) **`Full`**
 - **Health & Habits**
    	- [Sleep as Android](https://play.google.com/store/apps/details?id=com.urbandroid.sleep) **`Full` `Multi`**
    	- [Disconnect](https://gitlab.com/narektor/disconnect) **`Full`**
