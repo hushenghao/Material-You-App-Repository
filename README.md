@@ -233,8 +233,6 @@ However in fact, sometimes Material You refers to the application which (may onl
 - [InstallerX](https://github.com/iamr0s/InstallerX) **`Full` `Multi`**
 - [Hail](https://github.com/aistra0528/Hail) **`Full` `Multi`**
 ## 🆕Newly Added Apps
-- [SuperImage](https://github.com/Lucchetto/SuperImage) **`MD`**
-- [ChatGPT](https://github.com/thewolfprod/ChatGPT-Android) **`TODO`**
 - [Life Chest](https://github.com/theskyblockman/life-chest) **`Full`**
 - [Kafka](https://play.google.com/store/apps/details?id=com.kafka.user) **`Full` `Multi`**
 - [Accessibility Manager](https://www.coolapk.com/apk/com.accessibilitymanager) **`Monet`**
@@ -249,6 +247,7 @@ However in fact, sometimes Material You refers to the application which (may onl
 - **`NEW`** [TTS DictEditor](https://github.com/jing332/TtsDictEditor) **`MD`**
 - **`NEW`** [HiShoot2i](https://t.me/hishoot2imaterial) **`Full`**
 - **`NEW`** [Soliloquize](https://www.coolapk.com/apk/com.chiibeii.ZiYanZiYu) **`Full`**
+- **`NEW`** [Tool Master](https://dmla.lanzouo.com/b05pbb76b) **`MD`**
 ## 📱Applist
 **Now you could click the title to return to the applist menu!**
 ### 🦖[Google Apps](#applist-menu)
@@ -1157,7 +1156,8 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
    	- [Voyage Toolbox](https://1drv.ms/u/s!Atk49Scq_BtYhGh4H5XMwB_QVDKK?e=uogimG) **`Full`**    
    	- [Xiaobu Toolbox](https://www.coolapk1s.com/feed/45145335) **`Full`**
    	- [Sevendots Toolbox](https://1drv.ms/u/s!Atk49Scq_BtYhHkWJxcDuAPY25PZ?e=l89paX) **`Full`**  
-   	- [Plain](https://github.com/ismartcoding/plain-app) **`Full`**   
+   	- [Plain](https://github.com/ismartcoding/plain-app) **`Full`**
+   	- [Tool Master](https://dmla.lanzouo.com/b05pbb76b) **`MD`**
 - **Proxy**
    	- [Surfboard](https://play.google.com/store/apps/details?id=com.getsurfboard) **`Full` `Multi`**
    	- [WireGuard](https://git.zx2c4.com/wireguard-android/) **`Full`**
