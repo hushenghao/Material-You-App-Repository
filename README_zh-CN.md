@@ -280,7 +280,6 @@ Material Design 3伴随着Android 12而来。它的诞生，彻底改变了人�
 - [雹](https://github.com/aistra0528/Hail) **`Full` `Multi`**
 ## 🆕最近上新
 少女祈祷中…
-- [Table Habit](https://github.com/FriesI23/mhabit) **`Full`**
 - [棉花音乐](https://github.com/pure-music/PureMusic) **`Full` `Multi`**
 - [SuperImage](https://github.com/Lucchetto/SuperImage) **`MD`**
 - [ChatGPT](https://github.com/thewolfprod/ChatGPT-Android) **`TODO`**
@@ -295,6 +294,7 @@ Material Design 3伴随着Android 12而来。它的诞生，彻底改变了人�
 - **`NEW`** [Tunedetective](https://github.com/n000tavailable/tunedetective) **`Full`**
 - **`NEW`** [TimePlanner](https://github.com/v1tzor/TimePlanner) **`MD`**
 - **`NEW`** [Giga Icon](https://play.google.com/store/apps/details?id=it.mirko.gigaicon) **`Full`**
+- **`NEW`** [TTS词典编辑器](https://github.com/jing332/TtsDictEditor) **`MD`**
 ## 📱应用列表
 **点击标题即可回到目录XD**
 ### 🦖[谷歌应用](#目录)
@@ -480,7 +480,7 @@ Material Design 3伴随着Android 12而来。它的诞生，彻底改变了人�
 - **在线视频播放**
 	- [Bili You](https://github.com/lucinhu/bili_you) **`Full`**
 	- [NoFasel](https://github.com/N0-0NE-Dev/NoFasel) **`MD-` `Monet`**
-	- [DangoPlayer](https://github.com/brunochanrio/DangoPlayer) **`MD`**
+	- [DangoPlayer](https://github.com/brunochanrio/DangoPlayer) **`MD` `Multi`**
 	- [Burning Series](https://github.com/DATL4G/Burning-Series) **`MD`**
 	- [Findroid](https://github.com/jarnedemeulemeester/findroid) **`Full`**
 	- [MPlayer](https://play.google.com/store/apps/details?id=com.mplayer.streamcast) **`MD`**
@@ -1012,6 +1012,7 @@ Material Design 3伴随着Android 12而来。它的诞生，彻底改变了人�
    	- [TTS Server](https://github.com/jing332/tts-server-android) **`Full`**
    	- [Transcriber](https://play.google.com/store/apps/details?id=it.mirko.transcriber) **`Full`**    
    	- [Sayit](https://play.google.com/store/apps/details?id=com.urbandroid.sayit) **`Full`**
+   	- [TTS词典编辑器](https://github.com/jing332/TtsDictEditor) **`MD`**
 - **系统清理**
    	- [清浊](https://www.coolapk.com/apk/com.farplace.qingzhuo) **`MD-` `Monet`** 
    	- [SD Maid SE](https://github.com/d4rken-org/sdmaid-se) **`Full`**     
