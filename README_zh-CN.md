@@ -280,21 +280,21 @@ Material Design 3伴随着Android 12而来。它的诞生，彻底改变了人�
 - [雹](https://github.com/aistra0528/Hail) **`Full` `Multi`**
 ## 🆕最近上新
 少女祈祷中…
-- [棉花音乐](https://github.com/pure-music/PureMusic) **`Full` `Multi`**
-- [SuperImage](https://github.com/Lucchetto/SuperImage) **`MD`**
 - [ChatGPT](https://github.com/thewolfprod/ChatGPT-Android) **`TODO`**
 - [Life Chest](https://github.com/theskyblockman/life-chest) **`Full`**
 - [Kafka](https://play.google.com/store/apps/details?id=com.kafka.user) **`Full` `Multi`**
-- **`NEW`** [BeauTyXT](https://github.com/soupslurpr/BeauTyXT) **`Full`**
-- **`NEW`** [Tap Counter](https://github.com/DDR13GIT/TapCounter) **`TODO`**
-- **`NEW`** [Budget Management](https://github.com/kabirnayeem99/budget_management_syarah) **`TODO`**
-- **`NEW`** [Markdown Editor](https://play.google.com/store/apps/details?id=com.adeeteya.markdown_editor) **`MD`**
-- **`NEW`** [VPN热点](https://github.com/Mygod/VPNHotspot) **`MD` `FOSS`**
-- **`NEW`** [无障碍管理器](https://www.coolapk.com/apk/com.accessibilitymanager) **`Monet`**
-- **`NEW`** [Tunedetective](https://github.com/n000tavailable/tunedetective) **`Full`**
-- **`NEW`** [TimePlanner](https://github.com/v1tzor/TimePlanner) **`MD`**
-- **`NEW`** [Giga Icon](https://play.google.com/store/apps/details?id=it.mirko.gigaicon) **`Full`**
+- [BeauTyXT](https://github.com/soupslurpr/BeauTyXT) **`Full`**
+- [Tap Counter](https://github.com/DDR13GIT/TapCounter) **`TODO`**
+- [Budget Management](https://github.com/kabirnayeem99/budget_management_syarah) **`TODO`**
+- [Markdown Editor](https://play.google.com/store/apps/details?id=com.adeeteya.markdown_editor) **`MD`**
+- [VPN热点](https://github.com/Mygod/VPNHotspot) **`MD` `FOSS`**
+- [无障碍管理器](https://www.coolapk.com/apk/com.accessibilitymanager) **`Monet`**
+- [Tunedetective](https://github.com/n000tavailable/tunedetective) **`Full`**
+- [TimePlanner](https://github.com/v1tzor/TimePlanner) **`MD`**
+- [Giga Icon](https://play.google.com/store/apps/details?id=it.mirko.gigaicon) **`Full`**
 - **`NEW`** [TTS词典编辑器](https://github.com/jing332/TtsDictEditor) **`MD`**
+- **`NEW`** [HiShoot2i](https://t.me/hishoot2imaterial) **`Full`**
+- **`NEW`** [自言自语](https://www.coolapk.com/apk/com.chiibeii.ZiYanZiYu) **`Full`**
 ## 📱应用列表
 **点击标题即可回到目录XD**
 ### 🦖[谷歌应用](#目录)
@@ -617,6 +617,7 @@ Material Design 3伴随着Android 12而来。它的诞生，彻底改变了人�
 	- [Graphie](https://play.google.com/store/apps/details?id=com.pavelrekun.graphie) **`Full`**
 	- [Momentum Editor](https://play.google.com/store/apps/details?id=com.lware.momentum) **`MD`**
 	- [SuperImage](https://github.com/Lucchetto/SuperImage) **`MD`**
+	- [HiShoot2i](https://t.me/hishoot2imaterial) **`Full`**
 ---
 ## [🌐浏览器](#目录)
 - [FOSS Browser](https://github.com/scoute-dich/browser) **`Full` `Multi`**
@@ -745,6 +746,7 @@ Material Design 3伴随着Android 12而来。它的诞生，彻底改变了人�
 - **每日一言**
 	- [一句话](https://www.coolapk.com/apk/kenmizz.onesentence) **`Full`**
 	- [Qwotable](https://github.com/Lijukay/Qwotable) **`Full` `Multi`**
+	- [自言自语](https://www.coolapk.com/apk/com.chiibeii.ZiYanZiYu) **`Full`**
 - **健康习惯**
 	- [睡眠追踪](https://play.google.com/store/apps/details?id=com.urbandroid.sleep) **`Full` `Multi`**
 	- [Disconnect](https://gitlab.com/narektor/disconnect) **`Full`**
