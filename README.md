@@ -84,7 +84,8 @@ However in fact, sometimes Material You refers to the application which (may onl
 	- **Youtube Clients**
 	- **Youtube Music Clients**
 	- **Spotify Clients** 
-	- **Netease Cloud Music Clients** 
+	- **Netease Cloud Music Clients**
+	- **Bilibili Clients**
 	- **Streaming Server Clients**
 	- **Anime Services**
 	- **Online Videos Services**
@@ -233,10 +234,6 @@ However in fact, sometimes Material You refers to the application which (may onl
 - [InstallerX](https://github.com/iamr0s/InstallerX) **`Full` `Multi`**
 - [Hail](https://github.com/aistra0528/Hail) **`Full` `Multi`**
 ## 🆕Newly Added Apps
-- [Life Chest](https://github.com/theskyblockman/life-chest) **`Full`**
-- [Kafka](https://play.google.com/store/apps/details?id=com.kafka.user) **`Full` `Multi`**
-- [Accessibility Manager](https://www.coolapk.com/apk/com.accessibilitymanager) **`Monet`**
-- [VPN Hotspot](https://github.com/Mygod/VPNHotspot) **`MD` `FOSS`**
 - [Markdown Editor](https://play.google.com/store/apps/details?id=com.adeeteya.markdown_editor) **`MD`**
 - [Budget Management](https://github.com/kabirnayeem99/budget_management_syarah) **`TODO`**
 - [Tap Counter](https://github.com/DDR13GIT/TapCounter) **`TODO`**
@@ -248,6 +245,10 @@ However in fact, sometimes Material You refers to the application which (may onl
 - **`NEW`** [HiShoot2i](https://t.me/hishoot2imaterial) **`Full`**
 - **`NEW`** [Soliloquize](https://www.coolapk.com/apk/com.chiibeii.ZiYanZiYu) **`Full`**
 - **`NEW`** [Tool Master](https://dmla.lanzouo.com/b05pbb76b) **`MD`**
+- **`NEW`** [Geekbench 6](https://play.google.com/store/apps/details?id=com.primatelabs.geekbench6) **`MD`**
+- **`NEW`** [bi](https://github.com/storytellerF/bi) **`Full` `Multi`**
+- **`NEW`** [Fei](https://github.com/storytellerF/Fei) **`Full`**
+- **`NEW`** [Bilimiao](https://github.com/10miaomiao/bilimiao2) **`Monet` `Multi`**
 ## 📱Applist
 **Now you could click the title to return to the applist menu!**
 ### 🦖[Google Apps](#applist-menu)
@@ -420,6 +421,10 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
 	- [Spotube](https://github.com/KRTirtho/spotube) **`MD`**
 - **Netease Cloud Music Clients** 
 	- [Music You](https://github.com/GuihongWang/MusicYou) **`Full` `Multi`**
+- **Bilibili Clients**
+	- [Bili You](https://github.com/lucinhu/bili_you) **`Full`**
+	- [Bilimiao](https://github.com/10miaomiao/bilimiao2) **`Monet` `Multi`**
+	- [bi](https://github.com/storytellerF/bi) **`Full` `Multi`**
 - **Streaming Server Clients**
 	- [SubTune](https://github.com/TaylorKunZhang/SubTune) **`MD`**
 	- [Ultrasonic](https://gitlab.com/ultrasonic/ultrasonic) **`Full`**
@@ -435,7 +440,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
 	- [Awara](http://t.me/misakamaterialyou/199) **`Full` `Multi`**
 	- [Burning Series](https://github.com/DATL4G/Burning-Series) **`MD`**
 - **Online Videos Services**
-	- [Bili You](https://github.com/lucinhu/bili_you) **`Full`**
+
 	- [NoFasel](https://github.com/N0-0NE-Dev/NoFasel) **`MD-` `Monet`**
 	- [DangoPlayer](https://github.com/brunochanrio/DangoPlayer) **`MD` `Multi`**
 	- [Findroid](https://github.com/jarnedemeulemeester/findroid) **`Full`**
@@ -904,6 +909,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
    	- [Treble Info](https://gitlab.com/TrebleInfo/TrebleInfo) **`Full`**
    	- [CPU Monitor](https://play.google.com/store/apps/details?id=com.paget96.cpumonitor) **`Full`**
    	- [Athena](https://github.com/SebaUbuntu/Athena) **`Full`**
+   	- [Geekbench 6](https://play.google.com/store/apps/details?id=com.primatelabs.geekbench6) **`MD`**
 - **App Manager**
    	- [Exodus](https://github.com/Exodus-Privacy/exodus-android-app) **`MD`**
    	- [App Manager](https://github.com/MuntashirAkon/AppManager) **`Full`**
@@ -1118,7 +1124,8 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
    	- [Warpinator](https://github.com/slowscript/warpinator-android) **`MD-` `Monet`**    
    	- [Arc](https://play.google.com/store/apps/details?id=com.quadren.arc) **`Full`**    
    	- [LocalSend](https://github.com/localsend/localsend) **`Full` `Multi`**       
-   	- [Photon](https://github.com/abhi16180/photon) **`MD-`**    
+   	- [Photon](https://github.com/abhi16180/photon) **`MD-`**
+   	- [Fei](https://github.com/storytellerF/Fei) **`Full`** 
 - **Connecting Tool**
    	- [FnSync](https://www.coolapk.com/apk/holmium.fnsync.ngp) **`Full`**
    	- [KDE Connect](https://invent.kde.org/network/kdeconnect-android) **`Full` `Multi`**
