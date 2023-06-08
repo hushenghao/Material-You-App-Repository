@@ -130,6 +130,7 @@ Material Design 3伴随着Android 12而来。它的诞生，彻底改变了人�
 	- **YouTube Music第三方**
 	- **Spotify第三方**
 	- **网易云音乐第三方**
+	- **Bilibili第三方**
 	- **流式媒体服务器**
 	- **番剧**
 	- **在线视频播放**
@@ -280,9 +281,6 @@ Material Design 3伴随着Android 12而来。它的诞生，彻底改变了人�
 - [雹](https://github.com/aistra0528/Hail) **`Full` `Multi`**
 ## 🆕最近上新
 少女祈祷中…
-- [Life Chest](https://github.com/theskyblockman/life-chest) **`Full`**
-- [Kafka](https://play.google.com/store/apps/details?id=com.kafka.user) **`Full` `Multi`**
-- [BeauTyXT](https://github.com/soupslurpr/BeauTyXT) **`Full`**
 - [Tap Counter](https://github.com/DDR13GIT/TapCounter) **`TODO`**
 - [Budget Management](https://github.com/kabirnayeem99/budget_management_syarah) **`TODO`**
 - [Markdown Editor](https://play.google.com/store/apps/details?id=com.adeeteya.markdown_editor) **`MD`**
@@ -295,6 +293,10 @@ Material Design 3伴随着Android 12而来。它的诞生，彻底改变了人�
 - **`NEW`** [HiShoot2i](https://t.me/hishoot2imaterial) **`Full`**
 - **`NEW`** [自言自语](https://www.coolapk.com/apk/com.chiibeii.ZiYanZiYu) **`Full`**
 - **`NEW`** [工具大师](https://dmla.lanzouo.com/b05pbb76b) **`MD`**
+- **`NEW`** [Geekbench 6](https://play.google.com/store/apps/details?id=com.primatelabs.geekbench6) **`MD`**
+- **`NEW`** [薜](https://github.com/storytellerF/bi) **`Full` `Multi`**
+- **`NEW`** [榧](https://github.com/storytellerF/Fei) **`Full`**
+- **`NEW`** [Bilimiao](https://github.com/10miaomiao/bilimiao2) **`Monet` `Multi`**
 ## 📱应用列表
 **点击标题即可回到目录XD**
 ### 🦖[谷歌应用](#目录)
@@ -464,6 +466,10 @@ Material Design 3伴随着Android 12而来。它的诞生，彻底改变了人�
 	- [Spotube](https://github.com/KRTirtho/spotube) **`MD`**
 - **网易云音乐第三方**
 	- [Music You](https://github.com/GuihongWang/MusicYou) **`Full` `Multi`**
+- **Bilibili第三方**
+	- [Bili You](https://github.com/lucinhu/bili_you) **`Full`**
+	- [Bilimiao](https://github.com/10miaomiao/bilimiao2) **`Monet` `Multi`**
+	- [薜](https://github.com/storytellerF/bi) **`Full` `Multi`**
 - **流式媒体服务器**
 	- [SubTune](https://github.com/TaylorKunZhang/SubTune) **`MD`**
 	- [Ultrasonic](https://gitlab.com/ultrasonic/ultrasonic) **`Full`**
@@ -478,7 +484,6 @@ Material Design 3伴随着Android 12而来。它的诞生，彻底改变了人�
  	- [纯纯看番](https://easybangumi.org/zh/) **`Full` `Multi`**
 	- [Awara](http://t.me/misakamaterialyou/199) **`Full` `Multi`**
 - **在线视频播放**
-	- [Bili You](https://github.com/lucinhu/bili_you) **`Full`**
 	- [NoFasel](https://github.com/N0-0NE-Dev/NoFasel) **`MD-` `Monet`**
 	- [DangoPlayer](https://github.com/brunochanrio/DangoPlayer) **`MD` `Multi`**
 	- [Burning Series](https://github.com/DATL4G/Burning-Series) **`MD`**
@@ -946,6 +951,7 @@ Material Design 3伴随着Android 12而来。它的诞生，彻底改变了人�
    	- [Treble信息](https://gitlab.com/TrebleInfo/TrebleInfo) **`Full`**
    	- [CPU Monitor](https://play.google.com/store/apps/details?id=com.paget96.cpumonitor) **`Full`**
    	- [Athena](https://github.com/SebaUbuntu/Athena) **`Full`**
+   	- [Geekbench 6](https://play.google.com/store/apps/details?id=com.primatelabs.geekbench6) **`MD`**
 - **应用管理**
    	- [Exodus](https://github.com/Exodus-Privacy/exodus-android-app) **`MD`**
    	- [App Manager](https://github.com/MuntashirAkon/AppManager) **`Full`**
@@ -1160,7 +1166,8 @@ Material Design 3伴随着Android 12而来。它的诞生，彻底改变了人�
    	- [Warpinator](https://github.com/slowscript/warpinator-android) **`MD-` `Monet`**    
    	- [Arc](https://play.google.com/store/apps/details?id=com.quadren.arc) **`Full`**       
    	- [LocalSend](https://github.com/localsend/localsend) **`Full` `Multi`**       
-   	- [Photon](https://github.com/abhi16180/photon) **`MD-`**    
+   	- [Photon](https://github.com/abhi16180/photon) **`MD-`** 
+   	- [榧](https://github.com/storytellerF/Fei) **`Full`** 
 - **设备互联**
    	- [FnSync](https://www.coolapk.com/apk/holmium.fnsync.ngp) **`Full`** 
    	- [Octi](https://github.com/d4rken-org/octi) **`MD-` `Monet`**
