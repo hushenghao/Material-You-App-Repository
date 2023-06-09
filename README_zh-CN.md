@@ -291,7 +291,7 @@ Material Design 3伴随着Android 12而来。它的诞生，彻底改变了人�
 - **`NEW`** [Kalculator](https://github.com/re-ovo/Kalculator) **`TODO`**
 - **`NEW`** [Tension](https://github.com/re-ovo/Tension) **`TODO`**
 - **`NEW`** [Apk Extractor](https://play.google.com/store/apps/details?id=com.ytheekshana.apkextractor) **`Full`**
-- **`NEW`** [点击助手](https://wwxt.lanzout.com/b0dn18zwd) **`Full`**
+- **`NEW`** [点击助手](https://wwxt.lanzout.com/b0dn18zwd) (密码：7vm2) **`Full`**
 - **`NEW`** [Music Live Wallpaper](https://play.google.com/store/apps/details?id=com.lstapps.musiclivewallpaper) **`MD`**
 - **`NEW`** [Music Widgets for Car Devices](https://play.google.com/store/apps/details?id=com.lstapps.musicwidgetauto) **`MD`**
 - **`NEW`** [Daily Quotes Widget And Status](https://play.google.com/store/apps/details?id=com.lstapps.dailymotivationalquotewidget) **`MD`**
@@ -1202,7 +1202,7 @@ Material Design 3伴随着Android 12而来。它的诞生，彻底改变了人�
    	- [自动任务](https://www.coolapk.com/apk/top.xjunz.tasker) **`MD`**    
    	- [Smart AutoClicker](https://github.com/Nain57/Smart-AutoClicker) **`Full`**    
    	- [Tasker](https://play.google.com/store/apps/details?id=net.dinglisch.android.taskerm) **`Monet`**
-   	- [点击助手](https://wwxt.lanzout.com/b0dn18zwd) **`Full`**  
+   	- [点击助手](https://wwxt.lanzout.com/b0dn18zwd) (密码：7vm2) **`Full`**  
 - **搜索**
    	- [Gugal](https://gitlab.com/narektor/gugal) **`Full`**    
    	- [Pixel Search](https://play.google.com/store/apps/details?id=rk.android.app.pixelsearch) **`Full`**
