@@ -244,7 +244,7 @@ However in fact, sometimes Material You refers to the application which (may onl
 - **`NEW`** [Kalculator](https://github.com/re-ovo/Kalculator) **`TODO`**
 - **`NEW`** [Tension](https://github.com/re-ovo/Tension) **`TODO`**
 - **`NEW`** [Apk Extractor](https://play.google.com/store/apps/details?id=com.ytheekshana.apkextractor) **`Full`**
-- **`NEW`** [Click Assistant](https://wwxt.lanzout.com/b0dn18zwd) **`Full`**
+- **`NEW`** [Click Assistant](https://wwxt.lanzout.com/b0dn18zwd) (Passwoed：7vm2) **`Full`**
 - **`NEW`** [Music Live Wallpaper](https://play.google.com/store/apps/details?id=com.lstapps.musiclivewallpaper) **`MD`**
 - **`NEW`** [Music Widgets for Car Devices](https://play.google.com/store/apps/details?id=com.lstapps.musicwidgetauto) **`MD`**
 - **`NEW`** [Daily Quotes Widget And Status](https://play.google.com/store/apps/details?id=com.lstapps.dailymotivationalquotewidget) **`MD`**
@@ -1161,7 +1161,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
    	- [Auto Tasker](https://www.coolapk.com/apk/top.xjunz.tasker) **`MD`**    
    	- [Smart AutoClicker](https://github.com/Nain57/Smart-AutoClicker) **`Full`**    
    	- [Tasker](https://play.google.com/store/apps/details?id=net.dinglisch.android.taskerm) **`Monet`**
-   	- [Click Assistant](https://wwxt.lanzout.com/b0dn18zwd) **`Full`**
+   	- [Click Assistant](https://wwxt.lanzout.com/b0dn18zwd) (Passwoed：7vm2) **`Full`**
 - **Searching Tool**    
    	- [Gugal](https://gitlab.com/narektor/gugal) **`Full`**    
    	- [Pixel Search](https://play.google.com/store/apps/details?id=rk.android.app.pixelsearch) **`Full`**
