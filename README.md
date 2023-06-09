@@ -234,21 +234,21 @@ However in fact, sometimes Material You refers to the application which (may onl
 - [InstallerX](https://github.com/iamr0s/InstallerX) **`Full` `Multi`**
 - [Hail](https://github.com/aistra0528/Hail) **`Full` `Multi`**
 ## 🆕Newly Added Apps
-- [Markdown Editor](https://play.google.com/store/apps/details?id=com.adeeteya.markdown_editor) **`MD`**
-- [Budget Management](https://github.com/kabirnayeem99/budget_management_syarah) **`TODO`**
-- [Tap Counter](https://github.com/DDR13GIT/TapCounter) **`TODO`**
-- [BeauTyXT](https://github.com/soupslurpr/BeauTyXT) **`Full`**
-- [Tunedetective](https://github.com/n000tavailable/tunedetective) **`Full`**
-- [TimePlanner](https://github.com/v1tzor/TimePlanner) **`MD`**
-- [Giga Icon](https://play.google.com/store/apps/details?id=it.mirko.gigaicon) **`Full`**
-- **`NEW`** [TTS DictEditor](https://github.com/jing332/TtsDictEditor) **`MD`**
-- **`NEW`** [HiShoot2i](https://t.me/hishoot2imaterial) **`Full`**
-- **`NEW`** [Soliloquize](https://www.coolapk.com/apk/com.chiibeii.ZiYanZiYu) **`Full`**
-- **`NEW`** [Tool Master](https://dmla.lanzouo.com/b05pbb76b) **`MD`**
-- **`NEW`** [Geekbench 6](https://play.google.com/store/apps/details?id=com.primatelabs.geekbench6) **`MD`**
-- **`NEW`** [bi](https://github.com/storytellerF/bi) **`Full` `Multi`**
-- **`NEW`** [Fei](https://github.com/storytellerF/Fei) **`Full`**
-- **`NEW`** [Bilimiao](https://github.com/10miaomiao/bilimiao2) **`Monet` `Multi`**
+- [Tool Master](https://dmla.lanzouo.com/b05pbb76b) **`MD`**
+- [Geekbench 6](https://play.google.com/store/apps/details?id=com.primatelabs.geekbench6) **`MD`**
+- [bi](https://github.com/storytellerF/bi) **`Full` `Multi`**
+- [Fei](https://github.com/storytellerF/Fei) **`Full`**
+- [Bilimiao](https://github.com/10miaomiao/bilimiao2) **`Monet` `Multi`**
+- **`NEW`** [xland](https://github.com/re-ovo/xland) **`TODO`**
+- **`NEW`** [RainMusic](https://github.com/re-ovo/RainMusic) **`TODO`**
+- **`NEW`** [Kalculator](https://github.com/re-ovo/Kalculator) **`TODO`**
+- **`NEW`** [Tension](https://github.com/re-ovo/Tension) **`TODO`**
+- **`NEW`** [Apk Extractor](https://play.google.com/store/apps/details?id=com.ytheekshana.apkextractor) **`Full`**
+- **`NEW`** [Click Assistant](https://wwxt.lanzout.com/b0dn18zwd) **`Full`**
+- **`NEW`** [Music Live Wallpaper](https://play.google.com/store/apps/details?id=com.lstapps.musiclivewallpaper) **`MD`**
+- **`NEW`** [Music Widgets for Car Devices](https://play.google.com/store/apps/details?id=com.lstapps.musicwidgetauto) **`MD`**
+- **`NEW`** [Daily Quotes Widget And Status](https://play.google.com/store/apps/details?id=com.lstapps.dailymotivationalquotewidget) **`MD`**
+- **`NEW`** [Taskito](https://t.me/taskito_beta) **`Full` `💴`**
 ## 📱Applist
 **Now you could click the title to return to the applist menu!**
 ### 🦖[Google Apps](#applist-menu)
@@ -292,6 +292,7 @@ As the father of Material You, Google is changing its applications to Material D
 - [Google Drive](https://play.google.com/store/apps/details?id=com.google.android.apps.docs) **`MD-` `Monet` `Multi`**
 - [Google Pixel Buds](https://play.google.com/store/apps/details?id=com.google.android.apps.wearables.maestro.companion) **`MD-` `Monet`**
 - [Google Pixel Watch](https://play.google.com/store/apps/details?id=com.google.android.apps.wear.companion) **`MD-` `Monet`**
+- [Google Play Console](https://play.google.com/store/apps/details?id=com.google.android.apps.playconsole) **`Full`**
 - [Reading Mode](https://play.google.com/store/apps/details?id=com.google.android.accessibility.reader) **`MD-` `Monet`**
 - [Voice Access](https://play.google.com/store/apps/details?id=com.google.android.apps.accessibility.voiceaccess) **`MD-` `Monet`**
 - [Switch Access](https://play.google.com/store/apps/details?id=com.google.android.accessibility.switchaccess) **`Full`**
@@ -390,6 +391,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
 	- [FogIsland](https://github.com/123Duo3/XDNMB) **`TODO`**
 	- [Stack for Stack Overflow](https://play.google.com/store/apps/details?id=me.tylerbwong.stack) **`Full`**
 	- [HACG](https://github.com/shizheng233/HACG) **`Full`**
+	- [xland](https://github.com/re-ovo/xland) **`TODO`**
 - **Mail**    
    	- [Spark Mail](https://play.google.com/store/apps/details?id=com.readdle.spark) **`Monet`**    
    	- [Informaniak KMail](https://github.com/Infomaniak/android-kMail) **`Full`**    
@@ -406,7 +408,6 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
 ---
 ### [🎵Media](#applist-menu)
 - **Youtube Clients**
-	- [InnerTune](https://github.com/z-huang/InnerTune) **`MD-` `Monet` `Multi`**
 	- [LibreTube](https://github.com/libre-tube/LibreTube) **`Full`**
 	- [Revanced Extended](https://github.com/revanced/revanced-manager) **`Full`**
 	- [Hyperion](https://github.com/zt64/Hyperion) **`Full` `Multi`**
@@ -416,11 +417,13 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
 - **Youtube Music Clients**
 	- [ViMusic](https://github.com/vfsfitvnm/ViMusic) **`MD` `Multi`**
 	- [Vibe Music](https://github.com/sheikhhaziq/vibemusic) **`Full`**
+	- [InnerTune](https://github.com/z-huang/InnerTune) **`MD-` `Monet` `Multi`**
 - **Spotify Clients** 
 	- [Jetispot](https://github.com/iTaysonLab/jetispot) **`Full`**
 	- [Spotube](https://github.com/KRTirtho/spotube) **`MD`**
 - **Netease Cloud Music Clients** 
 	- [Music You](https://github.com/GuihongWang/MusicYou) **`Full` `Multi`**
+	- [RainMusic](https://github.com/re-ovo/RainMusic) **`TODO`**
 - **Bilibili Clients**
 	- [Bili You](https://github.com/lucinhu/bili_you) **`Full`**
 	- [Bilimiao](https://github.com/10miaomiao/bilimiao2) **`Monet` `Multi`**
@@ -440,7 +443,6 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
 	- [Awara](http://t.me/misakamaterialyou/199) **`Full` `Multi`**
 	- [Burning Series](https://github.com/DATL4G/Burning-Series) **`MD`**
 - **Online Videos Services**
-
 	- [NoFasel](https://github.com/N0-0NE-Dev/NoFasel) **`MD-` `Monet`**
 	- [DangoPlayer](https://github.com/brunochanrio/DangoPlayer) **`MD` `Multi`**
 	- [Findroid](https://github.com/jarnedemeulemeester/findroid) **`Full`**
@@ -471,7 +473,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
 	- [Pure Music](https://github.com/pure-music/PureMusic) **`Full` `Multi`**
 	- [Vanilla Music](https://play.google.com/store/apps/details?id=com.kyant.vanilla) **`Full`**
 - **Podcasts**
-	- [Moon FM](https://play.google.com/store/apps/details?id=fm.moon.app) **`Monet`**
+	- [Moon FM](https://play.google.com/store/apps/details?id=fm.moon.app) **`Monet` `Multi`**
 	- [FocusPodcast](https://play.google.com/store/apps/details?id=allen.town.focus.podcast) **`Full` `Multi`**
 	- [AntennaPod](https://github.com/AntennaPod/AntennaPod) **`MD-` `Monet`**
 	- [URL Radio](https://github.com/jamal2362/URL-Radio) **`Full`**
@@ -535,6 +537,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
 	- [Engross](https://play.google.com/store/apps/details?id=com.engross) **`MD-`**
 	- [Kubus Tasks](https://play.google.com/store/apps/details?id=com.ms.tasks) **`MD-`**
 	- [TimePlanner](https://github.com/v1tzor/TimePlanner) **`MD`**
+	- [Taskito](https://t.me/taskito_beta) **`Full` `💴`**
 - **Lyrics Editor**
 	- [Lyricistant](https://github.com/wardellbagby/lyricistant) **`MD-` `Monet` `Multi`**
 	- [Sinhala Lyrics](https://github.com/SuhasDissa/Sinhala-Lyrics-App)  **`Full`**
@@ -616,6 +619,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
 	- [Every Daily](https://pann.lanhuang.top/down.php/a3bc25e7e539af77463acea4411c26a1.apk) **`Full`**
 	- [MeRead](https://github.com/gvenusleo/meread) **`Full`**
 	- [Reader](https://github.com/msasikanth/reader) **`MD-`**
+	- [Tension](https://github.com/re-ovo/Tension) **`TODO`**
 - **Comics**
 	- [Tachiyomi](https://github.com/tachiyomiorg/tachiyomi) / [TachiyomiJ2K](https://github.com/Jays2Kings/tachiyomiJ2K) / [TachiyomiSY](https://github.com/Hero-Over/TachiyomiSY) **`Full` `Multi`**
 	- [Kotatsu](https://github.com/KotatsuApp/Kotatsu) **`Full` `Multi`**
@@ -811,6 +815,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
    	- [EveryNASA](https://play.google.com/store/apps/details?id=ru.murzify.everynasa) **`MD`**
    	- [Stock Wallpapers](https://play.google.com/store/apps/details?id=com.phonewalls.stockwallpapers) **`Full`**
    	- [Wallcanic Walls](https://play.google.com/store/apps/details?id=com.paradox.wallcanic) **`Full`**
+   	- [Music Live Wallpaper](https://play.google.com/store/apps/details?id=com.lstapps.musiclivewallpaper) **`MD`**
 - **Icon Pack** 
    	- [Liquor](https://gaopengk.github.io/2022/08/26/%E6%9B%B4%E6%96%B0-Liquor-%E5%9B%BE%E6%A0%87/) **`Full`**
    	- [LawnIcons](https://www.apkmirror.com/apk/lawnchair/lawnicons/lawnicons-2-0-0-release/lawnicons-2-0-0-android-apk-download/) **`Full`**
@@ -857,6 +862,8 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
    	- [Android12 Weather Widget](https://play.google.com/store/apps/details?id=twelve.weather.mibrahim) **`MD-` `Monet`**
    	- [Touch Find](https://play.google.com/store/apps/details?id=com.davesla.easyfind) **`Full`**
    	- [Flip Clock](https://play.google.com/store/apps/details?id=art.widgeet.android.clock.flip) **`Full`**
+   	- [Daily Quotes Widget And Status](https://play.google.com/store/apps/details?id=com.lstapps.dailymotivationalquotewidget) **`MD`**
+   	- [Music Widgets for Car Devices](https://play.google.com/store/apps/details?id=com.lstapps.musicwidgetauto) **`MD`**
 - **Dynamic Island**    
    	- [MaterialYou-Dynamic-Island](https://github.com/Angel-Studio/MaterialYou-Dynamic-Island) **`Full`**    
    	- [Pixel Island](https://drive.google.com/drive/folders/1j1eWY73Zuq43kYHF6Qdjton8LZ02pA1C) **`Full`**    
@@ -919,6 +926,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
    	- [System Tools Android](https://play.google.com/store/apps/details?id=com.redhome.sta) **`MD-`**
    	- [AppDash](https://play.google.com/store/apps/details?id=flar2.appdashboard) **`Full`**
    	- [Ml Manager](https://play.google.com/store/apps/details?id=com.javiersantos.mlmanager) **`MD-`**
+   	- [Apk Extractor](https://play.google.com/store/apps/details?id=com.ytheekshana.apkextractor) **`Full`**
 - **Freezing Tool**
    	- [Hail](https://github.com/aistra0528/Hail) **`Full` `Multi`**
    	- [FreezeYou](https://github.com/FreezeYou/FreezeYou) **`MD-` `Monet`**
@@ -1064,6 +1072,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
    	- [Cart Calculator](https://github.com/D4rK7355608/com.d4rk.cartcalculator) **`Full`**
    	- [Calculator](https://play.google.com/store/apps/details?id=com.redmerah.calculator) **`MD`**
    	- [zCalc](https://github.com/ziadOUA/zCalc) **`MD-` `Monet`**
+   	- [Kalculator](https://github.com/re-ovo/Kalculator) **`TODO`**
 - **Translator**    
    	- [Translate You](https://github.com/Bnyro/TranslateYou) **`Full`**    
    	- [FunnyTranslation](https://github.com/FunnySaltyFish/FunnyTranslation) **`Full` `Multi`**    
@@ -1151,7 +1160,8 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
    	- [TapTap](https://github.com/KieronQuinn/TapTap) **`Full`**    
    	- [Auto Tasker](https://www.coolapk.com/apk/top.xjunz.tasker) **`MD`**    
    	- [Smart AutoClicker](https://github.com/Nain57/Smart-AutoClicker) **`Full`**    
-   	- [Tasker](https://play.google.com/store/apps/details?id=net.dinglisch.android.taskerm) **`Monet`**    
+   	- [Tasker](https://play.google.com/store/apps/details?id=net.dinglisch.android.taskerm) **`Monet`**
+   	- [Click Assistant](https://wwxt.lanzout.com/b0dn18zwd) **`Full`**
 - **Searching Tool**    
    	- [Gugal](https://gitlab.com/narektor/gugal) **`Full`**    
    	- [Pixel Search](https://play.google.com/store/apps/details?id=rk.android.app.pixelsearch) **`Full`**
