@@ -234,7 +234,6 @@ However in fact, sometimes Material You refers to the application which (may onl
 - [InstallerX](https://github.com/iamr0s/InstallerX) **`Full` `Multi`**
 - [Hail](https://github.com/aistra0528/Hail) **`Full` `Multi`**
 ## 🆕Newly Added Apps
-- [Tool Master](https://dmla.lanzouo.com/b05pbb76b) **`MD`**
 - [Geekbench 6](https://play.google.com/store/apps/details?id=com.primatelabs.geekbench6) **`MD`**
 - [bi](https://github.com/storytellerF/bi) **`Full` `Multi`**
 - [Fei](https://github.com/storytellerF/Fei) **`Full`**
@@ -249,6 +248,7 @@ However in fact, sometimes Material You refers to the application which (may onl
 - **`NEW`** [Music Widgets for Car Devices](https://play.google.com/store/apps/details?id=com.lstapps.musicwidgetauto) **`MD`**
 - **`NEW`** [Daily Quotes Widget And Status](https://play.google.com/store/apps/details?id=com.lstapps.dailymotivationalquotewidget) **`MD`**
 - **`NEW`** [Taskito](https://t.me/taskito_beta) **`Full` `💴`**
+- **`NEW`** [Global News](https://github.com/v1tzor/GlobalNewsApp) **`MD`**
 ## 📱Applist
 **Now you could click the title to return to the applist menu!**
 ### 🦖[Google Apps](#applist-menu)
@@ -620,6 +620,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
 	- [MeRead](https://github.com/gvenusleo/meread) **`Full`**
 	- [Reader](https://github.com/msasikanth/reader) **`MD-`**
 	- [Tension](https://github.com/re-ovo/Tension) **`TODO`**
+	- [Global News](https://github.com/v1tzor/GlobalNewsApp) **`MD`**
 - **Comics**
 	- [Tachiyomi](https://github.com/tachiyomiorg/tachiyomi) / [TachiyomiJ2K](https://github.com/Jays2Kings/tachiyomiJ2K) / [TachiyomiSY](https://github.com/Hero-Over/TachiyomiSY) **`Full` `Multi`**
 	- [Kotatsu](https://github.com/KotatsuApp/Kotatsu) **`Full` `Multi`**
