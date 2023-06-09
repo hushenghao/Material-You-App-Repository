@@ -616,7 +616,7 @@ Material Design 3伴随着Android 12而来。它的诞生，彻底改变了人�
 - **图片编辑**
 	- [Photo Editor](https://t.me/anubis_recommended/139) **`Monet`** **`MOD`**
 	- [ExifEraser](https://github.com/Tommy-Geenexus/exif-eraser) **`Full`**
-	- [Image Resizer](https://github.com/T8RIN/ImageResizer) **`Full` `Multi`**
+	- [Image Toolbox](https://github.com/T8RIN/ImageToolbox) **`Full` `Multi`**
 	- [Image Compressor](https://play.google.com/store/apps/details?id=aculix.bulk.image.compressor) **`Full`**
 	- [Photo Deleter](https://play.google.com/store/apps/details?id=com.olcay.photodeleter) **`MD-` `Multi`**
 	- [简单水印](https://github.com/rosuH/EasyWatermark) **`Full`**
