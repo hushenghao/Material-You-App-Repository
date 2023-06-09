@@ -281,7 +281,6 @@ Material Design 3伴随着Android 12而来。它的诞生，彻底改变了人�
 - [雹](https://github.com/aistra0528/Hail) **`Full` `Multi`**
 ## 🆕最近上新
 少女祈祷中…
-- [工具大师](https://dmla.lanzouo.com/b05pbb76b) **`MD`**
 - [Geekbench 6](https://play.google.com/store/apps/details?id=com.primatelabs.geekbench6) **`MD`**
 - [薜](https://github.com/storytellerF/bi) **`Full` `Multi`**
 - [榧](https://github.com/storytellerF/Fei) **`Full`**
@@ -296,6 +295,7 @@ Material Design 3伴随着Android 12而来。它的诞生，彻底改变了人�
 - **`NEW`** [Music Widgets for Car Devices](https://play.google.com/store/apps/details?id=com.lstapps.musicwidgetauto) **`MD`**
 - **`NEW`** [Daily Quotes Widget And Status](https://play.google.com/store/apps/details?id=com.lstapps.dailymotivationalquotewidget) **`MD`**
 - **`NEW`** [Taskito](https://t.me/taskito_beta) **`Full` `💴`**
+- **`NEW`** [Global News](https://github.com/v1tzor/GlobalNewsApp) **`MD`**
 ## 📱应用列表
 **点击标题即可回到目录XD**
 ### 🦖[谷歌应用](#目录)
@@ -664,6 +664,7 @@ Material Design 3伴随着Android 12而来。它的诞生，彻底改变了人�
 	- [MeRead](https://github.com/gvenusleo/meread) **`Full`**
 	- [Reader](https://github.com/msasikanth/reader) **`MD-`**
 	- [Tension](https://github.com/re-ovo/Tension) **`TODO`**
+	- [Global News](https://github.com/v1tzor/GlobalNewsApp) **`MD`**
 - **漫画**
 	- [Tachiyomi](https://github.com/tachiyomiorg/tachiyomi) / [TachiyomiJ2K](https://github.com/Jays2Kings/tachiyomiJ2K) / [TachiyomiSY](https://github.com/Hero-Over/TachiyomiSY) **`Full` `Multi`**
 	- [Kotatsu](https://github.com/KotatsuApp/Kotatsu) **`Full` `Multi`**
