@@ -234,21 +234,21 @@ However in fact, sometimes Material You refers to the application which (may onl
 - [InstallerX](https://github.com/iamr0s/InstallerX) **`Full` `Multi`**
 - [Hail](https://github.com/aistra0528/Hail) **`Full` `Multi`**
 ## 🆕Newly Added Apps
-- [Geekbench 6](https://play.google.com/store/apps/details?id=com.primatelabs.geekbench6) **`MD`**
-- [bi](https://github.com/storytellerF/bi) **`Full` `Multi`**
-- [Fei](https://github.com/storytellerF/Fei) **`Full`**
-- [Bilimiao](https://github.com/10miaomiao/bilimiao2) **`Monet` `Multi`**
-- **`NEW`** [xland](https://github.com/re-ovo/xland) **`TODO`**
-- **`NEW`** [RainMusic](https://github.com/re-ovo/RainMusic) **`TODO`**
-- **`NEW`** [Kalculator](https://github.com/re-ovo/Kalculator) **`TODO`**
-- **`NEW`** [Tension](https://github.com/re-ovo/Tension) **`TODO`**
-- **`NEW`** [Apk Extractor](https://play.google.com/store/apps/details?id=com.ytheekshana.apkextractor) **`Full`**
-- **`NEW`** [Click Assistant](https://wwxt.lanzout.com/b0dn18zwd) (Passwoed：7vm2) **`Full`**
-- **`NEW`** [Music Live Wallpaper](https://play.google.com/store/apps/details?id=com.lstapps.musiclivewallpaper) **`MD`**
-- **`NEW`** [Music Widgets for Car Devices](https://play.google.com/store/apps/details?id=com.lstapps.musicwidgetauto) **`MD`**
-- **`NEW`** [Daily Quotes Widget And Status](https://play.google.com/store/apps/details?id=com.lstapps.dailymotivationalquotewidget) **`MD`**
-- **`NEW`** [Taskito](https://t.me/taskito_beta) **`Full` `💴`**
-- **`NEW`** [Global News](https://github.com/v1tzor/GlobalNewsApp) **`MD`**
+- [RainMusic](https://github.com/re-ovo/RainMusic) **`TODO`**
+- [Kalculator](https://github.com/re-ovo/Kalculator) **`TODO`**
+- [Tension](https://github.com/re-ovo/Tension) **`TODO`**
+- [Apk Extractor](https://play.google.com/store/apps/details?id=com.ytheekshana.apkextractor) **`Full`**
+- [Click Assistant](https://wwxt.lanzout.com/b0dn18zwd) (Passwoed：7vm2) **`Full`**
+- [Music Live Wallpaper](https://play.google.com/store/apps/details?id=com.lstapps.musiclivewallpaper) **`MD`**
+- [Music Widgets for Car Devices](https://play.google.com/store/apps/details?id=com.lstapps.musicwidgetauto) **`MD`**
+- [Daily Quotes Widget And Status](https://play.google.com/store/apps/details?id=com.lstapps.dailymotivationalquotewidget) **`MD`**
+- [Taskito](https://t.me/taskito_beta) **`Full` `💴`**
+- [Global News](https://github.com/v1tzor/GlobalNewsApp) **`MD`**
+- **`NEW`** [WeatherYou](https://play.google.com/store/apps/details?id=com.rodrigmatrix.weatheryou) **`Full` `Multi`**
+- **`NEW`** [Cloud Bits](https://github.com/Saronik5883/Cloud-Bits) **`TODO`**
+- **`NEW`** [Mute Reminder](https://github.com/mueller-ma/MuteReminder) **`MD`**
+- **`NEW`** [KasPOS](https://play.google.com/store/apps/details?id=com.kaspos.app) **`MD-` `Monet`**
+- **`NEW`** [OneShot](https://github.com/ptrLx/OneShot) **`Full`**
 ## 📱Applist
 **Now you could click the title to return to the applist menu!**
 ### 🦖[Google Apps](#applist-menu)
@@ -564,6 +564,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
 	- [Aves](https://github.com/deckerst/aves) **`Monet`**
 	- [MiniGallery](https://github.com/kabirnayeem99/miniGallery) **`Full`**
 	- [Simple Gallery](https://github.com/SimpleMobileTools/Simple-Gallery) **`Full`**
+	- [OneShot](https://github.com/ptrLx/OneShot) **`Full`**
 - **Illustrations**
 	- [PixEz](https://github.com/Notsfsssf/pixez-flutter) **`Full`**
 	- [PixivYou](https://t.me/anubis_recommended/127) **`Full`** 
@@ -687,6 +688,8 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
 	- [Nothing Weather](https://t.me/waifupx_official/205) **`Full` `MOD`**
 	- [JustWeather](https://github.com/jjewuz/JustWeather) **`Full` `Multi`**
 	- [wX](https://gitlab.com/joshua.tee/wx) **`MD-`**
+	- [WeatherYou](https://play.google.com/store/apps/details?id=com.rodrigmatrix.weatheryou) **`Full` `Multi`**
+	- [Cloud Bits](https://github.com/Saronik5883/Cloud-Bits) **`TODO`**
 - **Maps & Navigation**
 	- [BTC Map](https://github.com/teambtcmap/btcmap-android) **`MD-`**
 	- [Tridenta](https://github.com/Stypox/tridenta) **`Full`**
@@ -703,6 +706,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
 	- [Grocy](https://github.com/patzly/grocy-android) **`Full` `Multi`**
 	- [Shopin](https://github.com/erdemklync/Shopin) **`MD`**
 	- [Kitchen Owl](https://github.com/TomBursch/kitchenowl) **`MD-`**
+	- [KasPOS](https://play.google.com/store/apps/details?id=com.kaspos.app) **`MD-` `Monet`**
 - **Food**
 	- [CTU Menza](https://github.com/Lastaapps/menza) **`Full` `Multi`**   
 	- [CookHelper](https://github.com/T8RIN/CookHelper) **`Full`**
@@ -1030,6 +1034,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
    	- [Language Selecter](https://github.com/VegaBobo/Language-Selector) **`Full`**
    	- [EdgeBlock](https://play.google.com/store/apps/details?id=flar2.edgeblock) **`Full`**
    	- [Accessibility Manager](https://www.coolapk.com/apk/com.accessibilitymanager) **`Monet`**
+   	- [Mute Reminder](https://github.com/mueller-ma/MuteReminder) **`MD`**
 ---
 ### [🧰Tools](#applist-menu)
 - **Downloader**
