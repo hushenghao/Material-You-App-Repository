@@ -234,11 +234,8 @@ However in fact, sometimes Material You refers to the application which (may onl
 - [InstallerX](https://github.com/iamr0s/InstallerX) **`Full` `Multi`**
 - [Hail](https://github.com/aistra0528/Hail) **`Full` `Multi`**
 ## 🆕Newly Added Apps
-- [RainMusic](https://github.com/re-ovo/RainMusic) **`TODO`**
-- [Kalculator](https://github.com/re-ovo/Kalculator) **`TODO`**
-- [Tension](https://github.com/re-ovo/Tension) **`TODO`**
 - [Apk Extractor](https://play.google.com/store/apps/details?id=com.ytheekshana.apkextractor) **`Full`**
-- [Click Assistant](https://wwxt.lanzout.com/b0dn18zwd) (Passwoed：7vm2) **`Full`**
+- [Click Assistant](https://wwxt.lanzout.com/b0dn18zwd) (Passwoed:7vm2) **`Full`**
 - [Music Live Wallpaper](https://play.google.com/store/apps/details?id=com.lstapps.musiclivewallpaper) **`MD`**
 - [Music Widgets for Car Devices](https://play.google.com/store/apps/details?id=com.lstapps.musicwidgetauto) **`MD`**
 - [Daily Quotes Widget And Status](https://play.google.com/store/apps/details?id=com.lstapps.dailymotivationalquotewidget) **`MD`**
@@ -249,6 +246,9 @@ However in fact, sometimes Material You refers to the application which (may onl
 - **`NEW`** [Mute Reminder](https://github.com/mueller-ma/MuteReminder) **`MD`**
 - **`NEW`** [KasPOS](https://play.google.com/store/apps/details?id=com.kaspos.app) **`MD-` `Monet`**
 - **`NEW`** [OneShot](https://github.com/ptrLx/OneShot) **`Full`**
+- **`NEW`** [Notewise](https://play.google.com/store/apps/details?id=com.yygg.note.app) **`MD`**
+- **`NEW`** [WaveSlider](https://github.com/galaxygoldfish/waveslider) **`Full`**
+- **`NEW`** [Math Calculator](https://github.com/v1tzor/MathCalculator) **`Full`**
 ## 📱Applist
 **Now you could click the title to return to the applist menu!**
 ### 🦖[Google Apps](#applist-menu)
@@ -507,6 +507,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
 	- [Justnotes](https://github.com/jjewuz/JustNotes) **`Full`**
 	- [BeauTyXT](https://github.com/soupslurpr/BeauTyXT) **`Full`**
 	- [Markdown Editor](https://play.google.com/store/apps/details?id=com.adeeteya.markdown_editor) **`MD`**
+	- [Notewise](https://play.google.com/store/apps/details?id=com.yygg.note.app) **`MD`**
 - **Journal**
 	- [Graphite](https://play.google.com/store/apps/details?id=com.syncodec.graphite) **`MD`**
 	- [Durian Journal](https://www.coolapk.com/apk/com.weimu.duriandiary) **`MD`**
@@ -631,7 +632,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
 	- [PicacgMaterial3](https://github.com/shizheng233/PicacgMaterial3) **`Full`**
 	- [EhViewer](https://github.com/Ehviewer-Overhauled/Ehviewer) **`Full`**
 	- [Hentoid](https://github.com/h6rd/Hentoid-Material-You) **`MD-` `Monet`**
-	- [CopyManga](https://github.com/shizheng233/PicacgMaterial3/stargazers) **`Full`**
+	- [CopyManga](https://github.com/shizheng233/CopyMangaJava) **`Full`**
 	- [CopyMangaX](https://github.com/CrowForKotlin/CopyMangaX) **`MD`**
 	- [NoyAcg](https://noy.asia/) **`MD-`**
 - **Audio Books**
@@ -1079,6 +1080,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
    	- [Calculator](https://play.google.com/store/apps/details?id=com.redmerah.calculator) **`MD`**
    	- [zCalc](https://github.com/ziadOUA/zCalc) **`MD-` `Monet`**
    	- [Kalculator](https://github.com/re-ovo/Kalculator) **`TODO`**
+   	- [Math Calculator](https://github.com/v1tzor/MathCalculator) **`Full`**
 - **Translator**    
    	- [Translate You](https://github.com/Bnyro/TranslateYou) **`Full`**    
    	- [FunnyTranslation](https://github.com/FunnySaltyFish/FunnyTranslation) **`Full` `Multi`**    
@@ -1221,7 +1223,8 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
    	- [Material Design 3 Android](https://play.google.com/store/apps/details?id=com.anafthdev.materialdesign3) **`Full`**    
    	- [Goldex](https://play.google.com/store/apps/details?id=com.goldex) **`Full`**
    	- [Compose Material Design 3](https://play.google.com/store/apps/details?id=com.anafthdev.md3compose) **`Full`**    
-   	- [Material 3](https://play.google.com/store/apps/details?id=com.boltuix.material3) **`MD`** **`Multi`**    
+   	- [Material 3](https://play.google.com/store/apps/details?id=com.boltuix.material3) **`MD`** **`Multi`**
+   	- [WaveSlider](https://github.com/galaxygoldfish/waveslider) **`Full`**
 - **Android Studio Tutorials**
    	- [Android Studio Tutorials: Kotlin](https://github.com/D4rK7355608/com.d4rk.androidtutorials) **`Full`**    
    	- [Android Studio Tutorials: Java](https://github.com/D4rK7355608/com.d4rk.androidtutorials.java) **`Full`**
