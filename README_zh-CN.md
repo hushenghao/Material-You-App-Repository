@@ -285,17 +285,22 @@ Material Design 3伴随着Android 12而来。它的诞生，彻底改变了人�
 - [薜](https://github.com/storytellerF/bi) **`Full` `Multi`**
 - [榧](https://github.com/storytellerF/Fei) **`Full`**
 - [Bilimiao](https://github.com/10miaomiao/bilimiao2) **`Monet` `Multi`**
-- **`NEW`** [xland](https://github.com/re-ovo/xland) **`TODO`**
-- **`NEW`** [RainMusic](https://github.com/re-ovo/RainMusic) **`TODO`**
-- **`NEW`** [Kalculator](https://github.com/re-ovo/Kalculator) **`TODO`**
-- **`NEW`** [Tension](https://github.com/re-ovo/Tension) **`TODO`**
-- **`NEW`** [Apk Extractor](https://play.google.com/store/apps/details?id=com.ytheekshana.apkextractor) **`Full`**
-- **`NEW`** [点击助手](https://wwxt.lanzout.com/b0dn18zwd) (密码：7vm2) **`Full`**
-- **`NEW`** [Music Live Wallpaper](https://play.google.com/store/apps/details?id=com.lstapps.musiclivewallpaper) **`MD`**
-- **`NEW`** [Music Widgets for Car Devices](https://play.google.com/store/apps/details?id=com.lstapps.musicwidgetauto) **`MD`**
-- **`NEW`** [Daily Quotes Widget And Status](https://play.google.com/store/apps/details?id=com.lstapps.dailymotivationalquotewidget) **`MD`**
-- **`NEW`** [Taskito](https://t.me/taskito_beta) **`Full` `💴`**
-- **`NEW`** [Global News](https://github.com/v1tzor/GlobalNewsApp) **`MD`**
+- [xland](https://github.com/re-ovo/xland) **`TODO`**
+- [RainMusic](https://github.com/re-ovo/RainMusic) **`TODO`**
+- [Kalculator](https://github.com/re-ovo/Kalculator) **`TODO`**
+- [Tension](https://github.com/re-ovo/Tension) **`TODO`**
+- [Apk Extractor](https://play.google.com/store/apps/details?id=com.ytheekshana.apkextractor) **`Full`**
+- [点击助手](https://wwxt.lanzout.com/b0dn18zwd) (密码：7vm2) **`Full`**
+- [Music Live Wallpaper](https://play.google.com/store/apps/details?id=com.lstapps.musiclivewallpaper) **`MD`**
+- [Music Widgets for Car Devices](https://play.google.com/store/apps/details?id=com.lstapps.musicwidgetauto) **`MD`**
+- [Daily Quotes Widget And Status](https://play.google.com/store/apps/details?id=com.lstapps.dailymotivationalquotewidget) **`MD`**
+- [Taskito](https://t.me/taskito_beta) **`Full` `💴`**
+- [Global News](https://github.com/v1tzor/GlobalNewsApp) **`MD`**
+- **`NEW`** [WeatherYou](https://play.google.com/store/apps/details?id=com.rodrigmatrix.weatheryou) **`Full` `Multi`**
+- **`NEW`** [Cloud Bits](https://github.com/Saronik5883/Cloud-Bits) **`TODO`**
+- **`NEW`** [静音提示器](https://github.com/mueller-ma/MuteReminder) **`MD`**
+- **`NEW`** [KasPOS](https://play.google.com/store/apps/details?id=com.kaspos.app) **`MD-` `Monet`**
+- **`NEW`** [OneShot](https://github.com/ptrLx/OneShot) **`Full`**
 ## 📱应用列表
 **点击标题即可回到目录XD**
 ### 🦖[谷歌应用](#目录)
@@ -608,6 +613,7 @@ Material Design 3伴随着Android 12而来。它的诞生，彻底改变了人�
 	- [Aves](https://github.com/deckerst/aves) **`Monet`**
 	- [MiniGallery](https://github.com/kabirnayeem99/miniGallery) **`Full`**
 	- [Simple Gallery](https://github.com/SimpleMobileTools/Simple-Gallery) **`Full`**
+	- [OneShot](https://github.com/ptrLx/OneShot) **`Full`**
 - **插画**
 	- [PixEz](https://github.com/Notsfsssf/pixez-flutter) **`Full`**
 	- [PixivYou](https://t.me/anubis_recommended/127) **`Full`** 
@@ -731,6 +737,8 @@ Material Design 3伴随着Android 12而来。它的诞生，彻底改变了人�
 	- [Nothing Weather](https://t.me/waifupx_official/205) **`Full` `MOD`**
 	- [JustWeather](https://github.com/jjewuz/JustWeather) **`Full` `Multi`**
 	- [wX](https://gitlab.com/joshua.tee/wx) **`MD-`**
+	- [Cloud Bits](https://github.com/Saronik5883/Cloud-Bits) **`TODO`**
+	- [WeatherYou](https://play.google.com/store/apps/details?id=com.rodrigmatrix.weatheryou) **`Full` `Multi`**
 - **地图导航**
 	- [BTC Map](https://github.com/teambtcmap/btcmap-android) **`MD-`**
 	- [Tridenta](https://github.com/Stypox/tridenta) **`Full`**
@@ -747,6 +755,7 @@ Material Design 3伴随着Android 12而来。它的诞生，彻底改变了人�
 	- [Grocy](https://github.com/patzly/grocy-android) **`Full` `Multi`**
 	- [Shopin](https://github.com/erdemklync/Shopin) **`MD`**
 	- [Kitchen Owl](https://github.com/TomBursch/kitchenowl) **`MD-`**
+	- [KasPOS](https://play.google.com/store/apps/details?id=com.kaspos.app) **`MD-` `Monet`**
 - **菜谱**
 	- [CTU Menza](https://github.com/Lastaapps/menza) **`Full` `Multi`**
  	- [CookHelper](https://github.com/T8RIN/CookHelper) **`Full`**
@@ -1071,6 +1080,7 @@ Material Design 3伴随着Android 12而来。它的诞生，彻底改变了人�
    	- [Language Selecter](https://github.com/VegaBobo/Language-Selector) **`Full`**
    	- [EdgeBlock](https://play.google.com/store/apps/details?id=flar2.edgeblock) **`Full`**
    	- [无障碍管理器](https://www.coolapk.com/apk/com.accessibilitymanager) **`Monet`**
+   	- [静音提示器](https://github.com/mueller-ma/MuteReminder) **`MD`**
 ---
 ## [🧰小工具](#目录)
 - **下载器**
