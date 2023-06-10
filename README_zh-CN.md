@@ -281,14 +281,6 @@ Material Design 3伴随着Android 12而来。它的诞生，彻底改变了人�
 - [雹](https://github.com/aistra0528/Hail) **`Full` `Multi`**
 ## 🆕最近上新
 少女祈祷中…
-- [Geekbench 6](https://play.google.com/store/apps/details?id=com.primatelabs.geekbench6) **`MD`**
-- [薜](https://github.com/storytellerF/bi) **`Full` `Multi`**
-- [榧](https://github.com/storytellerF/Fei) **`Full`**
-- [Bilimiao](https://github.com/10miaomiao/bilimiao2) **`Monet` `Multi`**
-- [xland](https://github.com/re-ovo/xland) **`TODO`**
-- [RainMusic](https://github.com/re-ovo/RainMusic) **`TODO`**
-- [Kalculator](https://github.com/re-ovo/Kalculator) **`TODO`**
-- [Tension](https://github.com/re-ovo/Tension) **`TODO`**
 - [Apk Extractor](https://play.google.com/store/apps/details?id=com.ytheekshana.apkextractor) **`Full`**
 - [点击助手](https://wwxt.lanzout.com/b0dn18zwd) (密码：7vm2) **`Full`**
 - [Music Live Wallpaper](https://play.google.com/store/apps/details?id=com.lstapps.musiclivewallpaper) **`MD`**
@@ -301,6 +293,9 @@ Material Design 3伴随着Android 12而来。它的诞生，彻底改变了人�
 - **`NEW`** [静音提示器](https://github.com/mueller-ma/MuteReminder) **`MD`**
 - **`NEW`** [KasPOS](https://play.google.com/store/apps/details?id=com.kaspos.app) **`MD-` `Monet`**
 - **`NEW`** [OneShot](https://github.com/ptrLx/OneShot) **`Full`**
+- **`NEW`** [Notewise](https://play.google.com/store/apps/details?id=com.yygg.note.app) **`MD`**
+- **`NEW`** [WaveSlider](https://github.com/galaxygoldfish/waveslider) **`Full`**
+- **`NEW`** [Math Calculator](https://github.com/v1tzor/MathCalculator) **`Full`**
 ## 📱应用列表
 **点击标题即可回到目录XD**
 ### 🦖[谷歌应用](#目录)
@@ -556,6 +551,7 @@ Material Design 3伴随着Android 12而来。它的诞生，彻底改变了人�
 	- [Justnotes](https://github.com/jjewuz/JustNotes) **`Full`**
 	- [BeauTyXT](https://github.com/soupslurpr/BeauTyXT) **`Full`**
 	- [Markdown Editor](https://play.google.com/store/apps/details?id=com.adeeteya.markdown_editor) **`MD`**
+	- [Notewise](https://play.google.com/store/apps/details?id=com.yygg.note.app) **`MD`**
 - **日记**
 	- [Graphite](https://play.google.com/store/apps/details?id=com.syncodec.graphite) **`MD`**
 	- [榴莲日记](https://www.coolapk.com/apk/com.weimu.duriandiary) **`MD`**
@@ -680,7 +676,7 @@ Material Design 3伴随着Android 12而来。它的诞生，彻底改变了人�
 	- [哔咔哔咔](https://github.com/shizheng233/PicacgMaterial3) **`Full`**
 	- [EhViewer](https://github.com/Ehviewer-Overhauled/Ehviewer) **`Full`**
 	- [Hentoid](https://github.com/h6rd/Hentoid-Material-You) **`MD-` `Monet`**
-	- [CopyManga](https://github.com/shizheng233/PicacgMaterial3/stargazers) **`Full`**
+	- [CopyManga](https://github.com/shizheng233/CopyMangaJava) **`Full`**
 	- [CopyMangaX](https://github.com/CrowForKotlin/CopyMangaX) **`MD`**
 	- [NoyAcg](https://noy.asia/) **`MD-`**
 - **有声书**
@@ -1125,6 +1121,7 @@ Material Design 3伴随着Android 12而来。它的诞生，彻底改变了人�
    	- [Calculator](https://play.google.com/store/apps/details?id=com.redmerah.calculator) **`MD`**
    	- [zCalc](https://github.com/ziadOUA/zCalc) **`MD-` `Monet`**
    	- [Kalculator](https://github.com/re-ovo/Kalculator) **`TODO`**
+   	- [Math Calculator](https://github.com/v1tzor/MathCalculator) **`Full`**
 - **翻译**
    	- [Translate You](https://github.com/Bnyro/TranslateYou) **`Full`**    
    	- [译站](https://github.com/FunnySaltyFish/FunnyTranslation) **`Full` `Multi`**
@@ -1142,7 +1139,7 @@ Material Design 3伴随着Android 12而来。它的诞生，彻底改变了人�
    	-  [Barcode Scanner](https://gitlab.com/Atharok/BarcodeScanner) **`Full` `Multi`**    
    	- [Barquode](https://play.google.com/store/apps/details?id=com.pranavpandey.matrix) **`Full` `Multi`**   
    	- [Codora](https://play.google.com/store/apps/details?id=com.kokoschka.michael.qrtools) **`Full` `Multi`**    
-   	- [~~Pixel Scanner~~](https://github.com/jaikeerthick/Pixel-Scanner) **`Full`**
+   	- [Pixel Scanner](https://github.com/jaikeerthick/Pixel-Scanner) **`TODO`**
    	- [MyQR](https://github.com/sankethsj/qr-code-generator) **`Full`**
    	- [ShowMeMore](https://play.google.com/store/apps/details?id=app.wakirox.freecensorship) **`Full`**
    	- [QScan](https://github.com/Henry-Hiles/QScan) **`Full`**
@@ -1267,7 +1264,8 @@ Material Design 3伴随着Android 12而来。它的诞生，彻底改变了人�
    	- [Material Design 3 Android](https://play.google.com/store/apps/details?id=com.anafthdev.materialdesign3) **`Full`**    
    	- [Goldex](https://play.google.com/store/apps/details?id=com.goldex) **`Full`**
    	- [Compose Material Design 3](https://play.google.com/store/apps/details?id=com.anafthdev.md3compose) **`Full`**    
-   	- [Material 3](https://play.google.com/store/apps/details?id=com.boltuix.material3) **`MD`** **`Multi`**  
+   	- [Material 3](https://play.google.com/store/apps/details?id=com.boltuix.material3) **`MD`** **`Multi`**
+   	- [WaveSlider](https://github.com/galaxygoldfish/waveslider) **`Full`**
 - **Android Studio教学**
    	- [Android Studio Tutorials: Kotlin](https://github.com/D4rK7355608/com.d4rk.androidtutorials) **`Full`**    
    	- [Android Studio Tutorials: Java](https://github.com/D4rK7355608/com.d4rk.androidtutorials.java) **`Full`**
