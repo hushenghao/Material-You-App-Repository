@@ -234,21 +234,21 @@ However in fact, sometimes Material You refers to the application which (may onl
 - [InstallerX](https://github.com/iamr0s/InstallerX) **`Full` `Multi`**
 - [Hail](https://github.com/aistra0528/Hail) **`Full` `Multi`**
 ## 🆕Newly Added Apps
-- [Apk Extractor](https://play.google.com/store/apps/details?id=com.ytheekshana.apkextractor) **`Full`**
-- [Click Assistant](https://wwxt.lanzout.com/b0dn18zwd) (Password:7vm2) **`Full`**
-- [Music Live Wallpaper](https://play.google.com/store/apps/details?id=com.lstapps.musiclivewallpaper) **`MD`**
-- [Music Widgets for Car Devices](https://play.google.com/store/apps/details?id=com.lstapps.musicwidgetauto) **`MD`**
-- [Daily Quotes Widget And Status](https://play.google.com/store/apps/details?id=com.lstapps.dailymotivationalquotewidget) **`MD`**
-- [Taskito](https://t.me/taskito_beta) **`Full` `💴`**
 - [Global News](https://github.com/v1tzor/GlobalNewsApp) **`MD`**
-- **`NEW`** [WeatherYou](https://play.google.com/store/apps/details?id=com.rodrigmatrix.weatheryou) **`Full` `Multi`**
-- **`NEW`** [Cloud Bits](https://github.com/Saronik5883/Cloud-Bits) **`TODO`**
-- **`NEW`** [Mute Reminder](https://github.com/mueller-ma/MuteReminder) **`MD`**
-- **`NEW`** [KasPOS](https://play.google.com/store/apps/details?id=com.kaspos.app) **`MD-` `Monet`**
-- **`NEW`** [OneShot](https://github.com/ptrLx/OneShot) **`Full`**
-- **`NEW`** [Notewise](https://play.google.com/store/apps/details?id=com.yygg.note.app) **`MD`**
-- **`NEW`** [WaveSlider](https://github.com/galaxygoldfish/waveslider) **`Full`**
-- **`NEW`** [Math Calculator](https://github.com/v1tzor/MathCalculator) **`Full`**
+- [WeatherYou](https://play.google.com/store/apps/details?id=com.rodrigmatrix.weatheryou) **`Full` `Multi`**
+- [Cloud Bits](https://github.com/Saronik5883/Cloud-Bits) **`TODO`**
+- [Mute Reminder](https://github.com/mueller-ma/MuteReminder) **`MD`**
+- [KasPOS](https://play.google.com/store/apps/details?id=com.kaspos.app) **`MD-` `Monet`**
+- [OneShot](https://github.com/ptrLx/OneShot) **`Full`**
+- [Notewise](https://play.google.com/store/apps/details?id=com.yygg.note.app) **`MD`**
+- [WaveSlider](https://github.com/galaxygoldfish/waveslider) **`Full`**
+- [Math Calculator](https://github.com/v1tzor/MathCalculator) **`Full`**
+- **`NEW`** [Baterai](https://play.google.com/store/apps/details?id=com.redmerah.baterai) **`MD`**
+- **`NEW`** [Tasks](https://play.google.com/store/apps/details?id=com.redmerah.tasks) **`MD`**
+- **`NEW`** [SavePic](https://play.google.com/store/apps/details?id=com.michaelflisar.privacyimageviewer) **`MD` `💴`**
+- **`NEW`** [XMind](https://play.google.com/store/apps/details?id=net.xmind.doughnut) **`MD-` `💴`**
+- **`NEW`** [Genie Anime](https://play.google.com/store/apps/details?id=com.vyroai.animeart) **`MD` `💴`**
+- **`NEW`** [Imagine](https://play.google.com/store/apps/details?id=com.vyroai.aiart) **`MD` `💴`**
 ## 📱Applist
 **Now you could click the title to return to the applist menu!**
 ### 🦖[Google Apps](#applist-menu)
@@ -539,6 +539,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
 	- [Kubus Tasks](https://play.google.com/store/apps/details?id=com.ms.tasks) **`MD-`**
 	- [TimePlanner](https://github.com/v1tzor/TimePlanner) **`Full`**
 	- [Taskito](https://t.me/taskito_beta) **`Full` `💴`**
+	- [Tasks](https://play.google.com/store/apps/details?id=com.redmerah.tasks) **`MD`**
 - **Lyrics Editor**
 	- [Lyricistant](https://github.com/wardellbagby/lyricistant) **`MD-` `Monet` `Multi`**
 	- [Sinhala Lyrics](https://github.com/SuhasDissa/Sinhala-Lyrics-App)  **`Full`**
@@ -552,6 +553,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
 	- [Project Management](https://play.google.com/store/apps/details?id=com.anafthdev.projectmanagement) **`Full`**
 	- [Putin Box](https://www.coolapk.com/apk/cards.putin.box) **`MD-`**
 	- [Hammer](https://github.com/Wavesonics/hammer-editor) **`MD`**
+	- [XMind](https://play.google.com/store/apps/details?id=net.xmind.doughnut) **`MD-` `💴`**
 ---
 ### [🖼️Picture](#applist-menu)
 - **Camera**
@@ -566,6 +568,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
 	- [MiniGallery](https://github.com/kabirnayeem99/miniGallery) **`Full`**
 	- [Simple Gallery](https://github.com/SimpleMobileTools/Simple-Gallery) **`Full`**
 	- [OneShot](https://github.com/ptrLx/OneShot) **`Full`**
+	- [SavePic](https://play.google.com/store/apps/details?id=com.michaelflisar.privacyimageviewer) **`MD` `💴`**
 - **Illustrations**
 	- [PixEz](https://github.com/Notsfsssf/pixez-flutter) **`Full`**
 	- [PixivYou](https://t.me/anubis_recommended/127) **`Full`** 
@@ -981,6 +984,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
    	- [Battery Charge Limiter](https://github.com/MuntashirAkon/BatteryChargeLimiter) **`MD-` `Monet`** 
    	- [Battery Guru](https://play.google.com/store/apps/details?id=com.paget96.batteryguru) **`Full`**
    	- [Batt](https://gitlab.com/narektor/batt) **`MD-` `FOSS`**
+   	- [Baterai](https://play.google.com/store/apps/details?id=com.redmerah.baterai) **`MD`**
 - **Screen Display**
    	- [Twilight](https://play.google.com/store/apps/details?id=com.urbandroid.lux) **`MD`**
    	- [Blue Light Filter](https://play.google.com/store/apps/details?id=com.paget96.bluelightfilter) **`Full`**
@@ -1164,6 +1168,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
    	- [NeoGPT](https://play.google.com/store/apps/details?id=com.lware.neogpt) **`MD`**
    	- [Echo](https://play.google.com/store/apps/details?id=com.niven.chat) **`MD`**
    	- [ChatGPT](https://github.com/thewolfprod/ChatGPT-Android) **`TODO`**
+   	- [Genie Anime](https://play.google.com/store/apps/details?id=com.vyroai.animeart) / [Imagine](https://play.google.com/store/apps/details?id=com.vyroai.aiart) **`MD` `💴`**
 - **Auto Clicker**    
    	- [TapTap](https://github.com/KieronQuinn/TapTap) **`Full`**    
    	- [Auto Tasker](https://www.coolapk.com/apk/top.xjunz.tasker) **`MD`**    
