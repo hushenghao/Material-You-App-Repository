@@ -281,21 +281,21 @@ Material Design 3伴随着Android 12而来。它的诞生，彻底改变了人�
 - [雹](https://github.com/aistra0528/Hail) **`Full` `Multi`**
 ## 🆕最近上新
 少女祈祷中…
-- [Apk Extractor](https://play.google.com/store/apps/details?id=com.ytheekshana.apkextractor) **`Full`**
-- [点击助手](https://wwxt.lanzout.com/b0dn18zwd) (密码：7vm2) **`Full`**
-- [Music Live Wallpaper](https://play.google.com/store/apps/details?id=com.lstapps.musiclivewallpaper) **`MD`**
-- [Music Widgets for Car Devices](https://play.google.com/store/apps/details?id=com.lstapps.musicwidgetauto) **`MD`**
-- [Daily Quotes Widget And Status](https://play.google.com/store/apps/details?id=com.lstapps.dailymotivationalquotewidget) **`MD`**
-- [Taskito](https://t.me/taskito_beta) **`Full` `💴`**
 - [Global News](https://github.com/v1tzor/GlobalNewsApp) **`MD`**
-- **`NEW`** [WeatherYou](https://play.google.com/store/apps/details?id=com.rodrigmatrix.weatheryou) **`Full` `Multi`**
-- **`NEW`** [Cloud Bits](https://github.com/Saronik5883/Cloud-Bits) **`TODO`**
-- **`NEW`** [静音提示器](https://github.com/mueller-ma/MuteReminder) **`MD`**
-- **`NEW`** [KasPOS](https://play.google.com/store/apps/details?id=com.kaspos.app) **`MD-` `Monet`**
-- **`NEW`** [OneShot](https://github.com/ptrLx/OneShot) **`Full`**
-- **`NEW`** [Notewise](https://play.google.com/store/apps/details?id=com.yygg.note.app) **`MD`**
-- **`NEW`** [WaveSlider](https://github.com/galaxygoldfish/waveslider) **`Full`**
-- **`NEW`** [Math Calculator](https://github.com/v1tzor/MathCalculator) **`Full`**
+- [WeatherYou](https://play.google.com/store/apps/details?id=com.rodrigmatrix.weatheryou) **`Full` `Multi`**
+- [Cloud Bits](https://github.com/Saronik5883/Cloud-Bits) **`TODO`**
+- [静音提示器](https://github.com/mueller-ma/MuteReminder) **`MD`**
+- [KasPOS](https://play.google.com/store/apps/details?id=com.kaspos.app) **`MD-` `Monet`**
+- [OneShot](https://github.com/ptrLx/OneShot) **`Full`**
+- [Notewise](https://play.google.com/store/apps/details?id=com.yygg.note.app) **`MD`**
+- [WaveSlider](https://github.com/galaxygoldfish/waveslider) **`Full`**
+- [Math Calculator](https://github.com/v1tzor/MathCalculator) **`Full`**
+- **`NEW`** [Baterai](https://play.google.com/store/apps/details?id=com.redmerah.baterai) **`MD`**
+- **`NEW`** [Tasks](https://play.google.com/store/apps/details?id=com.redmerah.tasks) **`MD`**
+- **`NEW`** [SavePic](https://play.google.com/store/apps/details?id=com.michaelflisar.privacyimageviewer) **`MD` `💴`**
+- **`NEW`** [XMind](https://play.google.com/store/apps/details?id=net.xmind.doughnut) **`MD-` `💴`**
+- **`NEW`** [Genie Anime](https://play.google.com/store/apps/details?id=com.vyroai.animeart) **`MD` `💴`**
+- **`NEW`** [Imagine](https://play.google.com/store/apps/details?id=com.vyroai.aiart) **`MD` `💴`**
 ## 📱应用列表
 **点击标题即可回到目录XD**
 ### 🦖[谷歌应用](#目录)
@@ -583,6 +583,7 @@ Material Design 3伴随着Android 12而来。它的诞生，彻底改变了人�
 	- [Kubus Tasks](https://play.google.com/store/apps/details?id=com.ms.tasks) **`MD-`**
 	- [TimePlanner](https://github.com/v1tzor/TimePlanner) **`Full`**
 	- [Taskito](https://t.me/taskito_beta) **`Full` `💴`**
+	- [Tasks](https://play.google.com/store/apps/details?id=com.redmerah.tasks) **`MD`**
 - **歌词编辑**
 	- [Lyricistant](https://github.com/wardellbagby/lyricistant) **`MD-` `Monet` `Multi`**
 	- [Sinhala Lyrics](https://github.com/SuhasDissa/Sinhala-Lyrics-App) **`Full`**
@@ -596,6 +597,7 @@ Material Design 3伴随着Android 12而来。它的诞生，彻底改变了人�
 	- [ilDoppiaggio](https://play.google.com/store/apps/details?id=app.wakirox.il_doppiaggio) **`MD-` `Monet`**
 	- [卡片盒子](https://www.coolapk.com/apk/cards.putin.box) **`MD-`**
 	- [Hammer](https://github.com/Wavesonics/hammer-editor) **`MD`**
+	- [XMind](https://play.google.com/store/apps/details?id=net.xmind.doughnut) **`MD-` `💴`**
 ---
 ## [🖼️图片摄像](#目录)
 - **相机**
@@ -610,6 +612,7 @@ Material Design 3伴随着Android 12而来。它的诞生，彻底改变了人�
 	- [MiniGallery](https://github.com/kabirnayeem99/miniGallery) **`Full`**
 	- [Simple Gallery](https://github.com/SimpleMobileTools/Simple-Gallery) **`Full`**
 	- [OneShot](https://github.com/ptrLx/OneShot) **`Full`**
+	- [SavePic](https://play.google.com/store/apps/details?id=com.michaelflisar.privacyimageviewer) **`MD` `💴`**
 - **插画**
 	- [PixEz](https://github.com/Notsfsssf/pixez-flutter) **`Full`**
 	- [PixivYou](https://t.me/anubis_recommended/127) **`Full`** 
@@ -1022,6 +1025,7 @@ Material Design 3伴随着Android 12而来。它的诞生，彻底改变了人�
    	- [Battery Charge Limiter](https://github.com/MuntashirAkon/BatteryChargeLimiter) **`MD-` `Monet`** 
    	- [Battery Guru](https://play.google.com/store/apps/details?id=com.paget96.batteryguru) **`Full`**
    	- [Batt](https://gitlab.com/narektor/batt) **`MD-` `FOSS`**
+   	- [Baterai](https://play.google.com/store/apps/details?id=com.redmerah.baterai) **`MD`**
 - **屏幕显示**
    	- [Twilight](https://play.google.com/store/apps/details?id=com.urbandroid.lux) **`MD`**
    	- [Blue Light Filter](https://play.google.com/store/apps/details?id=com.paget96.bluelightfilter) **`Full`**
@@ -1205,6 +1209,7 @@ Material Design 3伴随着Android 12而来。它的诞生，彻底改变了人�
    	- [NeoGPT](https://play.google.com/store/apps/details?id=com.lware.neogpt) **`MD`**
    	- [Echo](https://play.google.com/store/apps/details?id=com.niven.chat) **`MD`**
    	- [ChatGPT](https://github.com/thewolfprod/ChatGPT-Android) **`TODO`**
+   	- [Genie Anime](https://play.google.com/store/apps/details?id=com.vyroai.animeart) / [Imagine](https://play.google.com/store/apps/details?id=com.vyroai.aiart) **`MD` `💴`**
 - **自动任务**
    	- [TapTap](https://github.com/KieronQuinn/TapTap) **`Full`**    
    	- [自动任务](https://www.coolapk.com/apk/top.xjunz.tasker) **`MD`**    
