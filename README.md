@@ -537,7 +537,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
 	- [TimeTable](https://play.google.com/store/apps/details?id=app.smart.timetable) **`Full`**
 	- [Engross](https://play.google.com/store/apps/details?id=com.engross) **`MD-`**
 	- [Kubus Tasks](https://play.google.com/store/apps/details?id=com.ms.tasks) **`MD-`**
-	- [TimePlanner](https://github.com/v1tzor/TimePlanner) **`MD`**
+	- [TimePlanner](https://github.com/v1tzor/TimePlanner) **`Full`**
 	- [Taskito](https://t.me/taskito_beta) **`Full` `💴`**
 - **Lyrics Editor**
 	- [Lyricistant](https://github.com/wardellbagby/lyricistant) **`MD-` `Monet` `Multi`**
