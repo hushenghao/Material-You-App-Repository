@@ -581,7 +581,7 @@ Material Design 3伴随着Android 12而来。它的诞生，彻底改变了人�
 	- [TimeTable](https://play.google.com/store/apps/details?id=app.smart.timetable) **`Full`**
 	- [Engross](https://play.google.com/store/apps/details?id=com.engross) **`MD-`**
 	- [Kubus Tasks](https://play.google.com/store/apps/details?id=com.ms.tasks) **`MD-`**
-	- [TimePlanner](https://github.com/v1tzor/TimePlanner) **`MD`**
+	- [TimePlanner](https://github.com/v1tzor/TimePlanner) **`Full`**
 	- [Taskito](https://t.me/taskito_beta) **`Full` `💴`**
 - **歌词编辑**
 	- [Lyricistant](https://github.com/wardellbagby/lyricistant) **`MD-` `Monet` `Multi`**
