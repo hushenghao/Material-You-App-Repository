@@ -249,6 +249,8 @@ However in fact, sometimes Material You refers to the application which (may onl
 - **`NEW`** [XMind](https://play.google.com/store/apps/details?id=net.xmind.doughnut) **`MD-` `💴`**
 - **`NEW`** [Genie Anime](https://play.google.com/store/apps/details?id=com.vyroai.animeart) **`MD` `💴`**
 - **`NEW`** [Imagine](https://play.google.com/store/apps/details?id=com.vyroai.aiart) **`MD` `💴`**
+- **`NEW`** [Focus for Mastodon](https://play.google.com/store/apps/details?id=allen.town.focus.mastodon) **`Full` `💴`**
+- **`NEW`** [Password Manager](https://github.com/OffRange/PasswordManager) **`Full`**
 ## 📱Applist
 **Now you could click the title to return to the applist menu!**
 ### 🦖[Google Apps](#applist-menu)
@@ -384,6 +386,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
 	- [Jerboa for Lemmy](https://github.com/dessalines/jerboa) **`Full`**
 	- [Fedilab](https://codeberg.org/tom79/Fedilab) **`MD`**
 	- [Hejtter](https://github.com/mateusz-bak/hejtter) **`MD`**
+	- [Focus for Mastodon](https://play.google.com/store/apps/details?id=allen.town.focus.mastodon) **`Full` `💴`**
 - **BBS**
 	- [msea](https://github.com/eternaljust/msea-compose) **`Full`**
 	- [vvex](https://github.com/guozhigq/flutter_v2ex) **`Full` `Multi`**
@@ -393,7 +396,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
 	- [HACG](https://github.com/shizheng233/HACG) **`Full`**
 	- [xland](https://github.com/re-ovo/xland) **`TODO`**
 - **Mail**    
-   	- [Spark Mail](https://play.google.com/store/apps/details?id=com.readdle.spark) **`Monet`**    
+   	- [Spark Mail](https://play.google.com/store/apps/details?id=com.readdle.spark) **`Full`**    
    	- [Informaniak KMail](https://github.com/Infomaniak/android-kMail) **`Full`**    
    	- [Gotify](https://github.com/gotify/android) **`MD`**  
 - **Others**
@@ -1141,6 +1144,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
    	- [Wassword](https://github.com/polilluminato/wassword-flutter) **`MD`**    
    	- [Keyguard for Bitwarden](https://play.google.com/store/apps/details?id=com.artemchep.keyguard) **`Full` `Multi`**   
    	- [Simple Password](https://github.com/grigorevmp/Simple_Passwords_QuickPass) **`Full`**
+   	- [Password Manager](https://github.com/OffRange/PasswordManager) **`Full`**
 - **Sender**      
    	- [Warpinator](https://github.com/slowscript/warpinator-android) **`MD-` `Monet`**    
    	- [Arc](https://play.google.com/store/apps/details?id=com.quadren.arc) **`Full`**    
