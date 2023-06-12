@@ -1042,7 +1042,7 @@ Material Design 3伴随着Android 12而来。它的诞生，彻底改变了人�
    	- [Sayit](https://play.google.com/store/apps/details?id=com.urbandroid.sayit) **`Full`**
    	- [TTS词典编辑器](https://github.com/jing332/TtsDictEditor) **`MD`**
 - **系统清理**
-   	- [清浊](https://www.coolapk.com/apk/com.farplace.qingzhuo) **`MD-` `Monet`** 
+   	- [清浊](https://www.coolapk.com/apk/com.farplace.qingzhuo) **`MD-` `Monet` `Multi`** 
    	- [SD Maid SE](https://github.com/d4rken-org/sdmaid-se) **`Full`**     
    	- [Cleaner Plus](https://github.com/D4rK7355608/com.d4rk.cleaner.plus) **`Full`**
    	- [Cleaner](https://github.com/MaterialCleaner/MaterialCleaner) **`Full`**
@@ -1359,6 +1359,7 @@ Material Design 3伴随着Android 12而来。它的诞生，彻底改变了人�
    	- [GApps Mod](https://github.com/jacopotediosi/GAppsMod) **`Full`**
    	- [VPN热点](https://github.com/Mygod/VPNHotspot) **`MD` `FOSS`**
 	- [Ambient Music Mod](https://github.com/KieronQuinn/AmbientMusicMod) **`Full`**
+	- [Preload](https://github.com/feravolt/Preload-docs) **`Full` `Multi` `💴`** 
 ---
 ## [🎮游戏](#目录)
 - **模拟器**
