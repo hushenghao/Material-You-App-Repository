@@ -296,6 +296,8 @@ Material Design 3伴随着Android 12而来。它的诞生，彻底改变了人�
 - **`NEW`** [XMind](https://play.google.com/store/apps/details?id=net.xmind.doughnut) **`MD-` `💴`**
 - **`NEW`** [Genie Anime](https://play.google.com/store/apps/details?id=com.vyroai.animeart) **`MD` `💴`**
 - **`NEW`** [Imagine](https://play.google.com/store/apps/details?id=com.vyroai.aiart) **`MD` `💴`**
+- **`NEW`** [Focus for Mastodon](https://play.google.com/store/apps/details?id=allen.town.focus.mastodon) **`Full` `💴`**
+- **`NEW`** [Password Manager](https://github.com/OffRange/PasswordManager) **`Full`**
 ## 📱应用列表
 **点击标题即可回到目录XD**
 ### 🦖[谷歌应用](#目录)
@@ -428,6 +430,7 @@ Material Design 3伴随着Android 12而来。它的诞生，彻底改变了人�
 	- [Jerboa for Lemmy](https://github.com/dessalines/jerboa) **`Full`**
 	- [Fedilab](https://codeberg.org/tom79/Fedilab) **`MD`**
 	- [Hejtter](https://github.com/mateusz-bak/hejtter) **`MD`**
+	- [Focus for Mastodon](https://play.google.com/store/apps/details?id=allen.town.focus.mastodon) **`Full` `💴`**
 - **论坛**
 	- [vvex](https://github.com/guozhigq/flutter_v2ex) **`Full` `Multi`**
 	- [v2compose](https://github.com/cooaer/v2compose) **`Full`**
@@ -437,7 +440,7 @@ Material Design 3伴随着Android 12而来。它的诞生，彻底改变了人�
 	- [HACG](https://github.com/shizheng233/HACG) **`Full`**
 	- [xland](https://github.com/re-ovo/xland) **`TODO`**
 - **邮件**
-   	- [Spark邮箱](https://play.google.com/store/apps/details?id=com.readdle.spark) **`Monet`**    
+   	- [Spark邮箱](https://play.google.com/store/apps/details?id=com.readdle.spark) **`Full`**    
    	- [Informaniak KMail](https://github.com/Infomaniak/android-kMail) **`Full`**    
    	- [Gotify](https://github.com/gotify/android) **`MD`** 
 - **其他**
@@ -1182,6 +1185,7 @@ Material Design 3伴随着Android 12而来。它的诞生，彻底改变了人�
    	- [Wassword](https://github.com/polilluminato/wassword-flutter) **`MD`**    
    	- [Keyguard for Bitwarden](https://play.google.com/store/apps/details?id=com.artemchep.keyguard) **`Full` `Multi`**   
    	- [Simple Password](https://github.com/grigorevmp/Simple_Passwords_QuickPass) **`Full`**
+   	- [Password Manager](https://github.com/OffRange/PasswordManager) **`Full`**
 - **文件互传**
    	- [Warpinator](https://github.com/slowscript/warpinator-android) **`MD-` `Monet`**    
    	- [Arc](https://play.google.com/store/apps/details?id=com.quadren.arc) **`Full`**       
