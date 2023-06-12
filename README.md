@@ -1001,7 +1001,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
    	- [Sayit](https://play.google.com/store/apps/details?id=com.urbandroid.sayit) **`Full`**   
    	- [TTS DictEditor](https://github.com/jing332/TtsDictEditor) **`MD`** 
 - **Cleaner**    
-   	- [Qingzhuo](https://www.coolapk.com/apk/com.farplace.qingzhuo) **`MD-` `Monet`**    
+   	- [Qingzhuo](https://www.coolapk.com/apk/com.farplace.qingzhuo) **`MD-` `Monet` `Multi`**    
    	- [SD Maid SE](https://github.com/d4rken-org/sdmaid-se) **`Full`**
    	- [Cleaner Plus](https://github.com/D4rK7355608/com.d4rk.cleaner.plus) **`Full`**
    	- [Cleaner](https://github.com/MaterialCleaner/MaterialCleaner) **`Full`**
@@ -1102,7 +1102,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
    	- [You Tune](https://github.com/SuhasDissa/You-Tune) **`TODO`**
 - **Scanner**    
    	- [Monochrome](https://play.google.com/store/apps/details?id=moe.zhs.monochrome) **`Full`**    
-   	-  [Barcode Scanner](https://gitlab.com/Atharok/BarcodeScanner) **`Full` `Multi`**    
+   	- [Barcode Scanner](https://gitlab.com/Atharok/BarcodeScanner) **`Full` `Multi`**    
    	- [Barquode](https://play.google.com/store/apps/details?id=com.pranavpandey.matrix) **`Full` `Multi`**   
    	- [Codora](https://play.google.com/store/apps/details?id=com.kokoschka.michael.qrtools) **`Full` `Multi`**    
    	- [Pixel Scanner](https://github.com/jaikeerthick/Pixel-Scanner) **`TODO`**
@@ -1318,6 +1318,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
    	- [GApps Mod](https://github.com/jacopotediosi/GAppsMod) **`Full`**
    	- [VPN Hotspot](https://github.com/Mygod/VPNHotspot) **`MD` `FOSS`**
    	- [Ambient Music Mod](https://github.com/KieronQuinn/AmbientMusicMod) **`Full`**
+   	- [Preload](https://github.com/feravolt/Preload-docs) **`Full` `Multi` `💴`** 
 ---
 ### [🎮Games](#applist-menu)
 - **Emulator**    
