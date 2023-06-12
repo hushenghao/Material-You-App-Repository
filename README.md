@@ -94,13 +94,17 @@ However in fact, sometimes Material You refers to the application which (may onl
 	- **Offline Music Services**
 	- **Podcasts**
 	- **Lives**
+	- **Now Playing**
 	- **Media Tools**
 - **[✍ Writing & Drawing](#writing--drawing)**
 	- **Notes**
+	- **Markdown**
+	- **Handwritten**
 	- **Journal**
 	- **Drawboard**
 	- **Docs**
 	- **To-do**
+	- **Mind Maps**
 	- **Lyrics Editor**
 	- **Others**
 - **[🖼️ Photos](#%EF%B8%8Fphotos)**
@@ -487,13 +491,13 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
 	- [Purelive](https://github.com/Jackiu1997/pure_live/) **`Full` `Multi`**
 	- [Simple Live](https://github.com/xiaoyaocz/dart_simple_live) **`Full`**
 	- [ASeam](www.aseam.site) **`Full`**
+- **Now Playing**
+   	- [Ambient Music Mod](https://github.com/KieronQuinn/AmbientMusicMod) **`Full`**
 - **Media Tools**
 	- [AudioLab](https://play.google.com/store/apps/details?id=com.hitrolab.audioeditor) **`MD-` `Monet` `Multi`**
 ---
 ### [✍Writing & Drawing](#applist-menu)
 - **Notes**
-	- [flowte](https://www.coolapk1s.com/feed/42984209) **`Full`**
-	- [Saber](https://github.com/adil192/saber) **`Full` `Multi`**
 	- [Orgzly](https://github.com/orgzly/orgzly-android) **`MD-` `Monet`**
 	- [Another Notes](https://github.com/maltaisn/another-notes-app) **`MD-` `Monet`**
 	- [Bundled Notes](https://play.google.com/store/apps/details?id=com.xaviertobin.noted) **`Full`**
@@ -509,7 +513,11 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
 	- [Start Now](https://www.coolapk.com/apk/com.start.now) **`MD-`**
 	- [Justnotes](https://github.com/jjewuz/JustNotes) **`Full`**
 	- [BeauTyXT](https://github.com/soupslurpr/BeauTyXT) **`Full`**
+- **Markdown**
+	- [flowte](https://www.coolapk1s.com/feed/42984209) **`Full`**
 	- [Markdown Editor](https://play.google.com/store/apps/details?id=com.adeeteya.markdown_editor) **`MD`**
+- **Handwritten**
+	- [Saber](https://github.com/adil192/saber) **`Full` `Multi`**
 	- [Notewise](https://play.google.com/store/apps/details?id=com.yygg.note.app) **`MD`**
 - **Journal**
 	- [Graphite](https://play.google.com/store/apps/details?id=com.syncodec.graphite) **`MD`**
@@ -543,6 +551,8 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
 	- [TimePlanner](https://github.com/v1tzor/TimePlanner) **`Full`**
 	- [Taskito](https://t.me/taskito_beta) **`Full` `💴`**
 	- [Tasks](https://play.google.com/store/apps/details?id=com.redmerah.tasks) **`MD`**
+- **Mind Maps**
+	- [XMind](https://play.google.com/store/apps/details?id=net.xmind.doughnut) **`MD-` `💴`**
 - **Lyrics Editor**
 	- [Lyricistant](https://github.com/wardellbagby/lyricistant) **`MD-` `Monet` `Multi`**
 	- [Sinhala Lyrics](https://github.com/SuhasDissa/Sinhala-Lyrics-App)  **`Full`**
@@ -556,7 +566,6 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
 	- [Project Management](https://play.google.com/store/apps/details?id=com.anafthdev.projectmanagement) **`Full`**
 	- [Putin Box](https://www.coolapk.com/apk/cards.putin.box) **`MD-`**
 	- [Hammer](https://github.com/Wavesonics/hammer-editor) **`MD`**
-	- [XMind](https://play.google.com/store/apps/details?id=net.xmind.doughnut) **`MD-` `💴`**
 ---
 ### [🖼️Picture](#applist-menu)
 - **Camera**
@@ -658,7 +667,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
 	- [Waterfly III](https://apt.izzysoft.de/fdroid/index/apk/com.dreautall.waterflyiii) **`MD`**
 	- [Dujer](https://play.google.com/store/apps/details?id=com.anafthdev.dujer) **`MD`**
 	- [WalletCount](https://github.com/GittyMac/WalletCount) **`Full`**
-	- [iviki](https://play.google.com/store/apps/details?id=com.xinran.iviki) **`Full`**
+	- [Simple Bookkeeping](https://play.google.com/store/apps/details?id=com.xinran.iviki) **`Full`**
 	- [SanaPlus](https://github.com/CakesTwix/SanaPlus) **`TODO`**
 	- [SubTotal](https://play.google.com/store/apps/details?id=partl.grandtotal) **`Full`**
 	- [Tasse Forfettario](https://play.google.com/store/apps/details?id=com.wakirox.adecotax) **`Full`**
@@ -1317,7 +1326,6 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
    	- [Tomb](https://jinnian.lanzouy.com/iTJGC0ovdsjg) **`MD`** 
    	- [GApps Mod](https://github.com/jacopotediosi/GAppsMod) **`Full`**
    	- [VPN Hotspot](https://github.com/Mygod/VPNHotspot) **`MD` `FOSS`**
-   	- [Ambient Music Mod](https://github.com/KieronQuinn/AmbientMusicMod) **`Full`**
    	- [Preload](https://github.com/feravolt/Preload-docs) **`Full` `Multi` `💴`** 
 ---
 ### [🎮Games](#applist-menu)
