@@ -139,13 +139,17 @@ Material Design 3伴随着Android 12而来。它的诞生，彻底改变了人�
 	- **本地音乐播放**
 	- **播客/电台**
 	- **直播**
+	- **听歌识曲**
 	- **媒体工具**
 - **[✍ 写写画画](#写写画画)**
 	- **笔记**
+	- **Markdown**
+	- **手写笔记**
 	- **日记**
 	- **画板**
 	- **文档**
 	- **待办清单**
+	- **思维导图**
 	- **歌词编辑**
 	- **其他**
 - **[🖼️ 图片摄像](#%EF%B8%8F%E5%9B%BE%E7%89%87%E6%91%84%E5%83%8F)**
@@ -531,13 +535,13 @@ Material Design 3伴随着Android 12而来。它的诞生，彻底改变了人�
 	- [Purelive](https://github.com/Jackiu1997/pure_live/) **`Full` `Multi`**
 	- [Simple Live](https://github.com/xiaoyaocz/dart_simple_live) **`Full`**
 	- [ASeam](https://dl.aseam.site/download) **`Full`**
+- **听歌识曲**
+	- [Ambient Music Mod](https://github.com/KieronQuinn/AmbientMusicMod) **`Full`**
 - **媒体工具**
 	- [AudioLab](https://play.google.com/store/apps/details?id=com.hitrolab.audioeditor) **`MD-` `Monet` `Multi`**
 ---
 ## [✍写写画画](#目录)
 - **笔记**
-	- [flowte](https://www.coolapk1s.com/feed/42984209) **`Full`**
-	- [Saber](https://github.com/adil192/saber) **`Full` `Multi`**
 	- [Orgzly](https://github.com/orgzly/orgzly-android) **`MD-` `Monet`**
 	- [Another Notes](https://github.com/maltaisn/another-notes-app) **`MD-` `Monet`**
 	- [Bundled Notes](https://play.google.com/store/apps/details?id=com.xaviertobin.noted) **`Full`**
@@ -553,7 +557,11 @@ Material Design 3伴随着Android 12而来。它的诞生，彻底改变了人�
 	- [知识库](https://www.coolapk.com/apk/com.start.now) **`MD-`**
 	- [Justnotes](https://github.com/jjewuz/JustNotes) **`Full`**
 	- [BeauTyXT](https://github.com/soupslurpr/BeauTyXT) **`Full`**
+- **Markdown**
+	- [flowte](https://www.coolapk1s.com/feed/42984209) **`Full`**
 	- [Markdown Editor](https://play.google.com/store/apps/details?id=com.adeeteya.markdown_editor) **`MD`**
+- **手写笔记**
+	- [Saber](https://github.com/adil192/saber) **`Full` `Multi`**
 	- [Notewise](https://play.google.com/store/apps/details?id=com.yygg.note.app) **`MD`**
 - **日记**
 	- [Graphite](https://play.google.com/store/apps/details?id=com.syncodec.graphite) **`MD`**
@@ -587,6 +595,8 @@ Material Design 3伴随着Android 12而来。它的诞生，彻底改变了人�
 	- [TimePlanner](https://github.com/v1tzor/TimePlanner) **`Full`**
 	- [Taskito](https://t.me/taskito_beta) **`Full` `💴`**
 	- [Tasks](https://play.google.com/store/apps/details?id=com.redmerah.tasks) **`MD`**
+- **思维导图**
+	- [XMind](https://play.google.com/store/apps/details?id=net.xmind.doughnut) **`MD-` `💴`**
 - **歌词编辑**
 	- [Lyricistant](https://github.com/wardellbagby/lyricistant) **`MD-` `Monet` `Multi`**
 	- [Sinhala Lyrics](https://github.com/SuhasDissa/Sinhala-Lyrics-App) **`Full`**
@@ -600,7 +610,6 @@ Material Design 3伴随着Android 12而来。它的诞生，彻底改变了人�
 	- [ilDoppiaggio](https://play.google.com/store/apps/details?id=app.wakirox.il_doppiaggio) **`MD-` `Monet`**
 	- [卡片盒子](https://www.coolapk.com/apk/cards.putin.box) **`MD-`**
 	- [Hammer](https://github.com/Wavesonics/hammer-editor) **`MD`**
-	- [XMind](https://play.google.com/store/apps/details?id=net.xmind.doughnut) **`MD-` `💴`**
 ---
 ## [🖼️图片摄像](#目录)
 - **相机**
@@ -1358,7 +1367,6 @@ Material Design 3伴随着Android 12而来。它的诞生，彻底改变了人�
    	- [Smart Dock](https://github.com/axel358/smartdock) **`Full`**
    	- [GApps Mod](https://github.com/jacopotediosi/GAppsMod) **`Full`**
    	- [VPN热点](https://github.com/Mygod/VPNHotspot) **`MD` `FOSS`**
-	- [Ambient Music Mod](https://github.com/KieronQuinn/AmbientMusicMod) **`Full`**
 	- [Preload](https://github.com/feravolt/Preload-docs) **`Full` `Multi` `💴`** 
 ---
 ## [🎮游戏](#目录)
