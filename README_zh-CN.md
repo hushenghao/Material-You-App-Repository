@@ -98,7 +98,7 @@ Material Design 3伴随着Android 12而来。它的诞生，彻底改变了人�
 
 ### 💖感谢
 - **特别感谢**：[Material-You-app-list](https://github.com/nyas1/Material-You-app-list)，目前最著名的Material You APP收集项目，它为我的收集工作提供了莫大的帮助。  
-- 酷安用户[@培明](http://www.coolapk.com/u/2080396)，他的应用集为这次Applist的收集也提供了不少素材。
+- 酷安用户[@培明](http://www.coolapk.com/u/2080396)，Telegram用户 Z_K 和魔王今天不开车，他们为Applist的收集也提供了不少素材。
 - [F-Droid](https://f-droid.org)，fd里收录了很多基于最新设计的开源APP，为本列表中的应用来源提供不少线索。
 - 在github、酷安等平台活跃的那些坚持使用Material Design 3开发APP的开发者大大们，你们为谷歌的软件生态做出了不可埋没的贡献！
 - Telegram频道：[某不知名杂货铺](https://t.me/youthkinga)、[HUC-Projects](https://t.me/anubis_recommended)、[WPX Projects](https://t.me/WSTprojects)、[Android Reposity](https://t.me/AndroidRepo)等。
@@ -285,23 +285,21 @@ Material Design 3伴随着Android 12而来。它的诞生，彻底改变了人�
 - [雹](https://github.com/aistra0528/Hail) **`Full` `Multi`**
 ## 🆕最近上新
 少女祈祷中…
-- [Global News](https://github.com/v1tzor/GlobalNewsApp) **`MD`**
-- [WeatherYou](https://play.google.com/store/apps/details?id=com.rodrigmatrix.weatheryou) **`Full` `Multi`**
-- [Cloud Bits](https://github.com/Saronik5883/Cloud-Bits) **`TODO`**
-- [静音提示器](https://github.com/mueller-ma/MuteReminder) **`MD`**
-- [KasPOS](https://play.google.com/store/apps/details?id=com.kaspos.app) **`MD-` `Monet`**
 - [OneShot](https://github.com/ptrLx/OneShot) **`Full`**
 - [Notewise](https://play.google.com/store/apps/details?id=com.yygg.note.app) **`MD`**
 - [WaveSlider](https://github.com/galaxygoldfish/waveslider) **`Full`**
 - [Math Calculator](https://github.com/v1tzor/MathCalculator) **`Full`**
-- **`NEW`** [Baterai](https://play.google.com/store/apps/details?id=com.redmerah.baterai) **`MD`**
-- **`NEW`** [Tasks](https://play.google.com/store/apps/details?id=com.redmerah.tasks) **`MD`**
-- **`NEW`** [SavePic](https://play.google.com/store/apps/details?id=com.michaelflisar.privacyimageviewer) **`MD` `💴`**
-- **`NEW`** [XMind](https://play.google.com/store/apps/details?id=net.xmind.doughnut) **`MD-` `💴`**
-- **`NEW`** [Genie Anime](https://play.google.com/store/apps/details?id=com.vyroai.animeart) **`MD` `💴`**
-- **`NEW`** [Imagine](https://play.google.com/store/apps/details?id=com.vyroai.aiart) **`MD` `💴`**
-- **`NEW`** [Focus for Mastodon](https://play.google.com/store/apps/details?id=allen.town.focus.mastodon) **`Full` `💴`**
-- **`NEW`** [Password Manager](https://github.com/OffRange/PasswordManager) **`Full`**
+- [Baterai](https://play.google.com/store/apps/details?id=com.redmerah.baterai) **`MD`**
+- [Tasks](https://play.google.com/store/apps/details?id=com.redmerah.tasks) **`MD`**
+- [SavePic](https://play.google.com/store/apps/details?id=com.michaelflisar.privacyimageviewer) **`MD` `💴`**
+- [XMind](https://play.google.com/store/apps/details?id=net.xmind.doughnut) **`MD-` `💴`**
+- [Genie Anime](https://play.google.com/store/apps/details?id=com.vyroai.animeart) **`MD` `💴`**
+- [Imagine](https://play.google.com/store/apps/details?id=com.vyroai.aiart) **`MD` `💴`**
+- [Focus for Mastodon](https://play.google.com/store/apps/details?id=allen.town.focus.mastodon) **`Full` `💴`**
+- [Password Manager](https://github.com/OffRange/PasswordManager) **`Full`**
+- **`NEW`** [ShortX](https://play.google.com/store/apps/details?id=tornaco.apps.shortx) **`Full`**
+- **`NEW`** [Kuru Reader](https://play.google.com/store/apps/details?id=br.com.kurotoshiro.leitor_manga) **`Full` `Multi`**
+- **`NEW`** [Syncyomi](https://github.com/SyncYomi/SyncYomi) **`Full` `Multi`**
 ## 📱应用列表
 **点击标题即可回到目录XD**
 ### 🦖[谷歌应用](#目录)
@@ -683,7 +681,7 @@ Material Design 3伴随着Android 12而来。它的诞生，彻底改变了人�
 	- [Tension](https://github.com/re-ovo/Tension) **`TODO`**
 	- [Global News](https://github.com/v1tzor/GlobalNewsApp) **`MD`**
 - **漫画**
-	- [Tachiyomi](https://github.com/tachiyomiorg/tachiyomi) / [TachiyomiJ2K](https://github.com/Jays2Kings/tachiyomiJ2K) / [TachiyomiSY](https://github.com/Hero-Over/TachiyomiSY) **`Full` `Multi`**
+	- [Tachiyomi](https://github.com/tachiyomiorg/tachiyomi) / [TachiyomiJ2K](https://github.com/Jays2Kings/tachiyomiJ2K) / [TachiyomiSY](https://github.com/Hero-Over/TachiyomiSY) / [Syncyomi](https://github.com/SyncYomi/SyncYomi) **`Full` `Multi`**
 	- [Kotatsu](https://github.com/KotatsuApp/Kotatsu) **`Full` `Multi`**
 	- [Neko](https://github.com/CarlosEsco/Neko) **`Full` `Multi`**
 	- [Pica Comic](https://github.com/wgh136/PicaComic) **`Full` `Multi`**
@@ -694,6 +692,7 @@ Material Design 3伴随着Android 12而来。它的诞生，彻底改变了人�
 	- [CopyManga](https://github.com/shizheng233/CopyMangaJava) **`Full`**
 	- [CopyMangaX](https://github.com/CrowForKotlin/CopyMangaX) **`MD`**
 	- [NoyAcg](https://noy.asia/) **`MD-`**
+	- [Kuru Reader](https://play.google.com/store/apps/details?id=br.com.kurotoshiro.leitor_manga) **`Full` `Multi`**
 - **有声书**
 	- [Kafka](https://play.google.com/store/apps/details?id=com.kafka.user) **`Full` `Multi`**
 	- [Voice](https://github.com/PaulWoitaschek/Voice) **`Full` `Multi`**
@@ -1228,7 +1227,8 @@ Material Design 3伴随着Android 12而来。它的诞生，彻底改变了人�
    	- [自动任务](https://www.coolapk.com/apk/top.xjunz.tasker) **`MD`**    
    	- [Smart AutoClicker](https://github.com/Nain57/Smart-AutoClicker) **`Full`**    
    	- [Tasker](https://play.google.com/store/apps/details?id=net.dinglisch.android.taskerm) **`Monet`**
-   	- [点击助手](https://wwxt.lanzout.com/b0dn18zwd) (密码：7vm2) **`Full`**  
+   	- [点击助手](https://wwxt.lanzout.com/b0dn18zwd) (密码7vm2) **`Full`**  
+   	- [ShortX](https://play.google.com/store/apps/details?id=tornaco.apps.shortx) **`Full`**
 - **搜索**
    	- [Gugal](https://gitlab.com/narektor/gugal) **`Full`**    
    	- [Pixel Search](https://play.google.com/store/apps/details?id=rk.android.app.pixelsearch) **`Full`**
