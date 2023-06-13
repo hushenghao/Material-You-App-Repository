@@ -53,7 +53,7 @@ However in fact, sometimes Material You refers to the application which (may onl
 
 ### 💖Thanks to
 - **SPECIAL THANKS TO** [nyas1/Material-You-app-list](https://github.com/nyas1/Material-You-app-list/), the most popular material app collecting project, which helps me a lot. [Click here](https://github.com/nyas1/Material-You-app-list) to join Telegram Channel.
-- Coolapk User [@培明](https://www.coolapk.com/u/2080396), who provides many materials for me too.
+- Coolapk User [@培明](https://www.coolapk.com/u/2080396), Telegram users Z_K & 魔王今天不开车 who provide many materials for me too.
 - F-Droid, which gives me a convenient access to FOSS and Material You apps.
 - Developers who keep using Material You. You have made an indelible contribution to Google's software ecosystem!
 - Telegram Channels: [某不知名杂货铺](https://t.me/youthkinga), [HUC-Projects](https://t.me/anubis_recommended), [WPX Projects](https://t.me/WSTprojects), [Android Reposity](https://t.me/AndroidRepo) and so on.
@@ -238,23 +238,21 @@ However in fact, sometimes Material You refers to the application which (may onl
 - [InstallerX](https://github.com/iamr0s/InstallerX) **`Full` `Multi`**
 - [Hail](https://github.com/aistra0528/Hail) **`Full` `Multi`**
 ## 🆕Newly Added Apps
-- [Global News](https://github.com/v1tzor/GlobalNewsApp) **`MD`**
-- [WeatherYou](https://play.google.com/store/apps/details?id=com.rodrigmatrix.weatheryou) **`Full` `Multi`**
-- [Cloud Bits](https://github.com/Saronik5883/Cloud-Bits) **`TODO`**
-- [Mute Reminder](https://github.com/mueller-ma/MuteReminder) **`MD`**
-- [KasPOS](https://play.google.com/store/apps/details?id=com.kaspos.app) **`MD-` `Monet`**
 - [OneShot](https://github.com/ptrLx/OneShot) **`Full`**
 - [Notewise](https://play.google.com/store/apps/details?id=com.yygg.note.app) **`MD`**
 - [WaveSlider](https://github.com/galaxygoldfish/waveslider) **`Full`**
 - [Math Calculator](https://github.com/v1tzor/MathCalculator) **`Full`**
-- **`NEW`** [Baterai](https://play.google.com/store/apps/details?id=com.redmerah.baterai) **`MD`**
-- **`NEW`** [Tasks](https://play.google.com/store/apps/details?id=com.redmerah.tasks) **`MD`**
-- **`NEW`** [SavePic](https://play.google.com/store/apps/details?id=com.michaelflisar.privacyimageviewer) **`MD` `💴`**
-- **`NEW`** [XMind](https://play.google.com/store/apps/details?id=net.xmind.doughnut) **`MD-` `💴`**
-- **`NEW`** [Genie Anime](https://play.google.com/store/apps/details?id=com.vyroai.animeart) **`MD` `💴`**
-- **`NEW`** [Imagine](https://play.google.com/store/apps/details?id=com.vyroai.aiart) **`MD` `💴`**
-- **`NEW`** [Focus for Mastodon](https://play.google.com/store/apps/details?id=allen.town.focus.mastodon) **`Full` `💴`**
-- **`NEW`** [Password Manager](https://github.com/OffRange/PasswordManager) **`Full`**
+- [Baterai](https://play.google.com/store/apps/details?id=com.redmerah.baterai) **`MD`**
+- [Tasks](https://play.google.com/store/apps/details?id=com.redmerah.tasks) **`MD`**
+- [SavePic](https://play.google.com/store/apps/details?id=com.michaelflisar.privacyimageviewer) **`MD` `💴`**
+- [XMind](https://play.google.com/store/apps/details?id=net.xmind.doughnut) **`MD-` `💴`**
+- [Genie Anime](https://play.google.com/store/apps/details?id=com.vyroai.animeart) **`MD` `💴`**
+- [Imagine](https://play.google.com/store/apps/details?id=com.vyroai.aiart) **`MD` `💴`**
+- [Focus for Mastodon](https://play.google.com/store/apps/details?id=allen.town.focus.mastodon) **`Full` `💴`**
+- [Password Manager](https://github.com/OffRange/PasswordManager) **`Full`**
+- **`NEW`** [ShortX](https://play.google.com/store/apps/details?id=tornaco.apps.shortx) **`Full`**
+- **`NEW`** [Kuru Reader](https://play.google.com/store/apps/details?id=br.com.kurotoshiro.leitor_manga) **`Full` `Multi`**
+- **`NEW`** [Syncyomi](https://github.com/SyncYomi/SyncYomi) **`Full` `Multi`**
 ## 📱Applist
 **Now you could click the title to return to the applist menu!**
 ### 🦖[Google Apps](#applist-menu)
@@ -639,7 +637,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
 	- [Tension](https://github.com/re-ovo/Tension) **`TODO`**
 	- [Global News](https://github.com/v1tzor/GlobalNewsApp) **`MD`**
 - **Comics**
-	- [Tachiyomi](https://github.com/tachiyomiorg/tachiyomi) / [TachiyomiJ2K](https://github.com/Jays2Kings/tachiyomiJ2K) / [TachiyomiSY](https://github.com/Hero-Over/TachiyomiSY) **`Full` `Multi`**
+	- [Tachiyomi](https://github.com/tachiyomiorg/tachiyomi) / [TachiyomiJ2K](https://github.com/Jays2Kings/tachiyomiJ2K) / [TachiyomiSY](https://github.com/Hero-Over/TachiyomiSY) / [Syncyomi](https://github.com/SyncYomi/SyncYomi) **`Full` `Multi`**
 	- [Kotatsu](https://github.com/KotatsuApp/Kotatsu) **`Full` `Multi`**
 	- [Neko](https://github.com/CarlosEsco/Neko) **`Full` `Multi`**
 	- [Pica Comic](https://github.com/wgh136/PicaComic) **`Full` `Multi`**
@@ -653,6 +651,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
 - **Audio Books**
 	- [Kafka](https://play.google.com/store/apps/details?id=com.kafka.user) **`Full` `Multi`**
 	- [Voice](https://github.com/PaulWoitaschek/Voice) **`Full` `Multi`**
+	- [Kuru Reader](https://play.google.com/store/apps/details?id=br.com.kurotoshiro.leitor_manga) **`Full` `Multi`**
 ---
 ### [🌦️Daily Life](#applist-menu)
 - **Bookkeeping**
@@ -1188,6 +1187,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
    	- [Smart AutoClicker](https://github.com/Nain57/Smart-AutoClicker) **`Full`**    
    	- [Tasker](https://play.google.com/store/apps/details?id=net.dinglisch.android.taskerm) **`Monet`**
    	- [Click Assistant](https://wwxt.lanzout.com/b0dn18zwd) (Password: 7vm2) **`Full`**
+   	- [ShortX](https://play.google.com/store/apps/details?id=tornaco.apps.shortx) **`Full`**
 - **Searching Tool**    
    	- [Gugal](https://gitlab.com/narektor/gugal) **`Full`**    
    	- [Pixel Search](https://play.google.com/store/apps/details?id=rk.android.app.pixelsearch) **`Full`**
