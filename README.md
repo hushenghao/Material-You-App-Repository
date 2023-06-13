@@ -250,9 +250,9 @@ However in fact, sometimes Material You refers to the application which (may onl
 - [Imagine](https://play.google.com/store/apps/details?id=com.vyroai.aiart) **`MD` `💴`**
 - [Focus for Mastodon](https://play.google.com/store/apps/details?id=allen.town.focus.mastodon) **`Full` `💴`**
 - [Password Manager](https://github.com/OffRange/PasswordManager) **`Full`**
-- **`NEW`** [ShortX](https://play.google.com/store/apps/details?id=tornaco.apps.shortx) **`Full`**
-- **`NEW`** [Kuru Reader](https://play.google.com/store/apps/details?id=br.com.kurotoshiro.leitor_manga) **`Full` `Multi`**
-- **`NEW`** [Syncyomi](https://github.com/SyncYomi/SyncYomi) **`Full` `Multi`**
+- **`NEW`** [ShortX](https://play.google.com/store/apps/details?id=tornaco.apps.shortx) **`Full` `💴`**
+- **`NEW`** [Kuru Reader](https://play.google.com/store/apps/details?id=br.com.kurotoshiro.leitor_manga) **`Full` `Multi` `💴`**
+- **`NEW`** [Syncyomi](https://github.com/SyncYomi/SyncYomi) **`Full` `Multi` `FOSS`**
 ## 📱Applist
 **Now you could click the title to return to the applist menu!**
 ### 🦖[Google Apps](#applist-menu)
@@ -637,7 +637,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
 	- [Tension](https://github.com/re-ovo/Tension) **`TODO`**
 	- [Global News](https://github.com/v1tzor/GlobalNewsApp) **`MD`**
 - **Comics**
-	- [Tachiyomi](https://github.com/tachiyomiorg/tachiyomi) / [TachiyomiJ2K](https://github.com/Jays2Kings/tachiyomiJ2K) / [TachiyomiSY](https://github.com/Hero-Over/TachiyomiSY) / [Syncyomi](https://github.com/SyncYomi/SyncYomi) **`Full` `Multi`**
+	- [Tachiyomi](https://github.com/tachiyomiorg/tachiyomi) / [TachiyomiJ2K](https://github.com/Jays2Kings/tachiyomiJ2K) / [TachiyomiSY](https://github.com/Hero-Over/TachiyomiSY) / [Syncyomi](https://github.com/SyncYomi/SyncYomi) **`Full` `Multi` `FOSS`**
 	- [Kotatsu](https://github.com/KotatsuApp/Kotatsu) **`Full` `Multi`**
 	- [Neko](https://github.com/CarlosEsco/Neko) **`Full` `Multi`**
 	- [Pica Comic](https://github.com/wgh136/PicaComic) **`Full` `Multi`**
@@ -648,10 +648,10 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
 	- [CopyManga](https://github.com/shizheng233/CopyMangaJava) **`Full`**
 	- [CopyMangaX](https://github.com/CrowForKotlin/CopyMangaX) **`MD`**
 	- [NoyAcg](https://noy.asia/) **`MD-`**
+	- [Kuru Reader](https://play.google.com/store/apps/details?id=br.com.kurotoshiro.leitor_manga) **`Full` `Multi` `💴`**
 - **Audio Books**
 	- [Kafka](https://play.google.com/store/apps/details?id=com.kafka.user) **`Full` `Multi`**
 	- [Voice](https://github.com/PaulWoitaschek/Voice) **`Full` `Multi`**
-	- [Kuru Reader](https://play.google.com/store/apps/details?id=br.com.kurotoshiro.leitor_manga) **`Full` `Multi`**
 ---
 ### [🌦️Daily Life](#applist-menu)
 - **Bookkeeping**
@@ -1187,7 +1187,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
    	- [Smart AutoClicker](https://github.com/Nain57/Smart-AutoClicker) **`Full`**    
    	- [Tasker](https://play.google.com/store/apps/details?id=net.dinglisch.android.taskerm) **`Monet`**
    	- [Click Assistant](https://wwxt.lanzout.com/b0dn18zwd) (Password: 7vm2) **`Full`**
-   	- [ShortX](https://play.google.com/store/apps/details?id=tornaco.apps.shortx) **`Full`**
+   	- [ShortX](https://play.google.com/store/apps/details?id=tornaco.apps.shortx) **`Full` `💴`**
 - **Searching Tool**    
    	- [Gugal](https://gitlab.com/narektor/gugal) **`Full`**    
    	- [Pixel Search](https://play.google.com/store/apps/details?id=rk.android.app.pixelsearch) **`Full`**
