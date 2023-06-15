@@ -285,9 +285,6 @@ Material Design 3伴随着Android 12而来。它的诞生，彻底改变了人�
 - [雹](https://github.com/aistra0528/Hail) **`Full` `Multi`**
 ## 🆕最近上新
 少女祈祷中…
-- [OneShot](https://github.com/ptrLx/OneShot) **`Full`**
-- [Notewise](https://play.google.com/store/apps/details?id=com.yygg.note.app) **`MD`**
-- [WaveSlider](https://github.com/galaxygoldfish/waveslider) **`Full`**
 - [Math Calculator](https://github.com/v1tzor/MathCalculator) **`Full`**
 - [Baterai](https://play.google.com/store/apps/details?id=com.redmerah.baterai) **`MD`**
 - [Tasks](https://play.google.com/store/apps/details?id=com.redmerah.tasks) **`MD`**
@@ -300,6 +297,9 @@ Material Design 3伴随着Android 12而来。它的诞生，彻底改变了人�
 - **`NEW`** [ShortX](https://play.google.com/store/apps/details?id=tornaco.apps.shortx) **`Full` `💴`**
 - **`NEW`** [Kuru Reader](https://play.google.com/store/apps/details?id=br.com.kurotoshiro.leitor_manga) **`Full` `Multi` `💴`**
 - **`NEW`** [Syncyomi](https://github.com/SyncYomi/SyncYomi) **`Full` `Multi` `FOSS`**
+- **`NEW`** [Termius](https://play.google.com/store/apps/details?id=com.server.auditor.ssh.client) **`MD-`**
+- **`NEW`** [WLED Native](https://github.com/Moustachauve/WLED-Native-Android) **`MD` `Multi` `FOSS`**
+- **`NEW`** [BluePrint](https://github.com/jahirfiquitiva/Blueprint) **`Full` `FOSS`**
 ## 📱应用列表
 **点击标题即可回到目录XD**
 ### 🦖[谷歌应用](#目录)
@@ -520,7 +520,7 @@ Material Design 3伴随着Android 12而来。它的诞生，彻底改变了人�
 	- [Musify](https://github.com/gokadzev/Musify) **`Full`**
 	- [Pixel](https://play.google.com/store/apps/details?id=it.ncaferra.pixelplayerfree) **`Full`**
 	- [棉花音乐](https://github.com/pure-music/PureMusic) **`Full` `Multi`**
-	- [Vanilla](https://play.google.com/store/apps/details?id=com.kyant.vanilla) **`Full`**
+	- [Vanilla](https://play.google.com/store/apps/details?id=com.kyant.vanilla) **`MD-` `Monet`**
 - **播客/电台**
 	- [FocusPodcast](https://play.google.com/store/apps/details?id=allen.town.focus.podcast) **`Full` `Multi`**
 	- [Moon FM](https://play.google.com/store/apps/details?id=fm.moon.app) **`Monet` `Multi`**
@@ -906,6 +906,7 @@ Material Design 3伴随着Android 12而来。它的诞生，彻底改变了人�
    	- [Royale Blue Icons](https://play.google.com/store/apps/details?id=com.arjunarora.royaleblueicons) **`MD-` `Monet`**
    	- [DGIcons](https://t.me/MaterialYouAppsChat/2362)  **`Full`**
    	- [Giga Icon](https://play.google.com/store/apps/details?id=it.mirko.gigaicon) **`Full`**
+   	- [BluePrint](https://github.com/jahirfiquitiva/Blueprint) **`Full` `FOSS`**
 - **微件/KWGT**
    	- [Blur for You](https://www.coolapk.com/apk/com.riv3rdesign.you) **`MD-` `Monet`**    
    	- [Android 12 Clock Widget](https://play.google.com/store/apps/details?id=twelve.clock.mibrahim) **`Full`**    
@@ -1209,7 +1210,8 @@ Material Design 3伴随着Android 12而来。它的诞生，彻底改变了人�
    	- [CAPod](https://github.com/d4rken-org/capod) **`MD`**    
    	- [OpenSCQ30](https://github.com/Oppzippy/OpenSCQ30) **`Full`**    
    	- [Yubico Authenticator](https://github.com/Yubico/yubioath-flutter) **`Full` `Multi`**
-   	- [RS Tool](https://misaka13766.lanzoup.com/idNa20xo6x6d) (密码ea85) **`MD`**   
+   	- [RS Tool](https://misaka13766.lanzoup.com/idNa20xo6x6d) (密码ea85) **`MD`**
+   	- [WLED Native](https://github.com/Moustachauve/WLED-Native-Android) **`MD` `Multi` `FOSS`**
 - **AI**
    	- [Colors AI](https://github.com/tsinis/colors_ai) **`Full`**    
    	- [CommuniqAI](https://play.google.com/store/apps/details?id=dev.mtc.ga) **`MD-`**    
@@ -1289,7 +1291,8 @@ Material Design 3伴随着Android 12而来。它的诞生，彻底改变了人�
    	- [Android Studio Tutorials: Java](https://github.com/D4rK7355608/com.d4rk.androidtutorials.java) **`Full`**
 - **Termux**
    	- [Termux Monet](https://t.me/AndroidRepo/3793) **`Monet` `MOD`** 
-   	- [TermPlux](https://github.com/TermPlux/TermPlux-App) **`MD-` `Monet`**   
+   	- [TermPlux](https://github.com/TermPlux/TermPlux-App) **`MD-` `Monet`**
+   	- [Termius](https://play.google.com/store/apps/details?id=com.server.auditor.ssh.client) **`MD-`**
 - **Lua**
    	- [SWKLua](https://www.coolapk1s.com/feed/44867507) **`Full`**   
    	- [Windmill](https://www.coolapk.com/apk/com.agyer.windmill) **`Full` `Multi`**
