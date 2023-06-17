@@ -238,21 +238,20 @@ However in fact, sometimes Material You refers to the application which (may onl
 - [InstallerX](https://github.com/iamr0s/InstallerX) **`Full` `Multi`**
 - [Hail](https://github.com/aistra0528/Hail) **`Full` `Multi`**
 ## 🆕Newly Added Apps
-- [Math Calculator](https://github.com/v1tzor/MathCalculator) **`Full`**
-- [Baterai](https://play.google.com/store/apps/details?id=com.redmerah.baterai) **`MD`**
-- [Tasks](https://play.google.com/store/apps/details?id=com.redmerah.tasks) **`MD`**
-- [SavePic](https://play.google.com/store/apps/details?id=com.michaelflisar.privacyimageviewer) **`MD` `💴`**
-- [XMind](https://play.google.com/store/apps/details?id=net.xmind.doughnut) **`MD-` `💴`**
-- [Genie Anime](https://play.google.com/store/apps/details?id=com.vyroai.animeart) **`MD` `💴`**
-- [Imagine](https://play.google.com/store/apps/details?id=com.vyroai.aiart) **`MD` `💴`**
-- [Focus for Mastodon](https://play.google.com/store/apps/details?id=allen.town.focus.mastodon) **`Full` `💴`**
-- [Password Manager](https://github.com/OffRange/PasswordManager) **`Full`**
-- **`NEW`** [ShortX](https://play.google.com/store/apps/details?id=tornaco.apps.shortx) **`Full` `💴`**
-- **`NEW`** [Kuru Reader](https://play.google.com/store/apps/details?id=br.com.kurotoshiro.leitor_manga) **`Full` `Multi` `💴`**
-- **`NEW`** [Syncyomi](https://github.com/SyncYomi/SyncYomi) **`Full` `Multi` `FOSS`**
-- **`NEW`** [Termius](https://play.google.com/store/apps/details?id=com.server.auditor.ssh.client) **`MD-`**
-- **`NEW`** [WLED Native](https://github.com/Moustachauve/WLED-Native-Android) **`MD` `Multi` `FOSS`**
-- **`NEW`** [BluePrint](https://github.com/jahirfiquitiva/Blueprint) **`Full` `FOSS`**
+- [FRCFrenzy](https://github.com/galaxygoldfish/FRCFrenzy) **`TODO`**
+- [Signal You](https://github.com/nekorubu/Signal-You) **`MD`**
+- [Lighttube](https://github.com/kuylar/lighttube-android) **`TODO`**
+- [LibrePass](https://github.com/LibrePass/android) **`Full`**
+- [Ridebus](https://github.com/ridebus-by/ridebus) **`TODO`**
+- [Ridna](https://github.com/nexy791/Ridna) **`Full`**
+- [Rozvrh](https://github.com/marek-guran/Rozvrh-App-Public) **`TODO`**
+- [QWeather](https://github.com/Henry-Hiles/QWeather) **`Full`**
+- [Taru](https://github.com/nirajprakash/taru-plants-android) **`MD`**
+- [Croissant](https://github.com/joeloewi7178/Croissant) **`Full` `Multi`**
+- [Taiga Mobile](https://github.com/EugeneTheDev/TaigaMobile) **`Full`**
+- [Clipboard Cleaner](https://github.com/thatsmanmeet/Clipboard-Cleaner) **`Monet`**
+- [Babysafe](https://play.google.com/store/apps/details?id=at.techbee.babysafe) **`MD`**
+- [Menory Grardian](https://github.com/hashemi-hossein/memory-guardian) **`Full`**
 ## 📱Applist
 **Now you could click the title to return to the applist menu!**
 ### 🦖[Google Apps](#applist-menu)
