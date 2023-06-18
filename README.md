@@ -72,6 +72,7 @@ However in fact, sometimes Material You refers to the application which (may onl
 	- **Dialer**
 	- **SMS**
 	- **Telegram Clients**
+	- **Encrypted Chatting**
 	- **Reddit Clients**
 	- **Discord Clients**
 	- **Instagram Clients**
@@ -107,7 +108,7 @@ However in fact, sometimes Material You refers to the application which (may onl
 	- **Mind Maps**
 	- **Lyrics Editor**
 	- **Others**
-- **[🖼️ Photos](#%EF%B8%8Fphotos)**
+- **[🖼️ Pictures](#%EF%B8%8Fpictures)**
 	- **Camera**
 	- **Gallery**
 	- **Illustrations**
@@ -131,6 +132,10 @@ However in fact, sometimes Material You refers to the application which (may onl
 	- **Study**
 	- **Tracking Services**
 	- **Stocks**
+	- **Traffic**
+	- **Planting**
+	- **Babysitting**
+	- **Conpetitions**
 	- **Others**
 - **[🖌️ Theming](#%EF%B8%8Ftheming)**
 	- **Launcher** 
@@ -161,6 +166,7 @@ However in fact, sometimes Material You refers to the application which (may onl
 	- **Link Manager**
 	- **Installer**
 	- **Notification Filter**
+	- **Clipboard Manager**
 	- **Others**
 - **[🧰 Tools](#tools)**
 	- **Downloader**
@@ -251,7 +257,7 @@ However in fact, sometimes Material You refers to the application which (may onl
 - [Taiga Mobile](https://github.com/EugeneTheDev/TaigaMobile) **`Full`**
 - [Clipboard Cleaner](https://github.com/thatsmanmeet/Clipboard-Cleaner) **`Monet`**
 - [Babysafe](https://play.google.com/store/apps/details?id=at.techbee.babysafe) **`MD`**
-- [Menory Grardian](https://github.com/hashemi-hossein/memory-guardian) **`Full`**
+- [Memory Guardian](https://github.com/hashemi-hossein/memory-guardian) **`Full`**
 ## 📱Applist
 **Now you could click the title to return to the applist menu!**
 ### 🦖[Google Apps](#applist-menu)
@@ -361,6 +367,9 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
 	- [Lilgram](https://github.com/lilchill666/LilGram) **`Full` `Multi`**
 	- [Nekogram](https://nekogram.app/) **`Monet`**
 	- [Nagram](https://github.com/NextAlone/Nagram) **`Monet`**
+- **Encrypted Chatting**
+	- [FluffyChat](https://gitlab.com/famedly/fluffychat) **`Full` `Multi`**
+	- [Signal You](https://github.com/nekorubu/Signal-You) **`MD`**
 - **Reddit Clients**
 	- [Sync for Reddit](https://play.google.com/store/apps/details?id=com.laurencedawson.reddit_sync) **`Full` `Multi`**
 	- [Karma for Reddit](https://play.google.com/store/apps/details?id=com.brianrobles204.karmamachine_flutter) **`Full`**
@@ -396,6 +405,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
 	- [Stack for Stack Overflow](https://play.google.com/store/apps/details?id=me.tylerbwong.stack) **`Full`**
 	- [HACG](https://github.com/shizheng233/HACG) **`Full`**
 	- [xland](https://github.com/re-ovo/xland) **`TODO`**
+	- [Taiga Mobile](https://github.com/EugeneTheDev/TaigaMobile) **`Full`**
 - **Mail**    
    	- [Spark Mail](https://play.google.com/store/apps/details?id=com.readdle.spark) **`Full`**    
    	- [Informaniak KMail](https://github.com/Infomaniak/android-kMail) **`Full`**    
@@ -407,7 +417,6 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
 	- [PixelDroid](https://github.com/H-PixelDroid/PixelDroid) **`MD`**
 	- [Staver](https://play.google.com/store/apps/details?id=com.anafthdev.staver) **`MD-` `Monet` `Multi`**
 	- [DankChat](https://github.com/flex3r/DankChat) **`Full`**
-	- [FluffyChat](https://gitlab.com/famedly/fluffychat) **`Full` `Multi`**
 	- [Blog2App](https://play.google.com/store/apps/details?id=com.boltuix.blogtoapp) **`MD`**
 ---
 ### [🎵Media](#applist-menu)
@@ -418,6 +427,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
 	- [VueTube](https://github.com/VueTubeApp/VueTube) **`Full`**
 	- [Clipious](https://github.com/lamarios/clipious) **`MD`**
 	- [Vanced MicroG](https://github.com/cuynu/VancedMicroG) **`Monet`**
+	- [Lighttube](https://github.com/kuylar/lighttube-android) **`TODO`**
 - **Youtube Music Clients**
 	- [ViMusic](https://github.com/vfsfitvnm/ViMusic) **`MD` `Multi`**
 	- [Vibe Music](https://github.com/sheikhhaziq/vibemusic) **`Full`**
@@ -564,7 +574,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
 	- [Putin Box](https://www.coolapk.com/apk/cards.putin.box) **`MD-`**
 	- [Hammer](https://github.com/Wavesonics/hammer-editor) **`MD`**
 ---
-### [🖼️Picture](#applist-menu)
+### [🖼️Pictures](#applist-menu)
 - **Camera**
 	- [Simple Camera](https://github.com/SimpleMobileTools/Simple-Camera) **`Full`**
 	- [Selfie Time Lapse](https://play.google.com/store/apps/details?id=com.isidroid.sfa) **`MD`**
@@ -704,6 +714,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
 	- [wX](https://gitlab.com/joshua.tee/wx) **`MD-`**
 	- [WeatherYou](https://play.google.com/store/apps/details?id=com.rodrigmatrix.weatheryou) **`Full` `Multi`**
 	- [Cloud Bits](https://github.com/Saronik5883/Cloud-Bits) **`TODO`**
+	- [QWeather](https://github.com/Henry-Hiles/QWeather) **`Full`**
 - **Maps & Navigation**
 	- [BTC Map](https://github.com/teambtcmap/btcmap-android) **`MD-`**
 	- [Tridenta](https://github.com/Stypox/tridenta) **`Full`**
@@ -760,6 +771,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
    	- [English with Lidia Plus](https://github.com/D4rK7355608/com.d4rk.englishwithlidia.plus) **`Full`**
    	- [reSentral](https://github.com/JumpyJacko/resentral_flutter) **`MD`**
    	- [Wulkanowy](https://github.com/wulkanowy/wulkanowy) **`MD-` `Monet`**
+   	- [Rozvrh](https://github.com/marek-guran/Rozvrh-App-Public) **`TODO`**
 - **Tracking Services**
 	- [MyACG](https://1drv.ms/u/s!Atk49Scq_BtYhGnlrCISLKe5fG3A?e=BIvlj6) **`MD`**
 	- [Cinexplore](https://play.google.com/store/apps/details?id=com.fidloo.cinexplore) **`Full` `Multi`**
@@ -780,14 +792,23 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
 	- [Nekome](https://github.com/Chesire/Nekome) **`Full`**
 - **Stocks**
    	- [Stocks Widget](https://github.com/premnirmal/StockTicker) **`MD-` `Monet`**
+- **Traffic**
+   	- [Traewelldroid](https://github.com/Traewelldroid/traewelldroid) **`MD`**
+   	- [Ridebus](https://github.com/ridebus-by/ridebus) **`TODO`**
+- **Planting**
+   	- [Taru](https://github.com/nirajprakash/taru-plants-android) **`MD`**
+- **Babysitting**
+   	- [Babysafe](https://play.google.com/store/apps/details?id=at.techbee.babysafe) **`MD`**
+- **Competition**
+   	- [OpenBl](https://github.com/Ounzy/OpenBl) **`Full`**
+   	- [FRCFrenzy](https://github.com/galaxygoldfish/FRCFrenzy) **`TODO`**
 - **Others**
-   	- [OpenBl](https://github.com/Ounzy/OpenBl) **`Full`**   
    	- [openHAB](https://github.com/openhab/openhab-android) / [LogViewer for openHAB-App](https://github.com/cyb3rko/logviewer-for-openhab-app) **`Full`**
    	- [Lis10](https://play.google.com/store/apps/details?id=com.urbandroid.lis10) **`Full`**
    	- [Universal Remote for Smart TVs](https://play.google.com/store/apps/details?id=com.quanticapps.universalremote) **`Full` `Multi`**
    	- [SpaceHub](https://github.com/LPirro/SpaceHub) **`TODO`**
 	- [MemorizeApp](https://github.com/SuhasDissa/MemerizeApp) **`Full`**
-   	- [Traewelldroid](https://github.com/Traewelldroid/traewelldroid) **`MD`**   
+	- [Ridna](https://github.com/nexy791/Ridna) **`Full`**
 ---
 ### [🖌️Theming](#applist-menu)
 - **Launcher**    
@@ -968,6 +989,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
    	- [Crypto](https://play.google.com/store/apps/details?id=com.kokoschka.michael.crypto) **`Full`**
    	- [AnonAddy](https://gitlab.com/Stjin/anonaddy-android) **`MD`**
    	- [Hypatia](https://gitlab.com/divested-mobile/hypatia) **`Monet`**
+   	- [LibrePass](https://github.com/LibrePass/android) **`Full`**
 - **Equalizer**
    	- [Wavelet](https://github.com/Pittvandewitt/Wavelet) **`Full`**
    	- [ViperFX RE](https://t.me/WSTprojects/1567) **`Full`**  
@@ -1032,6 +1054,9 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
    	- [Filter Box](https://www.coolapk.com/apk/com.catchingnow.np) **`MD-` `Monet`**
    	- [One Nofication](https://www.coolapk.com/apk/cn.skyrin.ntfh) **`MD`**
    	- [Flip Clock](https://play.google.com/store/apps/details?id=art.widgeet.android.clock.flip) **`Full`**
+- **Clipboard Manager**
+   	- [Memory Guardian](https://github.com/hashemi-hossein/memory-guardian) **`Full`**
+   	- [Clipboard Cleaner](https://github.com/thatsmanmeet/Clipboard-Cleaner) **`Monet`**
 - **Others**    
    	- [Data Monitor](https://github.com/itsdrnoob/DataMonitor) **`Full`**   
    	- [DarQ](https://github.com/KieronQuinn/DarQ) **`MD-`**
@@ -1384,6 +1409,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
    	- [Harry Potter](https://github.com/BENJAHJP/harrypotter) **`Full`**
    	- [PCR Tool](https://www.coolapk.com/apk/cn.wthee.pcrtool) **`Full` `Multi`**
    	- [Yumesuki](https://github.com/nullxception/yumetsuki) **`TODO`**
+   	- [Croissant](https://github.com/joeloewi7178/Croissant) **`Full` `Multi`**
 ---
 ### [🪄Monet Modules](#applist-menu)
 - [Monet-All](https://github.com/YangguangZhou/Monet-All)
