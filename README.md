@@ -370,6 +370,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
 - **Encrypted Chatting**
 	- [FluffyChat](https://gitlab.com/famedly/fluffychat) **`Full` `Multi`**
 	- [Signal You](https://github.com/nekorubu/Signal-You) **`MD`**
+	- [E2E Encrypted Chat](https://github.com/Project-Based-Learning-IT/e2ee-chat) **`TODO`**
 - **Reddit Clients**
 	- [Sync for Reddit](https://play.google.com/store/apps/details?id=com.laurencedawson.reddit_sync) **`Full` `Multi`**
 	- [Karma for Reddit](https://play.google.com/store/apps/details?id=com.brianrobles204.karmamachine_flutter) **`Full`**
@@ -413,7 +414,6 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
 - **Others**
 	- [Kizzy](https://github.com/dead8309/Kizzy) **`Full`**
 	- [LiPari](https://github.com/Stamir36/LiPari-Android) **`Full` `Multi`**
-	- [E2E Encrypted Chat](https://github.com/Project-Based-Learning-IT/e2ee-chat) **`TODO`**
 	- [PixelDroid](https://github.com/H-PixelDroid/PixelDroid) **`MD`**
 	- [Staver](https://play.google.com/store/apps/details?id=com.anafthdev.staver) **`MD-` `Monet` `Multi`**
 	- [DankChat](https://github.com/flex3r/DankChat) **`Full`**
@@ -1057,6 +1057,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
 - **Clipboard Manager**
    	- [Memory Guardian](https://github.com/hashemi-hossein/memory-guardian) **`Full`**
    	- [Clipboard Cleaner](https://github.com/thatsmanmeet/Clipboard-Cleaner) **`Monet`**
+   	- [Drag and Drop Transfer Station Lite](https://gitee.com/Jesse205/DragAndDropTransferStationLite) **`Monet`**
 - **Others**    
    	- [Data Monitor](https://github.com/itsdrnoob/DataMonitor) **`Full`**   
    	- [DarQ](https://github.com/KieronQuinn/DarQ) **`MD-`**
@@ -1244,7 +1245,6 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
    	- [Pocket Mode](https://play.google.com/store/apps/details?id=com.artemchep.pocketmode) **`Full`**
    	- [FontConverter](https://github.com/123Duo3/FontConverter) **`Full` `Multi`**
    	- [Secret Screenshots](https://play.google.com/store/apps/details?id=com.lware.secret_screenshots) **`MD`**
-   	- [Drag and Drop Transfer Station Lite](https://gitee.com/Jesse205/DragAndDropTransferStationLite) **`Monet`**
    	- [Textbender](https://github.com/elizagamedev/android-textbender) **`Monet`**
    	- [Simple Thank You](https://github.com/SimpleMobileTools/Simple-Thank-You) **`Full`**
    	- [Life Chest](https://github.com/theskyblockman/life-chest) **`Full`**
