@@ -117,6 +117,7 @@ Material Design 3伴随着Android 12而来。它的诞生，彻底改变了人�
 	- **拨号**
 	- **短信**
 	- **Telegram第三方**
+	- **加密聊天软件**
 	- **Reddit第三方**
 	- **Discord第三方**
 	- **Instagram第三方**
@@ -177,6 +178,10 @@ Material Design 3伴随着Android 12而来。它的诞生，彻底改变了人�
 	- **学习**
 	- **追踪管理**
 	- **股票**
+	- **交通**
+	- **种花种草**
+	- **比赛**
+	- **儿童服务**
 	- **其他**
 - **[🖌️ 主题美化](#%EF%B8%8F%E4%B8%BB%E9%A2%98%E7%BE%8E%E5%8C%96)**
 	- **启动器**
@@ -206,6 +211,7 @@ Material Design 3伴随着Android 12而来。它的诞生，彻底改变了人�
 	- **链接处理**
 	- **安装器**
 	- **通知过滤**
+	- **剪贴板管理**
 	- **其他**
 - **[🧰 小工具](#小工具)**
 	- **下载器**
@@ -298,7 +304,7 @@ Material Design 3伴随着Android 12而来。它的诞生，彻底改变了人�
 - [Taiga Mobile](https://github.com/EugeneTheDev/TaigaMobile) **`Full`**
 - [Clipboard Cleaner](https://github.com/thatsmanmeet/Clipboard-Cleaner) **`Monet`**
 - [Babysafe](https://play.google.com/store/apps/details?id=at.techbee.babysafe) **`MD`**
-- [Menory Grardian](https://github.com/hashemi-hossein/memory-guardian) **`Full`**
+- [Memory Guardian](https://github.com/hashemi-hossein/memory-guardian) **`Full`**
 ## 📱应用列表
 **点击标题即可回到目录XD**
 ### 🦖[谷歌应用](#目录)
@@ -406,6 +412,10 @@ Material Design 3伴随着Android 12而来。它的诞生，彻底改变了人�
 	- [Lilgram](https://github.com/lilchill666/LilGram) **`Full` `Multi`**
 	- [Nagram](https://github.com/NextAlone/Nagram) **`Monet`**
 	- [Nekogram](https://nekogram.app/) **`Monet`**
+- **加密聊天软件**
+	- [Signal You](https://github.com/nekorubu/Signal-You) **`MD`**
+	- [FluffyChat](https://gitlab.com/famedly/fluffychat) **`Full` `Multi`**
+	- [E2E Encrypted Chat](https://github.com/Project-Based-Learning-IT/e2ee-chat) **`TODO`**
 - **Reddit第三方**
 	- [Sync for Reddit](https://play.google.com/store/apps/details?id=com.laurencedawson.reddit_sync) **`Full` `Multi`**
 	- [Karma for Reddit](https://play.google.com/store/apps/details?id=com.brianrobles204.karmamachine_flutter) **`Full`**
@@ -440,6 +450,7 @@ Material Design 3伴随着Android 12而来。它的诞生，彻底改变了人�
 	- [Stack for Stack Overflow](https://play.google.com/store/apps/details?id=me.tylerbwong.stack) **`Full`**
 	- [HACG](https://github.com/shizheng233/HACG) **`Full`**
 	- [xland](https://github.com/re-ovo/xland) **`TODO`**
+	- [Taiga Mobile](https://github.com/EugeneTheDev/TaigaMobile) **`Full`**
 - **邮件**
    	- [Spark邮箱](https://play.google.com/store/apps/details?id=com.readdle.spark) **`Full`**    
    	- [Informaniak KMail](https://github.com/Infomaniak/android-kMail) **`Full`**    
@@ -447,11 +458,9 @@ Material Design 3伴随着Android 12而来。它的诞生，彻底改变了人�
 - **其他**
 	- [Kizzy](https://github.com/dead8309/Kizzy) **`Full`**
 	- [LiPari](https://github.com/Stamir36/LiPari-Android) **`Full` `Multi`**
-	- [E2E Encrypted Chat](https://github.com/Project-Based-Learning-IT/e2ee-chat) **`TODO`**
 	- [PixelDroid](https://github.com/H-PixelDroid/PixelDroid) **`MD`**
 	- [Staver](https://play.google.com/store/apps/details?id=com.anafthdev.staver) **`MD-` `Monet` `Multi`**
 	- [DankChat](https://github.com/flex3r/DankChat) **`Full`**
-	- [FluffyChat](https://gitlab.com/famedly/fluffychat) **`Full` `Multi`**
 	- [Blog2App](https://play.google.com/store/apps/details?id=com.boltuix.blogtoapp) **`MD`**
 ---
 ## [🎵媒体播放](#目录)
@@ -463,6 +472,7 @@ Material Design 3伴随着Android 12而来。它的诞生，彻底改变了人�
 	- [VueTube](https://github.com/VueTubeApp/VueTube) **`Full`**
 	- [Clipious](https://github.com/lamarios/clipious) **`MD`**
 	- [Vanced MicroG](https://github.com/cuynu/VancedMicroG) **`Monet`**
+	- [Lighttube](https://github.com/kuylar/lighttube-android) **`TODO`**
 - **YouTube Music第三方**
 	- [ViMusic](https://github.com/vfsfitvnm/ViMusic) **`MD` `Multi`**
 	- [Vibe Music](https://github.com/sheikhhaziq/vibemusic) **`Full`**
@@ -748,6 +758,7 @@ Material Design 3伴随着Android 12而来。它的诞生，彻底改变了人�
 	- [wX](https://gitlab.com/joshua.tee/wx) **`MD-`**
 	- [Cloud Bits](https://github.com/Saronik5883/Cloud-Bits) **`TODO`**
 	- [WeatherYou](https://play.google.com/store/apps/details?id=com.rodrigmatrix.weatheryou) **`Full` `Multi`**
+	- [QWeather](https://github.com/Henry-Hiles/QWeather) **`Full`**
 - **地图导航**
 	- [BTC Map](https://github.com/teambtcmap/btcmap-android) **`MD-`**
 	- [Tridenta](https://github.com/Stypox/tridenta) **`Full`**
@@ -804,6 +815,7 @@ Material Design 3伴随着Android 12而来。它的诞生，彻底改变了人�
 	- [English with Lidia Plus](https://github.com/D4rK7355608/com.d4rk.englishwithlidia.plus) **`Full`**
 	- [reSentral](https://github.com/JumpyJacko/resentral_flutter) **`MD`**
 	- [Wulkanowy](https://github.com/wulkanowy/wulkanowy) **`MD-` `Monet`**
+	- [Rozvrh](https://github.com/marek-guran/Rozvrh-App-Public) **`TODO`**
 - **追踪管理**
 	- [MyACG](https://busisu.lanzoub.com/iHM710u8lvbc) (密码2tka) **`MD`**
 	- [Cinexplore](https://play.google.com/store/apps/details?id=com.fidloo.cinexplore) **`Full` `Multi`**
@@ -824,14 +836,23 @@ Material Design 3伴随着Android 12而来。它的诞生，彻底改变了人�
 	- [Nekome](https://github.com/Chesire/Nekome) **`Full`**
 - **股票**
    	- [Stocks Widget](https://github.com/premnirmal/StockTicker) **`MD-` `Monet`**
-- **其他**
+- **交通**
+   	- [Traewelldroid](https://github.com/Traewelldroid/traewelldroid) **`MD`**
+   	- [Ridebus](https://github.com/ridebus-by/ridebus) **`TODO`**
+- **种花种草**
+   	- [Taru](https://github.com/nirajprakash/taru-plants-android) **`MD`**
+- **比赛**
+	- [FRCFrenzy](https://github.com/galaxygoldfish/FRCFrenzy) **`TODO`**
 	- [OpenBl](https://github.com/Ounzy/OpenBl) **`Full`**
+- **儿童服务**
+   	- [Babysafe](https://play.google.com/store/apps/details?id=at.techbee.babysafe) **`MD`**
+- **其他**
 	- [openHAB](https://github.com/openhab/openhab-android) / [LogViewer for openHAB-App](https://github.com/cyb3rko/logviewer-for-openhab-app) **`Full`**
 	- [Lis10](https://play.google.com/store/apps/details?id=com.urbandroid.lis10) **`Full`**
 	- [Universal Remote for Smart TVs](https://play.google.com/store/apps/details?id=com.quanticapps.universalremote) **`Full` `Multi`**
 	- [SpaceHub](https://github.com/LPirro/SpaceHub) **`TODO`**
 	- [MemorizeApp](https://github.com/SuhasDissa/MemerizeApp) **`Full`**
-   	- [Traewelldroid](https://github.com/Traewelldroid/traewelldroid) **`MD`**  
+	- [Ridna](https://github.com/nexy791/Ridna) **`Full`**
 ---
 ## [🖌️主题美化](#目录)
 - **启动器**
@@ -1009,6 +1030,7 @@ Material Design 3伴随着Android 12而来。它的诞生，彻底改变了人�
    	- [Crypto](https://play.google.com/store/apps/details?id=com.kokoschka.michael.crypto) **`Full`**
    	- [AnonAddy](https://gitlab.com/Stjin/anonaddy-android) **`MD`**
    	- [Hypatia](https://gitlab.com/divested-mobile/hypatia) **`Monet`**
+   	- [LibrePass](https://github.com/LibrePass/android) **`Full`**
 - **均衡器**
    	- [Wavelet](https://github.com/Pittvandewitt/Wavelet) **`Full`**
    	- [ViperFX RE](https://t.me/WSTprojects/1567) **`Full`**  
@@ -1073,6 +1095,10 @@ Material Design 3伴随着Android 12而来。它的诞生，彻底改变了人�
    	- [通知滤盒](https://www.coolapk.com/apk/com.catchingnow.np) **`MD-` `Monet`**
    	- [一条通知](https://www.coolapk.com/apk/cn.skyrin.ntfh) **`MD`**
    	- [NITM](https://github.com/deskbtm/nitmgpt) **`MD`**
+- **剪贴板管理**
+   	- [Memory Guardian](https://github.com/hashemi-hossein/memory-guardian) **`Full`**
+   	- [Clipboard Cleaner](https://github.com/thatsmanmeet/Clipboard-Cleaner) **`Monet`**
+   	- [Drag and Drop Transfer Station Lite](https://gitee.com/Jesse205/DragAndDropTransferStationLite) **`Monet`**
 - **其他**
    	- [Data Monitor](https://github.com/itsdrnoob/DataMonitor) **`Full`**   
    	- [DarQ](https://github.com/KieronQuinn/DarQ) **`MD-`**
@@ -1260,7 +1286,6 @@ Material Design 3伴随着Android 12而来。它的诞生，彻底改变了人�
    	- [Pocket Mode](https://play.google.com/store/apps/details?id=com.artemchep.pocketmode) **`Full`**
    	- [FontConverter](https://github.com/123Duo3/FontConverter) **`Full` `Multi`**
    	- [Secret Screenshots](https://play.google.com/store/apps/details?id=com.lware.secret_screenshots) **`MD`**
-   	- [Drag and Drop Transfer Station Lite](https://gitee.com/Jesse205/DragAndDropTransferStationLite) **`Monet`**
    	- [Textbender](https://github.com/elizagamedev/android-textbender) **`Monet`**
    	- [Simple Thank You](https://github.com/SimpleMobileTools/Simple-Thank-You) **`Full`**
    	- [Life Chest](https://github.com/theskyblockman/life-chest) **`Full`**
@@ -1425,6 +1450,7 @@ Material Design 3伴随着Android 12而来。它的诞生，彻底改变了人�
    	- [Harry Potter](https://github.com/BENJAHJP/harrypotter) **`Full`**
    	- [PCR Tool](https://www.coolapk.com/apk/cn.wthee.pcrtool) **`Full` `Multi`**
    	- [Yumesuki](https://github.com/nullxception/yumetsuki) **`TODO`**
+   	- [Croissant](https://github.com/joeloewi7178/Croissant) **`Full` `Multi`**
 ---
 ### [🪄Monet取色修改模块](#目录)
 - [Monet-All](https://github.com/YangguangZhou/Monet-All)（为微信、B站等应用添加Monet取色）
