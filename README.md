@@ -77,7 +77,9 @@ However in fact, sometimes Material You refers to the application which (may onl
 	- **Discord Clients**
 	- **Instagram Clients**
 	- **Twitter Clients**
-	- **Other DAO Social Applications (with Mastodon Clients)**
+	- **Mastodon Clients**
+	- **Lemmy Clients**
+	- **Other DAO Social Applications**
 	- **BBS**
 	- **Mail**  
 	- **Others**
@@ -263,6 +265,8 @@ However in fact, sometimes Material You refers to the application which (may onl
 - [Whicons](https://play.google.com/store/apps/details?id=com.whicons.iconpack) **`Full`**
 - [Dymka](https://github.com/nexy791/dymka) **`MD` `FOSS`**
 - [TZI](https://github.com/marek-guran/TZI_app) **`Full` `FOSS`**
+- [Engine](https://github.com/whitescent/Engine) **`Full` `FOSS`**
+- [Thunder](https://github.com/hjiangsu/thunder) **`MD` `FOSS`**
 ## 📱Applist
 **Now you could click the title to return to the applist menu!**
 ### 🦖[Google Apps](#applist-menu)
@@ -395,15 +399,18 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
 	- [Albatross for Twitter](https://play.google.com/store/apps/details?id=com.nick.mowen.albatross) **`Monet`**
 	- [FocusTwitter](https://play.google.com/store/apps/details?id=allen.town.focus.twitter) **`Full` `Multi`**
 	- [Quacker](https://apt.izzysoft.de/fdroid/index/apk/com.thehcj.quacker) **`MD-`**
-- **Other DAO Social Applications (with Mastodon Clients)**
+- **Mastodon Clients**
 	- [Moshidon](https://github.com/LucasGGamerM/moshidon) **`Full`**
 	- [Megalodon for Mastodon](https://github.com/sk22/megalodon) **`Full`**
+	- [Focus for Mastodon](https://play.google.com/store/apps/details?id=allen.town.focus.mastodon) **`Full` `💴`**
+- **Lemmy Clients**
+	- [Jerboa for Lemmy](https://github.com/dessalines/jerboa) **`Full`**
+	- [Thunder](https://github.com/hjiangsu/thunder) **`MD` `FOSS`**
+- **Other DAO Social Applications**
 	- [Nostros](https://github.com/KoalaSat/nostros) **`MD-`**
 	- [Kaiteki](https://github.com/Kaiteki-Fedi/Kaiteki) **`Full` `Multi`**
-	- [Jerboa for Lemmy](https://github.com/dessalines/jerboa) **`Full`**
 	- [Fedilab](https://codeberg.org/tom79/Fedilab) **`MD`**
 	- [Hejtter](https://github.com/mateusz-bak/hejtter) **`MD`**
-	- [Focus for Mastodon](https://play.google.com/store/apps/details?id=allen.town.focus.mastodon) **`Full` `💴`**
 - **BBS**
 	- [msea](https://github.com/eternaljust/msea-compose) **`Full`**
 	- [vvex](https://github.com/guozhigq/flutter_v2ex) **`Full` `Multi`**
@@ -1372,7 +1379,8 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
    	- [Rekado](https://github.com/MenosGrante/Rekado) **`Full`**    
    	- [JoiPlay](https://joiplay.org/) **`Full`**    
    	- [Dolphin Emulator](https://github.com/dolphin-emu/dolphin) **`MD`**
-   	- [Yuzu Emulator](https://github.com/yuzu-emu/yuzu) **`Full` `Multi`** 
+   	- [Yuzu Emulator](https://github.com/yuzu-emu/yuzu) **`Full` `Multi`**
+   	- [Engine](https://github.com/whitescent/Engine) **`Full` `FOSS`**
 - **Instruments**    
    	- [Metronome](https://github.com/Kr0oked/Metronome) **`MD-` `Monet`**
    	- [Tuner](https://github.com/thetwom/Tuner) **`MD-` `Monet`**
