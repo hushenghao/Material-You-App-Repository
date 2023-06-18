@@ -122,7 +122,9 @@ Material Design 3伴随着Android 12而来。它的诞生，彻底改变了人�
 	- **Discord第三方**
 	- **Instagram第三方**
 	- **Twitter第三方**
-	- **其他去中心化社交平台（含Mastodon第三方）**
+	- **Mastodon第三方**
+	- **Lemmy第三方**
+	- **其他去中心化社交平台**
 	- **论坛**
 	- **邮件**
 	- **其他**
@@ -310,6 +312,8 @@ Material Design 3伴随着Android 12而来。它的诞生，彻底改变了人�
 - [Whicons](https://play.google.com/store/apps/details?id=com.whicons.iconpack) **`Full`**
 - [Dymka](https://github.com/nexy791/dymka) **`MD` `FOSS`**
 - [TZI](https://github.com/marek-guran/TZI_app) **`Full` `FOSS`**
+- [Engine](https://github.com/whitescent/Engine) **`Full` `FOSS`**
+- [Thunder](https://github.com/hjiangsu/thunder) **`MD` `FOSS`**
 ## 📱应用列表
 **点击标题即可回到目录XD**
 ### 🦖[谷歌应用](#目录)
@@ -438,15 +442,18 @@ Material Design 3伴随着Android 12而来。它的诞生，彻底改变了人�
 	- [Albatross for Twitter](https://play.google.com/store/apps/details?id=com.nick.mowen.albatross) **`Monet`**
 	- [FocusTwitter](https://play.google.com/store/apps/details?id=allen.town.focus.twitter) **`Full` `Multi`**
 	- [Quacker](https://apt.izzysoft.de/fdroid/index/apk/com.thehcj.quacker) **`MD-`**
-- **其他去中心化社交平台（含Mastodon第三方）**
+- **Mastodon第三方**
 	- [Moshidon](https://github.com/LucasGGamerM/moshidon) **`Full`**
 	- [Megalodon for Mastodon](https://github.com/sk22/megalodon) **`Full`**
-	- [Kaiteki](https://github.com/Kaiteki-Fedi/Kaiteki) **`Full` `Multi`**
-	- [Nostros](https://github.com/KoalaSat/nostros) **`MD-`**
+	- [Focus for Mastodon](https://play.google.com/store/apps/details?id=allen.town.focus.mastodon) **`Full` `💴`**
+- **Lemmy第三方**
 	- [Jerboa for Lemmy](https://github.com/dessalines/jerboa) **`Full`**
+	- [Thunder](https://github.com/hjiangsu/thunder) **`MD` `FOSS`**
+- **其他去中心化社交平台**
+	- [Nostros](https://github.com/KoalaSat/nostros) **`MD-`**
+	- [Kaiteki](https://github.com/Kaiteki-Fedi/Kaiteki) **`Full` `Multi`**
 	- [Fedilab](https://codeberg.org/tom79/Fedilab) **`MD`**
 	- [Hejtter](https://github.com/mateusz-bak/hejtter) **`MD`**
-	- [Focus for Mastodon](https://play.google.com/store/apps/details?id=allen.town.focus.mastodon) **`Full` `💴`**
 - **论坛**
 	- [vvex](https://github.com/guozhigq/flutter_v2ex) **`Full` `Multi`**
 	- [v2compose](https://github.com/cooaer/v2compose) **`Full`**
@@ -1412,7 +1419,8 @@ Material Design 3伴随着Android 12而来。它的诞生，彻底改变了人�
    	- [Rekado](https://github.com/MenosGrante/Rekado) **`Full`**    
    	- [JoiPlay](https://joiplay.org/) **`Full`**    
    	- [Dolphin Emulator](https://github.com/dolphin-emu/dolphin) **`MD`** 
-   	- [Yuzu Emulator](https://github.com/yuzu-emu/yuzu) **`Full` `Multi`** 
+   	- [Yuzu Emulator](https://github.com/yuzu-emu/yuzu) **`Full` `Multi`**
+   	- [Engine](https://github.com/whitescent/Engine) **`Full` `FOSS`**
 - **乐器弹奏**
    	- [Metronome](https://github.com/Kr0oked/Metronome) **`MD-` `Monet`**
    	- [Tuner](https://github.com/thetwom/Tuner) **`MD-` `Monet`**  
