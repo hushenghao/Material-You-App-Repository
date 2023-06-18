@@ -176,6 +176,7 @@ Material Design 3伴随着Android 12而来。它的诞生，彻底改变了人�
 	- **每日一言**
 	- **健康习惯**
 	- **学习**
+	- **语言学习**
 	- **追踪管理**
 	- **股票**
 	- **交通**
@@ -305,6 +306,10 @@ Material Design 3伴随着Android 12而来。它的诞生，彻底改变了人�
 - [Clipboard Cleaner](https://github.com/thatsmanmeet/Clipboard-Cleaner) **`Monet`**
 - [Babysafe](https://play.google.com/store/apps/details?id=at.techbee.babysafe) **`MD`**
 - [Memory Guardian](https://github.com/hashemi-hossein/memory-guardian) **`Full`**
+- [Zwart](https://play.google.com/store/apps/details?id=com.blackiconpack.zwart) **`Full`**
+- [Whicons](https://play.google.com/store/apps/details?id=com.whicons.iconpack) **`Full`**
+- [Dymka](https://github.com/nexy791/dymka) **`MD` `FOSS`**
+- [TZI](https://github.com/marek-guran/TZI_app) **`Full` `FOSS`**
 ## 📱应用列表
 **点击标题即可回到目录XD**
 ### 🦖[谷歌应用](#目录)
@@ -803,19 +808,21 @@ Material Design 3伴随着Android 12而来。它的诞生，彻底改变了人�
 	- [Graded](https://github.com/NightDreamGames/Graded) **`Full`**
 	- [School Planner](https://play.google.com/store/apps/details?id=daldev.android.gradehelper) **`Full` `Multi`**
 	- [旦夕](https://github.com/DanXi-Dev/DanXi/tree/foss-build) **`MD` `Multi`**
+	- [WakeUp课程表](https://www.coolapk.com/apk/com.suda.yzune.wakeupschedule) **`Full` `Multi`**
+	- [School](https://play.google.com/store/apps/details?id=com.dan.school) **`MD`**
+	- [Atomic](https://github.com/JLindemann42/Atomic-Periodic-Table.Android) **`Full`**
+	- [reSentral](https://github.com/JumpyJacko/resentral_flutter) **`MD`**
+	- [Wulkanowy](https://github.com/wulkanowy/wulkanowy) **`MD-` `Monet`**
+	- [Rozvrh](https://github.com/marek-guran/Rozvrh-App-Public) **`TODO`**
+- **语言学习**
 	- [Owl](https://github.com/yamin8000/Owl2) **`Full`**
 	- [Kanji Dojo](https://github.com/syt0r/Kanji-Dojo) **`MD` `Multi`**
 	- [Fun with Kanji](https://gitlab.com/KrilleFear/funny-kanji) **`Full`**
 	- [Quaetor](https://play.google.com/store/apps/details?id=com.cyb3rko.quaetor) **`MD`**
 	- [Der Die Das](https://play.google.com/store/apps/details?id=com.lubosmikusiak.articuli.derdiedas) **`MD-`**
 	- [99 Names Of Allah](https://play.google.com/store/apps/details?id=com.appsforall.ninetyninenamesofallah) **`MD`**
-	- [WakeUp课程表](https://www.coolapk.com/apk/com.suda.yzune.wakeupschedule) **`Full` `Multi`**
-	- [School](https://play.google.com/store/apps/details?id=com.dan.school) **`MD`**
-	- [Atomic](https://github.com/JLindemann42/Atomic-Periodic-Table.Android) **`Full`**
 	- [English with Lidia Plus](https://github.com/D4rK7355608/com.d4rk.englishwithlidia.plus) **`Full`**
-	- [reSentral](https://github.com/JumpyJacko/resentral_flutter) **`MD`**
-	- [Wulkanowy](https://github.com/wulkanowy/wulkanowy) **`MD-` `Monet`**
-	- [Rozvrh](https://github.com/marek-guran/Rozvrh-App-Public) **`TODO`**
+	- [Dymka](https://github.com/nexy791/dymka) **`MD` `FOSS`**
 - **追踪管理**
 	- [MyACG](https://busisu.lanzoub.com/iHM710u8lvbc) (密码2tka) **`MD`**
 	- [Cinexplore](https://play.google.com/store/apps/details?id=com.fidloo.cinexplore) **`Full` `Multi`**
@@ -857,7 +864,7 @@ Material Design 3伴随着Android 12而来。它的诞生，彻底改变了人�
 ## [🖌️主题美化](#目录)
 - **启动器**
    	- [Niagara Launcher](https://play.google.com/store/apps/details?id=bitpit.launcher) **`Full` `Multi`**    
-   	- [Lawnchair](https://t.me/youthkinga/6339) (A13) **`Full` `Multi`**    
+   	- [Lawnchair](https://github.com/LawnchairLauncher/lawnchair) **`Full` `Multi`**    
    	- [Simple Launcher](https://github.com/SimpleMobileTools/Simple-App-Launcher) **`Full` `Multi`**    
    	- [Lunar Launcher](https://github.com/iamrasel/lunar-launcher) **`Full` `Multi`**
    	- [Pixel Launcher Extended](https://github.com/saitamasahil/Pixel-Launcher-Extended) **`Full` `Multi`**    
@@ -902,7 +909,7 @@ Material Design 3伴随着Android 12而来。它的诞生，彻底改变了人�
    	- [Music Live Wallpaper](https://play.google.com/store/apps/details?id=com.lstapps.musiclivewallpaper) **`MD`**
 - **图标包**
    	- [Liquor](https://gaopengk.github.io/2022/08/26/%E6%9B%B4%E6%96%B0-Liquor-%E5%9B%BE%E6%A0%87/) **`Full`**
-   	- [LawnIcons](https://www.apkmirror.com/apk/lawnchair/lawnicons/lawnicons-2-0-0-release/lawnicons-2-0-0-android-apk-download/) **`Full`**
+   	- [LawnIcons](https://github.com/LawnchairLauncher/lawnicons) **`Full`**
    	- [纯净图标包](https://www.coolapk.com/apk/com.panpandada.pure) **`Full`**
    	- [Bar](https://www.coolapk.com/apk/com.bar.iconpack) **`Full`**    
    	- [Cayicons](https://www.coolapk.com/apk/app.lawnchair.lawnicons) **`Full`**    
@@ -927,6 +934,8 @@ Material Design 3伴随着Android 12而来。它的诞生，彻底改变了人�
    	- [DGIcons](https://t.me/MaterialYouAppsChat/2362)  **`Full`**
    	- [Giga Icon](https://play.google.com/store/apps/details?id=it.mirko.gigaicon) **`Full`**
    	- [BluePrint](https://github.com/jahirfiquitiva/Blueprint) **`Full` `FOSS`**
+   	- [Whicons](https://play.google.com/store/apps/details?id=com.whicons.iconpack) **`Full`**
+   	- [Zwart](https://play.google.com/store/apps/details?id=com.blackiconpack.zwart) **`Full`**
 - **微件/KWGT**
    	- [Blur for You](https://www.coolapk.com/apk/com.riv3rdesign.you) **`MD-` `Monet`**    
    	- [Android 12 Clock Widget](https://play.google.com/store/apps/details?id=twelve.clock.mibrahim) **`Full`**    
@@ -1410,7 +1419,8 @@ Material Design 3伴随着Android 12而来。它的诞生，彻底改变了人�
 - **智力问答**
    	- [Trivia You](https://github.com/Bnyro/TriviaYou) **`Full`** 
    	- [New Quiz](https://github.com/joaomanaia/newquiz) **`Full`**
-   	- [TKCompaionApp](https://codeberg.org/marco.bresciani/TKCompanionApp) **`Full`** 
+   	- [TKCompaionApp](https://codeberg.org/marco.bresciani/TKCompanionApp) **`Full`**
+   	- [TZI](https://github.com/marek-guran/TZI_app) **`Full` `FOSS`**
 - **数独**
    	- [LibreSudoku](https://github.com/kaajjo/Libre-Sudoku) **`Full`**
    	- [Saku](https://play.google.com/store/apps/details?id=com.anafthdev.saku) **`Full`**
