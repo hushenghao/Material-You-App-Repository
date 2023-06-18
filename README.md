@@ -135,7 +135,7 @@ However in fact, sometimes Material You refers to the application which (may onl
 	- **Traffic**
 	- **Planting**
 	- **Babysitting**
-	- **Conpetitions**
+	- **Competitions**
 	- **Others**
 - **[🖌️ Theming](#%EF%B8%8Ftheming)**
 	- **Launcher** 
