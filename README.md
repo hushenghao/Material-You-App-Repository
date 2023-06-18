@@ -130,6 +130,7 @@ However in fact, sometimes Material You refers to the application which (may onl
 	- **Quote**
 	- **Health & Habits**
 	- **Study**
+	- **Language Learning**
 	- **Tracking Services**
 	- **Stocks**
 	- **Traffic**
@@ -212,7 +213,7 @@ However in fact, sometimes Material You refers to the application which (may onl
 - **[🎮 Games](#games)**
 	- **Emulator** 
 	- **Instruments** 
-	- **Trivia**
+	- **Quiz**
 	- **Sudoku**
 	- **Tic Tac Toe**
 	- **Counter**
@@ -258,6 +259,10 @@ However in fact, sometimes Material You refers to the application which (may onl
 - [Clipboard Cleaner](https://github.com/thatsmanmeet/Clipboard-Cleaner) **`Monet`**
 - [Babysafe](https://play.google.com/store/apps/details?id=at.techbee.babysafe) **`MD`**
 - [Memory Guardian](https://github.com/hashemi-hossein/memory-guardian) **`Full`**
+- [Zwart](https://play.google.com/store/apps/details?id=com.blackiconpack.zwart) **`Full`**
+- [Whicons](https://play.google.com/store/apps/details?id=com.whicons.iconpack) **`Full`**
+- [Dymka](https://github.com/nexy791/dymka) **`MD` `FOSS`**
+- [TZI](https://github.com/marek-guran/TZI_app) **`Full` `FOSS`**
 ## 📱Applist
 **Now you could click the title to return to the applist menu!**
 ### 🦖[Google Apps](#applist-menu)
@@ -336,6 +341,7 @@ Below I provide links of some ported apps. The links must be incomplete, and wel
 	- [Clock](https://www.pling.com/p/1884299/) **`Full`**
 	- [Widget](https://www.pling.com/p/1884299/) **`Full`**
 	- [Calculator](https://www.pling.com/p/1884299/) **`Full`**
+	- Contacts **`Full`**
 - **Nothing OS**  
 	- [Weather](https://t.me/waifupx_official/205) **`MD`**
 - **Octavi OS**
@@ -759,19 +765,21 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
    	- [Graded](https://github.com/NightDreamGames/Graded) **`Full`**
    	- [School Planner](https://play.google.com/store/apps/details?id=daldev.android.gradehelper) **`Full` `Multi`**
    	- [Danxi](https://github.com/DanXi-Dev/DanXi/tree/foss-build) **`MD` `Multi`**
+   	- [WakeUp Scheduler](https://www.coolapk.com/apk/com.suda.yzune.wakeupschedule) **`Full` `Multi`**
+   	- [School](https://play.google.com/store/apps/details?id=com.dan.school) **`MD`**
+   	- [Atomic](https://github.com/JLindemann42/Atomic-Periodic-Table.Android) **`Full`**
+   	- [reSentral](https://github.com/JumpyJacko/resentral_flutter) **`MD`**
+   	- [Wulkanowy](https://github.com/wulkanowy/wulkanowy) **`MD-` `Monet`**
+   	- [Rozvrh](https://github.com/marek-guran/Rozvrh-App-Public) **`TODO`**
+- **Language Learning**
    	- [Owl](https://github.com/yamin8000/Owl2) **`Full`**
    	- [Kanji Dojo](https://github.com/syt0r/Kanji-Dojo) **`MD` `Multi`**
    	- [Fun with Kanji](https://gitlab.com/KrilleFear/funny-kanji) **`Full`**
    	- [Quaetor](https://play.google.com/store/apps/details?id=com.cyb3rko.quaetor) **`MD`**
    	- [Der Die Das](https://play.google.com/store/apps/details?id=com.lubosmikusiak.articuli.derdiedas) **`MD-`**
    	- [99 Names Of Allah](https://play.google.com/store/apps/details?id=com.appsforall.ninetyninenamesofallah) **`MD`**
-   	- [WakeUp Scheduler](https://www.coolapk.com/apk/com.suda.yzune.wakeupschedule) **`Full` `Multi`**
-   	- [School](https://play.google.com/store/apps/details?id=com.dan.school) **`MD`**
-   	- [Atomic](https://github.com/JLindemann42/Atomic-Periodic-Table.Android) **`Full`**
    	- [English with Lidia Plus](https://github.com/D4rK7355608/com.d4rk.englishwithlidia.plus) **`Full`**
-   	- [reSentral](https://github.com/JumpyJacko/resentral_flutter) **`MD`**
-   	- [Wulkanowy](https://github.com/wulkanowy/wulkanowy) **`MD-` `Monet`**
-   	- [Rozvrh](https://github.com/marek-guran/Rozvrh-App-Public) **`TODO`**
+   	- [Dymka](https://github.com/nexy791/dymka) **`MD` `FOSS`**
 - **Tracking Services**
 	- [MyACG](https://1drv.ms/u/s!Atk49Scq_BtYhGnlrCISLKe5fG3A?e=BIvlj6) **`MD`**
 	- [Cinexplore](https://play.google.com/store/apps/details?id=com.fidloo.cinexplore) **`Full` `Multi`**
@@ -813,7 +821,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
 ### [🖌️Theming](#applist-menu)
 - **Launcher**    
    	- [Niagara Launcher](https://play.google.com/store/apps/details?id=bitpit.launcher) **`Full` `Multi`**    
-   	- [Lawnchair](https://t.me/youthkinga/6339) (A13) **`Full` `Multi`**    
+   	- [Lawnchair](https://github.com/LawnchairLauncher/lawnchair) **`Full` `Multi`**    
    	- [Simple Launcher](https://github.com/SimpleMobileTools/Simple-App-Launcher) **`Full` `Multi`**    
    	- [Lunar Launcher](https://github.com/iamrasel/lunar-launcher) **`Full` `Multi`**
    	- [Pixel Launcher Extended](https://github.com/saitamasahil/Pixel-Launcher-Extended) **`Full` `Multi`**    
@@ -858,7 +866,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
    	- [Music Live Wallpaper](https://play.google.com/store/apps/details?id=com.lstapps.musiclivewallpaper) **`MD`**
 - **Icon Pack** 
    	- [Liquor](https://gaopengk.github.io/2022/08/26/%E6%9B%B4%E6%96%B0-Liquor-%E5%9B%BE%E6%A0%87/) **`Full`**
-   	- [LawnIcons](https://www.apkmirror.com/apk/lawnchair/lawnicons/lawnicons-2-0-0-release/lawnicons-2-0-0-android-apk-download/) **`Full`**
+   	- [LawnIcons](https://github.com/LawnchairLauncher/lawnicons) **`Full`**
    	- [Pure Iconpack](https://www.coolapk.com/apk/com.panpandada.pure) **`Full`**    
    	- [Bar](https://www.coolapk.com/apk/com.bar.iconpack) **`Full`**    
    	- [Cayicons](https://www.coolapk.com/apk/app.lawnchair.lawnicons) **`Full`**    
@@ -883,6 +891,8 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
    	- [DGIcons](https://t.me/MaterialYouAppsChat/2362)  **`Full`**
    	- [Giga Icon](https://play.google.com/store/apps/details?id=it.mirko.gigaicon) **`Full`**
    	- [BluePrint](https://github.com/jahirfiquitiva/Blueprint) **`Full` `FOSS`**
+   	- [Whicons](https://play.google.com/store/apps/details?id=com.whicons.iconpack) **`Full`**
+   	- [Zwart](https://play.google.com/store/apps/details?id=com.blackiconpack.zwart) **`Full`**
 - **Widget/KWGT**    
    	- [Blur for You](https://www.coolapk.com/apk/com.riv3rdesign.you) **`MD-` `Monet`**    
    	- [Android 12 Clock Widget](https://play.google.com/store/apps/details?id=twelve.clock.mibrahim) **`Full`**    
@@ -1366,10 +1376,11 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
 - **Instruments**    
    	- [Metronome](https://github.com/Kr0oked/Metronome) **`MD-` `Monet`**
    	- [Tuner](https://github.com/thetwom/Tuner) **`MD-` `Monet`**
-- **Trivia**
+- **Quiz**
    	- [Trivia You](https://github.com/Bnyro/TriviaYou) **`Full`** 
    	- [New Quiz](https://github.com/joaomanaia/newquiz) **`Full`**
-   	- [TKCompaionApp](https://codeberg.org/marco.bresciani/TKCompanionApp) **`Full`** 
+   	- [TKCompaionApp](https://codeberg.org/marco.bresciani/TKCompanionApp) **`Full`**
+   	- [TZI](https://github.com/marek-guran/TZI_app) **`Full` `FOSS`**
 - **Sudoku**
    	- [LibreSudoku](https://github.com/kaajjo/Libre-Sudoku) **`Full`**
    	- [Saku](https://play.google.com/store/apps/details?id=com.anafthdev.saku) **`Full`**
