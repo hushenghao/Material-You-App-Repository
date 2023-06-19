@@ -247,17 +247,6 @@ However in fact, sometimes Material You refers to the application which (may onl
 - [InstallerX](https://github.com/iamr0s/InstallerX) **`Full` `Multi`**
 - [Hail](https://github.com/aistra0528/Hail) **`Full` `Multi`**
 ## 🆕Newly Added Apps
-- [FRCFrenzy](https://github.com/galaxygoldfish/FRCFrenzy) **`TODO`**
-- [Signal You](https://github.com/nekorubu/Signal-You) **`MD`**
-- [Lighttube](https://github.com/kuylar/lighttube-android) **`TODO`**
-- [LibrePass](https://github.com/LibrePass/android) **`Full`**
-- [Ridebus](https://github.com/ridebus-by/ridebus) **`TODO`**
-- [Ridna](https://github.com/nexy791/Ridna) **`Full`**
-- [Rozvrh](https://github.com/marek-guran/Rozvrh-App-Public) **`TODO`**
-- [QWeather](https://github.com/Henry-Hiles/QWeather) **`Full`**
-- [Taru](https://github.com/nirajprakash/taru-plants-android) **`MD`**
-- [Croissant](https://github.com/joeloewi7178/Croissant) **`Full` `Multi`**
-- [Taiga Mobile](https://github.com/EugeneTheDev/TaigaMobile) **`Full`**
 - [Clipboard Cleaner](https://github.com/thatsmanmeet/Clipboard-Cleaner) **`Monet`**
 - [Babysafe](https://play.google.com/store/apps/details?id=at.techbee.babysafe) **`MD`**
 - [Memory Guardian](https://github.com/hashemi-hossein/memory-guardian) **`Full`**
@@ -267,6 +256,12 @@ However in fact, sometimes Material You refers to the application which (may onl
 - [TZI](https://github.com/marek-guran/TZI_app) **`Full` `FOSS`**
 - [Engine](https://github.com/whitescent/Engine) **`Full` `FOSS`**
 - [Thunder](https://github.com/hjiangsu/thunder) **`MD` `FOSS`**
+- [BCR](https://github.com/chenxiaolong/BCR) **`MD-` `Monet` `Multi`**
+- [Multi Caculater](https://play.google.com/store/apps/details?id=com.yangdai.calc) **`Full` `Multi` `FOSS`**
+- [Simple OCR](https://play.google.com/store/apps/details?id=com.yangdai.simpleocr) **`Full` `FOSS`**
+- [Encryptor](https://play.google.com/store/apps/details?id=com.yangdai.encryptor) **`Full` `Multi` `FOSS`**
+- [Simple Notes (YangDai)](https://play.google.com/store/apps/details?id=com.yangdai.notesapp) **`Full` `FOSS`**
+- [Number Tic Tac Toe](https://play.google.com/store/apps/details?id=com.yangdai.numbertic_tac_toe) **`Full` `Multi` `FOSS`**
 ## 📱Applist
 **Now you could click the title to return to the applist menu!**
 ### 🦖[Google Apps](#applist-menu)
@@ -533,6 +528,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
 	- [Start Now](https://www.coolapk.com/apk/com.start.now) **`MD-`**
 	- [Justnotes](https://github.com/jjewuz/JustNotes) **`Full`**
 	- [BeauTyXT](https://github.com/soupslurpr/BeauTyXT) **`Full`**
+	- [Simple Notes (YangDai)](https://play.google.com/store/apps/details?id=com.yangdai.notesapp) **`Full` `FOSS`**
 - **Markdown**
 	- [flowte](https://www.coolapk1s.com/feed/42984209) **`Full`**
 	- [Markdown Editor](https://play.google.com/store/apps/details?id=com.adeeteya.markdown_editor) **`MD`**
@@ -1139,6 +1135,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
    	- [zCalc](https://github.com/ziadOUA/zCalc) **`MD-` `Monet`**
    	- [Kalculator](https://github.com/re-ovo/Kalculator) **`TODO`**
    	- [Math Calculator](https://github.com/v1tzor/MathCalculator) **`Full`**
+   	- [Multi Caculater](https://play.google.com/store/apps/details?id=com.yangdai.calc) **`Full` `Multi` `FOSS`**
 - **Translator**    
    	- [Translate You](https://github.com/Bnyro/TranslateYou) **`Full`**    
    	- [FunnyTranslation](https://github.com/FunnySaltyFish/FunnyTranslation) **`Full` `Multi`**    
@@ -1160,6 +1157,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
    	- [MyQR](https://github.com/sankethsj/qr-code-generator) **`Full`**
    	- [ShowMeMore](https://play.google.com/store/apps/details?id=app.wakirox.freecensorship) **`Full`**
    	- [QScan](https://github.com/Henry-Hiles/QScan) **`Full`**
+   	- [Simple OCR](https://play.google.com/store/apps/details?id=com.yangdai.simpleocr) **`Full` `FOSS`**
 - **Flashlight**    
    	- [Tiramisu](https://github.com/polodarb/Flashlight-Tiramisu) **`Full`**    
    	- [Flashdim](https://github.com/cyb3rko/flashdim) **`Full`**    
@@ -1265,6 +1263,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
    	- [Textbender](https://github.com/elizagamedev/android-textbender) **`Monet`**
    	- [Simple Thank You](https://github.com/SimpleMobileTools/Simple-Thank-You) **`Full`**
    	- [Life Chest](https://github.com/theskyblockman/life-chest) **`Full`**
+   	- [Encryptor](https://play.google.com/store/apps/details?id=com.yangdai.encryptor) **`Full` `Multi` `FOSS`**
 ---
 ### [🔧Developer Tools](#applist-menu)
 - **Server**    
@@ -1370,7 +1369,8 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
    	- [Tomb](https://jinnian.lanzouy.com/iTJGC0ovdsjg) **`MD`** 
    	- [GApps Mod](https://github.com/jacopotediosi/GAppsMod) **`Full`**
    	- [VPN Hotspot](https://github.com/Mygod/VPNHotspot) **`MD` `FOSS`**
-   	- [Preload](https://github.com/feravolt/Preload-docs) **`Full` `Multi` `💴`** 
+   	- [Preload](https://github.com/feravolt/Preload-docs) **`Full` `Multi` `💴`**
+   	- [BCR](https://github.com/chenxiaolong/BCR) **`MD-` `Monet` `Multi`**
 ---
 ### [🎮Games](#applist-menu)
 - **Emulator**    
@@ -1397,7 +1397,8 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
    	- [TicTacYou](https://github.com/AykoSc/TicTacYou) **`MD`**
    	- [Dooz](https://github.com/yamin8000/Dooz) **`Full`** 
    	- [Material You Tic Tac Toe](https://github.com/marek-guran/Material-You-Tic-Tac-Toe) **`Full`**
-   	- [Zerocros](https://play.google.com/store/apps/details?id=com.pranavpandey.tictactoe) **`Full`**    
+   	- [Zerocros](https://play.google.com/store/apps/details?id=com.pranavpandey.tictactoe) **`Full`**
+   	- [Number Tic Tac Toe](https://play.google.com/store/apps/details?id=com.yangdai.numbertic_tac_toe) **`Full` `Multi` `FOSS`**
 - **Counter**
    	- [Score Counter](https://github.com/hegocre/ScoreCounter) **`Full`**    
    	- [Counter](https://play.google.com/store/apps/details?id=rahmouni.neil.counters) **`Full`** 
