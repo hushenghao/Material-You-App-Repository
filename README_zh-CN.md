@@ -294,17 +294,6 @@ Material Design 3伴随着Android 12而来。它的诞生，彻底改变了人�
 - [雹](https://github.com/aistra0528/Hail) **`Full` `Multi`**
 ## 🆕最近上新
 少女祈祷中…
-- [FRCFrenzy](https://github.com/galaxygoldfish/FRCFrenzy) **`TODO`**
-- [Signal You](https://github.com/nekorubu/Signal-You) **`MD`**
-- [Lighttube](https://github.com/kuylar/lighttube-android) **`TODO`**
-- [LibrePass](https://github.com/LibrePass/android) **`Full`**
-- [Ridebus](https://github.com/ridebus-by/ridebus) **`TODO`**
-- [Ridna](https://github.com/nexy791/Ridna) **`Full`**
-- [Rozvrh](https://github.com/marek-guran/Rozvrh-App-Public) **`TODO`**
-- [QWeather](https://github.com/Henry-Hiles/QWeather) **`Full`**
-- [Taru](https://github.com/nirajprakash/taru-plants-android) **`MD`**
-- [Croissant](https://github.com/joeloewi7178/Croissant) **`Full` `Multi`**
-- [Taiga Mobile](https://github.com/EugeneTheDev/TaigaMobile) **`Full`**
 - [Clipboard Cleaner](https://github.com/thatsmanmeet/Clipboard-Cleaner) **`Monet`**
 - [Babysafe](https://play.google.com/store/apps/details?id=at.techbee.babysafe) **`MD`**
 - [Memory Guardian](https://github.com/hashemi-hossein/memory-guardian) **`Full`**
@@ -314,6 +303,12 @@ Material Design 3伴随着Android 12而来。它的诞生，彻底改变了人�
 - [TZI](https://github.com/marek-guran/TZI_app) **`Full` `FOSS`**
 - [Engine](https://github.com/whitescent/Engine) **`Full` `FOSS`**
 - [Thunder](https://github.com/hjiangsu/thunder) **`MD` `FOSS`**
+- [数字井字棋](https://play.google.com/store/apps/details?id=com.yangdai.numbertic_tac_toe) **`Full` `Multi` `FOSS`**
+- [BCR](https://github.com/chenxiaolong/BCR) **`MD-` `Monet` `Multi`**
+- [多功能计算器](https://play.google.com/store/apps/details?id=com.yangdai.calc) **`Full` `Multi` `FOSS`**
+- [简易OCR](https://play.google.com/store/apps/details?id=com.yangdai.simpleocr) **`Full` `FOSS`**
+- [知己](https://play.google.com/store/apps/details?id=com.yangdai.encryptor) **`Full` `Multi` `FOSS`**
+- [简记](https://play.google.com/store/apps/details?id=com.yangdai.notesapp) **`Full` `FOSS`**
 ## 📱应用列表
 **点击标题即可回到目录XD**
 ### 🦖[谷歌应用](#目录)
@@ -576,6 +571,7 @@ Material Design 3伴随着Android 12而来。它的诞生，彻底改变了人�
 	- [知识库](https://www.coolapk.com/apk/com.start.now) **`MD-`**
 	- [Justnotes](https://github.com/jjewuz/JustNotes) **`Full`**
 	- [BeauTyXT](https://github.com/soupslurpr/BeauTyXT) **`Full`**
+	- [简记](https://play.google.com/store/apps/details?id=com.yangdai.notesapp) **`Full` `FOSS`**
 - **Markdown**
 	- [flowte](https://www.coolapk1s.com/feed/42984209) **`Full`**
 	- [Markdown Editor](https://play.google.com/store/apps/details?id=com.adeeteya.markdown_editor) **`MD`**
@@ -1179,6 +1175,7 @@ Material Design 3伴随着Android 12而来。它的诞生，彻底改变了人�
    	- [zCalc](https://github.com/ziadOUA/zCalc) **`MD-` `Monet`**
    	- [Kalculator](https://github.com/re-ovo/Kalculator) **`TODO`**
    	- [Math Calculator](https://github.com/v1tzor/MathCalculator) **`Full`**
+   	- [多功能计算器](https://play.google.com/store/apps/details?id=com.yangdai.calc) **`Full` `Multi` `FOSS`**
 - **翻译**
    	- [Translate You](https://github.com/Bnyro/TranslateYou) **`Full`**    
    	- [译站](https://github.com/FunnySaltyFish/FunnyTranslation) **`Full` `Multi`**
@@ -1193,13 +1190,14 @@ Material Design 3伴随着Android 12而来。它的诞生，彻底改变了人�
    	- [You Tune](https://github.com/SuhasDissa/You-Tune) **`TODO`**
 - **扫一扫**
    	- [Monochrome](https://play.google.com/store/apps/details?id=moe.zhs.monochrome) **`Full`**    
-   	-  [Barcode Scanner](https://gitlab.com/Atharok/BarcodeScanner) **`Full` `Multi`**    
+   	- [Barcode Scanner](https://gitlab.com/Atharok/BarcodeScanner) **`Full` `Multi`**    
    	- [Barquode](https://play.google.com/store/apps/details?id=com.pranavpandey.matrix) **`Full` `Multi`**   
    	- [Codora](https://play.google.com/store/apps/details?id=com.kokoschka.michael.qrtools) **`Full` `Multi`**    
    	- [Pixel Scanner](https://github.com/jaikeerthick/Pixel-Scanner) **`TODO`**
    	- [MyQR](https://github.com/sankethsj/qr-code-generator) **`Full`**
    	- [ShowMeMore](https://play.google.com/store/apps/details?id=app.wakirox.freecensorship) **`Full`**
    	- [QScan](https://github.com/Henry-Hiles/QScan) **`Full`**
+   	- [简易OCR](https://play.google.com/store/apps/details?id=com.yangdai.simpleocr) **`Full` `FOSS`**
 - **手电筒**
    	- [Tiramisu](https://github.com/polodarb/Flashlight-Tiramisu) **`Full`**    
    	- [Flashdim](https://github.com/cyb3rko/flashdim) **`Full`**    
@@ -1305,6 +1303,7 @@ Material Design 3伴随着Android 12而来。它的诞生，彻底改变了人�
    	- [Textbender](https://github.com/elizagamedev/android-textbender) **`Monet`**
    	- [Simple Thank You](https://github.com/SimpleMobileTools/Simple-Thank-You) **`Full`**
    	- [Life Chest](https://github.com/theskyblockman/life-chest) **`Full`**
+   	- [知己](https://play.google.com/store/apps/details?id=com.yangdai.encryptor) **`Full` `Multi` `FOSS`**
 ---
 ## [🔧开发工具](#目录)
 - **服务器**
@@ -1410,7 +1409,8 @@ Material Design 3伴随着Android 12而来。它的诞生，彻底改变了人�
    	- [Smart Dock](https://github.com/axel358/smartdock) **`Full`**
    	- [GApps Mod](https://github.com/jacopotediosi/GAppsMod) **`Full`**
    	- [VPN热点](https://github.com/Mygod/VPNHotspot) **`MD` `FOSS`**
-	- [Preload](https://github.com/feravolt/Preload-docs) **`Full` `Multi` `💴`** 
+	- [Preload](https://github.com/feravolt/Preload-docs) **`Full` `Multi` `💴`**
+	- [BCR](https://github.com/chenxiaolong/BCR) **`MD-` `Monet` `Multi`**
 ---
 ## [🎮游戏](#目录)
 - **模拟器**
@@ -1437,7 +1437,8 @@ Material Design 3伴随着Android 12而来。它的诞生，彻底改变了人�
    	- [TicTacYou](https://github.com/AykoSc/TicTacYou) **`MD`**
    	- [Dooz](https://github.com/yamin8000/Dooz) **`Full`** 
    	- [Material You Tic Tac Toe](https://github.com/marek-guran/Material-You-Tic-Tac-Toe) **`Full`**
-   	- [Zerocros](https://play.google.com/store/apps/details?id=com.pranavpandey.tictactoe) **`Full`**    
+   	- [Zerocros](https://play.google.com/store/apps/details?id=com.pranavpandey.tictactoe) **`Full`**
+   	- [数字井字棋](https://play.google.com/store/apps/details?id=com.yangdai.numbertic_tac_toe) **`Full` `Multi` `FOSS`**  
 - **计数器**
    	- [Score Counter](https://github.com/hegocre/ScoreCounter) **`Full`**    
    	- [Counter](https://play.google.com/store/apps/details?id=rahmouni.neil.counters) **`Full`** 
