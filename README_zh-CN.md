@@ -385,8 +385,9 @@ Material Design 3伴随着Android 12而来。它的诞生，彻底改变了人�
 	- [Clock](https://www.pling.com/p/1884299/) **`Full`**
 	- [Widget](https://www.pling.com/p/1884299/) **`Full`**
 	- [Calculator](https://www.pling.com/p/1884299/) **`Full`**
+	- Contacts
 - **Nothing OS**  
-	- [Weather](https://t.me/waifupx_official/205) **`MD`**
+	- [Weather](https://www.apkmirror.com/apk/nothing-technology-limited/nothing-weather/) **`MD`**
 - **Octavi OS**
 	- [Dialer](https://www.pling.com/p/1571900) **`Monet`**
 - **ASUS Zenui** 
@@ -417,7 +418,7 @@ Material Design 3伴随着Android 12而来。它的诞生，彻底改变了人�
 	- [Nagram](https://github.com/NextAlone/Nagram) **`Monet`**
 	- [Nekogram](https://nekogram.app/) **`Monet`**
 - **加密聊天软件**
-	- [Signal You](https://github.com/nekorubu/Signal-You) **`MD`**
+	- [Signal](https://github.com/signalapp/Signal-Android) / [Signal You](https://github.com/nekorubu/Signal-You) **`MD`**
 	- [FluffyChat](https://gitlab.com/famedly/fluffychat) **`Full` `Multi`**
 	- [E2E Encrypted Chat](https://github.com/Project-Based-Learning-IT/e2ee-chat) **`TODO`**
 - **Reddit第三方**
@@ -484,7 +485,7 @@ Material Design 3伴随着Android 12而来。它的诞生，彻底改变了人�
 	- [ViMusic](https://github.com/vfsfitvnm/ViMusic) **`MD` `Multi`**
 	- [Vibe Music](https://github.com/sheikhhaziq/vibemusic) **`Full`**
 - **Spotify第三方**
-	- [Jetispot](https://github.com/iTaysonLab/jetispot) **`Full`**
+	- [Jetispot](https://github.com/iTaysonLab/jetispot) and a [fork](https://github.com/BobbyESP/Jetispot) **`Full`**
 	- [Spotube](https://github.com/KRTirtho/spotube) **`MD`**
 - **网易云音乐第三方**
 	- [Music You](https://github.com/GuihongWang/MusicYou) **`Full` `Multi`**
@@ -939,6 +940,7 @@ Material Design 3伴随着Android 12而来。它的诞生，彻底改变了人�
    	- [BluePrint](https://github.com/jahirfiquitiva/Blueprint) **`Full` `FOSS`**
    	- [Whicons](https://play.google.com/store/apps/details?id=com.whicons.iconpack) **`Full`**
    	- [Zwart](https://play.google.com/store/apps/details?id=com.blackiconpack.zwart) **`Full`**
+   	- [Arcticons](https://github.com/Donnnno/Arcticons)  **`Full`**
 - **微件/KWGT**
    	- [Blur for You](https://www.coolapk.com/apk/com.riv3rdesign.you) **`MD-` `Monet`**    
    	- [Android 12 Clock Widget](https://play.google.com/store/apps/details?id=twelve.clock.mibrahim) **`Full`**    
