@@ -488,7 +488,7 @@ Material Design 3伴随着Android 12而来。它的诞生，彻底改变了人�
 	- [Jetispot](https://github.com/iTaysonLab/jetispot) and a [fork](https://github.com/BobbyESP/Jetispot) **`Full`**
 	- [Spotube](https://github.com/KRTirtho/spotube) **`MD`**
 - **网易云音乐第三方**
-	- [Music You](https://github.com/GuihongWang/MusicYou) **`Full` `Multi`**
+	- [音悦](https://github.com/GuihongWang/MusicYou) **`Full` `Multi`**
 	- [RainMusic](https://github.com/re-ovo/RainMusic) **`TODO`**
 - **Bilibili第三方**
 	- [Bili You](https://github.com/lucinhu/bili_you) **`Full`**
