@@ -342,7 +342,7 @@ Below I provide links of some ported apps. The links must be incomplete, and wel
 	- [Calculator](https://www.pling.com/p/1884299/) **`Full`**
 	- Contacts **`Full`**
 - **Nothing OS**  
-	- [Weather](https://t.me/waifupx_official/205) **`MD`**
+	- [Weather](https://www.apkmirror.com/apk/nothing-technology-limited/nothing-weather/) **`MD`**
 - **Octavi OS**
 	- [Dialer](https://www.pling.com/p/1571900) **`Monet`**
 - **ASUS Zenui**
@@ -374,7 +374,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
 	- [Nagram](https://github.com/NextAlone/Nagram) **`Monet`**
 - **Encrypted Chatting**
 	- [FluffyChat](https://gitlab.com/famedly/fluffychat) **`Full` `Multi`**
-	- [Signal You](https://github.com/nekorubu/Signal-You) **`MD`**
+	- [Signal](https://github.com/signalapp/Signal-Android) / [Signal You](https://github.com/nekorubu/Signal-You) **`MD`**
 	- [E2E Encrypted Chat](https://github.com/Project-Based-Learning-IT/e2ee-chat) **`TODO`**
 - **Reddit Clients**
 	- [Sync for Reddit](https://play.google.com/store/apps/details?id=com.laurencedawson.reddit_sync) **`Full` `Multi`**
@@ -441,7 +441,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
 	- [Vibe Music](https://github.com/sheikhhaziq/vibemusic) **`Full`**
 	- [InnerTune](https://github.com/z-huang/InnerTune) **`MD-` `Monet` `Multi`**
 - **Spotify Clients** 
-	- [Jetispot](https://github.com/iTaysonLab/jetispot) **`Full`**
+	- [Jetispot](https://github.com/iTaysonLab/jetispot) and a [fork](https://github.com/BobbyESP/Jetispot) **`Full`**
 	- [Spotube](https://github.com/KRTirtho/spotube) **`MD`**
 - **Netease Cloud Music Clients** 
 	- [Music You](https://github.com/GuihongWang/MusicYou) **`Full` `Multi`**
@@ -896,6 +896,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
    	- [BluePrint](https://github.com/jahirfiquitiva/Blueprint) **`Full` `FOSS`**
    	- [Whicons](https://play.google.com/store/apps/details?id=com.whicons.iconpack) **`Full`**
    	- [Zwart](https://play.google.com/store/apps/details?id=com.blackiconpack.zwart) **`Full`**
+   	- [Arcticons](https://github.com/Donnnno/Arcticons)  **`Full`**
 - **Widget/KWGT**    
    	- [Blur for You](https://www.coolapk.com/apk/com.riv3rdesign.you) **`MD-` `Monet`**    
    	- [Android 12 Clock Widget](https://play.google.com/store/apps/details?id=twelve.clock.mibrahim) **`Full`**    
