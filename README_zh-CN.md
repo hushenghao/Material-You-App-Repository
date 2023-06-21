@@ -309,6 +309,7 @@ Material Design 3伴随着Android 12而来。它的诞生，彻底改变了人�
 - [简易OCR](https://play.google.com/store/apps/details?id=com.yangdai.simpleocr) **`Full` `FOSS`**
 - [知己](https://play.google.com/store/apps/details?id=com.yangdai.encryptor) **`Full` `Multi` `FOSS`**
 - [简记](https://play.google.com/store/apps/details?id=com.yangdai.notesapp) **`Full` `FOSS`**
+- [Simple WOL](https://github.com/herzhenr/simple-wake-on-lan) **`MD` `FOSS`**
 ## 📱应用列表
 **点击标题即可回到目录XD**
 ### 🦖[谷歌应用](#目录)
@@ -1314,7 +1315,8 @@ Material Design 3伴随着Android 12而来。它的诞生，彻底改变了人�
    	- [DroidHole](https://github.com/JGeek00/droid-hole) **`Full`**    
    	- [DaRemote](https://play.google.com/store/apps/details?id=com.deskangel.daremote) **`Full`**    
    	- [Tremotesf](https://github.com/equeim/tremotesf-android) **`Monet`**   
-   	- [Plex Manager](https://github.com/sikelio/plexmanager) **`MD-`** 
+   	- [Plex Manager](https://github.com/sikelio/plexmanager) **`MD-`**
+   	- [Simple WOL](https://github.com/herzhenr/simple-wake-on-lan) **`MD` `FOSS`**
 - **组件库与演示**
    	- [Monet Color Previewer](https://github.com/Smooth-E/monet-color-previewer) **`Full`**    
    	- [Material Components Gallery](https://github.com/NUmeroAndDev/MaterialGallery-android) **`Full`**    
