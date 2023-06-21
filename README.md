@@ -262,6 +262,7 @@ However in fact, sometimes Material You refers to the application which (may onl
 - [Encryptor](https://play.google.com/store/apps/details?id=com.yangdai.encryptor) **`Full` `Multi` `FOSS`**
 - [Simple Notes (YangDai)](https://play.google.com/store/apps/details?id=com.yangdai.notesapp) **`Full` `FOSS`**
 - [Number Tic Tac Toe](https://play.google.com/store/apps/details?id=com.yangdai.numbertic_tac_toe) **`Full` `Multi` `FOSS`**
+- [Simple WOL](https://github.com/herzhenr/simple-wake-on-lan) **`MD` `FOSS`**
 ## 📱Applist
 **Now you could click the title to return to the applist menu!**
 ### 🦖[Google Apps](#applist-menu)
@@ -1273,7 +1274,8 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
    	- [DroidHole](https://github.com/JGeek00/droid-hole) **`Full`**    
    	- [DaRemote](https://play.google.com/store/apps/details?id=com.deskangel.daremote) **`Full`**    
    	- [Tremotesf](https://github.com/equeim/tremotesf-android) **`Monet`**  
-   	- [Plex Manager](https://github.com/sikelio/plexmanager) **`MD-`**  
+   	- [Plex Manager](https://github.com/sikelio/plexmanager) **`MD-`**
+   	- [Simple WOL](https://github.com/herzhenr/simple-wake-on-lan) **`MD` `FOSS`**
 - **Componets & Demo**    
    	- [Monet Color Previewer](https://github.com/Smooth-E/monet-color-previewer) **`Full`**    
    	- [Material Components Gallery](https://github.com/NUmeroAndDev/MaterialGallery-android) **`Full`**    
