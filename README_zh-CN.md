@@ -166,6 +166,7 @@ Material Design 3伴随着Android 12而来。它的诞生，彻底改变了人�
 	- **RSS/新闻**
 	- **漫画**
 	- **有声书**
+	- **百科**
 - **[🌦️ 日常生活](#%EF%B8%8F%E6%97%A5%E5%B8%B8%E7%94%9F%E6%B4%BB)**
 	- **记账**
 	- **虚拟货币**
@@ -294,11 +295,6 @@ Material Design 3伴随着Android 12而来。它的诞生，彻底改变了人�
 - [雹](https://github.com/aistra0528/Hail) **`Full` `Multi`**
 ## 🆕最近上新
 少女祈祷中…
-- [Clipboard Cleaner](https://github.com/thatsmanmeet/Clipboard-Cleaner) **`Monet`**
-- [Babysafe](https://play.google.com/store/apps/details?id=at.techbee.babysafe) **`MD`**
-- [Memory Guardian](https://github.com/hashemi-hossein/memory-guardian) **`Full`**
-- [Zwart](https://play.google.com/store/apps/details?id=com.blackiconpack.zwart) **`Full`**
-- [Whicons](https://play.google.com/store/apps/details?id=com.whicons.iconpack) **`Full`**
 - [Dymka](https://github.com/nexy791/dymka) **`MD` `FOSS`**
 - [TZI](https://github.com/marek-guran/TZI_app) **`Full` `FOSS`**
 - [Engine](https://github.com/whitescent/Engine) **`Full` `FOSS`**
@@ -310,6 +306,10 @@ Material Design 3伴随着Android 12而来。它的诞生，彻底改变了人�
 - [知己](https://play.google.com/store/apps/details?id=com.yangdai.encryptor) **`Full` `Multi` `FOSS`**
 - [简记](https://play.google.com/store/apps/details?id=com.yangdai.notesapp) **`Full` `FOSS`**
 - [Simple WOL](https://github.com/herzhenr/simple-wake-on-lan) **`MD` `FOSS`**
+- [Simple MP](https://github.com/lighttigerXIV/SimpleMP-Compose) **`Full` `Multi` `FOSS`**
+- [Wikipedia](https://play.google.com/store/apps/details?id=org.wikipedia) **`MD`**
+- [Dimett](https://github.com/MateriiApps/Dimett) **`Full` `FOSS`**
+- [Hydrogen](https://myhydrogen.gitee.io/) **`MD-` `FOSS`**
 ## 📱应用列表
 **点击标题即可回到目录XD**
 ### 🦖[谷歌应用](#目录)
@@ -451,6 +451,7 @@ Material Design 3伴随着Android 12而来。它的诞生，彻底改变了人�
 	- [Kaiteki](https://github.com/Kaiteki-Fedi/Kaiteki) **`Full` `Multi`**
 	- [Fedilab](https://codeberg.org/tom79/Fedilab) **`MD`**
 	- [Hejtter](https://github.com/mateusz-bak/hejtter) **`MD`**
+	- [Dimett](https://github.com/MateriiApps/Dimett) **`Full` `FOSS`**
 - **论坛**
 	- [vvex](https://github.com/guozhigq/flutter_v2ex) **`Full` `Multi`**
 	- [v2compose](https://github.com/cooaer/v2compose) **`Full`**
@@ -471,6 +472,7 @@ Material Design 3伴随着Android 12而来。它的诞生，彻底改变了人�
 	- [Staver](https://play.google.com/store/apps/details?id=com.anafthdev.staver) **`MD-` `Monet` `Multi`**
 	- [DankChat](https://github.com/flex3r/DankChat) **`Full`**
 	- [Blog2App](https://play.google.com/store/apps/details?id=com.boltuix.blogtoapp) **`MD`**
+	- [Hydrogen](https://myhydrogen.gitee.io/) **`MD-` `FOSS`**
 ---
 ## [🎵媒体播放](#目录)
 - **YouTube第三方**
@@ -539,6 +541,7 @@ Material Design 3伴随着Android 12而来。它的诞生，彻底改变了人�
 	- [Pixel](https://play.google.com/store/apps/details?id=it.ncaferra.pixelplayerfree) **`Full`**
 	- [棉花音乐](https://github.com/pure-music/PureMusic) **`Full` `Multi`**
 	- [Vanilla](https://play.google.com/store/apps/details?id=com.kyant.vanilla) **`MD-` `Monet`**
+	- [Simple MP](https://github.com/lighttigerXIV/SimpleMP-Compose) **`Full` `Multi` `FOSS`**
 - **播客/电台**
 	- [FocusPodcast](https://play.google.com/store/apps/details?id=allen.town.focus.podcast) **`Full` `Multi`**
 	- [Moon FM](https://play.google.com/store/apps/details?id=fm.moon.app) **`Monet` `Multi`**
@@ -715,6 +718,8 @@ Material Design 3伴随着Android 12而来。它的诞生，彻底改变了人�
 - **有声书**
 	- [Kafka](https://play.google.com/store/apps/details?id=com.kafka.user) **`Full` `Multi`**
 	- [Voice](https://github.com/PaulWoitaschek/Voice) **`Full` `Multi`**
+- **百科**
+	- [Wikipedia](https://play.google.com/store/apps/details?id=org.wikipedia) **`MD`**
 ---
 ## [🌦️日常生活](#目录)
 - **记账**
