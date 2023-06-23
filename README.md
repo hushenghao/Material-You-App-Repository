@@ -120,6 +120,7 @@ However in fact, sometimes Material You refers to the application which (may onl
 	- **Novels**
 	- **RSS/News**
 	- **Comics**
+	- **Encyclopedia**
 - **[🌦️ Daily Life](#%EF%B8%8Fdaily-life)**
 	- **Bookkeeping**
 	- **Virtual Currency**
@@ -247,11 +248,6 @@ However in fact, sometimes Material You refers to the application which (may onl
 - [InstallerX](https://github.com/iamr0s/InstallerX) **`Full` `Multi`**
 - [Hail](https://github.com/aistra0528/Hail) **`Full` `Multi`**
 ## 🆕Newly Added Apps
-- [Clipboard Cleaner](https://github.com/thatsmanmeet/Clipboard-Cleaner) **`Monet`**
-- [Babysafe](https://play.google.com/store/apps/details?id=at.techbee.babysafe) **`MD`**
-- [Memory Guardian](https://github.com/hashemi-hossein/memory-guardian) **`Full`**
-- [Zwart](https://play.google.com/store/apps/details?id=com.blackiconpack.zwart) **`Full`**
-- [Whicons](https://play.google.com/store/apps/details?id=com.whicons.iconpack) **`Full`**
 - [Dymka](https://github.com/nexy791/dymka) **`MD` `FOSS`**
 - [TZI](https://github.com/marek-guran/TZI_app) **`Full` `FOSS`**
 - [Engine](https://github.com/whitescent/Engine) **`Full` `FOSS`**
@@ -263,6 +259,10 @@ However in fact, sometimes Material You refers to the application which (may onl
 - [Simple Notes (YangDai)](https://play.google.com/store/apps/details?id=com.yangdai.notesapp) **`Full` `FOSS`**
 - [Number Tic Tac Toe](https://play.google.com/store/apps/details?id=com.yangdai.numbertic_tac_toe) **`Full` `Multi` `FOSS`**
 - [Simple WOL](https://github.com/herzhenr/simple-wake-on-lan) **`MD` `FOSS`**
+- [Simple MP](https://github.com/lighttigerXIV/SimpleMP-Compose) **`Full` `Multi` `FOSS`**
+- [Wikipedia](https://play.google.com/store/apps/details?id=org.wikipedia) **`MD`**
+- [Dimett](https://github.com/MateriiApps/Dimett) **`Full` `FOSS`**
+- [Hydrogen](https://myhydrogen.gitee.io/) **`MD-` `FOSS`**
 ## 📱Applist
 **Now you could click the title to return to the applist menu!**
 ### 🦖[Google Apps](#applist-menu)
@@ -407,6 +407,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
 	- [Kaiteki](https://github.com/Kaiteki-Fedi/Kaiteki) **`Full` `Multi`**
 	- [Fedilab](https://codeberg.org/tom79/Fedilab) **`MD`**
 	- [Hejtter](https://github.com/mateusz-bak/hejtter) **`MD`**
+	- [Dimett](https://github.com/MateriiApps/Dimett) **`Full` `FOSS`**
 - **BBS**
 	- [msea](https://github.com/eternaljust/msea-compose) **`Full`**
 	- [vvex](https://github.com/guozhigq/flutter_v2ex) **`Full` `Multi`**
@@ -427,6 +428,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
 	- [Staver](https://play.google.com/store/apps/details?id=com.anafthdev.staver) **`MD-` `Monet` `Multi`**
 	- [DankChat](https://github.com/flex3r/DankChat) **`Full`**
 	- [Blog2App](https://play.google.com/store/apps/details?id=com.boltuix.blogtoapp) **`MD`**
+	- [Hydrogen](https://myhydrogen.gitee.io/) **`MD-` `FOSS`**
 ---
 ### [🎵Media](#applist-menu)
 - **Youtube Clients**
@@ -495,6 +497,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
 	- [Pixel](https://play.google.com/store/apps/details?id=it.ncaferra.pixelplayerfree) **`Full`**
 	- [Pure Music](https://github.com/pure-music/PureMusic) **`Full` `Multi`**
 	- [Vanilla Music](https://play.google.com/store/apps/details?id=com.kyant.vanilla) **`MD-` `Monet`**
+	- [Simple MP](https://github.com/lighttigerXIV/SimpleMP-Compose) **`Full` `Multi` `FOSS`**
 - **Podcasts**
 	- [Moon FM](https://play.google.com/store/apps/details?id=fm.moon.app) **`Monet` `Multi`**
 	- [FocusPodcast](https://play.google.com/store/apps/details?id=allen.town.focus.podcast) **`Full` `Multi`**
@@ -671,6 +674,8 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
 - **Audio Books**
 	- [Kafka](https://play.google.com/store/apps/details?id=com.kafka.user) **`Full` `Multi`**
 	- [Voice](https://github.com/PaulWoitaschek/Voice) **`Full` `Multi`**
+- **Encyclopedia**
+	- [Wikipedia](https://play.google.com/store/apps/details?id=org.wikipedia) **`MD`**
 ---
 ### [🌦️Daily Life](#applist-menu)
 - **Bookkeeping**
