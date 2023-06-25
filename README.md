@@ -248,21 +248,21 @@ However in fact, sometimes Material You refers to the application which (may onl
 - [InstallerX](https://github.com/iamr0s/InstallerX) **`Full` `Multi`**
 - [Hail](https://github.com/aistra0528/Hail) **`Full` `Multi`**
 ## 🆕Newly Added Apps
-- [Dymka](https://github.com/nexy791/dymka) **`MD` `FOSS`**
-- [TZI](https://github.com/marek-guran/TZI_app) **`Full` `FOSS`**
-- [Engine](https://github.com/whitescent/Engine) **`Full` `FOSS`**
-- [Thunder](https://github.com/hjiangsu/thunder) **`MD` `FOSS`**
-- [BCR](https://github.com/chenxiaolong/BCR) **`MD-` `Monet` `Multi`**
-- [Multi Caculater](https://play.google.com/store/apps/details?id=com.yangdai.calc) **`Full` `Multi` `FOSS`**
-- [Simple OCR](https://play.google.com/store/apps/details?id=com.yangdai.simpleocr) **`Full` `FOSS`**
-- [Encryptor](https://play.google.com/store/apps/details?id=com.yangdai.encryptor) **`Full` `Multi` `FOSS`**
-- [Simple Notes (YangDai)](https://play.google.com/store/apps/details?id=com.yangdai.notesapp) **`Full` `FOSS`**
 - [Number Tic Tac Toe](https://play.google.com/store/apps/details?id=com.yangdai.numbertic_tac_toe) **`Full` `Multi` `FOSS`**
 - [Simple WOL](https://github.com/herzhenr/simple-wake-on-lan) **`MD` `FOSS`**
 - [Simple MP](https://github.com/lighttigerXIV/SimpleMP-Compose) **`Full` `Multi` `FOSS`**
 - [Wikipedia](https://play.google.com/store/apps/details?id=org.wikipedia) **`MD`**
 - [Dimett](https://github.com/MateriiApps/Dimett) **`Full` `FOSS`**
 - [Hydrogen](https://myhydrogen.gitee.io/) **`MD-` `FOSS`**
+- [Emblematix](https://github.com/lz233/Emblematix) **`Full` `FOSS`**
+- [Unvcode](https://github.com/lz233/unvcode_android) **`MD` `FOSS`**
+- [RSAF](https://github.com/chenxiaolong/RSAF) **`MD-` `Monet` `FOSS`**
+- [Mellow Music](https://github.com/SuhasDissa/MellowMusic) **`Full` `FOSS`**
+- [Image Compressor](https://play.google.com/store/apps/details?id=aculix.bulk.image.compressor) **`Full` `💴`**
+- [Ahmedabad Metro](https://play.google.com/store/apps/details?id=ahmedabad.gandhinagar.metro.rail.project.info.mega) **`Full` `Multi`**
+- [Surf VPN](https://play.google.com/store/apps/details?id=com.xfx.surfvpn) **`Full` `💴`**
+- [Tweeload](https://play.google.com/store/apps/details?id=tweeload.twitter.video.downloader) **`MD-` `Monet` `💴`**
+- [Tempo](https://github.com/CappielloAntonio/tempo) **`MD-` `Monet` `FOSS`**
 ## 📱Applist
 **Now you could click the title to return to the applist menu!**
 ### 🦖[Google Apps](#applist-menu)
@@ -393,7 +393,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
 - **Twitter Clients**
 	- [harpy for Twitter](https://github.com/robertodoering/harpy) **`Monet`**
 	- [Albatross for Twitter](https://play.google.com/store/apps/details?id=com.nick.mowen.albatross) **`Monet`**
-	- [FocusTwitter](https://play.google.com/store/apps/details?id=allen.town.focus.twitter) **`Full` `Multi`**
+	- [FocusTwitter](https://play.google.com/store/apps/details?id=allen.town.focus.twitter) **`Full`**
 	- [Quacker](https://apt.izzysoft.de/fdroid/index/apk/com.thehcj.quacker) **`MD-`**
 - **Mastodon Clients**
 	- [Moshidon](https://github.com/LucasGGamerM/moshidon) **`Full`**
@@ -459,6 +459,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
 	- [Symfonium](https://play.google.com/store/apps/details?id=app.symfonik.music.player) **`Full`**
 	- [Yatse](https://play.google.com/store/apps/details?id=org.leetzone.android.yatsewidgetfree) **`Full` `Multi`**
 	- [Drive Stream](https://github.com/itszechs/DriveStream) **`MD`**
+	- [Tempo](https://github.com/CappielloAntonio/tempo) **`MD-` `Monet` `FOSS`**
 - **Anime Services**
 	- [Sakura Anime](https://github.com/670848654/SakuraAnime) **`Full`**
 	- [AGE](https://github.com/xihan123/AGE) **`MD-`**
@@ -498,6 +499,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
 	- [Pure Music](https://github.com/pure-music/PureMusic) **`Full` `Multi`**
 	- [Vanilla Music](https://play.google.com/store/apps/details?id=com.kyant.vanilla) **`MD-` `Monet`**
 	- [Simple MP](https://github.com/lighttigerXIV/SimpleMP-Compose) **`Full` `Multi` `FOSS`**
+	- [Mellow Music](https://github.com/SuhasDissa/MellowMusic) **`Full` `FOSS`**
 - **Podcasts**
 	- [Moon FM](https://play.google.com/store/apps/details?id=fm.moon.app) **`Monet` `Multi`**
 	- [FocusPodcast](https://play.google.com/store/apps/details?id=allen.town.focus.podcast) **`Full` `Multi`**
@@ -618,6 +620,9 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
 	- [Momentum Editor](https://play.google.com/store/apps/details?id=com.lware.momentum) **`MD`**
 	- [SuperImage](https://github.com/Lucchetto/SuperImage) **`MD`**
 	- [HiShoot2i](https://t.me/hishoot2imaterial) **`Full`**
+	- [Image Compressor](https://play.google.com/store/apps/details?id=aculix.bulk.image.compressor) **`Full` `💴`**
+	- [Emblematix](https://github.com/lz233/Emblematix) **`Full` `FOSS`**
+	- [Unvcode](https://github.com/lz233/unvcode_android) **`MD` `FOSS`**
 ---
 ### [🌐Browser](#applist-menu)
 - [FOSS Browser](https://github.com/scoute-dich/browser) **`Full` `Multi`**
@@ -812,6 +817,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
 - **Traffic**
    	- [Traewelldroid](https://github.com/Traewelldroid/traewelldroid) **`MD`**
    	- [Ridebus](https://github.com/ridebus-by/ridebus) **`TODO`**
+   	- [Ahmedabad Metro](https://play.google.com/store/apps/details?id=ahmedabad.gandhinagar.metro.rail.project.info.mega) **`Full` `Multi`**
 - **Planting**
    	- [Taru](https://github.com/nirajprakash/taru-plants-android) **`MD`**
 - **Babysitting**
@@ -938,7 +944,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
    	- [PowerLine](https://play.google.com/store/apps/details?id=com.urbandroid.inline) **`Full`**    
    	- [Palettes](https://play.google.com/store/apps/details?id=com.pranavpandey.theme) **`Full`**    
    	- [Android 12 Extensions](https://github.com/kdrag0n/android12-extensions) **`MD-` `Monet`**   
-   	- [Iconify](https://github.com/Mahmud0808/Iconify) **`Full`**
+   	- [Iconify](https://github.com/Mahmud0808/Iconify) **`Full` `Multi`**
    	- [Speed Monitor](https://www.coolapk.com/apk/com.dede.nativetools) **`MD-` `Monet` `Multi`** 
 - **GBoard Customization**
    	- [Rboard Theme Manager](https://github.com/DerTyp7214/RboardThemeManagerV3) **`Full`**    
@@ -962,6 +968,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
    	- [AnExplorer](https://github.com/1hakr/AnExplorer) **`Full` `Multi`**
    	- [FTPClient](https://codeberg.org/qwerty287/ftpclient) **`Full`**
    	- [PickYou](https://github.com/XayahSuSuSu/AndroidModule-PickYou) **`MD`**
+   	- [RSAF](https://github.com/chenxiaolong/RSAF) **`MD-` `Monet` `FOSS`**
 - **Hardware Infomation**
    	- [DevCheck](https://play.google.com/store/apps/details?id=flar2.devcheck) **`Full`**
    	- [Forefrontinfo](https://www.coolapk.com/apk/net.imknown.android.forefrontinfo) **`MD-` `Monet`**
@@ -1105,6 +1112,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
    	- [YOSDown](https://github.com/Yos-X/YBVD_Release) **`Full`**    
    	- [YTDLnis](https://github.com/deniscerri/ytdlnis) **`Full` `Multi`**    
    	- [Spowlo](https://github.com/BobbyESP/Spowlo) **`Full`**
+   	- [Tweeload](https://play.google.com/store/apps/details?id=tweeload.twitter.video.downloader) **`MD-` `Monet` `💴`**
 - **App Downloader**   
    	- [Revanced Manager](https://github.com/revanced/revanced-manager) **`Full`**    
    	- [AliucordRN](https://github.com/Aliucord/AliucordRN) **`Full`**    
@@ -1254,6 +1262,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
    	- [Surfboard](https://play.google.com/store/apps/details?id=com.getsurfboard) **`Full` `Multi`**
    	- [WireGuard](https://git.zx2c4.com/wireguard-android/) **`Full`**
    	- [WS Proxy](https://gitlab.com/Nekogram/wsproxy) **`Full`**
+   	- [Surf VPN](https://play.google.com/store/apps/details?id=com.xfx.surfvpn) **`Full` `💴`**
 - **Measuring**
    	- [Bubble Level](https://play.google.com/store/apps/details?id=com.codeclickers.bubblelevel) **`MD`** 
    	- [Lightmeter](https://github.com/vodemn/m3_lightmeter) **`Full`**
