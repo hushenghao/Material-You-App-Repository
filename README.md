@@ -928,7 +928,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
    	- [Flip Clock](https://play.google.com/store/apps/details?id=art.widgeet.android.clock.flip) **`Full`**
 - **Dynamic Island**    
    	- [MaterialYou-Dynamic-Island](https://github.com/Angel-Studio/MaterialYou-Dynamic-Island) **`Full` `FOSS`**    
-   	- [Pixel Island](https://drive.google.com/drive/folders/1j1eWY73Zuq43kYHF6Qdjton8LZ02pA1C) **`Full`**    
+   	- [Pixel Island](https://drive.google.com/drive/folders/1j1eWY73Zuq43kYHF6Qdjton8LZ02pA1C) **`Full` `👻`**    
 - **Native System Customization**    
    	- [Seeker](https://play.google.com/store/apps/details?id=com.looper.seeker) **`Full`**    
    	- [DiscoverKiller](https://github.com/KieronQuinn/DiscoverKiller) **`Full` `FOSS`**    
