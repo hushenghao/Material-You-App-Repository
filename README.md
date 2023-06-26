@@ -962,7 +962,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
    	- [Root Explorer](https://t.me/projectmaterial/880) **`Monet` `MOD`**
    	- [AnExplorer](https://github.com/1hakr/AnExplorer) **`Full` `Multi` `💴`**
    	- [FTPClient](https://codeberg.org/qwerty287/ftpclient) **`Full` `FOSS`**
-   	- [PickYou](https://github.com/XayahSuSuSu/AndroidModule-PickYou) **`MD `FOSS``**
+   	- [PickYou](https://github.com/XayahSuSuSu/AndroidModule-PickYou) **`MD` `FOSS`**
    	- [RSAF](https://github.com/chenxiaolong/RSAF) **`MD-` `Monet` `FOSS`**
 - **Hardware Infomation**
    	- [DevCheck](https://play.google.com/store/apps/details?id=flar2.devcheck) **`Full` `💴`**
