@@ -83,6 +83,10 @@ Material Design 3伴随着Android 12而来。它的诞生，彻底改变了人�
     
     需要付费解锁一些功能的应用。
 
+- **`👻`**
+    
+    因为某些原因而停更的应用。
+
 
 |  | 完全体MD3设计 | Monet取色 |
 |:-:|:-:|:-:|
@@ -432,7 +436,7 @@ Material Design 3伴随着Android 12而来。它的诞生，彻底改变了人�
 	- [Honista](https://t.me/Honistagram) **`Monet` `MOD`**
 - **Twitter第三方**
 	- [harpy for Twitter](https://github.com/robertodoering/harpy) **`Monet` `FOSS`**
-	- [Albatross for Twitter](https://play.google.com/store/apps/details?id=com.nick.mowen.albatross) **`Monet`**
+	- [Albatross for Twitter](https://play.google.com/store/apps/details?id=com.nick.mowen.albatross) **`Monet` `👻`**
 	- [FocusTwitter](https://play.google.com/store/apps/details?id=allen.town.focus.twitter) **`Full` `💴`**
 	- [Quacker](https://apt.izzysoft.de/fdroid/index/apk/com.thehcj.quacker) **`MD-`**
 - **Mastodon第三方**
@@ -455,7 +459,7 @@ Material Design 3伴随着Android 12而来。它的诞生，彻底改变了人�
 	- [雾岛](https://github.com/123Duo3/XDNMB) **`TODO` `FOSS`**
 	- [Stack for Stack Overflow](https://play.google.com/store/apps/details?id=me.tylerbwong.stack) **`Full`**
 	- [HACG](https://github.com/shizheng233/HACG) **`Full` `FOSS`**
-	- [xland](https://github.com/re-ovo/xland) **`TODO` `FOSS`**
+	- [xland](https://github.com/re-ovo/xland) **`👻` `FOSS`**
 	- [Taiga Mobile](https://github.com/EugeneTheDev/TaigaMobile) **`Full` `FOSS`**
 - **邮件**
    	- [Spark邮箱](https://play.google.com/store/apps/details?id=com.readdle.spark) **`Full` `💴`**    
@@ -488,7 +492,7 @@ Material Design 3伴随着Android 12而来。它的诞生，彻底改变了人�
 	- [Spotube](https://github.com/KRTirtho/spotube) **`MD` `FOSS`**
 - **网易云音乐第三方**
 	- [音悦](https://github.com/GuihongWang/MusicYou) **`Full` `Multi` `FOSS`**
-	- [RainMusic](https://github.com/re-ovo/RainMusic) **`TODO` `FOSS`**
+	- [RainMusic](https://github.com/re-ovo/RainMusic) **`👻` `FOSS`**
 - **Bilibili第三方**
 	- [Bili You](https://github.com/lucinhu/bili_you) **`Full` `FOSS`**
 	- [Bilimiao](https://github.com/10miaomiao/bilimiao2) **`Monet` `Multi` `FOSS`**
@@ -669,7 +673,7 @@ Material Design 3伴随着Android 12而来。它的诞生，彻底改变了人�
 - [Kiwi Browser](https://github.com/kiwibrowser/src) **`Full` `Multi` `FOSS`**
 - [Hermit](https://play.google.com/store/apps/details?id=com.chimbori.hermitcrab) **`Full` `Multi`**
 - [Thor](https://gitlab.com/remmer.wilts/thor) **`MD-` `Multi` `FOSS`**
-- [Bromite](https://github.com/bromite/bromite) **`Full` `Multi`**
+- [Bromite](https://github.com/bromite/bromite) **`Full` `Multi` `👻`**
 - [Bromite-BuildTools](https://github.com/uazo/bromite-buildtools) **`Full` `Multi` `FOSS`**
 - [Styx](https://github.com/jamal2362/Styx) **`Full` `Multi` `FOSS`**
 - [Privacy Browser](https://play.google.com/store/apps/details?id=com.stoutner.privacybrowser.standard) **`Monet`**
@@ -698,7 +702,7 @@ Material Design 3伴随着Android 12而来。它的诞生，彻底改变了人�
 	- [每日早报](https://pann.lanhuang.top/down.php/a3bc25e7e539af77463acea4411c26a1.apk) **`Full`**
 	- [MeRead](https://github.com/gvenusleo/meread) **`Full` `FOSS`**
 	- [Reader](https://github.com/msasikanth/reader) **`MD-` `FOSS`**
-	- [Tension](https://github.com/re-ovo/Tension) **`TODO` `FOSS`**
+	- [Tension](https://github.com/re-ovo/Tension) **`👻` `FOSS`**
 	- [Global News](https://github.com/v1tzor/GlobalNewsApp) **`MD` `FOSS`**
 - **漫画**
 	- [Tachiyomi](https://github.com/tachiyomiorg/tachiyomi) / [TachiyomiJ2K](https://github.com/Jays2Kings/tachiyomiJ2K) / [TachiyomiSY](https://github.com/Hero-Over/TachiyomiSY) / [Syncyomi](https://github.com/SyncYomi/SyncYomi) **`Full` `Multi` `FOSS`**
@@ -971,7 +975,7 @@ Material Design 3伴随着Android 12而来。它的诞生，彻底改变了人�
    	- [Flip Clock](https://play.google.com/store/apps/details?id=art.widgeet.android.clock.flip) **`Full` `💴`**
 - **灵动岛**    
    	- [MaterialYou-Dynamic-Island](https://github.com/Angel-Studio/MaterialYou-Dynamic-Island) **`Full` `FOSS`**    
-   	- [Pixel Island](https://drive.google.com/drive/folders/1j1eWY73Zuq43kYHF6Qdjton8LZ02pA1C) **`Full`**    
+   	- [Pixel Island](https://drive.google.com/drive/folders/1j1eWY73Zuq43kYHF6Qdjton8LZ02pA1C) **`Full` `👻`**    
 - **原生系统定制**
    	- [Seeker](https://play.google.com/store/apps/details?id=com.looper.seeker) **`Full`**    
    	- [DiscoverKiller](https://github.com/KieronQuinn/DiscoverKiller) **`Full` `FOSS`**    
@@ -981,7 +985,7 @@ Material Design 3伴随着Android 12而来。它的诞生，彻底改变了人�
    	- [SystemUI Tuner](https://github.com/zacharee/Tweaker) **`MD-` `Monet` `Multi` `FOSS`**    
    	- [PowerLine](https://play.google.com/store/apps/details?id=com.urbandroid.inline) **`Full`**    
    	- [Palettes](https://play.google.com/store/apps/details?id=com.pranavpandey.theme) **`Full`**    
-   	- [Android 12 Extensions](https://github.com/kdrag0n/android12-extensions) **`MD-` `Monet` `FOSS`**   
+   	- [Android 12 Extensions](https://github.com/kdrag0n/android12-extensions) **`MD-` `Monet` `FOSS` `👻`**   
    	- [Iconify](https://github.com/Mahmud0808/Iconify) **`Full` `Multi`** 
    	- [网速指示器](https://www.coolapk.com/apk/com.dede.nativetools) **`MD-` `Monet` `Multi` `FOSS`**  
 - **GBoard主题定制**
@@ -1186,7 +1190,7 @@ Material Design 3伴随着Android 12而来。它的诞生，彻底改变了人�
    	- [Cart Calculator](https://github.com/D4rK7355608/com.d4rk.cartcalculator) **`Full` `FOSS`**
    	- [Calculator](https://play.google.com/store/apps/details?id=com.redmerah.calculator) **`MD`**
    	- [zCalc](https://github.com/ziadOUA/zCalc) **`MD-` `Monet` `FOSS`**
-   	- [Kalculator](https://github.com/re-ovo/Kalculator) **`TODO` `FOSS`**
+   	- [Kalculator](https://github.com/re-ovo/Kalculator) **`👻` `FOSS`**
    	- [Math Calculator](https://github.com/v1tzor/MathCalculator) **`Full` `FOSS`**
    	- [多功能计算器](https://play.google.com/store/apps/details?id=com.yangdai.calc) **`Full` `Multi` `FOSS`**
 - **翻译**
@@ -1430,7 +1434,7 @@ Material Design 3伴随着Android 12而来。它的诞生，彻底改变了人�
 ---
 ## [🎮游戏](#目录)
 - **模拟器**
-   	- [Skyline](https://skyline-emu.com/) **`Full` `💴`**    
+   	- [Skyline](https://skyline-emu.com/) **`Full` `💴` `👻`**    
    	- [Lemuroid](https://github.com/Swordfish90/Lemuroid) **`MD-` `Monet` `FOSS`**    
    	- [Rekado](https://github.com/MenosGrante/Rekado) **`Full` `FOSS`**    
    	- [JoiPlay](https://joiplay.org/) **`Full` `💴`**    
