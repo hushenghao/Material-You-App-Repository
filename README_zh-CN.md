@@ -296,7 +296,6 @@ Material Design 3 伴随着 Android 12 而来。它的诞生，彻底改变了�
 - [雹](https://github.com/aistra0528/Hail) **`Full` `Multi`**
 ## 🆕最近上新
 少女祈祷中…
-- [Dimett](https://github.com/MateriiApps/Dimett) **`Full` `FOSS`**
 - [Hydrogen](https://myhydrogen.gitee.io/) **`MD-` `FOSS`**
 - [Emblematix](https://github.com/lz233/Emblematix) **`Full` `FOSS`**
 - [Unvcode](https://github.com/lz233/unvcode_android) **`MD` `FOSS`**
@@ -311,6 +310,7 @@ Material Design 3 伴随着 Android 12 而来。它的诞生，彻底改变了�
 - [Project Themer](https://play.google.com/store/apps/details?id=com.drsants.eggproject) **`MD` `💴`**
 - [Telegram Themer](https://github.com/therxmv/Telegram-Themer) **`MD` `FOSS`**
 - [Gallery](https://github.com/IacobIonut01/Gallery) **`Full` `Multi` `FOSS`**
+- [Clash for Android](https://t.me/+kqvN73Ap1ixhY2Q1) **`MD` `Multi` `FOSS`**
 ## 📱应用列表
 **点击标题即可回到目录XD**
 ### 🦖[谷歌应用](#目录)
@@ -1305,6 +1305,7 @@ Material Design 3 伴随着 Android 12 而来。它的诞生，彻底改变了�
    	- [工具大师](https://dmla.lanzouo.com/b05pbb76b) **`MD`**
 - **代理工具**
    	- [Surfboard](https://play.google.com/store/apps/details?id=com.getsurfboard) **`Full` `Multi`**
+   	- [Clash for Android](https://t.me/+kqvN73Ap1ixhY2Q1) **`MD` `Multi` `FOSS`**
    	- [WireGuard](https://git.zx2c4.com/wireguard-android/) **`Full` `FOSS`**
    	- [WS Proxy](https://gitlab.com/Nekogram/wsproxy) **`Full` `FOSS`**
    	- [Surf VPN](https://play.google.com/store/apps/details?id=com.xfx.surfvpn) **`Full` `💴`**
