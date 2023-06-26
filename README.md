@@ -39,7 +39,6 @@ However in fact, sometimes Material You refers to the application which (may onl
 - **`FOSS`** - App that is free and open-sourse.
 - **`💴`** - App that needs to pay to activate some features.
 
-*And then, the label **`FOSS`** & **`💴`** will be added step by step. I will finish it as soon as possible XD*
 
 |  | Fully Designed | Dynamic Color |
 |:-:|:-:|:-:|
