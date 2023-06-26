@@ -259,7 +259,7 @@ However in fact, sometimes Material You refers to the application which (may onl
 - [Project Themer](https://play.google.com/store/apps/details?id=com.drsants.eggproject) **`MD` `💴`**
 - [Telegram Themer](https://github.com/therxmv/Telegram-Themer) **`MD` `FOSS`**
 - [Gallery](https://github.com/IacobIonut01/Gallery) **`Full` `Multi` `FOSS`**
-- [Clash for Android](https://t.me/+kqvN73Ap1ixhY2Q1) **`Full` `Multi` `FOSS`**
+- [Clash for Android](https://t.me/+kqvN73Ap1ixhY2Q1) **`MD` `Multi` `FOSS`**
 ## 📱Applist
 **Now you could click the title to return to the applist menu!**
 ### 🦖[Google Apps](#applist-menu)
@@ -1257,7 +1257,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
    	- [Tool Master](https://dmla.lanzouo.com/b05pbb76b) **`MD`**
 - **Proxy**
    	- [Surfboard](https://play.google.com/store/apps/details?id=com.getsurfboard) **`Full` `Multi`**
-   	- [Clash for Android](https://t.me/+kqvN73Ap1ixhY2Q1) **`Full` `Multi` `FOSS`**
+   	- [Clash for Android](https://t.me/+kqvN73Ap1ixhY2Q1) **`MD` `Multi` `FOSS`**
    	- [WireGuard](https://git.zx2c4.com/wireguard-android/) **`Full` `FOSS`**
    	- [WS Proxy](https://gitlab.com/Nekogram/wsproxy) **`Full` `FOSS`**
    	- [Surf VPN](https://play.google.com/store/apps/details?id=com.xfx.surfvpn) **`Full` `💴`**
