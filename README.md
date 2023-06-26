@@ -1133,7 +1133,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
    	- [KrypeEY](https://github.com/amnesica/KryptEY) **`Monet` `FOSS`**
 - **Calculator**   
    	- [yetCalc](https://github.com/Yet-Zio/yetCalc) **`MD-` `Monet` `Multi` `FOSS`**    
-   	- [Unitto](https://github.com/sadellie/unitto) **`Full` `Multi `FOSS``**    
+   	- [Unitto](https://github.com/sadellie/unitto) **`Full` `Multi` `FOSS`**    
    	- [Calculator-inator](https://github.com/prathameshmm02/Calculator-inator) **`Full` `Multi` `FOSS`**    
    	- [OpenCalc](https://github.com/Darkempire78/OpenCalc) **`Full` `Multi` `FOSS`**    
    	- [All-In-One Calculator](https://play.google.com/store/apps/details?id=all.in.one.calculator) **`MD-` `Monet` `Multi` `💴`**    
@@ -1284,7 +1284,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
    	- [DaRemote](https://play.google.com/store/apps/details?id=com.deskangel.daremote) **`Full`**    
    	- [Tremotesf](https://github.com/equeim/tremotesf-android) **`Monet` `FOSS`**  
    	- [Plex Manager](https://github.com/sikelio/plexmanager) **`MD-` `FOSS`**
-   	- [Simple WOL](https://github.com/herzhenr/simple-wake-on-lan) **`MD` `FOSS` `FOSS`**
+   	- [Simple WOL](https://github.com/herzhenr/simple-wake-on-lan) **`MD` `FOSS`**
 - **Componets & Demo**    
    	- [Monet Color Previewer](https://github.com/Smooth-E/monet-color-previewer) **`Full` `FOSS`**    
    	- [Material Components Gallery](https://github.com/NUmeroAndDev/MaterialGallery-android) **`Full` `FOSS`**    
@@ -1335,7 +1335,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
    	- [Dhizuku](https://github.com/iamr0s/Dhizuku) **`Full` `Multi` `FOSS`**    
    	- [ShizukuRunner](https://github.com/WuDi-ZhanShen/ShizukuRunner) **`Monet` `FOSS`**    
    	- [WADBS](https://github.com/Smooth-E/wireless-adb-switch) **`Full` `FOSS`**    
-   	- [LSPatch](https://github.com/LSPosed/LSPatch) **`Full` `Multi `FOSS``**    
+   	- [LSPatch](https://github.com/LSPosed/LSPatch) **`Full` `Multi` `FOSS`**    
 - **Xposed Modules**    
    	- [SIM Number Setter](https://github.com/KieronQuinn/SIMNumberSetter) **`Full` `FOSS`** 
    	- [MIFreeForm](https://www.coolapk.com/apk/com.sunshine.freeform) **`MD-` `Monet` `FOSS`**    
