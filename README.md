@@ -440,6 +440,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
 	- [ViMusic](https://github.com/vfsfitvnm/ViMusic) **`MD` `Multi` `FOSS`**
 	- [Vibe Music](https://github.com/sheikhhaziq/vibemusic) **`Full` `FOSS`**
 	- [InnerTune](https://github.com/z-huang/InnerTune) **`MD-` `Monet` `Multi` `FOSS`**
+	- [Musify](https://github.com/gokadzev/Musify) **`Full` `FOSS`**
 - **Spotify Clients** 
 	- [Jetispot](https://github.com/iTaysonLab/jetispot) and a [fork](https://github.com/BobbyESP/Jetispot) **`Full` `FOSS`**
 	- [Spotube](https://github.com/KRTirtho/spotube) **`MD` `FOSS`**
@@ -482,7 +483,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
 - **Online Music Services**
 	- [Kayin](http://music.ijanz.cn/) **`MD` `💴`**
 - **Offline Music Services**
-	- [Retro Music](https://github.com/RetroMusicPlayer/RetroMusicPlayer) **`💴`** / [Metro](https://github.com/MuntashirAkon/Metro) **`FOSS`** / [ApexMusic](https://github.com/TheTerminatorOfProgramming/ApexMusic) **`FOSS`** | **`Full` `Multi`**
+	- [Retro Music](https://github.com/RetroMusicPlayer/RetroMusicPlayer) **`💴`** / [Metro](https://github.com/MuntashirAkon/Metro) / [ApexMusic](https://github.com/TheTerminatorOfProgramming/ApexMusic) | **`Full` `Multi` `FOSS`**
 	- [Oto Music](https://play.google.com/store/apps/details?id=com.piyush.music) **`Full` `💴`**
 	- [Musicmax](https://github.com/MaximillianLeonov/Musicmax) **`Full` `FOSS`**
 	- [Zen Music](https://github.com/pakka-papad/Zen) **`Full` `FOSS`**
@@ -490,8 +491,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
 	- [Auxio](https://github.com/OxygenCobalt/Auxio) **`Full` `Multi` `FOSS`**
 	- [Symphony](https://www.f-droid.org/packages/io.github.zyrouge.symphony/) **`Full` `FOSS`**
 	- [Poweramp](https://play.google.com/store/apps/details?id=com.maxmpz.audioplayer) **`MD` `💴`**
-	- [Simple Music Player](https://github.com/SimpleMobileTools/Simple-Music-Player) **`Full` `💴`**
-	- [Musify](https://github.com/gokadzev/Musify) **`Full` `FOSS`**
+	- [Simple Music Player](https://github.com/SimpleMobileTools/Simple-Music-Player) **`Full` `FOSS`**
 	- [Pixel](https://play.google.com/store/apps/details?id=it.ncaferra.pixelplayerfree) **`Full`**
 	- [Pure Music](https://github.com/pure-music/PureMusic) **`Full` `Multi` `💴`**
 	- [Vanilla Music](https://play.google.com/store/apps/details?id=com.kyant.vanilla) **`MD-` `Monet`**
@@ -986,7 +986,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
    	- [Exodus](https://github.com/Exodus-Privacy/exodus-android-app) **`MD` `FOSS`**
    	- [App Manager](https://github.com/MuntashirAkon/AppManager) **`Full` `FOSS`**
    	- [LibChecker](https://github.com/LibChecker/LibChecker) **`Full` `FOSS`**
-   	- [Inure](https://github.com/Hamza417/Inure) **`Full` `💴`**
+   	- [Inure](https://github.com/Hamza417/Inure) **`Full` `FOSS` `💴`**
    	- [Skit](https://play.google.com/store/apps/details?id=com.pavelrekun.skit) **`Full` `💴`**
    	- [System Tools Android](https://play.google.com/store/apps/details?id=com.redhome.sta) **`MD-`**
    	- [AppDash](https://play.google.com/store/apps/details?id=flar2.appdashboard) **`Full` `💴`**
