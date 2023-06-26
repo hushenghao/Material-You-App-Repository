@@ -626,7 +626,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
 - [Kiwi Browser](https://github.com/kiwibrowser/src) **`Full` `Multi` `FOSS`**
 - [Thor](https://gitlab.com/remmer.wilts/thor) **`MD-` `Multi` `FOSS`**
 - [Bromite](https://github.com/bromite/bromite) **`Full` `Multi` `FOSS`**
-- [Bromite-BuildTools](https://github.com/uazo/bromite-buildtools) **`Full` `Multi`* `FOSS`*
+- [Bromite-BuildTools](https://github.com/uazo/bromite-buildtools) **`Full` `Multi` `FOSS`**
 - [Styx](https://github.com/jamal2362/Styx) **`Full` `Multi` `FOSS`**
 - [Privacy Browser](https://play.google.com/store/apps/details?id=com.stoutner.privacybrowser.standard) **`Monet`**
 - [Vivaldi](https://play.google.com/store/apps/details?id=com.vivaldi.browser)  **`Monet`**
@@ -642,7 +642,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
 	- [Readmini](https://play.google.com/store/apps/details?id=com.reamicro.academy) **`Full`**
 	- [Shosetsu](https://gitlab.com/shosetsuorg/shosetsu) **`Full` `Multi` `FOSS`**
 	- [NovelDokusha](https://github.com/nanihadesuka/NovelDokusha) **`MD` `FOSS`**
-	- [Moon+ Reader](https://play.google.com/store/apps/details?id=com.flyersoft.moonreader) **`MD-` `Multi` `FOSS`**
+	- [Moon+ Reader](https://play.google.com/store/apps/details?id=com.flyersoft.moonreader) **`MD-` `Multi` `💴`**
 	- [wenku8x](https://github.com/zsakvo/wenku8x) **`TODO` `FOSS`**
 	- [wenku8reader](https://github.com/15dd/wenku8reader) **`Full` `FOSS`**
 - **RSS/News**
@@ -712,7 +712,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
 	- [Simple Calendar](https://github.com/SimpleMobileTools/Simple-Calendar) **`Full` `FOSS`**
 	- [Persian Calendar](https://github.com/persian-calendar/persian-calendar) **`Full` `Multi` `FOSS`**
 	- [Prayer Times and Qibia](https://play.google.com/store/apps/details?id=com.reworewo.prayertimes) **`Full`**
-	- [Zoho Calendar](https://play.google.com/store/apps/details?id=com.zoho.android.calendar) **`MD-` `Monet` `FOSS`**
+	- [Zoho Calendar](https://play.google.com/store/apps/details?id=com.zoho.android.calendar) **`MD-` `Monet`**
 - **Weather**
 	- [Geometric Weather](https://github.com/WangDaYeeeeee/GeometricWeather) **`Full` `Multi` `FOSS`**
 	- [Maweihao Weather](https://www.coolapk.com/apk/top.maweihao.weather) **`Full`**
