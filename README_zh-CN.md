@@ -22,46 +22,47 @@
 </p>
 
 ## ⛩️序言
-### ❓️什么是Material Design 3？Material You又是什么？
+### ❓️什么是 Material Design 3？Material You 又是什么？
 *以下内容部分来源于谷歌官方文档*
 
-Material Design 3，又称质感设计3，是Google于2021年在Google I/O开发者大会上推出的最新开源Android APP UI设计规范。与前代Material Design 2对直角、阴影的强调不同，Material Design 3更加扁平化，它带来了更多的圆角设计、丰富并富有个性的形状各异的控件、对不同尺寸屏幕的Android设备更加友好的适配，更重要的是，它带来了全新的取色机制 —— Monet取色 (Dynamic Color)，该机制可根据用户设备的壁纸颜色决定APP的强调色与主色调，让你的Android系统更富有个性。
+Material Design 3，又称质感设计3，是 Google 于2021年在Google I/O开发者大会上推出的最新开源 Android APP UI 设计规范。与前代 Material Design 2 对直角、阴影的强调不同， Material Design 3 更加扁平化，它带来了更多的圆角设计、丰富并富有个性的形状各异的控件、对不同尺寸屏幕的 Android 设备更加友好的适配，更重要的是，它带来了全新的取色机制 —— 
+ Monet 取色 (Dynamic Color)，该机制可根据用户设备的壁纸颜色决定 APP 的强调色与主色调，让你的 Android 系统更富有个性。
 
-Material Design 3伴随着Android 12而来。它的诞生，彻底改变了人们对Android原生系统 “毛坯房” 的印象，在某些平台（如酷安）刮起了一股 “原生热” ，也成为了未来几年Android APP设计的美学规范之一。
+Material Design 3 伴随着 Android 12 而来。它的诞生，彻底改变了人们对 Android 原生系统 “毛坯房” 的印象，在某些平台（如酷安）刮起了一股 “原生热” ，也成为了未来几年 Android APP 设计的美学规范之一。
 
-狭义上的Material You是指Material Design 3设计规范中的一些新特性，如Monet取色、更有设计感的控件等，广义的Material You即指Monet取色，只要某个APP加入了Monet取色，无论APP的UI基于什么设计，都可以称作Material You。
-### ❓️目前Material You APP生态的现状如何？
-在国外，Material You受到了广大开发者的追捧。越来越多的开发者将他们的APP设计从MD2迁移到Material You，或者在APP中加入Monet取色，并基于Material You进行了很多UI的创新。
+狭义上的 Material You 是指 Material Design 3 设计规范中的一些新特性，如 Monet 取色、更有设计感的控件等，广义的 Material You 即指 Monet 取色，只要某个 APP 加入了 Monet 取色，无论 APP 的 UI 基于什么设计，都可以称作 Material You。
+### ❓️目前 Material You APP 生态的现状如何？
+在国外，Material You 受到了广大开发者的追捧。越来越多的开发者将他们的 APP 设计从 MD2 迁移到 Material You，或者在 APP 中加入 Monet 取色，并基于 Material You 进行了很多 UI 的创新。
 
-国内开发者大多喜欢自造轮子，不过也有不少开发者喜爱Material You，他们主要活跃于酷安、少数派等平台。同时，一些Magisk/KernelSU模块开发者热衷于Monet取色，他们为第三方未支持取色的应用开发了取色模块，并研究出了一套适配规则，具体可在酷安搜索“All Monet”。
+国内开发者大多喜欢自造轮子，不过也有不少开发者喜爱 Material You，他们主要活跃于酷安、少数派等平台。同时，一些 Magisk/KernelSU 模块开发者热衷于 Monet 取色，他们为第三方未支持取色的应用开发了取色模块，并研究出了一套适配规则，具体可在酷安搜索 “All Monet”。
 
-然而，除了Google和Meta (WhatsApp Beta) 以外，目前并未发现有大厂青睐Material You并将其用于APP的开发，国内国外都算上。
+然而，除了 Google 和 Meta (WhatsApp Beta) 以外，目前并未发现有大厂青睐 Material You 并将其用于 APP 的开发，国内国外都算上。
 
 ### ❓️为什么会有这个列表？
-- 首先当然是想让更多人了解Material You，感受Material You的奇妙魔法XD
-- 想让更多Material You爱好者检索软件方便、准确，毕竟想做一个最全最详细的Material You Applists desuwa~
-- 其实Material You Applists已经有人做出来了，流传也很广，相信大家也有所了解，但是似乎列表里的应用不太全，国内的不少应用列表里都莫得，所以，不如自己~~造个轮子~~吧！
+- 首先当然是想让更多人了解 Material You，感受 Material You 的奇妙魔法XD
+- 想让更多 Material You 爱好者检索软件方便、准确，毕竟想做一个最全最详细的 Material You Applists desuwa~
+- 其实 Material You Applists 已经有人做出来了，流传也很广，相信大家也有所了解，但是似乎列表里的应用不太全，国内的不少应用列表里都莫得，所以，不如自己~~造个轮子~~吧！
 
-**同时，欢迎米娜桑帮助我补充下你们遇到的Material You应用！**
+**同时，欢迎米娜桑帮助我补充下你们遇到的 Material You 应用！**
 ### 🏷️标签说明
 针对每个应用不同的情况，我在列表中给出了几种标签，它们的含义见下：
 
 （非常绕，希望不要被绕晕…）
 - **`MD`**
     
-    针对**完全**使用基于MD3设计的控件，但**不支持**Monet取色的应用。
+    针对**完全**使用基于 MD3 设计的控件，但**不支持** Monet 取色的应用。
     
 - **`MD-`**
     
-    针对**部分**使用基于MD3设计的控件的应用。这种情况很常见，比如有的应用仍然在使用MD2时期的switch。这种应用是否支持Monet取色视下面的"Monet"标签而定。
+    针对**部分**使用基于 MD3 设计的控件的应用。这种情况很常见，比如有的应用仍然在使用 MD2 时期的 switch。这种应用是否支持 Monet 取色视下面的 "Monet" 标签而定。
     
 - **`Monet`**
     
-    针对**支持**Monet取色，但应用整体设计**完全非**MD3的应用。
+    针对**支持** Monet 取色，但应用整体设计**完全非**MD3的应用。
     
 - **`Full`**
     
-    既**支持**Monet取色，又整体**完全**采用MD3设计，标准化的遵循Material Design 3设计的应用。
+    既**支持** Monet 取色，又整体**完全**采用 MD3 设计，标准化的遵循 Material Design 3 设计的应用。
     
 - **`Multi`**
     
@@ -69,11 +70,11 @@ Material Design 3伴随着Android 12而来。它的诞生，彻底改变了人�
     
 - **`MOD`**
     
-    由第三方制作的MOD应用，非官方支持。
+    由第三方制作的 MOD 应用，非官方支持。
     
 - **`TODO`**
     
-    已经有样图，但未正式发布的app，一般可以在github上一睹软件全貌。
+    已经有样图，但未正式发布的 app，一般可以在 github 上一睹软件全貌。
 
 - **`FOSS`**
     
@@ -96,14 +97,14 @@ Material Design 3伴随着Android 12而来。它的诞生，彻底改变了人�
 |**`Full`**|✅|✅|
 
 ### 💖感谢
-- **特别感谢**：[Material-You-app-list](https://github.com/nyas1/Material-You-app-list)，目前最著名的Material You APP收集项目，它为我的收集工作提供了莫大的帮助。  
-- 酷安用户[@培明](http://www.coolapk.com/u/2080396)，Telegram用户 Z_K 和魔王今天不开车，他们为Applist的收集也提供了不少素材。
-- [F-Droid](https://f-droid.org)，fd里收录了很多基于最新设计的开源APP，为本列表中的应用来源提供不少线索。
-- 在github、酷安等平台活跃的那些坚持使用Material Design 3开发APP的开发者大大们，你们为谷歌的软件生态做出了不可埋没的贡献！
-- Telegram频道：[某不知名杂货铺](https://t.me/youthkinga)、[HUC-Projects](https://t.me/anubis_recommended)、[WPX Projects](https://t.me/WSTprojects)、[Android Reposity](https://t.me/AndroidRepo)等。
-- 我的好友CK酱，帮助我收集了不少APP，提了不少建议，代码技术也很高超，贴贴！
+- **特别感谢**：[Material-You-app-list](https://github.com/nyas1/Material-You-app-list)，目前最著名的 Material You APP 收集项目，它为我的收集工作提供了莫大的帮助。  
+- 酷安用户[@培明](http://www.coolapk.com/u/2080396)，Telegram 用户 Z_K、Eldon 和魔王今天不开车，他们为 Applist 的收集也提供了不少素材。
+- [F-Droid](https://f-droid.org)，F-Droid 里收录了很多基于最新设计的开源 APP，为本列表中的应用来源提供不少线索。
+- 在 github、酷安等平台活跃的那些坚持使用 Material Design 3 开发 APP 的开发者大大们，你们为谷歌的软件生态做出了不可埋没的贡献！
+- Telegram 频道：[某不知名杂货铺](https://t.me/youthkinga)、[HUC-Projects](https://t.me/anubis_recommended)、[WPX Projects](https://t.me/WSTprojects)、[Android Reposity](https://t.me/AndroidRepo)等。
+- 我的好友 ZYClark，帮助我收集了不少 APP ，提了不少建议，代码和 MOD 技术也很高超，贴贴！
 - 列表建设初期为我提供建议的大佬们。
-- **正在浏览这个列表的，热爱Material You的你们！**
+- **正在浏览这个列表的，热爱 Material You 的你们！**
 ## 📜目录
 - **[🦖 谷歌应用](#谷歌应用)**
 - **[👨‍💻 OEM厂商/类原生定制应用](#oem%E5%8E%82%E5%95%86%E7%B1%BB%E5%8E%9F%E7%94%9F%E5%AE%9A%E5%88%B6%E5%BA%94%E7%94%A8)**
@@ -1493,20 +1494,19 @@ Material Design 3伴随着Android 12而来。它的诞生，彻底改变了人�
    	- [Yumesuki](https://github.com/nullxception/yumetsuki) **`TODO` `FOSS`**
    	- [Croissant](https://github.com/joeloewi7178/Croissant) **`Full` `Multi` `FOSS`**
 ---
-### [🪄Monet取色修改模块](#目录)
-- [Monet-All](https://github.com/YangguangZhou/Monet-All)（为微信、B站等应用添加Monet取色）
-- [MIUI Monet Project](https://t.me/MIUIMonetUpdate)（现转为收费项目，为MIUI应用及系统界面添加Monet取色）
-- [自主制作三方应用Monet取色](https://www.coolapk1s.com/feed/38873051)[模块教程](https://www.coolapk.com/feed/38873051)
-- 酷安上著名的Monet APP作者：
-	- [@Simba的小迷弟](https://www.coolapk.com/u/912927)（开山鼻祖）
+### [🪄Monet 取色修改模块](#目录)
+- [Monet-All](https://github.com/YangguangZhou/Monet-All)（为微信、B站等应用添加 Monet 取色）
+- [MIUI Monet Project](https://t.me/MIUIMonetUpdate)（现转为收费项目，为 MIUI 应用及系统界面添加 Monet 取色）
+- [自主制作三方应用 Monet 取色](https://www.coolapk1s.com/feed/38873051)[模块教程](https://www.coolapk.com/feed/38873051)
+- 酷安上著名的 Monet APP 作者：
+	- [@Simba](https://www.coolapk.com/u/912927)（开山鼻祖）
 	- [@MonetCarlos](https://www.coolapk.com/u/9021855)、[@人在且号无](https://www.coolapk.com/u/3743516)、[@JerryZhouYG](https://www.coolapk.com/u/3803468)、[@null喵](https://www.coolapk.com/u/25367133)、[@C碳化钨](https://www.coolapk.com/u/4091987)、[@WhiCCX5](https://www.coolapk.com/u/1788296)
-# 🫠告诉我你发现的Material You应用
-如果你发现了这个列表中没出现的Material You应用，欢迎你来告诉我！
+# 🫠告诉我你发现的 Material You 应用
+如果你发现了这个列表中没出现的 Material You 应用，欢迎你来告诉我！
 
 以下是可用的反馈方式：
 
-- 在我的Github仓库中[提issue](https://github.com/misaka-13766/Material-You-App-Repository/issues)；
-- 在酷安@我或者给我发私信，我的酷安ID是[也许是御坂13766号吧](https://www.coolapk.com/u/26677673)（可能是大多数人的选择XD）；
-- 在我的Telegram群聊中提，直接跟我PM也是欢迎哒！
+- 在我的 Github 仓库中[提 issue](https://github.com/misaka-13766/Material-You-App-Repository/issues)；
+- 在我的 Telegram 群聊中提，直接跟我 PM 也是欢迎哒！
 # ⛩️附注
 - 标题图片来源：Pixiv ID [82225040](https://www.pixiv.net/artworks/82225040)，Author [@に](https://www.pixiv.net/users/1632590)
