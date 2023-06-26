@@ -907,7 +907,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
    	- [Blur for You](https://www.coolapk.com/apk/com.riv3rdesign.you) **`MD-` `Monet`**    
    	- [Android 12 Clock Widget](https://play.google.com/store/apps/details?id=twelve.clock.mibrahim) **`Full` `💴`**    
    	- [Search Widget](https://play.google.com/store/apps/details?id=rk.android.app.searchbarwidget) **`MD-` `Monet` `💴`**    
-   	- [Clock Widget](https://play.google.com/store/apps/details?id=rk.android.app.clockwidget) **`MD-` `Monet` `💴`**    
+   	- [Clock Widget](https://play.google.com/store/apps/details?id=rk.android.app.clockwidget) **`MD-` `Monet` `💴`**  
    	- [AppBar](https://play.google.com/store/apps/details?id=rk.android.app.appbar) **`MD-` `Monet` `💴`**   
    	- [Music Widget Android 12](https://play.google.com/store/apps/details?id=com.lstapps.musicwidgetandroid12) **`Full` `💴`** 
    	- [Bitcoin Timechain Widgets](https://github.com/gooGofZ/BitcoinTimechainWidgets) **`Full` `FOSS`**    
@@ -1074,6 +1074,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
    	- [Notification Filter](https://www.coolapk.com/apk/top.webb_l.notificationfilter) **`MD-` `Monet` `💴`**   
    	- [Filter Box](https://www.coolapk.com/apk/com.catchingnow.np) **`MD-` `Monet` `💴`**
    	- [One Nofication](https://www.coolapk.com/apk/cn.skyrin.ntfh) **`MD` `💴`**
+   	- [NITM](https://github.com/deskbtm/nitmgpt) **`MD` `FOSS`**
 - **Clipboard Manager**
    	- [Memory Guardian](https://github.com/hashemi-hossein/memory-guardian) **`Full` `FOSS`**
    	- [Clipboard Cleaner](https://github.com/thatsmanmeet/Clipboard-Cleaner) **`Monet` `FOSS`**
