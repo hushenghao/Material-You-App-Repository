@@ -50,7 +50,7 @@ However in fact, sometimes Material You refers to the application which (may onl
 
 ### 💖Thanks to
 - **SPECIAL THANKS TO** [nyas1/Material-You-app-list](https://github.com/nyas1/Material-You-app-list/), the most popular material app collecting project, which helps me a lot. [Click here](https://github.com/nyas1/Material-You-app-list) to join Telegram Channel.
-- Coolapk User [@培明](https://www.coolapk.com/u/2080396), Telegram users Z_K & 魔王今天不开车 who provide many materials for me too.
+- Coolapk User [@培明](https://www.coolapk.com/u/2080396), Telegram users Z_K, Eldon & 魔王今天不开车 who provide many materials for me too.
 - F-Droid, which gives me a convenient access to FOSS and Material You apps.
 - Developers who keep using Material You. You have made an indelible contribution to Google's software ecosystem!
 - Telegram Channels: [某不知名杂货铺](https://t.me/youthkinga), [HUC-Projects](https://t.me/anubis_recommended), [WPX Projects](https://t.me/WSTprojects), [Android Reposity](https://t.me/AndroidRepo) and so on.
@@ -245,7 +245,6 @@ However in fact, sometimes Material You refers to the application which (may onl
 - [InstallerX](https://github.com/iamr0s/InstallerX) **`Full` `Multi`**
 - [Hail](https://github.com/aistra0528/Hail) **`Full` `Multi`**
 ## 🆕Newly Added Apps
-- [Dimett](https://github.com/MateriiApps/Dimett) **`Full` `FOSS`**
 - [Hydrogen](https://myhydrogen.gitee.io/) **`MD-` `FOSS`**
 - [Emblematix](https://github.com/lz233/Emblematix) **`Full` `FOSS`**
 - [Unvcode](https://github.com/lz233/unvcode_android) **`MD` `FOSS`**
@@ -260,6 +259,7 @@ However in fact, sometimes Material You refers to the application which (may onl
 - [Project Themer](https://play.google.com/store/apps/details?id=com.drsants.eggproject) **`MD` `💴`**
 - [Telegram Themer](https://github.com/therxmv/Telegram-Themer) **`MD` `FOSS`**
 - [Gallery](https://github.com/IacobIonut01/Gallery) **`Full` `Multi` `FOSS`**
+- [Clash for Android](https://t.me/+kqvN73Ap1ixhY2Q1) **`Full` `Multi` `FOSS`**
 ## 📱Applist
 **Now you could click the title to return to the applist menu!**
 ### 🦖[Google Apps](#applist-menu)
@@ -1257,6 +1257,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
    	- [Tool Master](https://dmla.lanzouo.com/b05pbb76b) **`MD`**
 - **Proxy**
    	- [Surfboard](https://play.google.com/store/apps/details?id=com.getsurfboard) **`Full` `Multi`**
+   	- [Clash for Android](https://t.me/+kqvN73Ap1ixhY2Q1) **`Full` `Multi` `FOSS`**
    	- [WireGuard](https://git.zx2c4.com/wireguard-android/) **`Full` `FOSS`**
    	- [WS Proxy](https://gitlab.com/Nekogram/wsproxy) **`Full` `FOSS`**
    	- [Surf VPN](https://play.google.com/store/apps/details?id=com.xfx.surfvpn) **`Full` `💴`**
