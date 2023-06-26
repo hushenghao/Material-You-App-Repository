@@ -38,6 +38,7 @@ However in fact, sometimes Material You refers to the application which (may onl
 - **`TODO`** - App that has no releases yet. You could preview it in its github repository.
 - **`FOSS`** - App that is free and open-sourse.
 - **`💴`** - App that needs to pay to activate some features.
+- **`👻`** - App that stops updating for some reasons.
 
 
 |  | Fully Designed | Dynamic Color |
@@ -388,7 +389,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
 	- [Honista](https://t.me/Honistagram) **`Monet` `MOD`**
 - **Twitter Clients**
 	- [harpy for Twitter](https://github.com/robertodoering/harpy) **`Monet` `FOSS`**
-	- [Albatross for Twitter](https://play.google.com/store/apps/details?id=com.nick.mowen.albatross) **`Monet`**
+	- [Albatross for Twitter](https://play.google.com/store/apps/details?id=com.nick.mowen.albatross) **`Monet` `👻`**
 	- [FocusTwitter](https://play.google.com/store/apps/details?id=allen.town.focus.twitter) **`Full` `💴`**
 	- [Quacker](https://apt.izzysoft.de/fdroid/index/apk/com.thehcj.quacker) **`MD-`**
 - **Mastodon Clients**
@@ -411,7 +412,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
 	- [FogIsland](https://github.com/123Duo3/XDNMB) **`TODO` `FOSS`**
 	- [Stack for Stack Overflow](https://play.google.com/store/apps/details?id=me.tylerbwong.stack) **`Full`**
 	- [HACG](https://github.com/shizheng233/HACG) **`Full` `FOSS`**
-	- [xland](https://github.com/re-ovo/xland) **`TODO` `FOSS`**
+	- [xland](https://github.com/re-ovo/xland) **`👻` `FOSS`**
 	- [Taiga Mobile](https://github.com/EugeneTheDev/TaigaMobile) **`Full` `FOSS`**
 - **Mail**    
    	- [Spark Mail](https://play.google.com/store/apps/details?id=com.readdle.spark) **`Full` `💴`**    
@@ -444,7 +445,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
 	- [Spotube](https://github.com/KRTirtho/spotube) **`MD` `FOSS`**
 - **Netease Cloud Music Clients** 
 	- [Music You](https://github.com/GuihongWang/MusicYou) **`Full` `Multi` `FOSS`**
-	- [RainMusic](https://github.com/re-ovo/RainMusic) **`TODO` `FOSS`**
+	- [RainMusic](https://github.com/re-ovo/RainMusic) **`👻` `FOSS`**
 - **Bilibili Clients**
 	- [Bili You](https://github.com/lucinhu/bili_you) **`Full` `FOSS`**
 	- [Bilimiao](https://github.com/10miaomiao/bilimiao2) **`Monet` `Multi` `FOSS`**
@@ -624,7 +625,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
 - [Lemur Browser](https://play.google.com/store/apps/details?id=com.lemurbrowser.exts) (Monet in settings only) **`Full` `Multi`**
 - [Kiwi Browser](https://github.com/kiwibrowser/src) **`Full` `Multi` `FOSS`**
 - [Thor](https://gitlab.com/remmer.wilts/thor) **`MD-` `Multi` `FOSS`**
-- [Bromite](https://github.com/bromite/bromite) **`Full` `Multi` `FOSS`**
+- [Bromite](https://github.com/bromite/bromite) **`Full` `Multi` `FOSS` `👻`**
 - [Bromite-BuildTools](https://github.com/uazo/bromite-buildtools) **`Full` `Multi` `FOSS`**
 - [Styx](https://github.com/jamal2362/Styx) **`Full` `Multi` `FOSS`**
 - [Privacy Browser](https://play.google.com/store/apps/details?id=com.stoutner.privacybrowser.standard) **`Monet`**
@@ -654,7 +655,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
 	- [Every Daily](https://pann.lanhuang.top/down.php/a3bc25e7e539af77463acea4411c26a1.apk) **`Full`**
 	- [MeRead](https://github.com/gvenusleo/meread) **`Full` `FOSS`**
 	- [Reader](https://github.com/msasikanth/reader) **`MD-` `FOSS`**
-	- [Tension](https://github.com/re-ovo/Tension) **`TODO` `FOSS`**
+	- [Tension](https://github.com/re-ovo/Tension) **`👻` `FOSS`**
 	- [Global News](https://github.com/v1tzor/GlobalNewsApp) **`MD` `FOSS`**
 - **Comics**
 	- [Tachiyomi](https://github.com/tachiyomiorg/tachiyomi) / [TachiyomiJ2K](https://github.com/Jays2Kings/tachiyomiJ2K) / [TachiyomiSY](https://github.com/Hero-Over/TachiyomiSY) / [Syncyomi](https://github.com/SyncYomi/SyncYomi) **`Full` `Multi` `FOSS`**
@@ -937,7 +938,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
    	- [SystemUI Tuner](https://github.com/zacharee/Tweaker) **`MD-` `Monet` `Multi` `FOSS`**    
    	- [PowerLine](https://play.google.com/store/apps/details?id=com.urbandroid.inline) **`Full`**    
    	- [Palettes](https://play.google.com/store/apps/details?id=com.pranavpandey.theme) **`Full`**    
-   	- [Android 12 Extensions](https://github.com/kdrag0n/android12-extensions) **`MD-` `Monet` `FOSS`**   
+   	- [Android 12 Extensions](https://github.com/kdrag0n/android12-extensions) **`MD-` `Monet` `FOSS` `👻`**   
    	- [Iconify](https://github.com/Mahmud0808/Iconify) **`Full` `Multi` `FOSS`**
    	- [Speed Monitor](https://www.coolapk.com/apk/com.dede.nativetools) **`MD-` `Monet` `Multi` `FOSS`** 
 - **GBoard Customization**
@@ -1142,7 +1143,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
    	- [Cart Calculator](https://github.com/D4rK7355608/com.d4rk.cartcalculator) **`Full` `FOSS`**
    	- [Calculator](https://play.google.com/store/apps/details?id=com.redmerah.calculator) **`MD`**
    	- [zCalc](https://github.com/ziadOUA/zCalc) **`MD-` `Monet` `FOSS`**
-   	- [Kalculator](https://github.com/re-ovo/Kalculator) **`TODO` `FOSS`**
+   	- [Kalculator](https://github.com/re-ovo/Kalculator) **`👻` `FOSS`**
    	- [Math Calculator](https://github.com/v1tzor/MathCalculator) **`Full` `FOSS`**
    	- [Multi Caculater](https://play.google.com/store/apps/details?id=com.yangdai.calc) **`Full` `Multi` `FOSS` `FOSS`**
 - **Translator**    
@@ -1386,7 +1387,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
 ---
 ### [🎮Games](#applist-menu)
 - **Emulator**    
-   	- [Skyline](https://skyline-emu.com/) **`Full` `💴`**    
+   	- [Skyline](https://skyline-emu.com/) **`Full` `💴` `👻`**    
    	- [Lemuroid](https://github.com/Swordfish90/Lemuroid) **`MD-` `Monet` `FOSS`**    
    	- [Rekado](https://github.com/MenosGrante/Rekado) **`Full` `FOSS`**    
    	- [JoiPlay](https://joiplay.org/) **`Full` `💴`**    
