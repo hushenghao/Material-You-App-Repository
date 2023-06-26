@@ -491,7 +491,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
 	- [Symphony](https://www.f-droid.org/packages/io.github.zyrouge.symphony/) **`Full` `FOSS`**
 	- [Poweramp](https://play.google.com/store/apps/details?id=com.maxmpz.audioplayer) **`MD` `💴`**
 	- [Simple Music Player](https://github.com/SimpleMobileTools/Simple-Music-Player) **`Full` `💴`**
-	- [Musify](https://github.com/gokadzev/Musify) **`Full` `💴`**
+	- [Musify](https://github.com/gokadzev/Musify) **`Full` `FOSS`**
 	- [Pixel](https://play.google.com/store/apps/details?id=it.ncaferra.pixelplayerfree) **`Full`**
 	- [Pure Music](https://github.com/pure-music/PureMusic) **`Full` `Multi` `💴`**
 	- [Vanilla Music](https://play.google.com/store/apps/details?id=com.kyant.vanilla) **`MD-` `Monet`**
@@ -539,7 +539,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
 	- [Notewise](https://play.google.com/store/apps/details?id=com.yygg.note.app) **`MD` `💴`**
 - **Journal**
 	- [Graphite](https://play.google.com/store/apps/details?id=com.syncodec.graphite) **`MD`**
-	- [Durian Journal](https://www.coolapk.com/apk/com.weimu.duriandiary) **`MD`**
+	- [Durian Journal](https://www.coolapk.com/apk/com.weimu.duriandiary) **`MD` `💴`**
 	- [Spooky](https://github.com/juniorise/spooky-mb) **`Full` `FOSS`**
 	- [jtxBoard](https://jtx.techbee.at/) **`Full` `FOSS`**
 	- [Journey](https://play.google.com/store/apps/details?id=com.journey.app) **`MD` `Multi` `💴`**
