@@ -295,9 +295,6 @@ Material Design 3伴随着Android 12而来。它的诞生，彻底改变了人�
 - [雹](https://github.com/aistra0528/Hail) **`Full` `Multi`**
 ## 🆕最近上新
 少女祈祷中…
-- [Simple WOL](https://github.com/herzhenr/simple-wake-on-lan) **`MD` `FOSS`**
-- [Simple MP](https://github.com/lighttigerXIV/SimpleMP-Compose) **`Full` `Multi` `FOSS`**
-- [Wikipedia](https://play.google.com/store/apps/details?id=org.wikipedia) **`MD`**
 - [Dimett](https://github.com/MateriiApps/Dimett) **`Full` `FOSS`**
 - [Hydrogen](https://myhydrogen.gitee.io/) **`MD-` `FOSS`**
 - [Emblematix](https://github.com/lz233/Emblematix) **`Full` `FOSS`**
@@ -310,6 +307,9 @@ Material Design 3伴随着Android 12而来。它的诞生，彻底改变了人�
 - [Tweeload](https://play.google.com/store/apps/details?id=tweeload.twitter.video.downloader) **`MD-` `Monet` `💴`**
 - [Tempo](https://github.com/CappielloAntonio/tempo) **`MD-` `Monet` `FOSS`**
 - [媒体存储管理器](https://github.com/MaterialCleaner/Media-Provider-Manager) **`MD-` `Monet` `FOSS`**
+- [Project Themer](https://play.google.com/store/apps/details?id=com.drsants.eggproject) **`MD` `💴`**
+- [Telegram Themer](https://github.com/therxmv/Telegram-Themer) **`MD` `FOSS`**
+- [Gallery](https://github.com/IacobIonut01/Gallery) **`Full` `Multi` `FOSS`**
 ## 📱应用列表
 **点击标题即可回到目录XD**
 ### 🦖[谷歌应用](#目录)
@@ -987,7 +987,8 @@ Material Design 3伴随着Android 12而来。它的诞生，彻底改变了人�
    	- [Palettes](https://play.google.com/store/apps/details?id=com.pranavpandey.theme) **`Full`**    
    	- [Android 12 Extensions](https://github.com/kdrag0n/android12-extensions) **`MD-` `Monet` `FOSS` `👻`**   
    	- [Iconify](https://github.com/Mahmud0808/Iconify) **`Full` `Multi`** 
-   	- [网速指示器](https://www.coolapk.com/apk/com.dede.nativetools) **`MD-` `Monet` `Multi` `FOSS`**  
+   	- [网速指示器](https://www.coolapk.com/apk/com.dede.nativetools) **`MD-` `Monet` `Multi` `FOSS`**
+   	- [Project Themer](https://play.google.com/store/apps/details?id=com.drsants.eggproject) **`MD` `💴`**
 - **GBoard主题定制**
    	- [Rboard Theme Manager](https://github.com/DerTyp7214/RboardThemeManagerV3) **`Full` `FOSS`**    
    	- [Rboard Patcher](https://github.com/DerTyp7214/RboardPatcher) **`Full` `FOSS`**    
@@ -999,6 +1000,7 @@ Material Design 3伴随着Android 12而来。它的诞生，彻底改变了人�
    	- [Telegram Monet](https://github.com/c3r5b8/Telegram-Monet) **`Full` `FOSS`**    
    	- [ComboSkin for 4PDA forum app](https://github.com/PycmShoma/4PDA-ComboSkin-MaterialYou) **`Monet` `FOSS`**
    	- [Theme Engine](https://github.com/prathameshmm02/ThemeEngine) **`Full` `FOSS`**
+   	- [Telegram Themer](https://github.com/therxmv/Telegram-Themer) **`MD` `FOSS`**
 ---
 ## [⚙️系统工具](#目录)
 - **文件管理**
