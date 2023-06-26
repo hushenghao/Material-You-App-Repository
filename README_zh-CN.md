@@ -78,7 +78,7 @@ Material Design 3 伴随着 Android 12 而来。它的诞生，彻底改变了�
 
 - **`FOSS`**
     
-    FOSS 即 Free & Open Sourse Software 的简写，这个标签针对的是免费开源应用。
+    FOSS 即 Free & Open Sourse Software 的简写，这个标签针对的是自由开放的**开源**应用，它们大多数是免费的。如果一个应用有 FOSS 和付费两个版本，将优先收录 FOSS 版本。
 
 - **`💴`**
     
@@ -488,6 +488,7 @@ Material Design 3 伴随着 Android 12 而来。它的诞生，彻底改变了�
 	- [ViMusic](https://github.com/vfsfitvnm/ViMusic) **`MD` `Multi` `FOSS`**
 	- [Vibe Music](https://github.com/sheikhhaziq/vibemusic) **`Full` `FOSS`**
 	- [InnerTune](https://github.com/z-huang/InnerTune) **`MD-` `Monet` `Multi` `FOSS`**
+	- [Musify](https://github.com/gokadzev/Musify) **`Full` `FOSS`**
 - **Spotify第三方**
 	- [Jetispot](https://github.com/iTaysonLab/jetispot) and a [fork](https://github.com/BobbyESP/Jetispot) **`Full` `FOSS`**
 	- [Spotube](https://github.com/KRTirtho/spotube) **`MD` `FOSS`**
@@ -530,7 +531,7 @@ Material Design 3 伴随着 Android 12 而来。它的诞生，彻底改变了�
 - **在线音乐播放**
 	- [卡音](http://music.ijanz.cn/) **`MD` `💴`**
 - **本地音乐播放**
-	- [Retro Music](https://github.com/RetroMusicPlayer/RetroMusicPlayer) **`💴`** / [Metro](https://github.com/MuntashirAkon/Metro) **`FOSS`** / [ApexMusic](https://github.com/TheTerminatorOfProgramming/ApexMusic) **`FOSS`** | **`Full` `Multi`**
+	- [Retro Music](https://github.com/RetroMusicPlayer/RetroMusicPlayer) **`💴`** / [Metro](https://github.com/MuntashirAkon/Metro) / [ApexMusic](https://github.com/TheTerminatorOfProgramming/ApexMusic) | **`Full` `Multi` `FOSS`**
 	- [Oto Music](https://play.google.com/store/apps/details?id=com.piyush.music) **`Full` `💴`**
 	- [Musicmax](https://github.com/MaximillianLeonov/Musicmax) **`Full` `FOSS`**
 	- [Zen Music](https://github.com/pakka-papad/Zen) **`Full` `FOSS`**
@@ -539,7 +540,6 @@ Material Design 3 伴随着 Android 12 而来。它的诞生，彻底改变了�
 	- [Symphony](https://www.f-droid.org/packages/io.github.zyrouge.symphony/) **`Full` `FOSS`**
 	- [Poweramp](https://play.google.com/store/apps/details?id=com.maxmpz.audioplayer) **`MD` `💴`**
 	- [Simple Music Player](https://github.com/SimpleMobileTools/Simple-Music-Player) **`Full` `FOSS`**
-	- [Musify](https://github.com/gokadzev/Musify) **`Full` `FOSS`**
 	- [Pixel](https://play.google.com/store/apps/details?id=it.ncaferra.pixelplayerfree) **`Full`**
 	- [棉花音乐](https://github.com/pure-music/PureMusic) **`Full` `Multi` `💴`**
 	- [Vanilla](https://play.google.com/store/apps/details?id=com.kyant.vanilla) **`MD-` `Monet`**
@@ -1034,7 +1034,7 @@ Material Design 3 伴随着 Android 12 而来。它的诞生，彻底改变了�
    	- [Exodus](https://github.com/Exodus-Privacy/exodus-android-app) **`MD` `FOSS`**
    	- [App Manager](https://github.com/MuntashirAkon/AppManager) **`Full` `FOSS`**
    	- [LibChecker](https://github.com/LibChecker/LibChecker) **`Full` `FOSS`**
-   	- [Inure](https://github.com/Hamza417/Inure) **`Full` `💴`**
+   	- [Inure](https://github.com/Hamza417/Inure) **`Full` `💴` `FOSS`**
    	- [Skit](https://play.google.com/store/apps/details?id=com.pavelrekun.skit) **`Full` `💴`**
    	- [System Tools Android](https://play.google.com/store/apps/details?id=com.redhome.sta) **`MD-`**
    	- [AppDash](https://play.google.com/store/apps/details?id=flar2.appdashboard) **`Full` `💴`**
