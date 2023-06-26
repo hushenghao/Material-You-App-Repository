@@ -19,9 +19,6 @@
   <a href="https://t.me/misakamaterialyouchat">
     <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&colorA=DAE9FC&colorB=056DE8&label=%E7%BE%A4%E8%81%8A&logo=telegram&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dtelegram%26queryKey%3Dmisakamaterialyouchat" alt="Telegram">
   </a>
-  <a href="https://www.coolapk.com/u/26677673">
-    <img src="https://img.shields.io/badge/Coolapk-yuban13766-%231B914C?style=for-the-badge&colorA=E1F6E1&colorB=126736" alt="酷安">
-  </a>
 </p>
 
 ## ⛩️序言
@@ -295,7 +292,6 @@ Material Design 3伴随着Android 12而来。它的诞生，彻底改变了人�
 - [雹](https://github.com/aistra0528/Hail) **`Full` `Multi`**
 ## 🆕最近上新
 少女祈祷中…
-- [简记](https://play.google.com/store/apps/details?id=com.yangdai.notesapp) **`Full` `FOSS`**
 - [Simple WOL](https://github.com/herzhenr/simple-wake-on-lan) **`MD` `FOSS`**
 - [Simple MP](https://github.com/lighttigerXIV/SimpleMP-Compose) **`Full` `Multi` `FOSS`**
 - [Wikipedia](https://play.google.com/store/apps/details?id=org.wikipedia) **`MD`**
@@ -310,6 +306,7 @@ Material Design 3伴随着Android 12而来。它的诞生，彻底改变了人�
 - [Surf VPN](https://play.google.com/store/apps/details?id=com.xfx.surfvpn) **`Full` `💴`**
 - [Tweeload](https://play.google.com/store/apps/details?id=tweeload.twitter.video.downloader) **`MD-` `Monet` `💴`**
 - [Tempo](https://github.com/CappielloAntonio/tempo) **`MD-` `Monet` `FOSS`**
+- [媒体存储管理器](https://github.com/MaterialCleaner/Media-Provider-Manager) **`MD-` `Monet` `FOSS`**
 ## 📱应用列表
 **点击标题即可回到目录XD**
 ### 🦖[谷歌应用](#目录)
@@ -1416,6 +1413,7 @@ Material Design 3伴随着Android 12而来。它的诞生，彻底改变了人�
    	- [MiPushService](https://github.com/NihilityT/MiPushFramework) **`MD-`**
    	- [WA Tweaker](https://watweaker.com/#) **`MD`**
    	- [错误追踪](https://github.com/KitsunePie/AppErrorsTracking) **`MD-`**
+   	- [媒体存储管理器](https://github.com/MaterialCleaner/Media-Provider-Manager) **`MD-` `Monet` `FOSS`**
 - **其他需要Root权限的工具**
    	- [爱玩机工具箱](https://www.coolapk.com/apk/com.byyoung.setting) **`Full`**
    	- [Blocker](https://github.com/lihenggui/blocker) **`Full` `Multi`**
