@@ -296,7 +296,6 @@ Material Design 3 伴随着 Android 12 而来。它的诞生，彻底改变了�
 - [雹](https://github.com/aistra0528/Hail) **`Full` `Multi`**
 ## 🆕最近上新
 少女祈祷中…
-- [RSAF](https://github.com/chenxiaolong/RSAF) **`MD-` `Monet` `FOSS`**
 - [Mellow Music](https://github.com/SuhasDissa/MellowMusic) **`Full` `FOSS`**
 - [Image Compressor](https://play.google.com/store/apps/details?id=aculix.bulk.image.compressor) **`Full` `💴`**
 - [Ahmedabad Metro](https://play.google.com/store/apps/details?id=ahmedabad.gandhinagar.metro.rail.project.info.mega) **`Full` `Multi`**
@@ -311,6 +310,7 @@ Material Design 3 伴随着 Android 12 而来。它的诞生，彻底改变了�
 - [Molly](https://github.com/mollyim/mollyim-android) **`MD` `FOSS`**
 - [Aristo Kids Mental Accelerator](https://play.google.com/store/apps/details?id=com.aristo.aristokids) **`MD`**
 - [DPITunnel](https://github.com/nomoresat/DPITunnel-android) **`Monet` `FOSS`**
+- [Tinnitus Massage](https://play.google.com/store/apps/details?id=nl.appyhapps.tinnitusmassage) **`MD` `💴`**
 ## 📱应用列表
 **点击标题即可回到目录XD**
 ### 🦖[谷歌应用](#目录)
@@ -818,6 +818,7 @@ Material Design 3 伴随着 Android 12 而来。它的诞生，彻底改变了�
 	- [Habo](https://github.com/xpavle00/Habo) **`MD` `FOSS`**
 	- [Habit Builder](https://github.com/ofalvai/HabitBuilder) **`Full` `FOSS`**
 	- [Table Habit](https://github.com/FriesI23/mhabit) **`Full` `FOSS`**
+	- [Tinnitus Massage](https://play.google.com/store/apps/details?id=nl.appyhapps.tinnitusmassage) **`MD` `💴`**
 - **学习**
 	- [Graded](https://github.com/NightDreamGames/Graded) **`Full` `FOSS`**
 	- [School Planner](https://play.google.com/store/apps/details?id=daldev.android.gradehelper) **`Full` `Multi`**
