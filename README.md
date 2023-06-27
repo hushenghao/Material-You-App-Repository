@@ -36,7 +36,7 @@ However in fact, sometimes Material You refers to the application which (may onl
 - **`Multi`** - App that is more friendly for different devices, such as pad and fold.
 - **`MOD`** - App that is modified by unofficial teams. Its original app doesn't apply Material You completely.
 - **`TODO`** - App that has no releases yet. You could preview it in its github repository.
-- **`FOSS`** - App that is free and open-sourse.
+- **`FOSS`** - App that is free and open-sourse. No indicator means app is Closed Source.
 - **`💴`** - App that needs to pay to activate some features.
 - **`👻`** - App that stops updating for some reasons.
 
