@@ -296,9 +296,6 @@ Material Design 3 伴随着 Android 12 而来。它的诞生，彻底改变了�
 - [雹](https://github.com/aistra0528/Hail) **`Full` `Multi`**
 ## 🆕最近上新
 少女祈祷中…
-- [Hydrogen](https://myhydrogen.gitee.io/) **`MD-` `FOSS`**
-- [Emblematix](https://github.com/lz233/Emblematix) **`Full` `FOSS`**
-- [Unvcode](https://github.com/lz233/unvcode_android) **`MD` `FOSS`**
 - [RSAF](https://github.com/chenxiaolong/RSAF) **`MD-` `Monet` `FOSS`**
 - [Mellow Music](https://github.com/SuhasDissa/MellowMusic) **`Full` `FOSS`**
 - [Image Compressor](https://play.google.com/store/apps/details?id=aculix.bulk.image.compressor) **`Full` `💴`**
@@ -311,6 +308,9 @@ Material Design 3 伴随着 Android 12 而来。它的诞生，彻底改变了�
 - [Telegram Themer](https://github.com/therxmv/Telegram-Themer) **`MD` `FOSS`**
 - [Gallery](https://github.com/IacobIonut01/Gallery) **`Full` `Multi` `FOSS`**
 - [Clash for Android](https://t.me/+kqvN73Ap1ixhY2Q1) **`MD` `Multi` `FOSS`**
+- [Molly](https://github.com/mollyim/mollyim-android) **`MD` `FOSS`**
+- [Aristo Kids Mental Accelerator](https://play.google.com/store/apps/details?id=com.aristo.aristokids) **`MD`**
+- [DPITunnel](https://github.com/nomoresat/DPITunnel-android) **`Monet` `FOSS`**
 ## 📱应用列表
 **点击标题即可回到目录XD**
 ### 🦖[谷歌应用](#目录)
@@ -421,6 +421,7 @@ Material Design 3 伴随着 Android 12 而来。它的诞生，彻底改变了�
 	- [Nekogram](https://nekogram.app/) **`Monet` `FOSS`**
 - **加密聊天软件**
 	- [Signal](https://github.com/signalapp/Signal-Android) / [Signal You](https://github.com/nekorubu/Signal-You) **`MD` `FOSS`**
+	- [Molly](https://github.com/mollyim/mollyim-android) **`MD` `FOSS`**
 	- [FluffyChat](https://gitlab.com/famedly/fluffychat) **`Full` `Multi` `FOSS`**
 	- [E2E Encrypted Chat](https://github.com/Project-Based-Learning-IT/e2ee-chat) **`TODO` `FOSS`**
 - **Reddit第三方**
@@ -865,8 +866,9 @@ Material Design 3 伴随着 Android 12 而来。它的诞生，彻底改变了�
 - **比赛**
 	- [FRCFrenzy](https://github.com/galaxygoldfish/FRCFrenzy) **`TODO` `FOSS`**
 	- [OpenBl](https://github.com/Ounzy/OpenBl) **`Full` `FOSS`**
-- **儿童服务**
+- **育儿**
    	- [Babysafe](https://play.google.com/store/apps/details?id=at.techbee.babysafe) **`MD`**
+   	- [Aristo Kids Mental Accelerator](https://play.google.com/store/apps/details?id=com.aristo.aristokids) **`MD`**
 - **其他**
 	- [openHAB](https://github.com/openhab/openhab-android) / [LogViewer for openHAB-App](https://github.com/cyb3rko/logviewer-for-openhab-app) **`Full` `FOSS`**
 	- [Lis10](https://play.google.com/store/apps/details?id=com.urbandroid.lis10) **`Full`**
@@ -1369,6 +1371,7 @@ Material Design 3 伴随着 Android 12 而来。它的诞生，彻底改变了�
    	- [notabug](https://github.com/Smooth-E/notabug-mobile) **`TODO` `FOSS`**
    	- [Zoho Apptics](https://play.google.com/store/apps/details?id=com.zoho.apptics) **`MD-` `Monet`**
    	- [Maybe](https://1drv.ms/u/s!Atk49Scq_BtYhHpVn8A3ZDu-aKHX?e=51dtFM) **`Full`**
+   	- [DPITunnel](https://github.com/nomoresat/DPITunnel-android) **`Monet` `FOSS`**
 ---
 ## [#️⃣Root/ADB](#目录)
 - **管理器**
