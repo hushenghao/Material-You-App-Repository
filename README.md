@@ -245,9 +245,6 @@ However in fact, sometimes Material You refers to the application which (may onl
 - [InstallerX](https://github.com/iamr0s/InstallerX) **`Full` `Multi`**
 - [Hail](https://github.com/aistra0528/Hail) **`Full` `Multi`**
 ## 🆕Newly Added Apps
-- [Hydrogen](https://myhydrogen.gitee.io/) **`MD-` `FOSS`**
-- [Emblematix](https://github.com/lz233/Emblematix) **`Full` `FOSS`**
-- [Unvcode](https://github.com/lz233/unvcode_android) **`MD` `FOSS`**
 - [RSAF](https://github.com/chenxiaolong/RSAF) **`MD-` `Monet` `FOSS`**
 - [Mellow Music](https://github.com/SuhasDissa/MellowMusic) **`Full` `FOSS`**
 - [Image Compressor](https://play.google.com/store/apps/details?id=aculix.bulk.image.compressor) **`Full` `💴`**
@@ -260,6 +257,9 @@ However in fact, sometimes Material You refers to the application which (may onl
 - [Telegram Themer](https://github.com/therxmv/Telegram-Themer) **`MD` `FOSS`**
 - [Gallery](https://github.com/IacobIonut01/Gallery) **`Full` `Multi` `FOSS`**
 - [Clash for Android](https://t.me/+kqvN73Ap1ixhY2Q1) **`MD` `Multi` `FOSS`**
+- [Molly](https://github.com/mollyim/mollyim-android) **`MD` `FOSS`**
+- [Aristo Kids Mental Accelerator](https://play.google.com/store/apps/details?id=com.aristo.aristokids) **`MD`**
+- [DPITunnel](https://github.com/nomoresat/DPITunnel-android) **`Monet` `FOSS`**
 ## 📱Applist
 **Now you could click the title to return to the applist menu!**
 ### 🦖[Google Apps](#applist-menu)
@@ -373,6 +373,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
 - **Encrypted Chatting**
 	- [FluffyChat](https://gitlab.com/famedly/fluffychat) **`Full` `Multi` `FOSS`**
 	- [Signal](https://github.com/signalapp/Signal-Android) / [Signal You](https://github.com/nekorubu/Signal-You) **`MD` `FOSS`**
+	- [Molly](https://github.com/mollyim/mollyim-android) **`MD` `FOSS`**
 	- [E2E Encrypted Chat](https://github.com/Project-Based-Learning-IT/e2ee-chat) **`TODO` `FOSS`**
 - **Reddit Clients**
 	- [Sync for Reddit](https://play.google.com/store/apps/details?id=com.laurencedawson.reddit_sync) **`Full` `Multi`**
@@ -816,6 +817,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
    	- [Taru](https://github.com/nirajprakash/taru-plants-android) **`MD` `FOSS`**
 - **Babysitting**
    	- [Babysafe](https://play.google.com/store/apps/details?id=at.techbee.babysafe) **`MD`**
+   	- [Aristo Kids Mental Accelerator](https://play.google.com/store/apps/details?id=com.aristo.aristokids) **`MD`**
 - **Competition**
    	- [OpenBl](https://github.com/Ounzy/OpenBl) **`Full` `FOSS`**
    	- [FRCFrenzy](https://github.com/galaxygoldfish/FRCFrenzy) **`TODO` `FOSS`**
@@ -1321,6 +1323,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
    	- [notabug](https://github.com/Smooth-E/notabug-mobile) **`TODO` `FOSS`**
    	- [Zoho Apptics](https://play.google.com/store/apps/details?id=com.zoho.apptics) **`MD-` `Monet`**
    	- [Maybe](https://1drv.ms/u/s!Atk49Scq_BtYhHpVn8A3ZDu-aKHX?e=51dtFM) **`Full`**
+   	- [DPITunnel](https://github.com/nomoresat/DPITunnel-android) **`Monet` `FOSS`**
 ---
 ### [#️⃣Root/ADB](#applist-menu)
 - **Manager**   
