@@ -763,7 +763,7 @@ Material Design 3 伴随着 Android 12 而来。它的诞生，彻底改变了�
 	- [Prayer Times and Qibia](https://play.google.com/store/apps/details?id=com.reworewo.prayertimes) **`Full`**
 	- [Zoho Calendar](https://play.google.com/store/apps/details?id=com.zoho.android.calendar) **`MD-` `Monet`**
 - **天气**
-	- [几何天气](https://github.com/WangDaYeeeeee/GeometricWeather) **`Full` `Multi` `FOSS`**
+	- [几何天气](https://github.com/WangDaYeeeeee/GeometricWeather) / [Breezy Weather](https://github.com/breezy-weather/breezy-weather) **`Full` `Multi` `FOSS`**
 	- [速知天气](https://www.coolapk.com/apk/top.maweihao.weather) **`Full`**
 	- [WeatherWise](https://github.com/MGAndroidProjects/WeatherWise-Releases/) **`Full` `FOSS`**
 	- [Weather Today](https://play.google.com/store/apps/details?id=com.kokoschka.michael.weather) **`MD`** **`Multi`**
@@ -1215,8 +1215,8 @@ Material Design 3 伴随着 Android 12 而来。它的诞生，彻底改变了�
 - **扫一扫**
    	- [Monochrome](https://play.google.com/store/apps/details?id=moe.zhs.monochrome) **`Full` `💴`**    
    	- [Barcode Scanner](https://gitlab.com/Atharok/BarcodeScanner) **`Full` `Multi` `FOSS`**    
-   	- [Barquode](https://play.google.com/store/apps/details?id=com.pranavpandey.matrix) **`Full` `Multi`**   
-   	- [Codora](https://play.google.com/store/apps/details?id=com.kokoschka.michael.qrtools) **`Full` `Multi`**    
+   	- [Barquode](https://play.google.com/store/apps/details?id=com.pranavpandey.matrix) **`Full` `Multi` `💴`**   
+   	- [Codora](https://play.google.com/store/apps/details?id=com.kokoschka.michael.qrtools) **`MD-` `Monet` `💴`**    
    	- [Pixel Scanner](https://github.com/jaikeerthick/Pixel-Scanner) **`TODO` `FOSS`**
    	- [MyQR](https://github.com/sankethsj/qr-code-generator) **`Full` `FOSS`**
    	- [ShowMeMore](https://play.google.com/store/apps/details?id=app.wakirox.freecensorship) **`Full`**
@@ -1251,11 +1251,11 @@ Material Design 3 伴随着 Android 12 而来。它的诞生，彻底改变了�
    	- [踟蹰](https://github.com/zsakvo/Kakunin-Mobile) **`Full` `FOSS`**
 - **密码管理**
    	- [Keyspace](https://github.com/Keyspace-cloud/android) **`MD` `FOSS`**    
-   	- [PassStore](https://play.google.com/store/apps/details?id=app.jjyy.passstore) **`Full`**    
+   	- [PassStore](https://play.google.com/store/apps/details?id=app.jjyy.passstore) **`Full` `💴`**    
    	- [Pazzword](https://github.com/cyb3rko/pazzword) **`Full` `FOSS`**    
    	- [Pincredible](https://github.com/cyb3rko/pincredible) **`Full` `FOSS`**    
    	- [Wassword](https://github.com/polilluminato/wassword-flutter) **`MD` `FOSS`**    
-   	- [Keyguard for Bitwarden](https://play.google.com/store/apps/details?id=com.artemchep.keyguard) **`Full` `Multi`**   
+   	- [Keyguard for Bitwarden](https://play.google.com/store/apps/details?id=com.artemchep.keyguard) **`Full` `Multi` `💴`**   
    	- [Simple Password](https://github.com/grigorevmp/Simple_Passwords_QuickPass) **`Full` `FOSS`**
    	- [Password Manager](https://github.com/OffRange/PasswordManager) **`Full` `FOSS`**
 - **文件互传**
