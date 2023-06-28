@@ -245,7 +245,6 @@ However in fact, sometimes Material You refers to the application which (may onl
 - [InstallerX](https://github.com/iamr0s/InstallerX) **`Full` `Multi`**
 - [Hail](https://github.com/aistra0528/Hail) **`Full` `Multi`**
 ## 🆕Newly Added Apps
-- [Mellow Music](https://github.com/SuhasDissa/MellowMusic) **`Full` `FOSS`**
 - [Image Compressor](https://play.google.com/store/apps/details?id=aculix.bulk.image.compressor) **`Full` `💴`**
 - [Ahmedabad Metro](https://play.google.com/store/apps/details?id=ahmedabad.gandhinagar.metro.rail.project.info.mega) **`Full` `Multi`**
 - [Surf VPN](https://play.google.com/store/apps/details?id=com.xfx.surfvpn) **`Full` `💴`**
@@ -260,6 +259,7 @@ However in fact, sometimes Material You refers to the application which (may onl
 - [Aristo Kids Mental Accelerator](https://play.google.com/store/apps/details?id=com.aristo.aristokids) **`MD`**
 - [DPITunnel](https://github.com/nomoresat/DPITunnel-android) **`Monet` `FOSS`**
 - [Tinnitus Massage](https://play.google.com/store/apps/details?id=nl.appyhapps.tinnitusmassage) **`MD` `💴`**
+- [Yearly Progress](https://play.google.com/store/apps/details?id=com.a3.yearlyprogess) **`Full`**
 ## 📱Applist
 **Now you could click the title to return to the applist menu!**
 ### 🦖[Google Apps](#applist-menu)
@@ -929,6 +929,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
    	- [Daily Quotes Widget And Status](https://play.google.com/store/apps/details?id=com.lstapps.dailymotivationalquotewidget) **`MD` `💴`**
    	- [Music Widgets for Car Devices](https://play.google.com/store/apps/details?id=com.lstapps.musicwidgetauto) **`MD` `💴`**
    	- [Flip Clock](https://play.google.com/store/apps/details?id=art.widgeet.android.clock.flip) **`Full`**
+   	- [Yearly Progress](https://play.google.com/store/apps/details?id=com.a3.yearlyprogess) **`Full`**
 - **Dynamic Island**    
    	- [MaterialYou-Dynamic-Island](https://github.com/Angel-Studio/MaterialYou-Dynamic-Island) **`Full` `FOSS`**    
    	- [Pixel Island](https://drive.google.com/drive/folders/1j1eWY73Zuq43kYHF6Qdjton8LZ02pA1C) **`Full` `👻`**    
