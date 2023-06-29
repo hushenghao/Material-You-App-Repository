@@ -147,6 +147,7 @@ However in fact, sometimes Material You refers to the application which (may onl
 	- **Native System Customization**
 	- **GBoard Customization**
 	- **Monet Theme for Other Apps**
+	- **Others**
 - **[⚙️ System Tools](#%EF%B8%8Fsystem-tools)**
 	- **File Browser**
 	- **Hardware Infomation**
@@ -245,7 +246,6 @@ However in fact, sometimes Material You refers to the application which (may onl
 - [InstallerX](https://github.com/iamr0s/InstallerX) **`Full` `Multi`**
 - [Hail](https://github.com/aistra0528/Hail) **`Full` `Multi`**
 ## 🆕Newly Added Apps
-- [Surf VPN](https://play.google.com/store/apps/details?id=com.xfx.surfvpn) **`Full` `💴`**
 - [Tweeload](https://play.google.com/store/apps/details?id=tweeload.twitter.video.downloader) **`MD-` `Monet` `💴`**
 - [Tempo](https://github.com/CappielloAntonio/tempo) **`MD-` `Monet` `FOSS`**
 - [Media Provider Manager](https://github.com/MaterialCleaner/Media-Provider-Manager) **`MD-` `Monet` `FOSS`**
@@ -260,6 +260,7 @@ However in fact, sometimes Material You refers to the application which (may onl
 - [Yearly Progress](https://play.google.com/store/apps/details?id=com.a3.yearlyprogess) **`Full`**
 - [Buzzkill](https://play.google.com/store/apps/details?id=com.samruston.buzzkill) **`MD-` `💴`**
 - [Opera Beta](https://play.google.com/store/apps/details?id=com.opera.browser.beta) **`MD` `Multi`**
+- [Energy Ring: Universal Edition](https://play.google.com/store/apps/details?id=you.in.spark.energy.ring.gen) **`MD-` `Monet` `💴`**
 ## 📱Applist
 **Now you could click the title to return to the applist menu!**
 ### 🦖[Google Apps](#applist-menu)
@@ -958,6 +959,8 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
    	- [ComboSkin for 4PDA forum app](https://github.com/PycmShoma/4PDA-ComboSkin-MaterialYou) **`Monet` `FOSS`**    
    	- [Theme Engine](https://github.com/prathameshmm02/ThemeEngine) **`Full` `FOSS`**
    	- [Telegram Themer](https://github.com/therxmv/Telegram-Themer) **`MD` `FOSS`**
+- **Others**
+   	- [Energy Ring: Universal Edition](https://play.google.com/store/apps/details?id=you.in.spark.energy.ring.gen) **`MD-` `Monet` `💴`**
 ---
 ### [⚙️System Tools](#applist-menu)
 - **File Browser**
