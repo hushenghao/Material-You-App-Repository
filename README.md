@@ -664,7 +664,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
 	- [Neko](https://github.com/CarlosEsco/Neko) **`Full` `Multi` `FOSS`**
 	- [Pica Comic](https://github.com/wgh136/PicaComic) **`Full` `Multi` `FOSS`**
 	- [BIKA](https://github.com/shizq123/BIKA) **`Full` `FOSS`**
-	- [PicacgMaterial3](https://github.com/shizheng233/PicacgMaterial3) **`Full` `FOSS`**
+	- [PicacgMaterial3](https://github.com/shizheng233/PicacgMaterial3) **`Full` `FOSS` `👻`**
 	- [EhViewer](https://github.com/Ehviewer-Overhauled/Ehviewer) **`Full` `FOSS`**
 	- [Hentoid](https://github.com/h6rd/Hentoid-Material-You) **`MD-` `Monet` `FOSS`**
 	- [CopyManga](https://github.com/shizheng233/CopyMangaJava) **`Full` `FOSS`**
