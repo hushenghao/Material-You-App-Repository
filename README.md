@@ -246,8 +246,6 @@ However in fact, sometimes Material You refers to the application which (may onl
 - [InstallerX](https://github.com/iamr0s/InstallerX) **`Full` `Multi`**
 - [Hail](https://github.com/aistra0528/Hail) **`Full` `Multi`**
 ## 🆕Newly Added Apps
-- [Tweeload](https://play.google.com/store/apps/details?id=tweeload.twitter.video.downloader) **`MD-` `Monet` `💴`**
-- [Tempo](https://github.com/CappielloAntonio/tempo) **`MD-` `Monet` `FOSS`**
 - [Media Provider Manager](https://github.com/MaterialCleaner/Media-Provider-Manager) **`MD-` `Monet` `FOSS`**
 - [Project Themer](https://play.google.com/store/apps/details?id=com.drsants.eggproject) **`MD` `💴`**
 - [Telegram Themer](https://github.com/therxmv/Telegram-Themer) **`MD` `FOSS`**
@@ -261,6 +259,8 @@ However in fact, sometimes Material You refers to the application which (may onl
 - [Buzzkill](https://play.google.com/store/apps/details?id=com.samruston.buzzkill) **`MD-` `💴`**
 - [Opera Beta](https://play.google.com/store/apps/details?id=com.opera.browser.beta) **`MD` `Multi`**
 - [Energy Ring: Universal Edition](https://play.google.com/store/apps/details?id=you.in.spark.energy.ring.gen) **`MD-` `Monet` `💴`**
+- [Shrad AI](https://play.google.com/store/apps/details?id=com.shifastudios.shradai) **`MD`**
+- [Kalam](https://play.google.com/store/apps/details?id=com.shifastudios.kalam) **`MD`**
 ## 📱Applist
 **Now you could click the title to return to the applist menu!**
 ### 🦖[Google Apps](#applist-menu)
@@ -461,7 +461,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
 	- [Drive Stream](https://github.com/itszechs/DriveStream) **`MD` `FOSS`**
 	- [Tempo](https://github.com/CappielloAntonio/tempo) **`MD-` `Monet` `FOSS`**
 - **Anime Services**
-	- [Sakura Anime](https://github.com/670848654/SakuraAnime) **`Full` `FOSS`**
+	- [Sakura Anime](https://github.com/670848654/SakuraAnime) **`MD-` `FOSS`**
 	- [AGE](https://github.com/xihan123/AGE) **`MD-` `FOSS`**
 	- [Aniyomi](https://github.com/jmir1/aniyomi) **`MD-` `FOSS`**
 	- [Teapod](https://git.mosad.xyz/Seil0/teapod) **`MD-` `FOSS`**
@@ -532,7 +532,8 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
 	- [Start Now](https://www.coolapk.com/apk/com.start.now) **`MD-` `💴`**
 	- [Justnotes](https://github.com/jjewuz/JustNotes) **`Full` `FOSS`**
 	- [BeauTyXT](https://github.com/soupslurpr/BeauTyXT) **`Full` `FOSS`**
-	- [Simple Notes (YangDai)](https://play.google.com/store/apps/details?id=com.yangdai.notesapp) **`Full` `FOSS`**
+	- [Simple Notes (Yangdai)](https://play.google.com/store/apps/details?id=com.yangdai.notesapp) **`Full` `FOSS`**
+	- [Kalam](https://play.google.com/store/apps/details?id=com.shifastudios.kalam) **`MD`**
 - **Markdown**
 	- [flowte](https://www.coolapk1s.com/feed/42984209) **`Full`**
 	- [Markdown Editor](https://play.google.com/store/apps/details?id=com.adeeteya.markdown_editor) **`MD`**
@@ -633,7 +634,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
 - [Privacy Browser](https://play.google.com/store/apps/details?id=com.stoutner.privacybrowser.standard) **`Monet`**
 - [Vivaldi](https://play.google.com/store/apps/details?id=com.vivaldi.browser)  **`Monet`**
 - [Hermit](https://play.google.com/store/apps/details?id=com.chimbori.hermitcrab) **`Full` `Multi`**
-- [Opera Beta](https://play.google.com/store/apps/details?id=com.opera.browser.beta) **`MD` `Multi`**
+- [Opera Beta](https://play.google.com/store/apps/details?id=com.opera.browser.beta) **`MD` `Multi` `💴`**
 ---
 ### [📖Readers](#applist-menu)
 - **Novels**
@@ -1243,6 +1244,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
    	- [Echo](https://play.google.com/store/apps/details?id=com.niven.chat) **`MD`**
    	- [ChatGPT](https://github.com/thewolfprod/ChatGPT-Android) **`TODO` `FOSS`**
    	- [Genie Anime](https://play.google.com/store/apps/details?id=com.vyroai.animeart) / [Imagine](https://play.google.com/store/apps/details?id=com.vyroai.aiart) **`MD` `💴`**
+   	- [Shrad AI](https://play.google.com/store/apps/details?id=com.shifastudios.shradai) **`MD`**
 - **Auto Clicker**    
    	- [TapTap](https://github.com/KieronQuinn/TapTap) **`Full` `FOSS`**    
    	- [Auto Tasker](https://www.coolapk.com/apk/top.xjunz.tasker) **`MD` `💴`**    
@@ -1388,7 +1390,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
    	- [Blocker](https://github.com/lihenggui/blocker) **`Full` `Multi` `FOSS`**    
    	- [DSU Sideloader](https://github.com/VegaBobo/DSU-Sideloader) **`Full` `FOSS`**    
    	- [Cokotools](https://www.coolapk.com/apk/com.yorick.cokotools) **`Full`**    
-   	- [FDE.AI](https://github.com/feravolt/FDE.AI-docs) **`Full` `Multi` `FOSS`**    
+   	- [FDE.AI](https://github.com/feravolt/FDE.AI-docs) **`Full` `Multi` `💴`**    
    	- [NFC Emulator](https://www.coolapk.com/apk/com.yuanwofei.cardemulator) **`MD-` `Monet` `💴`**
    	- [Smart Dock](https://github.com/axel358/smartdock) **`Full` `FOSS`**
    	- [Tomb](https://jinnian.lanzouy.com/iTJGC0ovdsjg) **`MD`** 
