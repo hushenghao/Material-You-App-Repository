@@ -245,8 +245,6 @@ However in fact, sometimes Material You refers to the application which (may onl
 - [InstallerX](https://github.com/iamr0s/InstallerX) **`Full` `Multi`**
 - [Hail](https://github.com/aistra0528/Hail) **`Full` `Multi`**
 ## 🆕Newly Added Apps
-- [Image Compressor](https://play.google.com/store/apps/details?id=aculix.bulk.image.compressor) **`Full` `💴`**
-- [Ahmedabad Metro](https://play.google.com/store/apps/details?id=ahmedabad.gandhinagar.metro.rail.project.info.mega) **`Full` `Multi`**
 - [Surf VPN](https://play.google.com/store/apps/details?id=com.xfx.surfvpn) **`Full` `💴`**
 - [Tweeload](https://play.google.com/store/apps/details?id=tweeload.twitter.video.downloader) **`MD-` `Monet` `💴`**
 - [Tempo](https://github.com/CappielloAntonio/tempo) **`MD-` `Monet` `FOSS`**
@@ -260,6 +258,8 @@ However in fact, sometimes Material You refers to the application which (may onl
 - [DPITunnel](https://github.com/nomoresat/DPITunnel-android) **`Monet` `FOSS`**
 - [Tinnitus Massage](https://play.google.com/store/apps/details?id=nl.appyhapps.tinnitusmassage) **`MD` `💴`**
 - [Yearly Progress](https://play.google.com/store/apps/details?id=com.a3.yearlyprogess) **`Full`**
+- [Buzzkill](https://play.google.com/store/apps/details?id=com.samruston.buzzkill) **`MD-` `💴`**
+- [Opera Beta](https://play.google.com/store/apps/details?id=com.opera.browser.beta) **`MD` `Multi`**
 ## 📱Applist
 **Now you could click the title to return to the applist menu!**
 ### 🦖[Google Apps](#applist-menu)
@@ -626,12 +626,13 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
 - [Lemur Browser](https://play.google.com/store/apps/details?id=com.lemurbrowser.exts) (Monet in settings only) **`Full` `Multi`**
 - [Kiwi Browser](https://github.com/kiwibrowser/src) **`Full` `Multi` `FOSS`**
 - [Thor](https://gitlab.com/remmer.wilts/thor) **`MD-` `Multi` `FOSS`**
-- [Bromite](https://github.com/bromite/bromite) **`Full` `Multi` `FOSS` `👻`**
+- [Bromite](https://github.com/bromite/bromite) **`Full` `Multi` `FOSS`**
 - [Bromite-BuildTools](https://github.com/uazo/bromite-buildtools) **`Full` `Multi` `FOSS`**
 - [Styx](https://github.com/jamal2362/Styx) **`Full` `Multi` `FOSS`**
 - [Privacy Browser](https://play.google.com/store/apps/details?id=com.stoutner.privacybrowser.standard) **`Monet`**
 - [Vivaldi](https://play.google.com/store/apps/details?id=com.vivaldi.browser)  **`Monet`**
 - [Hermit](https://play.google.com/store/apps/details?id=com.chimbori.hermitcrab) **`Full` `Multi`**
+- [Opera Beta](https://play.google.com/store/apps/details?id=com.opera.browser.beta) **`MD` `Multi`**
 ---
 ### [📖Readers](#applist-menu)
 - **Novels**
@@ -737,7 +738,6 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
 	- [Bimba](https://git.apiote.xyz/Bimba.git) **`MD` `FOSS`**
 	- [EVMap](https://github.com/ev-map/EVMap) **`MD` `FOSS`**
 	- [Geomag](https://github.com/ya0211/Geomag) **`Full` `FOSS`**
-	- [Ahmedabad Metro](https://play.google.com/store/apps/details?id=ahmedabad.gandhinagar.metro.rail.project.info.mega) **`Full` `Multi` `💴`**
 	- [Insigno](https://github.com/MindsHub/insigno_frontend) **`MD-` `Monet` `FOSS`**
 	- [Alpi Maps](https://github.com/Akylas/alpimaps) **`MD` `FOSS`**
 	- [OpenStop](https://github.com/OPENER-next/OpenStop) **`MD-` `FOSS`**
@@ -1082,6 +1082,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
    	- [Filter Box](https://www.coolapk.com/apk/com.catchingnow.np) **`MD-` `Monet` `💴`**
    	- [One Nofication](https://www.coolapk.com/apk/cn.skyrin.ntfh) **`MD` `💴`**
    	- [NITM](https://github.com/deskbtm/nitmgpt) **`MD` `FOSS`**
+   	- [Buzzkill](https://play.google.com/store/apps/details?id=com.samruston.buzzkill) **`MD-` `💴`**
 - **Clipboard Manager**
    	- [Memory Guardian](https://github.com/hashemi-hossein/memory-guardian) **`Full` `FOSS`**
    	- [Clipboard Cleaner](https://github.com/thatsmanmeet/Clipboard-Cleaner) **`Monet` `FOSS`**
