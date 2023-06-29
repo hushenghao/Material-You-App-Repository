@@ -196,6 +196,7 @@ Material Design 3 伴随着 Android 12 而来。它的诞生，彻底改变了�
 	- **原生系统定制**
 	- **GBoard 主题定制**
 	- **Monet 主题修改器**
+	- **其他**
 - **[⚙️ 系统工具](#%EF%B8%8F%E7%B3%BB%E7%BB%9F%E5%B7%A5%E5%85%B7)**
 	- **文件管理**
 	- **硬件信息**
@@ -296,7 +297,6 @@ Material Design 3 伴随着 Android 12 而来。它的诞生，彻底改变了�
 - [雹](https://github.com/aistra0528/Hail) **`Full` `Multi`**
 ## 🆕最近上新
 少女祈祷中…
-- [Surf VPN](https://play.google.com/store/apps/details?id=com.xfx.surfvpn) **`Full` `💴`**
 - [Tweeload](https://play.google.com/store/apps/details?id=tweeload.twitter.video.downloader) **`MD-` `Monet` `💴`**
 - [Tempo](https://github.com/CappielloAntonio/tempo) **`MD-` `Monet` `FOSS`**
 - [媒体存储管理器](https://github.com/MaterialCleaner/Media-Provider-Manager) **`MD-` `Monet` `FOSS`**
@@ -311,6 +311,7 @@ Material Design 3 伴随着 Android 12 而来。它的诞生，彻底改变了�
 - [Yearly Progress](https://play.google.com/store/apps/details?id=com.a3.yearlyprogess) **`Full`**
 - [Buzzkill](https://play.google.com/store/apps/details?id=com.samruston.buzzkill) **`MD-` `💴`**
 - [Opera Beta](https://play.google.com/store/apps/details?id=com.opera.browser.beta) **`MD` `Multi`**
+- [Energy Ring: Universal Edition](https://play.google.com/store/apps/details?id=you.in.spark.energy.ring.gen) **`MD-` `Monet` `💴`**
 ## 📱应用列表
 **点击标题即可回到目录XD**
 ### 🦖[谷歌应用](#目录)
@@ -931,7 +932,7 @@ Material Design 3 伴随着 Android 12 而来。它的诞生，彻底改变了�
    	- [Bar](https://www.coolapk.com/apk/com.bar.iconpack) **`Full`**    
    	- [Cayicons](https://www.coolapk.com/apk/app.lawnchair.lawnicons) **`Full`**    
    	- [Pix Material You Icons](https://play.google.com/store/apps/details?id=com.pashapuma.pix.material.you.iconpack) **`Full` `💴`**    
-   	- [Pix You Dark Android Icon Pack](https://play.google.com/store/apps/details?id=com.arjunarora.pix_you_cornflower_dark_icons) **`Full` `💴`**   
+   	- [Pix You Dark Android Icon Pack](https://play.google.com/store/apps/details?id=com.arjunarora.pix_you_cornflower_dark_icons) **`Full` `💴`**
    	- [Pix Material You Light/Dark](https://play.google.com/store/apps/details?id=com.pashapuma.pix.material.you.dark) **`Full` `💴`**    
    	- [Pix Material Colors Icon Pack](https://play.google.com/store/apps/details?id=com.pashapuma.pix.material.color) **`Full` `💴`**    
    	- [Themed Icons](https://play.google.com/store/apps/details?id=rk.android.app.themedicons) **`MD-` `Monet`**    
@@ -1006,6 +1007,8 @@ Material Design 3 伴随着 Android 12 而来。它的诞生，彻底改变了�
    	- [ComboSkin for 4PDA forum app](https://github.com/PycmShoma/4PDA-ComboSkin-MaterialYou) **`Monet` `FOSS`**
    	- [Theme Engine](https://github.com/prathameshmm02/ThemeEngine) **`Full` `FOSS`**
    	- [Telegram Themer](https://github.com/therxmv/Telegram-Themer) **`MD` `FOSS`**
+- **其他**
+   	- [Energy Ring: Universal Edition](https://play.google.com/store/apps/details?id=you.in.spark.energy.ring.gen) **`MD-` `Monet` `💴`**
 ---
 ## [⚙️系统工具](#目录)
 - **文件管理**
