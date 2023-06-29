@@ -4,7 +4,7 @@
 </div>
 
 
-<h1 align="center">御坂のMaterial You软件仓库</h1>
+<h1 align="center">御坂の Material You 软件仓库</h1>
 
 <p align="center">
   <img src="https://i.ibb.co/3CYKN00/Wallpaper4.png">
@@ -89,7 +89,7 @@ Material Design 3 伴随着 Android 12 而来。它的诞生，彻底改变了�
     因为某些原因而停更的应用。
 
 
-|  | 完全体MD3设计 | Monet取色 |
+|  | 完全体 MD3 设计 | Monet 取色 |
 |:-:|:-:|:-:|
 |**`MD`**|✅|🚫|
 |**`MD-`**|🚫|-|
@@ -107,7 +107,7 @@ Material Design 3 伴随着 Android 12 而来。它的诞生，彻底改变了�
 - **正在浏览这个列表的，热爱 Material You 的你们！**
 ## 📜目录
 - **[🦖 谷歌应用](#谷歌应用)**
-- **[👨‍💻 OEM厂商/类原生定制应用](#oem%E5%8E%82%E5%95%86%E7%B1%BB%E5%8E%9F%E7%94%9F%E5%AE%9A%E5%88%B6%E5%BA%94%E7%94%A8)**
+- **[👨‍💻 OEM 厂商/类原生定制应用](#oem%E5%8E%82%E5%95%86%E7%B1%BB%E5%8E%9F%E7%94%9F%E5%AE%9A%E5%88%B6%E5%BA%94%E7%94%A8)**
 	- **Moto MYUI**
 	- **Nothing OS** 
 	- **Octavi OS**
@@ -116,24 +116,24 @@ Material Design 3 伴随着 Android 12 而来。它的诞生，彻底改变了�
 	- **通讯录**
 	- **拨号**
 	- **短信**
-	- **Telegram第三方**
+	- **Telegram 第三方**
 	- **加密聊天软件**
-	- **Reddit第三方**
-	- **Discord第三方**
-	- **Instagram第三方**
-	- **Twitter第三方**
-	- **Mastodon第三方**
-	- **Lemmy第三方**
+	- **Reddit 第三方**
+	- **Discord 第三方**
+	- **Instagram 第三方**
+	- **Twitter 第三方**
+	- **Mastodon 第三方**
+	- **Lemmy 第三方**
 	- **其他去中心化社交平台**
 	- **论坛**
 	- **邮件**
 	- **其他**
 - **[🎵 媒体播放](#媒体播放)**
-	- **YouTube第三方**
-	- **YouTube Music第三方**
-	- **Spotify第三方**
+	- **YouTube 第三方**
+	- **YouTube Music 第三方**
+	- **Spotify 第三方**
 	- **网易云音乐第三方**
-	- **Bilibili第三方**
+	- **Bilibili 第三方**
 	- **流式媒体服务器**
 	- **番剧**
 	- **在线视频播放**
@@ -194,8 +194,8 @@ Material Design 3 伴随着 Android 12 而来。它的诞生，彻底改变了�
 	- **微件/KWGT**
 	- **灵动岛**
 	- **原生系统定制**
-	- **GBoard主题定制**
-	- **Monet主题修改器**
+	- **GBoard 主题定制**
+	- **Monet 主题修改器**
 - **[⚙️ 系统工具](#%EF%B8%8F%E7%B3%BB%E7%BB%9F%E5%B7%A5%E5%85%B7)**
 	- **文件管理**
 	- **硬件信息**
@@ -241,7 +241,7 @@ Material Design 3 伴随着 Android 12 而来。它的诞生，彻底改变了�
 	- **AI**
 	- **自动任务**
 	- **搜索**
-	- **MIUI ROM查找**
+	- **MIUI ROM 查找**
 	- **多功能工具箱**
 	- **代理工具**
 	- **测量工具**
@@ -249,16 +249,16 @@ Material Design 3 伴随着 Android 12 而来。它的诞生，彻底改变了�
 - **[🔧 开发工具](#开发工具)**
 	- **服务器**
 	- **组件库与演示**
-	- **Android Studio教学**
+	- **Android Studio 教学**
 	- **Termux**
 	- **Lua**
 	- **其他**
 - **[#️⃣ Root/ADB](#%EF%B8%8F%E2%83%A3rootadb)**
 	- **管理器**
-	- **Root检测器**
+	- **Root 检测器**
 	- **Shizuku/Dhizuku/ADB**
-	- **Xposed模块**
-	- **其他需要Root权限的工具**
+	- **Xposed 模块**
+	- **其他需要 Root 权限的工具**
 - **[🎮 游戏](#游戏)**
 	- **模拟器**
 	- **乐器弹奏**
@@ -269,7 +269,7 @@ Material Design 3 伴随着 Android 12 而来。它的诞生，彻底改变了�
 	- **随机小工具**
 	- **迷宫**
 	- **其他小游戏**
-	- **Minecraft工具**
+	- **Minecraft 工具**
 	- **其他**
 - **[🪄 Monet取色修改模块](#monet取色修改模块)**
 ## 🏆小编推荐
@@ -363,7 +363,7 @@ Material Design 3 伴随着 Android 12 而来。它的诞生，彻底改变了�
 - [Android Device Policy](https://play.google.com/store/apps/details?id=com.google.android.apps.work.clouddpc) **`MD-` `Monet`**
 - [Personal Safety](https://play.google.com/store/apps/details?id=com.google.android.apps.safetyhub) **`MD`**
 ---
-### 👨‍💻[OEM厂商/类原生定制应用](#目录)
+### 👨‍💻[OEM 厂商/类原生定制应用](#目录)
 据我所知，目前：
 - **Moto MyUI**
 - **ASUS Zenui**
@@ -413,7 +413,7 @@ Material Design 3 伴随着 Android 12 而来。它的诞生，彻底改变了�
 - **短信**
 	- [Simple SMS Messenger](https://github.com/SimpleMobileTools/Simple-SMS-Messenger) **`Full` `FOSS`**
 	- [WhatsApp Beta](https://play.google.com/apps/testing/com.whatsapp) **`MD-`**
-- **Telegram第三方**
+- **Telegram 第三方**
 	- [MDgram](https://github.com/MDGramYou/MDGramYou) **`MD` `Multi` `FOSS`**
 	- [exteraGram](https://github.com/exteraSquad/exteraGram) **`MD-` `Multi` `FOSS`**
 	- [Lilgram](https://github.com/lilchill666/LilGram) **`Full` `Multi` `FOSS`**
@@ -424,28 +424,28 @@ Material Design 3 伴随着 Android 12 而来。它的诞生，彻底改变了�
 	- [Molly](https://github.com/mollyim/mollyim-android) **`MD` `FOSS`**
 	- [FluffyChat](https://gitlab.com/famedly/fluffychat) **`Full` `Multi` `FOSS`**
 	- [E2E Encrypted Chat](https://github.com/Project-Based-Learning-IT/e2ee-chat) **`TODO` `FOSS`**
-- **Reddit第三方**
+- **Reddit 第三方**
 	- [Sync for Reddit](https://play.google.com/store/apps/details?id=com.laurencedawson.reddit_sync) **`Full` `Multi`**
 	- [Karma for Reddit](https://play.google.com/store/apps/details?id=com.brianrobles204.karmamachine_flutter) **`Full`**
 	- [Infinity for Reddit](https://github.com/Docile-Alligator/Infinity-For-Reddit) **`MD-` `Monet`** 
 	- [Focus for Reddit](https://play.google.com/store/apps/details?id=allen.town.focus.reddit) **`Full` `Multi` `FOSS`**
 	- [Pinapple](https://github.com/galaxygoldfish/pineapple) **`TODO` `FOSS`**
 	- [FairBird for Reddit](https://play.google.com/store/apps/details?id=com.niven.reddit) **`Full`**
-- **Discord第三方**
+- **Discord 第三方**
 	- [OpenCord](https://github.com/MateriiApps/OpenCord) **`Full` `FOSS`**
-- **Instagram第三方**
+- **Instagram 第三方**
 	- [Instander](https://thedise.me/instander/repo/) **`Monet`** **`MOD`**
 	- [Honista](https://t.me/Honistagram) **`Monet` `MOD`**
-- **Twitter第三方**
+- **Twitter 第三方**
 	- [harpy for Twitter](https://github.com/robertodoering/harpy) **`Monet` `FOSS`**
 	- [Albatross for Twitter](https://play.google.com/store/apps/details?id=com.nick.mowen.albatross) **`Monet` `👻`**
 	- [FocusTwitter](https://play.google.com/store/apps/details?id=allen.town.focus.twitter) **`Full` `💴`**
 	- [Quacker](https://apt.izzysoft.de/fdroid/index/apk/com.thehcj.quacker) **`MD-`**
-- **Mastodon第三方**
+- **Mastodon 第三方**
 	- [Moshidon](https://github.com/LucasGGamerM/moshidon) **`Full` `FOSS`**
 	- [Megalodon for Mastodon](https://github.com/sk22/megalodon) **`Full` `FOSS`**
 	- [Focus for Mastodon](https://play.google.com/store/apps/details?id=allen.town.focus.mastodon) **`Full` `💴`**
-- **Lemmy第三方**
+- **Lemmy 第三方**
 	- [Jerboa for Lemmy](https://github.com/dessalines/jerboa) **`Full` `FOSS`**
 	- [Thunder](https://github.com/hjiangsu/thunder) **`MD` `FOSS`**
 - **其他去中心化社交平台**
@@ -477,7 +477,7 @@ Material Design 3 伴随着 Android 12 而来。它的诞生，彻底改变了�
 	- [Hydrogen](https://myhydrogen.gitee.io/) **`MD-` `FOSS`**
 ---
 ## [🎵媒体播放](#目录)
-- **YouTube第三方**
+- **YouTube 第三方**
 	- [LibreTube](https://github.com/libre-tube/LibreTube) **`Full` `FOSS`**
 	- [Revanced Extended](https://github.com/revanced/revanced-manager) **`Full` `FOSS`**
 	- [Hyperion](https://github.com/zt64/Hyperion) **`Full` `Multi` `FOSS`**
@@ -485,18 +485,18 @@ Material Design 3 伴随着 Android 12 而来。它的诞生，彻底改变了�
 	- [Clipious](https://github.com/lamarios/clipious) **`MD` `FOSS`**
 	- [Vanced MicroG](https://github.com/cuynu/VancedMicroG) **`Monet` `FOSS`**
 	- [Lighttube](https://github.com/kuylar/lighttube-android) **`TODO` `FOSS`**
-- **YouTube Music第三方**
+- **YouTube Music 第三方**
 	- [ViMusic](https://github.com/vfsfitvnm/ViMusic) **`MD` `Multi` `FOSS`**
 	- [Vibe Music](https://github.com/sheikhhaziq/vibemusic) **`Full` `FOSS`**
 	- [InnerTune](https://github.com/z-huang/InnerTune) **`MD-` `Monet` `Multi` `FOSS`**
 	- [Musify](https://github.com/gokadzev/Musify) **`Full` `FOSS`**
-- **Spotify第三方**
+- **Spotify 第三方**
 	- [Jetispot](https://github.com/iTaysonLab/jetispot) and a [fork](https://github.com/BobbyESP/Jetispot) **`Full` `FOSS`**
 	- [Spotube](https://github.com/KRTirtho/spotube) **`MD` `FOSS`**
 - **网易云音乐第三方**
 	- [音悦](https://github.com/GuihongWang/MusicYou) **`Full` `Multi` `FOSS`**
 	- [RainMusic](https://github.com/re-ovo/RainMusic) **`👻` `FOSS`**
-- **Bilibili第三方**
+- **Bilibili 第三方**
 	- [Bili You](https://github.com/lucinhu/bili_you) **`Full` `FOSS`**
 	- [Bilimiao](https://github.com/10miaomiao/bilimiao2) **`Monet` `Multi` `FOSS`**
 	- [薜](https://github.com/storytellerF/bi) **`Full` `Multi` `FOSS`**
@@ -712,7 +712,7 @@ Material Design 3 伴随着 Android 12 而来。它的诞生，彻底改变了�
 	- [Neko](https://github.com/CarlosEsco/Neko) **`Full` `Multi` `FOSS`**
 	- [Pica Comic](https://github.com/wgh136/PicaComic) **`Full` `Multi` `FOSS`**
 	- [BIKA](https://github.com/shizq123/BIKA) **`Full` `FOSS`**
-	- [哔咔哔咔](https://github.com/shizheng233/PicacgMaterial3) **`Full` `FOSS`**
+	- [哔咔哔咔](https://github.com/shizheng233/PicacgMaterial3) **`Full` `FOSS` `👻`**
 	- [EhViewer](https://github.com/Ehviewer-Overhauled/Ehviewer) **`Full` `FOSS`**
 	- [Hentoid](https://github.com/h6rd/Hentoid-Material-You) **`MD-` `Monet` `FOSS`**
 	- [CopyManga](https://github.com/shizheng233/CopyMangaJava) **`Full` `FOSS`**
@@ -994,12 +994,12 @@ Material Design 3 伴随着 Android 12 而来。它的诞生，彻底改变了�
    	- [Iconify](https://github.com/Mahmud0808/Iconify) **`Full` `Multi`** 
    	- [网速指示器](https://www.coolapk.com/apk/com.dede.nativetools) **`MD-` `Monet` `Multi` `FOSS`**
    	- [Project Themer](https://play.google.com/store/apps/details?id=com.drsants.eggproject) **`MD` `💴`**
-- **GBoard主题定制**
+- **GBoard 主题定制**
    	- [Rboard Theme Manager](https://github.com/DerTyp7214/RboardThemeManagerV3) **`Full` `FOSS`**    
    	- [Rboard Patcher](https://github.com/DerTyp7214/RboardPatcher) **`Full` `FOSS`**    
    	- [Rboard Theme Creator](https://github.com/DerTyp7214/RboardThemeCreator) **`Full` `FOSS`**    
    	- [Rboard IME Tester](https://github.com/DerTyp7214/RboardIMETester) **`Full` `FOSS`** 
-- **Monet主题修改器**
+- **Monet 主题修改器**
    	- [Monet Generator](https://github.com/jamal2362/Monet-Generator) **`Full` `FOSS`**    
    	- [MixTheme Creator](https://github.com/DerTyp7214/MixplorerThemeCreator) **`Full` `FOSS`**    
    	- [Telegram Monet](https://github.com/c3r5b8/Telegram-Monet) **`Full` `FOSS`**    
@@ -1298,7 +1298,7 @@ Material Design 3 伴随着 Android 12 而来。它的诞生，彻底改变了�
    	- [Gugal](https://gitlab.com/narektor/gugal) **`Full` `FOSS`**    
    	- [Pixel Search](https://play.google.com/store/apps/details?id=rk.android.app.pixelsearch) **`Full`**
    	- [Tunedetective](https://github.com/n000tavailable/tunedetective) **`Full` `FOSS`**
-- **MIUI ROM查找**
+- **MIUI ROM 查找**
    	- [MIUI Rom](https://t.me/miuiappshare) **`Full`**    
    	- [downmi](https://play.google.com/store/apps/details?id=xyz.izadi.downmi2) **`Full` `💴`**
 - **多功能工具箱**
@@ -1352,7 +1352,7 @@ Material Design 3 伴随着 Android 12 而来。它的诞生，彻底改变了�
    	- [Compose Material Design 3](https://play.google.com/store/apps/details?id=com.anafthdev.md3compose) **`Full`**    
    	- [Material 3](https://play.google.com/store/apps/details?id=com.boltuix.material3) **`MD`** **`Multi`**
    	- [WaveSlider](https://github.com/galaxygoldfish/waveslider) **`Full` `FOSS`**
-- **Android Studio教学**
+- **Android Studio 教学**
    	- [Android Studio Tutorials: Kotlin](https://github.com/D4rK7355608/com.d4rk.androidtutorials) **`Full` `FOSS`**
    	- [Android Studio Tutorials: Java](https://github.com/D4rK7355608/com.d4rk.androidtutorials.java) **`Full` `FOSS`**
 - **Termux**
@@ -1384,7 +1384,7 @@ Material Design 3 伴随着 Android 12 而来。它的诞生，彻底改变了�
    	- [MRepo](https://github.com/ya0211/MRepo) **`Full` `FOSS`**   
    	- [FoxMMM](https://github.com/Fox2Code/FoxMagiskModuleManager) **`Full` `FOSS`**    
    	- [Kernel Flasher](https://github.com/capntrips/KernelFlasher) **`Monet` `FOSS`** 
-- **Root检测器**
+- **Root 检测器**
    	- [Ruru](https://github.com/byxiaorun/Ruru) / [Applist Detector](https://github.com/Dr-TSNG/ApplistDetector) **`Full` `FOSS`**    
 - **Shizuku/Dhizuku/ADB**
    	- [Shizuku](https://github.com/RikkaApps/Shizuku) **`Full` `Multi` `FOSS`**    
@@ -1392,7 +1392,7 @@ Material Design 3 伴随着 Android 12 而来。它的诞生，彻底改变了�
    	- [ShizukuRunner](https://github.com/WuDi-ZhanShen/ShizukuRunner) **`Monet` `FOSS`**    
    	- [WADBS](https://github.com/Smooth-E/wireless-adb-switch) **`Full` `FOSS`**    
    	- [LSPatch](https://github.com/LSPosed/LSPatch) **`Full` `Multi` `FOSS`**    
-- **Xposed模块**
+- **Xposed 模块**
    	- [SIM Number Setter](https://github.com/KieronQuinn/SIMNumberSetter) **`Full` `FOSS`**
    	- [米窗](https://www.coolapk.com/apk/com.sunshine.freeform) **`MD-` `Monet` `FOSS`**
    	- [YAMF](https://github.com/duzhaokun123/YAMF) **`Full` `FOSS`**
@@ -1427,7 +1427,7 @@ Material Design 3 伴随着 Android 12 而来。它的诞生，彻底改变了�
    	- [WA Tweaker](https://watweaker.com/#) **`MD` `FOSS`**
    	- [错误追踪](https://github.com/KitsunePie/AppErrorsTracking) **`MD-` `FOSS`**
    	- [媒体存储管理器](https://github.com/MaterialCleaner/Media-Provider-Manager) **`MD-` `Monet` `FOSS`**
-- **其他需要Root权限的工具**
+- **其他需要 Root 权限的工具**
    	- [爱玩机工具箱](https://www.coolapk.com/apk/com.byyoung.setting) **`Full` `💴`**
    	- [Blocker](https://github.com/lihenggui/blocker) **`Full` `Multi` `FOSS`**
    	- [DSU Sideloader](https://github.com/VegaBobo/DSU-Sideloader) **`Full` `FOSS`**
@@ -1485,7 +1485,7 @@ Material Design 3 伴随着 Android 12 而来。它的诞生，彻底改变了�
    	- [Antimine](https://github.com/lucasnlm/antimine-android) **`Full` `FOSS`**    
    	- [MathQ](https://play.google.com/store/apps/details?id=com.anafthdev.mathq) **`Full`**
    	- [Cavedroid](https://play.google.com/store/apps/details?id=com.cyb3rko.cavedroid) **`MD-`**
-- **Minecraft工具**
+- **Minecraft 工具**
    	- [Boat_H2O2 Pro](https://github.com/NaCln4c1/Boat_H2O2) **`MD-` `FOSS`** 
    	- [Cuberite](https://github.com/cuberite/android) **`MD-` `Monet` `FOSS`**    
 - **其他**
