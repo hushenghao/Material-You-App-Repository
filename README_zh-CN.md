@@ -25,7 +25,7 @@
 ### ❓️什么是 Material Design 3？Material You 又是什么？
 *以下内容部分来源于谷歌官方文档*
 
-Material Design 3，又称质感设计3，是 Google 于2021年在Google I/O开发者大会上推出的最新开源 Android APP UI 设计规范。与前代 Material Design 2 对直角、阴影的强调不同， Material Design 3 更加扁平化，它带来了更多的圆角设计、丰富并富有个性的形状各异的控件、对不同尺寸屏幕的 Android 设备更加友好的适配，更重要的是，它带来了全新的取色机制 —— 
+Material Design 3，又称质感设计3，是 Google 于2021年在 Google I/O 开发者大会上推出的最新开源 Android APP UI 设计规范。与前代 Material Design 2 对直角、阴影的强调不同， Material Design 3 更加扁平化，它带来了更多的圆角设计、丰富并富有个性的形状各异的控件、对不同尺寸屏幕的 Android 设备更加友好的适配，更重要的是，它带来了全新的取色机制 —— 
  Monet 取色 (Dynamic Color)，该机制可根据用户设备的壁纸颜色决定 APP 的强调色与主色调，让你的 Android 系统更富有个性。
 
 Material Design 3 伴随着 Android 12 而来。它的诞生，彻底改变了人们对 Android 原生系统 “毛坯房” 的印象，在某些平台（如酷安）刮起了一股 “原生热” ，也成为了未来几年 Android APP 设计的美学规范之一。
@@ -297,8 +297,6 @@ Material Design 3 伴随着 Android 12 而来。它的诞生，彻底改变了�
 - [雹](https://github.com/aistra0528/Hail) **`Full` `Multi`**
 ## 🆕最近上新
 少女祈祷中…
-- [Tweeload](https://play.google.com/store/apps/details?id=tweeload.twitter.video.downloader) **`MD-` `Monet` `💴`**
-- [Tempo](https://github.com/CappielloAntonio/tempo) **`MD-` `Monet` `FOSS`**
 - [媒体存储管理器](https://github.com/MaterialCleaner/Media-Provider-Manager) **`MD-` `Monet` `FOSS`**
 - [Project Themer](https://play.google.com/store/apps/details?id=com.drsants.eggproject) **`MD` `💴`**
 - [Telegram Themer](https://github.com/therxmv/Telegram-Themer) **`MD` `FOSS`**
@@ -312,6 +310,8 @@ Material Design 3 伴随着 Android 12 而来。它的诞生，彻底改变了�
 - [Buzzkill](https://play.google.com/store/apps/details?id=com.samruston.buzzkill) **`MD-` `💴`**
 - [Opera Beta](https://play.google.com/store/apps/details?id=com.opera.browser.beta) **`MD` `Multi`**
 - [Energy Ring: Universal Edition](https://play.google.com/store/apps/details?id=you.in.spark.energy.ring.gen) **`MD-` `Monet` `💴`**
+- [Shrad AI](https://play.google.com/store/apps/details?id=com.shifastudios.shradai) **`MD`**
+- [Kalam](https://play.google.com/store/apps/details?id=com.shifastudios.kalam) **`MD`**
 ## 📱应用列表
 **点击标题即可回到目录XD**
 ### 🦖[谷歌应用](#目录)
@@ -509,7 +509,7 @@ Material Design 3 伴随着 Android 12 而来。它的诞生，彻底改变了�
 	- [Drive Stream](https://github.com/itszechs/DriveStream) **`MD` `FOSS`**
 	- [Tempo](https://github.com/CappielloAntonio/tempo) **`MD-` `Monet` `FOSS` `FOSS`**
 - **番剧**
-	- [樱花动漫](https://github.com/670848654/SakuraAnime) **`Full` `FOSS`**
+	- [樱花动漫](https://github.com/670848654/SakuraAnime) **`MD-` `FOSS`**
 	- [AGE](https://github.com/xihan123/AGE) **`MD-` `FOSS`**
 	- [Aniyomi](https://github.com/jmir1/aniyomi) **`MD-` `FOSS`**
  	- [Teapod](https://git.mosad.xyz/Seil0/teapod) **`MD-` `FOSS`**
@@ -581,6 +581,7 @@ Material Design 3 伴随着 Android 12 而来。它的诞生，彻底改变了�
 	- [Justnotes](https://github.com/jjewuz/JustNotes) **`Full` `FOSS`**
 	- [BeauTyXT](https://github.com/soupslurpr/BeauTyXT) **`Full` `FOSS`**
 	- [简记](https://play.google.com/store/apps/details?id=com.yangdai.notesapp) **`Full` `FOSS`**
+	- [Kalam](https://play.google.com/store/apps/details?id=com.shifastudios.kalam) **`MD`**
 - **Markdown**
 	- [flowte](https://www.coolapk1s.com/feed/42984209) **`Full`**
 	- [Markdown Editor](https://play.google.com/store/apps/details?id=com.adeeteya.markdown_editor) **`MD`**
@@ -681,7 +682,7 @@ Material Design 3 伴随着 Android 12 而来。它的诞生，彻底改变了�
 - [Styx](https://github.com/jamal2362/Styx) **`Full` `Multi` `FOSS`**
 - [Privacy Browser](https://play.google.com/store/apps/details?id=com.stoutner.privacybrowser.standard) **`Monet`**
 - [Vivaldi](https://play.google.com/store/apps/details?id=com.vivaldi.browser) **`Monet`**
-- [Opera Beta](https://play.google.com/store/apps/details?id=com.opera.browser.beta) **`MD` `Multi`**
+- [Opera Beta](https://play.google.com/store/apps/details?id=com.opera.browser.beta) **`MD` `Multi` `💴`**
 ---
 ## [📖阅读](#目录)
 - **小说**
@@ -1291,6 +1292,7 @@ Material Design 3 伴随着 Android 12 而来。它的诞生，彻底改变了�
    	- [Echo](https://play.google.com/store/apps/details?id=com.niven.chat) **`MD`**
    	- [ChatGPT](https://github.com/thewolfprod/ChatGPT-Android) **`TODO` `FOSS`**
    	- [Genie Anime](https://play.google.com/store/apps/details?id=com.vyroai.animeart) / [Imagine](https://play.google.com/store/apps/details?id=com.vyroai.aiart) **`MD` `💴`**
+   	- [Shrad AI](https://play.google.com/store/apps/details?id=com.shifastudios.shradai) **`MD`**
 - **自动任务**
    	- [TapTap](https://github.com/KieronQuinn/TapTap) **`Full` `FOSS`**    
    	- [自动任务](https://www.coolapk.com/apk/top.xjunz.tasker) **`MD` `💴`**    
@@ -1436,7 +1438,7 @@ Material Design 3 伴随着 Android 12 而来。它的诞生，彻底改变了�
    	- [Blocker](https://github.com/lihenggui/blocker) **`Full` `Multi` `FOSS`**
    	- [DSU Sideloader](https://github.com/VegaBobo/DSU-Sideloader) **`Full` `FOSS`**
    	- [酷客工具箱](https://www.coolapk.com/apk/com.yorick.cokotools) **`Full`**
-   	- [FDE.AI](https://github.com/feravolt/FDE.AI-docs) **`Full` `Multi` `FOSS`**
+   	- [FDE.AI](https://github.com/feravolt/FDE.AI-docs) **`Full` `Multi` `💴`**
    	- [NFC卡模拟](https://www.coolapk.com/apk/com.yuanwofei.cardemulator) **`MD-` `Monet` `💴`**
    	- [墓碑](https://jinnian.lanzouy.com/iTJGC0ovdsjg) **`MD`**
    	- [Smart Dock](https://github.com/axel358/smartdock) **`Full` `FOSS`**
