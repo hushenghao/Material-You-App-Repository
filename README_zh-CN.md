@@ -297,9 +297,6 @@ Material Design 3 伴随着 Android 12 而来。它的诞生，彻底改变了�
 - [雹](https://github.com/aistra0528/Hail) **`Full` `Multi`**
 ## 🆕最近上新
 少女祈祷中…
-- [媒体存储管理器](https://github.com/MaterialCleaner/Media-Provider-Manager) **`MD-` `Monet` `FOSS`**
-- [Project Themer](https://play.google.com/store/apps/details?id=com.drsants.eggproject) **`MD` `💴`**
-- [Telegram Themer](https://github.com/therxmv/Telegram-Themer) **`MD` `FOSS`**
 - [Gallery](https://github.com/IacobIonut01/Gallery) **`Full` `Multi` `FOSS`**
 - [Clash for Android](https://t.me/+kqvN73Ap1ixhY2Q1) **`MD` `Multi` `FOSS`**
 - [Molly](https://github.com/mollyim/mollyim-android) **`MD` `FOSS`**
@@ -312,6 +309,9 @@ Material Design 3 伴随着 Android 12 而来。它的诞生，彻底改变了�
 - [Energy Ring: Universal Edition](https://play.google.com/store/apps/details?id=you.in.spark.energy.ring.gen) **`MD-` `Monet` `💴`**
 - [Shrad AI](https://play.google.com/store/apps/details?id=com.shifastudios.shradai) **`MD`**
 - [Kalam](https://play.google.com/store/apps/details?id=com.shifastudios.kalam) **`MD`**
+- [CodeAssist](https://github.com/Deenu143/CodeAssist-ALPHA-0.2.9) **`MD-` `Multi` `FOSS`**
+- [Physics Calculator](https://play.google.com/store/apps/details?id=com.a3.apurv.phyCalc) **`Full`**
+- [Taskito](https://play.google.com/store/apps/details?id=com.fenchtose.reflog) **`Full` `Multi` `💴`**
 ## 📱应用列表
 **点击标题即可回到目录XD**
 ### 🦖[谷歌应用](#目录)
@@ -618,7 +618,7 @@ Material Design 3 伴随着 Android 12 而来。它的诞生，彻底改变了�
 	- [Engross](https://play.google.com/store/apps/details?id=com.engross) **`MD-`**
 	- [Kubus Tasks](https://play.google.com/store/apps/details?id=com.ms.tasks) **`MD-`**
 	- [TimePlanner](https://github.com/v1tzor/TimePlanner) **`Full`**
-	- [Taskito](https://t.me/taskito_beta) **`Full` `💴`**
+	- [Taskito](https://play.google.com/store/apps/details?id=com.fenchtose.reflog) **`Full` `Multi` `💴`**
 	- [Tasks](https://play.google.com/store/apps/details?id=com.redmerah.tasks) **`MD`**
 - **思维导图**
 	- [XMind](https://play.google.com/store/apps/details?id=net.xmind.doughnut) **`MD-` `💴`**
@@ -1205,6 +1205,7 @@ Material Design 3 伴随着 Android 12 而来。它的诞生，彻底改变了�
    	- [Kalculator](https://github.com/re-ovo/Kalculator) **`👻` `FOSS`**
    	- [Math Calculator](https://github.com/v1tzor/MathCalculator) **`Full` `FOSS`**
    	- [多功能计算器](https://play.google.com/store/apps/details?id=com.yangdai.calc) **`Full` `Multi` `FOSS`**
+   	- [Physics Calculator](https://play.google.com/store/apps/details?id=com.a3.apurv.phyCalc) **`Full`**
 - **翻译**
    	- [Translate You](https://github.com/Bnyro/TranslateYou) **`Full` `FOSS`**    
    	- [译站](https://github.com/FunnySaltyFish/FunnyTranslation) **`Full` `Multi` `💴`**
@@ -1380,6 +1381,7 @@ Material Design 3 伴随着 Android 12 而来。它的诞生，彻底改变了�
    	- [Zoho Apptics](https://play.google.com/store/apps/details?id=com.zoho.apptics) **`MD-` `Monet`**
    	- [Maybe](https://1drv.ms/u/s!Atk49Scq_BtYhHpVn8A3ZDu-aKHX?e=51dtFM) **`Full`**
    	- [DPITunnel](https://github.com/nomoresat/DPITunnel-android) **`Monet` `FOSS`**
+   	- [CodeAssist](https://github.com/Deenu143/CodeAssist-ALPHA-0.2.9) **`MD-` `Multi` `FOSS`**
 ---
 ## [#️⃣Root/ADB](#目录)
 - **管理器**
