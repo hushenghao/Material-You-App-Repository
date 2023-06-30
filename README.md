@@ -246,9 +246,6 @@ However in fact, sometimes Material You refers to the application which (may onl
 - [InstallerX](https://github.com/iamr0s/InstallerX) **`Full` `Multi`**
 - [Hail](https://github.com/aistra0528/Hail) **`Full` `Multi`**
 ## 🆕Newly Added Apps
-- [Media Provider Manager](https://github.com/MaterialCleaner/Media-Provider-Manager) **`MD-` `Monet` `FOSS`**
-- [Project Themer](https://play.google.com/store/apps/details?id=com.drsants.eggproject) **`MD` `💴`**
-- [Telegram Themer](https://github.com/therxmv/Telegram-Themer) **`MD` `FOSS`**
 - [Gallery](https://github.com/IacobIonut01/Gallery) **`Full` `Multi` `FOSS`**
 - [Clash for Android](https://t.me/+kqvN73Ap1ixhY2Q1) **`MD` `Multi` `FOSS`**
 - [Molly](https://github.com/mollyim/mollyim-android) **`MD` `FOSS`**
@@ -261,6 +258,9 @@ However in fact, sometimes Material You refers to the application which (may onl
 - [Energy Ring: Universal Edition](https://play.google.com/store/apps/details?id=you.in.spark.energy.ring.gen) **`MD-` `Monet` `💴`**
 - [Shrad AI](https://play.google.com/store/apps/details?id=com.shifastudios.shradai) **`MD`**
 - [Kalam](https://play.google.com/store/apps/details?id=com.shifastudios.kalam) **`MD`**
+- [CodeAssist](https://github.com/Deenu143/CodeAssist-ALPHA-0.2.9) **`MD-` `Multi` `FOSS`**
+- [Physics Calculator](https://play.google.com/store/apps/details?id=com.a3.apurv.phyCalc) **`Full`**
+- [Taskito](https://play.google.com/store/apps/details?id=com.fenchtose.reflog) **`Full` `Multi` `💴`**
 ## 📱Applist
 **Now you could click the title to return to the applist menu!**
 ### 🦖[Google Apps](#applist-menu)
@@ -570,7 +570,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
 	- [Engross](https://play.google.com/store/apps/details?id=com.engross) **`MD-`**
 	- [Kubus Tasks](https://play.google.com/store/apps/details?id=com.ms.tasks) **`MD-`**
 	- [TimePlanner](https://github.com/v1tzor/TimePlanner) **`Full`**
-	- [Taskito](https://t.me/taskito_beta) **`Full` `💴`**
+	- [Taskito](https://play.google.com/store/apps/details?id=com.fenchtose.reflog) **`Full` `Multi` `💴`**
 	- [Tasks](https://play.google.com/store/apps/details?id=com.redmerah.tasks) **`MD`**
 - **Mind Maps**
 	- [XMind](https://play.google.com/store/apps/details?id=net.xmind.doughnut) **`MD-` `💴`**
@@ -1156,7 +1156,8 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
    	- [zCalc](https://github.com/ziadOUA/zCalc) **`MD-` `Monet` `FOSS`**
    	- [Kalculator](https://github.com/re-ovo/Kalculator) **`👻` `FOSS`**
    	- [Math Calculator](https://github.com/v1tzor/MathCalculator) **`Full` `FOSS`**
-   	- [Multi Caculater](https://play.google.com/store/apps/details?id=com.yangdai.calc) **`Full` `Multi` `FOSS` `FOSS`**
+   	- [Multi Caculator](https://play.google.com/store/apps/details?id=com.yangdai.calc) **`Full` `Multi` `FOSS` `FOSS`**
+   	- [Physics Calculator](https://play.google.com/store/apps/details?id=com.a3.apurv.phyCalc) **`Full`**
 - **Translator**    
    	- [Translate You](https://github.com/Bnyro/TranslateYou) **`Full` `FOSS`**    
    	- [FunnyTranslation](https://github.com/FunnySaltyFish/FunnyTranslation) **`Full` `Multi` `💴`**    
@@ -1332,6 +1333,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
    	- [Zoho Apptics](https://play.google.com/store/apps/details?id=com.zoho.apptics) **`MD-` `Monet`**
    	- [Maybe](https://1drv.ms/u/s!Atk49Scq_BtYhHpVn8A3ZDu-aKHX?e=51dtFM) **`Full`**
    	- [DPITunnel](https://github.com/nomoresat/DPITunnel-android) **`Monet` `FOSS`**
+   	- [CodeAssist](https://github.com/Deenu143/CodeAssist-ALPHA-0.2.9) **`MD-` `Multi` `FOSS`**
 ---
 ### [#️⃣Root/ADB](#applist-menu)
 - **Manager**   
