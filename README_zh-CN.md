@@ -311,7 +311,7 @@ Material Design 3 伴随着 Android 12 而来。它的诞生，彻底改变了�
 - [CodeAssist](https://github.com/Deenu143/CodeAssist-ALPHA-0.2.9) **`MD-` `Multi` `FOSS`**
 - [Physics Calculator](https://play.google.com/store/apps/details?id=com.a3.apurv.phyCalc) **`Full`**
 - [Taskito](https://play.google.com/store/apps/details?id=com.fenchtose.reflog) **`Full` `Multi` `💴`**
-- [暮光](https://misaka13766.lanzoup.com/i4jAv10xb7pi)（密码98cw）
+- [暮光](https://misaka13766.lanzoup.com/i4jAv10xb7pi)（密码98cw） **`Full`**
 ## 📱应用列表
 **点击标题即可回到目录XD**
 ### 🦖[谷歌应用](#目录)
@@ -1314,7 +1314,7 @@ Material Design 3 伴随着 Android 12 而来。它的诞生，彻底改变了�
    	- [七点工具箱](https://wwja.lanzoub.com/iLTin0x3rjzi) **`Full`**
    	- [简朴](https://github.com/ismartcoding/plain-app) **`Full` `FOSS`** 
    	- [工具大师](https://dmla.lanzouo.com/b05pbb76b) **`MD`**
-   	- [暮光](https://misaka13766.lanzoup.com/i4jAv10xb7pi)（密码98cw）
+   	- [暮光](https://misaka13766.lanzoup.com/i4jAv10xb7pi)（密码98cw） **`Full`**
 - **代理工具**
    	- [Surfboard](https://play.google.com/store/apps/details?id=com.getsurfboard) **`Full` `Multi`**
    	- [Clash for Android](https://t.me/+kqvN73Ap1ixhY2Q1) **`MD` `Multi` `FOSS`**
