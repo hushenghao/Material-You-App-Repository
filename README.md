@@ -246,7 +246,6 @@ However in fact, sometimes Material You refers to the application which (may onl
 - [InstallerX](https://github.com/iamr0s/InstallerX) **`Full` `Multi`**
 - [Hail](https://github.com/aistra0528/Hail) **`Full` `Multi`**
 ## 🆕Newly Added Apps
-- [Gallery](https://github.com/IacobIonut01/Gallery) **`Full` `Multi` `FOSS`**
 - [Clash for Android](https://t.me/+kqvN73Ap1ixhY2Q1) **`MD` `Multi` `FOSS`**
 - [Molly](https://github.com/mollyim/mollyim-android) **`MD` `FOSS`**
 - [Aristo Kids Mental Accelerator](https://play.google.com/store/apps/details?id=com.aristo.aristokids) **`MD`**
@@ -261,6 +260,7 @@ However in fact, sometimes Material You refers to the application which (may onl
 - [CodeAssist](https://github.com/Deenu143/CodeAssist-ALPHA-0.2.9) **`MD-` `Multi` `FOSS`**
 - [Physics Calculator](https://play.google.com/store/apps/details?id=com.a3.apurv.phyCalc) **`Full`**
 - [Taskito](https://play.google.com/store/apps/details?id=com.fenchtose.reflog) **`Full` `Multi` `💴`**
+- [Twilight](https://1drv.ms/u/s!Atk49Scq_BtYhSI9zraqM2p6NfMG?e=mGHiiV) **`Full`**
 ## 📱Applist
 **Now you could click the title to return to the applist menu!**
 ### 🦖[Google Apps](#applist-menu)
@@ -378,10 +378,9 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
 	- [E2E Encrypted Chat](https://github.com/Project-Based-Learning-IT/e2ee-chat) **`TODO` `FOSS`**
 - **Reddit Clients**
 	- [Sync for Reddit](https://play.google.com/store/apps/details?id=com.laurencedawson.reddit_sync) **`Full` `Multi`**
-	- [Karma for Reddit](https://play.google.com/store/apps/details?id=com.brianrobles204.karmamachine_flutter) **`Full`**
-**`MD-` `Monet`** 
-	- [Infinity for Reddit](https://github.com/Docile-Alligator/Infinity-For-Reddit) **`MD-` `Monet` `FOSS`**
-	- [Focus for Reddit](https://play.google.com/store/apps/details?id=allen.town.focus.reddit) **`Full` `Multi`**
+	- [Karma for Reddit](https://play.google.com/store/apps/details?id=com.brianrobles204.karmamachine_flutter) **`Full` `MD-` `Monet`** 
+	- [Infinity for Reddit](https://github.com/Docile-Alligator/Infinity-For-Reddit) **`MD-` `Monet` `💴`**
+	- [Focus for Reddit](https://play.google.com/store/apps/details?id=allen.town.focus.reddit) **`Full` `Multi` `💴`**
 	- [Pinapple](https://github.com/galaxygoldfish/pineapple) **`TODO` `FOSS`**
 	- [FairBird for Reddit](https://play.google.com/store/apps/details?id=com.niven.reddit) **`Full`**
 - **Discord Clients**
@@ -1266,6 +1265,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
    	- [Sevendots Toolbox](https://1drv.ms/u/s!Atk49Scq_BtYhHkWJxcDuAPY25PZ?e=l89paX) **`Full`**  
    	- [Plain](https://github.com/ismartcoding/plain-app) **`Full` `FOSS`**
    	- [Tool Master](https://dmla.lanzouo.com/b05pbb76b) **`MD`**
+   	- [Twilight](https://1drv.ms/u/s!Atk49Scq_BtYhSI9zraqM2p6NfMG?e=mGHiiV) **`Full`**
 - **Proxy**
    	- [Surfboard](https://play.google.com/store/apps/details?id=com.getsurfboard) **`Full` `Multi`**
    	- [Clash for Android](https://t.me/+kqvN73Ap1ixhY2Q1) **`MD` `Multi` `FOSS`**
