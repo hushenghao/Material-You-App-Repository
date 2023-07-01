@@ -426,7 +426,7 @@ Material Design 3 伴随着 Android 12 而来。它的诞生，彻底改变了�
 	- [FluffyChat](https://gitlab.com/famedly/fluffychat) **`Full` `Multi` `FOSS`**
 	- [E2E Encrypted Chat](https://github.com/Project-Based-Learning-IT/e2ee-chat) **`TODO` `FOSS`**
 - **Reddit 第三方**
-	- [Sync for Reddit](https://play.google.com/store/apps/details?id=com.laurencedawson.reddit_sync) **`Full` `Multi`**
+	- [Sync for Reddit](https://play.google.com/store/apps/details?id=com.laurencedawson.reddit_sync) **`Full` `Multi` `👻`**
 	- [Karma for Reddit](https://play.google.com/store/apps/details?id=com.brianrobles204.karmamachine_flutter) **`Full`**
 	- [Infinity for Reddit](https://github.com/Docile-Alligator/Infinity-For-Reddit) **`MD-` `Monet` `💴`** 
 	- [Focus for Reddit](https://play.google.com/store/apps/details?id=allen.town.focus.reddit) **`Full` `Multi` `💴`**
