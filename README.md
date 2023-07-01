@@ -377,7 +377,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
 	- [Molly](https://github.com/mollyim/mollyim-android) **`MD` `FOSS`**
 	- [E2E Encrypted Chat](https://github.com/Project-Based-Learning-IT/e2ee-chat) **`TODO` `FOSS`**
 - **Reddit Clients**
-	- [Sync for Reddit](https://play.google.com/store/apps/details?id=com.laurencedawson.reddit_sync) **`Full` `Multi`**
+	- [Sync for Reddit](https://play.google.com/store/apps/details?id=com.laurencedawson.reddit_sync) **`Full` `Multi` `👻`**
 	- [Karma for Reddit](https://play.google.com/store/apps/details?id=com.brianrobles204.karmamachine_flutter) **`Full` `MD-` `Monet`** 
 	- [Infinity for Reddit](https://github.com/Docile-Alligator/Infinity-For-Reddit) **`MD-` `Monet` `💴`**
 	- [Focus for Reddit](https://play.google.com/store/apps/details?id=allen.town.focus.reddit) **`Full` `Multi` `💴`**
