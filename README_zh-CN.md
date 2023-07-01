@@ -297,7 +297,6 @@ Material Design 3 伴随着 Android 12 而来。它的诞生，彻底改变了�
 - [雹](https://github.com/aistra0528/Hail) **`Full` `Multi`**
 ## 🆕最近上新
 少女祈祷中…
-- [Gallery](https://github.com/IacobIonut01/Gallery) **`Full` `Multi` `FOSS`**
 - [Clash for Android](https://t.me/+kqvN73Ap1ixhY2Q1) **`MD` `Multi` `FOSS`**
 - [Molly](https://github.com/mollyim/mollyim-android) **`MD` `FOSS`**
 - [Aristo Kids Mental Accelerator](https://play.google.com/store/apps/details?id=com.aristo.aristokids) **`MD`**
@@ -312,6 +311,7 @@ Material Design 3 伴随着 Android 12 而来。它的诞生，彻底改变了�
 - [CodeAssist](https://github.com/Deenu143/CodeAssist-ALPHA-0.2.9) **`MD-` `Multi` `FOSS`**
 - [Physics Calculator](https://play.google.com/store/apps/details?id=com.a3.apurv.phyCalc) **`Full`**
 - [Taskito](https://play.google.com/store/apps/details?id=com.fenchtose.reflog) **`Full` `Multi` `💴`**
+- [暮光](https://misaka13766.lanzoup.com/i4jAv10xb7pi)（密码98cw）
 ## 📱应用列表
 **点击标题即可回到目录XD**
 ### 🦖[谷歌应用](#目录)
@@ -428,8 +428,8 @@ Material Design 3 伴随着 Android 12 而来。它的诞生，彻底改变了�
 - **Reddit 第三方**
 	- [Sync for Reddit](https://play.google.com/store/apps/details?id=com.laurencedawson.reddit_sync) **`Full` `Multi`**
 	- [Karma for Reddit](https://play.google.com/store/apps/details?id=com.brianrobles204.karmamachine_flutter) **`Full`**
-	- [Infinity for Reddit](https://github.com/Docile-Alligator/Infinity-For-Reddit) **`MD-` `Monet`** 
-	- [Focus for Reddit](https://play.google.com/store/apps/details?id=allen.town.focus.reddit) **`Full` `Multi` `FOSS`**
+	- [Infinity for Reddit](https://github.com/Docile-Alligator/Infinity-For-Reddit) **`MD-` `Monet` `💴`** 
+	- [Focus for Reddit](https://play.google.com/store/apps/details?id=allen.town.focus.reddit) **`Full` `Multi` `💴`**
 	- [Pinapple](https://github.com/galaxygoldfish/pineapple) **`TODO` `FOSS`**
 	- [FairBird for Reddit](https://play.google.com/store/apps/details?id=com.niven.reddit) **`Full`**
 - **Discord 第三方**
@@ -1314,6 +1314,7 @@ Material Design 3 伴随着 Android 12 而来。它的诞生，彻底改变了�
    	- [七点工具箱](https://wwja.lanzoub.com/iLTin0x3rjzi) **`Full`**
    	- [简朴](https://github.com/ismartcoding/plain-app) **`Full` `FOSS`** 
    	- [工具大师](https://dmla.lanzouo.com/b05pbb76b) **`MD`**
+   	- [暮光](https://misaka13766.lanzoup.com/i4jAv10xb7pi)（密码98cw）
 - **代理工具**
    	- [Surfboard](https://play.google.com/store/apps/details?id=com.getsurfboard) **`Full` `Multi`**
    	- [Clash for Android](https://t.me/+kqvN73Ap1ixhY2Q1) **`MD` `Multi` `FOSS`**
