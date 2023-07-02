@@ -722,7 +722,7 @@ Material Design 3 伴随着 Android 12 而来。它的诞生，彻底改变了�
 	- [CopyManga](https://github.com/shizheng233/CopyMangaJava) **`Full` `FOSS`**
 	- [CopyMangaX](https://github.com/CrowForKotlin/CopyMangaX) **`MD` `FOSS`**
 	- [NoyAcg](https://noy.asia/) **`MD-`**
-	- [Kuru Reader](https://play.google.com/store/apps/details?id=br.com.kurotoshiro.leitor_manga) **`Full` `Multi` `💴`**
+	- [Kuro Reader](https://play.google.com/store/apps/details?id=br.com.kurotoshiro.leitor_manga) **`Full` `Multi` `💴`**
 - **有声书**
 	- [Kafka](https://play.google.com/store/apps/details?id=com.kafka.user) **`Full` `Multi` `💴`**
 	- [Voice](https://github.com/PaulWoitaschek/Voice) **`Full` `Multi` `FOSS`**
