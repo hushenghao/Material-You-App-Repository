@@ -672,7 +672,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
 	- [CopyManga](https://github.com/shizheng233/CopyMangaJava) **`Full` `FOSS`**
 	- [CopyMangaX](https://github.com/CrowForKotlin/CopyMangaX) **`MD` `FOSS`**
 	- [NoyAcg](https://noy.asia/) **`MD-`**
-	- [Kuru Reader](https://play.google.com/store/apps/details?id=br.com.kurotoshiro.leitor_manga) **`Full` `Multi` `💴`**
+	- [Kuro Reader](https://play.google.com/store/apps/details?id=br.com.kurotoshiro.leitor_manga) **`Full` `Multi` `💴`**
 - **Audio Books**
 	- [Kafka](https://play.google.com/store/apps/details?id=com.kafka.user) **`Full` `Multi` `💴`**
 	- [Voice](https://github.com/PaulWoitaschek/Voice) **`Full` `Multi` `FOSS`**
