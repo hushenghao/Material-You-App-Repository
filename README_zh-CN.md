@@ -311,7 +311,7 @@ Material Design 3 伴随着 Android 12 而来。它的诞生，彻底改变了�
 - [CodeAssist](https://github.com/Deenu143/CodeAssist-ALPHA-0.2.9) **`MD-` `Multi` `FOSS`**
 - [Physics Calculator](https://play.google.com/store/apps/details?id=com.a3.apurv.phyCalc) **`Full`**
 - [Taskito](https://play.google.com/store/apps/details?id=com.fenchtose.reflog) **`Full` `Multi` `💴`**
-- [暮光](https://misaka13766.lanzoup.com/i4jAv10xb7pi)（密码98cw） **`Full`**
+- [暮光](https://wwja.lanzoub.com/iLTin0x3rjzi) **`Full`**
 ## 📱应用列表
 **点击标题即可回到目录XD**
 ### 🦖[谷歌应用](#目录)
@@ -338,7 +338,7 @@ Material Design 3 伴随着 Android 12 而来。它的诞生，彻底改变了�
 - [Google Chat](https://play.google.com/store/apps/details?id=com.google.android.apps.dynamite) **`MD-` `Monet`**
 - [Google Meet](https://play.google.com/store/apps/details?id=com.google.android.apps.tachyon) **`MD-` `Monet` `Multi`**
 - [Health Connect](https://play.google.com/store/apps/details?id=com.google.android.apps.healthdata) **`MD-` `Monet`**
-- [Google Calendar](https://play.google.com/store/apps/details?id=com.google.android.calendar) **`MD-` `Monet`**
+- [Google Calendar](https://play.google.com/store/apps/details?id=com.google.android.calendar) **`Full`**
 - [Google Fi](https://play.google.com/store/apps/details?id=com.google.android.apps.tycho) **`MD-` `Monet`**
 - [Google Family Link](https://play.google.com/store/apps/details?id=com.google.android.apps.kids.familylink) **`Full`**
 - [Google Wallet](https://play.google.com/store/apps/details?id=com.google.android.apps.walletnfcrel) **`MD-` `Monet`**
@@ -389,17 +389,18 @@ Material Design 3 伴随着 Android 12 而来。它的诞生，彻底改变了�
 	- [Widget](https://www.pling.com/p/1884299/) **`Full`**
 	- [Calculator](https://www.pling.com/p/1884299/) **`Full`**
 	- Contacts
+	- Note
 - **Nothing OS**  
 	- [Weather](https://www.apkmirror.com/apk/nothing-technology-limited/nothing-weather/) **`MD`**
 - **Octavi OS**
 	- [Dialer](https://www.pling.com/p/1571900) **`Monet`**
-- **ASUS Zenui** 
-	- [文件管理](https://misaka13766.lanzouo.com/i4NMX0x388ad) **`Full`** (密码6f1m)
-	- [时钟](https://misaka13766.lanzouo.com/i7oEY0x3886j) **`MD-` `Monet`** (密码9qr4)
-	- [天气](https://misaka13766.lanzouo.com/iVJKR0x388gj) **`MD-` `Monet`** (密码b9wg)
-	- [计算器](https://misaka13766.lanzouo.com/iBfkV0x387zc) **`Full`** (密码efwe)
-	- [拨号](https://misaka13766.lanzouo.com/iQgRx0x387xa) **`MD-` `Monet`** (密码52t2，其他系统无法使用)
-	- [联系人](https://misaka13766.lanzouo.com/icqnt0x3882f) **`MD-` `Monet`** (密码4ebf，其他系统无法使用)
+- **ASUS Zenui**（以下密码均为b5qp）
+	- [文件管理](https://kawaii.lanzoui.com/b01eahvih) **`Full`**
+	- [时钟](https://kawaii.lanzoui.com/b01eahvih) **`MD-` `Monet`**
+	- [天气](https://kawaii.lanzoui.com/b01eahvih) **`MD-` `Monet`**
+	- [计算器](https://kawaii.lanzoui.com/b01eahvih) **`Full`**
+	- [拨号](https://kawaii.lanzoui.com/b01eahvih) **`MD-` `Monet`**
+	- [联系人](https://kawaii.lanzoui.com/b01eahvih) **`MD-` `Monet`**
     
 注：crDroid、Octavi OS的其他系统应用之后会考虑上传（如果它们在其他手机上可用）。
 
@@ -489,7 +490,7 @@ Material Design 3 伴随着 Android 12 而来。它的诞生，彻底改变了�
 - **YouTube Music 第三方**
 	- [ViMusic](https://github.com/vfsfitvnm/ViMusic) **`MD` `Multi` `FOSS`**
 	- [Vibe Music](https://github.com/sheikhhaziq/vibemusic) **`Full` `FOSS`**
-	- [InnerTune](https://github.com/z-huang/InnerTune) **`MD-` `Monet` `Multi` `FOSS`**
+	- [InnerTune](https://github.com/z-huang/InnerTune) **`MD-` `Monet` `Multi` `FOSS` <sup>`测试版已转为 Full`</sup>**
 	- [Musify](https://github.com/gokadzev/Musify) **`Full` `FOSS`**
 - **Spotify 第三方**
 	- [Jetispot](https://github.com/iTaysonLab/jetispot) and a [fork](https://github.com/BobbyESP/Jetispot) **`Full` `FOSS`**
@@ -1177,7 +1178,7 @@ Material Design 3 伴随着 Android 12 而来。它的诞生，彻底改变了�
    	- [奇妙搜索](https://www.123pan.com/s/izDSVv-0JQWA) **`MD` `Multi`**   
    	- [混合盘](https://hunhepan.com/) **`MD`**
 - **网盘** 
-   	- [lanzoucloud](https://1drv.ms/u/s!Atk49Scq_BtYhGd4LJN1fJftw-HQ?e=5jznMk) **`MD`**    
+   	- [lanzoucloud](https://mayuu.lanzoui.com/inSWi0zbs13e)（密码233q） **`MD`**    
    	- [FolderSync](https://play.google.com/store/apps/details?id=dk.tacit.android.foldersync.lite) **`Full` `Multi` `💴`**
    	- [Nextcloud Deck](https://github.com/stefan-niedermann/nextcloud-deck) **`MD` `FOSS`**    
    	- [Nextcloud Talk](https://github.com/nextcloud/talk-android) **`MD` `FOSS`**
@@ -1309,12 +1310,12 @@ Material Design 3 伴随着 Android 12 而来。它的诞生，彻底改变了�
    	- [MIUI Rom](https://t.me/miuiappshare) **`Full`**    
    	- [downmi](https://play.google.com/store/apps/details?id=xyz.izadi.downmi2) **`Full` `💴`**
 - **多功能工具箱**
-   	- [远航工具箱](https://wwqv.lanzout.com/iHKDj0skeiub) (密码2bhy) **`Full`**
+   	- [远航工具箱](https://wwpz.lanzoum.com/idAeB0zszgmh) (密码nmsb) **`Full`**
    	- [小布百宝箱](https://www.coolapk1s.com/feed/45145335) **`Full`**
    	- [七点工具箱](https://wwja.lanzoub.com/iLTin0x3rjzi) **`Full`**
    	- [简朴](https://github.com/ismartcoding/plain-app) **`Full` `FOSS`** 
    	- [工具大师](https://dmla.lanzouo.com/b05pbb76b) **`MD`**
-   	- [暮光](https://misaka13766.lanzoup.com/i4jAv10xb7pi)（密码98cw） **`Full`**
+   	- [暮光](https://wwz.lanzoul.com/iBden10w6pid) **`Full`**
 - **代理工具**
    	- [Surfboard](https://play.google.com/store/apps/details?id=com.getsurfboard) **`Full` `Multi`**
    	- [Clash for Android](https://t.me/+kqvN73Ap1ixhY2Q1) **`MD` `Multi` `FOSS`**
