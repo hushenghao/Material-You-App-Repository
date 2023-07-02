@@ -287,7 +287,7 @@ As the father of Material You, Google is changing its applications to Material D
 - [Google Chat](https://play.google.com/store/apps/details?id=com.google.android.apps.dynamite) **`MD-` `Monet`**
 - [Google Meet](https://play.google.com/store/apps/details?id=com.google.android.apps.tachyon) **`MD-` `Monet` `Multi`**
 - [Health Connect](https://play.google.com/store/apps/details?id=com.google.android.apps.healthdata) **`MD-` `Monet`**
-- [Google Calendar](https://play.google.com/store/apps/details?id=com.google.android.calendar) **`MD-` `Monet`**
+- [Google Calendar](https://play.google.com/store/apps/details?id=com.google.android.calendar) **`Full`**
 - [Google Fi](https://play.google.com/store/apps/details?id=com.google.android.apps.tycho) **`MD-` `Monet`**
 - [Google Family Link](https://play.google.com/store/apps/details?id=com.google.android.apps.kids.familylink) **`Full`**
 - [Google Wallet](https://play.google.com/store/apps/details?id=com.google.android.apps.walletnfcrel) **`MD-` `Monet`**
@@ -440,7 +440,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
 - **Youtube Music Clients**
 	- [ViMusic](https://github.com/vfsfitvnm/ViMusic) **`MD` `Multi` `FOSS`**
 	- [Vibe Music](https://github.com/sheikhhaziq/vibemusic) **`Full` `FOSS`**
-	- [InnerTune](https://github.com/z-huang/InnerTune) **`MD-` `Monet` `Multi` `FOSS`**
+	- [InnerTune](https://github.com/z-huang/InnerTune) **`MD-` `Monet` `Multi` `FOSS` <sup>`Full in Beta`</sup>**
 	- [Musify](https://github.com/gokadzev/Musify) **`Full` `FOSS`**
 - **Spotify Clients** 
 	- [Jetispot](https://github.com/iTaysonLab/jetispot) and a [fork](https://github.com/BobbyESP/Jetispot) **`Full` `FOSS`**
