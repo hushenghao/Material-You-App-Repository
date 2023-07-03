@@ -297,7 +297,6 @@ Material Design 3 伴随着 Android 12 而来。它的诞生，彻底改变了�
 - [雹](https://github.com/aistra0528/Hail) **`Full` `Multi`**
 ## 🆕最近上新
 少女祈祷中…
-- [Aristo Kids Mental Accelerator](https://play.google.com/store/apps/details?id=com.aristo.aristokids) **`MD`**
 - [DPITunnel](https://github.com/nomoresat/DPITunnel-android) **`Monet` `FOSS`**
 - [Tinnitus Massage](https://play.google.com/store/apps/details?id=nl.appyhapps.tinnitusmassage) **`MD` `💴`**
 - [Yearly Progress](https://play.google.com/store/apps/details?id=com.a3.yearlyprogess) **`Full`**
@@ -312,6 +311,7 @@ Material Design 3 伴随着 Android 12 而来。它的诞生，彻底改变了�
 - [暮光](https://wwja.lanzoub.com/iLTin0x3rjzi) **`Full`**
 - [Pixel IMS](https://xuna.lanzoub.com/ivT7L114h2ef) **`Full`**
 - [Another Manager](https://1drv.ms/u/s!Atk49Scq_BtYhSQpedIgg4La48tC?e=lwQaf3) **`Full`**
+- [IYPS](https://github.com/the-weird-aquarian/IYPS) **`MD` `FOSS`**
 ## 📱应用列表
 **点击标题即可回到目录XD**
 ### 🦖[谷歌应用](#目录)
@@ -484,7 +484,7 @@ Material Design 3 伴随着 Android 12 而来。它的诞生，彻底改变了�
 	- [Revanced Extended](https://github.com/revanced/revanced-manager) **`Full` `FOSS`**
 	- [Hyperion](https://github.com/zt64/Hyperion) **`Full` `Multi` `FOSS`**
 	- [VueTube](https://github.com/VueTubeApp/VueTube) **`Full` `FOSS`**
-	- [Clipious](https://github.com/lamarios/clipious) **`MD` `FOSS`**
+	- [Clipious](https://github.com/lamarios/clipious) **`Full` `FOSS`**
 	- [Vanced MicroG](https://github.com/cuynu/VancedMicroG) **`Monet` `FOSS`**
 	- [Lighttube](https://github.com/kuylar/lighttube-android) **`TODO` `FOSS`**
 - **YouTube Music 第三方**
@@ -1266,6 +1266,7 @@ Material Design 3 伴随着 Android 12 而来。它的诞生，彻底改变了�
    	- [Keyguard for Bitwarden](https://play.google.com/store/apps/details?id=com.artemchep.keyguard) **`Full` `Multi` `💴`**   
    	- [Simple Password](https://github.com/grigorevmp/Simple_Passwords_QuickPass) **`Full` `FOSS`**
    	- [Password Manager](https://github.com/OffRange/PasswordManager) **`Full` `FOSS`**
+   	- [IYPS](https://github.com/the-weird-aquarian/IYPS) **`MD` `FOSS`**
 - **文件互传**
    	- [Warpinator](https://github.com/slowscript/warpinator-android) **`MD-` `Monet` `FOSS`**    
    	- [Arc](https://play.google.com/store/apps/details?id=com.quadren.arc) **`Full` `FOSS`**       
