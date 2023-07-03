@@ -1164,7 +1164,7 @@ Material Design 3 伴随着 Android 12 而来。它的诞生，彻底改变了�
 - **下载器**
    	- [ADM](https://play.google.com/store/apps/details?id=com.dv.adm) **`Monet` `Multi` `💴`**    
    	- [Seal](https://github.com/JunkFood02/Seal) **`Full` `FOSS`**    
-   	- [忻视down](https://github.com/Yos-X/YBVD_Release) **`Full` `FOSS`**    
+   	- [忻视down](https://github.com/Yos-X/YBVD_Release) **`Full`**    
    	- [YTDLnis](https://github.com/deniscerri/ytdlnis) **`Full` `Multi` `FOSS`**    
    	- [Spowlo](https://github.com/BobbyESP/Spowlo) **`Full` `FOSS`**
    	- [Tweeload](https://play.google.com/store/apps/details?id=tweeload.twitter.video.downloader) **`MD-` `Monet` `💴`**   
