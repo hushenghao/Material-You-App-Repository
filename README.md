@@ -1114,7 +1114,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
 - **Downloader**
    	- [ADM](https://play.google.com/store/apps/details?id=com.dv.adm) **`Monet` `Multi` `💴`**    
    	- [Seal](https://github.com/JunkFood02/Seal) **`Full` `FOSS`**    
-   	- [YOSDown](https://github.com/Yos-X/YBVD_Release) **`Full` `FOSS`**    
+   	- [YOSBiliVideoDown](https://github.com/Yos-X/YBVD_Release) **`Full`**    
    	- [YTDLnis](https://github.com/deniscerri/ytdlnis) **`Full` `Multi` `FOSS`**    
    	- [Spowlo](https://github.com/BobbyESP/Spowlo) **`Full` `FOSS`**
    	- [Tweeload](https://play.google.com/store/apps/details?id=tweeload.twitter.video.downloader) **`MD-` `Monet` `💴`**
