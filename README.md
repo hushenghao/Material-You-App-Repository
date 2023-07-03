@@ -260,6 +260,7 @@ However in fact, sometimes Material You refers to the application which (may onl
 - [Twilight](https://1drv.ms/u/s!Atk49Scq_BtYhSI9zraqM2p6NfMG?e=mGHiiV) **`Full`**
 - [Another Manager](https://1drv.ms/u/s!Atk49Scq_BtYhSQpedIgg4La48tC?e=lwQaf3) **`Full`**
 - [Pixel IMS](https://1drv.ms/u/s!Atk49Scq_BtYhSM8SLgvT2xRvOza?e=qkm7qI) **`Full`**
+- [IYPS](https://github.com/the-weird-aquarian/IYPS) **`MD` `FOSS`**
 ## 📱Applist
 **Now you could click the title to return to the applist menu!**
 ### 🦖[Google Apps](#applist-menu)
@@ -433,7 +434,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
 	- [Revanced Extended](https://github.com/revanced/revanced-manager) **`Full` `FOSS`**
 	- [Hyperion](https://github.com/zt64/Hyperion) **`Full` `Multi` `FOSS`**
 	- [VueTube](https://github.com/VueTubeApp/VueTube) **`Full` `FOSS`**
-	- [Clipious](https://github.com/lamarios/clipious) **`MD` `FOSS`**
+	- [Clipious](https://github.com/lamarios/clipious) **`Full` `FOSS`**
 	- [Vanced MicroG](https://github.com/cuynu/VancedMicroG) **`Monet` `FOSS`**
 	- [Lighttube](https://github.com/kuylar/lighttube-android) **`TODO` `FOSS`**
 - **Youtube Music Clients**
@@ -1215,6 +1216,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
    	- [Keyguard for Bitwarden](https://play.google.com/store/apps/details?id=com.artemchep.keyguard) **`Full` `Multi` `💴`**   
    	- [Simple Password](https://github.com/grigorevmp/Simple_Passwords_QuickPass) **`Full` `FOSS`**
    	- [Password Manager](https://github.com/OffRange/PasswordManager) **`Full` `FOSS`**
+   	- [IYPS](https://github.com/the-weird-aquarian/IYPS) **`MD` `FOSS`**
 - **Sender**      
    	- [Warpinator](https://github.com/slowscript/warpinator-android) **`MD-` `Monet` `FOSS`**    
    	- [Arc](https://play.google.com/store/apps/details?id=com.quadren.arc) **`Full` `FOSS`**    
