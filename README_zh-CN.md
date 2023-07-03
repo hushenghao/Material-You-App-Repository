@@ -297,8 +297,6 @@ Material Design 3 伴随着 Android 12 而来。它的诞生，彻底改变了�
 - [雹](https://github.com/aistra0528/Hail) **`Full` `Multi`**
 ## 🆕最近上新
 少女祈祷中…
-- [Clash for Android](https://t.me/+kqvN73Ap1ixhY2Q1) **`MD` `Multi` `FOSS`**
-- [Molly](https://github.com/mollyim/mollyim-android) **`MD` `FOSS`**
 - [Aristo Kids Mental Accelerator](https://play.google.com/store/apps/details?id=com.aristo.aristokids) **`MD`**
 - [DPITunnel](https://github.com/nomoresat/DPITunnel-android) **`Monet` `FOSS`**
 - [Tinnitus Massage](https://play.google.com/store/apps/details?id=nl.appyhapps.tinnitusmassage) **`MD` `💴`**
@@ -312,6 +310,8 @@ Material Design 3 伴随着 Android 12 而来。它的诞生，彻底改变了�
 - [Physics Calculator](https://play.google.com/store/apps/details?id=com.a3.apurv.phyCalc) **`Full`**
 - [Taskito](https://play.google.com/store/apps/details?id=com.fenchtose.reflog) **`Full` `Multi` `💴`**
 - [暮光](https://wwja.lanzoub.com/iLTin0x3rjzi) **`Full`**
+- [Pixel IMS](https://xuna.lanzoub.com/ivT7L114h2ef) **`Full`**
+- [Another Manager](https://1drv.ms/u/s!Atk49Scq_BtYhSQpedIgg4La48tC?e=lwQaf3) **`Full`**
 ## 📱应用列表
 **点击标题即可回到目录XD**
 ### 🦖[谷歌应用](#目录)
@@ -1039,6 +1039,7 @@ Material Design 3 伴随着 Android 12 而来。它的诞生，彻底改变了�
    	- [CPU Monitor](https://play.google.com/store/apps/details?id=com.paget96.cpumonitor) **`Full`**
    	- [Athena](https://github.com/SebaUbuntu/Athena) **`Full` `FOSS`**
    	- [Geekbench 6](https://play.google.com/store/apps/details?id=com.primatelabs.geekbench6) **`MD`**
+   	- [Another Manager](https://1drv.ms/u/s!Atk49Scq_BtYhSQpedIgg4La48tC?e=lwQaf3) **`Full`**
 - **应用管理**
    	- [Exodus](https://github.com/Exodus-Privacy/exodus-android-app) **`MD` `FOSS`**
    	- [App Manager](https://github.com/MuntashirAkon/AppManager) **`Full` `FOSS`**
@@ -1450,6 +1451,7 @@ Material Design 3 伴随着 Android 12 而来。它的诞生，彻底改变了�
    	- [VPN热点](https://github.com/Mygod/VPNHotspot) **`MD` `FOSS`**
 	- [Preload](https://github.com/feravolt/Preload-docs) **`Full` `Multi` `💴`**
 	- [BCR](https://github.com/chenxiaolong/BCR) **`MD-` `Monet` `Multi` `FOSS`**
+	- [Pixel IMS](https://xuna.lanzoub.com/ivT7L114h2ef) **`Full`**
 ---
 ## [🎮游戏](#目录)
 - **模拟器**
