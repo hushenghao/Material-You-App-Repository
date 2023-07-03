@@ -246,9 +246,6 @@ However in fact, sometimes Material You refers to the application which (may onl
 - [InstallerX](https://github.com/iamr0s/InstallerX) **`Full` `Multi`**
 - [Hail](https://github.com/aistra0528/Hail) **`Full` `Multi`**
 ## 🆕Newly Added Apps
-- [Clash for Android](https://t.me/+kqvN73Ap1ixhY2Q1) **`MD` `Multi` `FOSS`**
-- [Molly](https://github.com/mollyim/mollyim-android) **`MD` `FOSS`**
-- [Aristo Kids Mental Accelerator](https://play.google.com/store/apps/details?id=com.aristo.aristokids) **`MD`**
 - [DPITunnel](https://github.com/nomoresat/DPITunnel-android) **`Monet` `FOSS`**
 - [Tinnitus Massage](https://play.google.com/store/apps/details?id=nl.appyhapps.tinnitusmassage) **`MD` `💴`**
 - [Yearly Progress](https://play.google.com/store/apps/details?id=com.a3.yearlyprogess) **`Full`**
@@ -261,6 +258,8 @@ However in fact, sometimes Material You refers to the application which (may onl
 - [Physics Calculator](https://play.google.com/store/apps/details?id=com.a3.apurv.phyCalc) **`Full`**
 - [Taskito](https://play.google.com/store/apps/details?id=com.fenchtose.reflog) **`Full` `Multi` `💴`**
 - [Twilight](https://1drv.ms/u/s!Atk49Scq_BtYhSI9zraqM2p6NfMG?e=mGHiiV) **`Full`**
+- [Another Manager](https://1drv.ms/u/s!Atk49Scq_BtYhSQpedIgg4La48tC?e=lwQaf3) **`Full`**
+- [Pixel IMS](https://1drv.ms/u/s!Atk49Scq_BtYhSM8SLgvT2xRvOza?e=qkm7qI) **`Full`**
 ## 📱Applist
 **Now you could click the title to return to the applist menu!**
 ### 🦖[Google Apps](#applist-menu)
@@ -989,6 +988,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
    	- [CPU Monitor](https://play.google.com/store/apps/details?id=com.paget96.cpumonitor) **`Full`**
    	- [Athena](https://github.com/SebaUbuntu/Athena) **`Full` `FOSS`**
    	- [Geekbench 6](https://play.google.com/store/apps/details?id=com.primatelabs.geekbench6) **`MD`**
+   	- [Another Manager](https://1drv.ms/u/s!Atk49Scq_BtYhSQpedIgg4La48tC?e=lwQaf3) **`Full`**
 - **App Manager**
    	- [Exodus](https://github.com/Exodus-Privacy/exodus-android-app) **`MD` `FOSS`**
    	- [App Manager](https://github.com/MuntashirAkon/AppManager) **`Full` `FOSS`**
@@ -1400,6 +1400,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
    	- [VPN Hotspot](https://github.com/Mygod/VPNHotspot) **`MD` `FOSS`**
    	- [Preload](https://github.com/feravolt/Preload-docs) **`Full` `Multi` `💴`**
    	- [BCR](https://github.com/chenxiaolong/BCR) **`MD-` `Monet` `Multi` `FOSS`**
+   	- [Pixel IMS](https://1drv.ms/u/s!Atk49Scq_BtYhSM8SLgvT2xRvOza?e=qkm7qI) **`Full`**
 ---
 ### [🎮Games](#applist-menu)
 - **Emulator**    
