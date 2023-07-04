@@ -25,7 +25,7 @@
 ### ❓️What is Material You?
 According to [m3.material.io](https://m3.material.io), Material You is the new Material visual style and set of features embracing the personal and expressive needs of individual users. It's one part of Material Design 3, which is the third generation of material launched in 2021, an open-sourse user interface design system created by Google. 
 
-Different from the emphasis on right angles and shadows by Material Design 2, Material You applies more flat, round and personalized shapes. Additionally, Material You brings more friendly adaptation to Android devices with different screen sizes (pad,fold,watch and so on) . And more importantly, it brings a new color mechanism - Dynamic Color, which can determine the accent color and main color of the application according to the wallpaper color of the user's device. 
+Different from the emphasis on right angles and shadows by Material Design 2, Material You applies more flat, round and personalized shapes. Additionally, Material You brings more friendly adaptation to Android devices with different screen sizes (Pad, fold, watch and so on) . And more importantly, it brings a new color mechanism - Dynamic Color, which can determine the accent color and main color of the application according to the wallpaper color of the user's device. 
 
 However in fact, sometimes Material You refers to the application which (may only) supports Dynamic Color, no matter what kind of style that application applies.
 ### 🏷️Instructions for labels
@@ -246,7 +246,6 @@ However in fact, sometimes Material You refers to the application which (may onl
 - [InstallerX](https://github.com/iamr0s/InstallerX) **`Full` `Multi`**
 - [Hail](https://github.com/aistra0528/Hail) **`Full` `Multi`**
 ## 🆕Newly Added Apps
-- [DPITunnel](https://github.com/nomoresat/DPITunnel-android) **`Monet` `FOSS`**
 - [Tinnitus Massage](https://play.google.com/store/apps/details?id=nl.appyhapps.tinnitusmassage) **`MD` `💴`**
 - [Yearly Progress](https://play.google.com/store/apps/details?id=com.a3.yearlyprogess) **`Full`**
 - [Buzzkill](https://play.google.com/store/apps/details?id=com.samruston.buzzkill) **`MD-` `💴`**
@@ -261,6 +260,7 @@ However in fact, sometimes Material You refers to the application which (may onl
 - [Another Manager](https://1drv.ms/u/s!Atk49Scq_BtYhSQpedIgg4La48tC?e=lwQaf3) **`Full`**
 - [Pixel IMS](https://1drv.ms/u/s!Atk49Scq_BtYhSM8SLgvT2xRvOza?e=qkm7qI) **`Full`**
 - [IYPS](https://github.com/the-weird-aquarian/IYPS) **`MD` `FOSS`**
+- [Container](https://wwqp.lanzoue.com/i4Tc610sysre?p) **`MD`**
 ## 📱Applist
 **Now you could click the title to return to the applist menu!**
 ### 🦖[Google Apps](#applist-menu)
@@ -1268,6 +1268,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
    	- [Plain](https://github.com/ismartcoding/plain-app) **`Full` `FOSS`**
    	- [Tool Master](https://dmla.lanzouo.com/b05pbb76b) **`MD`**
    	- [Twilight](https://1drv.ms/u/s!Atk49Scq_BtYhSI9zraqM2p6NfMG?e=mGHiiV) **`Full`**
+   	- [Container](https://wwqp.lanzoue.com/i4Tc610sysre?p) **`MD`**
 - **Proxy**
    	- [Surfboard](https://play.google.com/store/apps/details?id=com.getsurfboard) **`Full` `Multi`**
    	- [Clash for Android](https://t.me/+kqvN73Ap1ixhY2Q1) **`MD` `Multi` `FOSS`**
