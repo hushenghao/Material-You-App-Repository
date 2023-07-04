@@ -21,12 +21,13 @@
   </a>
 </p>
 
+<p align="center"><b>创作不易<br>希望大家多多点点 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" alt="Glowing Star" width="20" height="20"/><br>关注我的 Telegram 频道<br>同时宣传我的项目<br>让更多人知道并发现它<br>do，御坂恳求的说道！</b></p>
+
 ## ⛩️序言
 ### ❓️什么是 Material Design 3？Material You 又是什么？
 *以下内容部分来源于谷歌官方文档*
 
-Material Design 3，又称质感设计3，是 Google 于2021年在 Google I/O 开发者大会上推出的最新开源 Android APP UI 设计规范。与前代 Material Design 2 对直角、阴影的强调不同， Material Design 3 更加扁平化，它带来了更多的圆角设计、丰富并富有个性的形状各异的控件、对不同尺寸屏幕的 Android 设备更加友好的适配，更重要的是，它带来了全新的取色机制 —— 
- Monet 取色 (Dynamic Color)，该机制可根据用户设备的壁纸颜色决定 APP 的强调色与主色调，让你的 Android 系统更富有个性。
+Material Design 3，又称质感设计3，是 Google 于2021年在 Google I/O 开发者大会上推出的最新开源 Android APP UI 设计规范。与前代 Material Design 2 对直角、阴影的强调不同， Material Design 3 更加扁平化，它带来了更多的圆角设计、丰富并富有个性的形状各异的控件、对不同尺寸屏幕的 Android 设备更加友好的适配，更重要的是，它带来了全新的取色机制 ——  Monet 取色 (Dynamic Color)，该机制可根据用户设备的壁纸颜色决定 APP 的强调色与主色调，让你的 Android 系统更富有个性。
 
 Material Design 3 伴随着 Android 12 而来。它的诞生，彻底改变了人们对 Android 原生系统 “毛坯房” 的印象，在某些平台（如酷安）刮起了一股 “原生热” ，也成为了未来几年 Android APP 设计的美学规范之一。
 
