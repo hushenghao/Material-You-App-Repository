@@ -21,6 +21,8 @@
   </a>
 </p>
 
+<p align="center"><b>Welcome to  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" alt="Glowing Star" width="20" height="20"/>  the repo to support my work if you like it!</b></p>
+
 ## ⛩️Introduction
 ### ❓️What is Material You?
 According to [m3.material.io](https://m3.material.io), Material You is the new Material visual style and set of features embracing the personal and expressive needs of individual users. It's one part of Material Design 3, which is the third generation of material launched in 2021, an open-sourse user interface design system created by Google. 
