@@ -76,7 +76,7 @@ However in fact, sometimes Material You refers to the application which (may onl
 	- **Discord Clients**
 	- **Instagram Clients**
 	- **Twitter Clients**
-	- **Mastodon Clients**
+	- **Mastodon and its Clients**
 	- **Lemmy Clients**
 	- **Other DAO Social Applications**
 	- **BBS**
@@ -139,6 +139,7 @@ However in fact, sometimes Material You refers to the application which (may onl
 	- **Planting**
 	- **Babysitting**
 	- **Competitions**
+	- **Smart Home**
 	- **Others**
 - **[🖌️ Theming](#%EF%B8%8Ftheming)**
 	- **Launcher** 
@@ -248,21 +249,22 @@ However in fact, sometimes Material You refers to the application which (may onl
 - [InstallerX](https://github.com/iamr0s/InstallerX) **`Full` `Multi`**
 - [Hail](https://github.com/aistra0528/Hail) **`Full` `Multi`**
 ## 🆕Newly Added Apps
-- [Tinnitus Massage](https://play.google.com/store/apps/details?id=nl.appyhapps.tinnitusmassage) **`MD` `💴`**
-- [Yearly Progress](https://play.google.com/store/apps/details?id=com.a3.yearlyprogess) **`Full`**
-- [Buzzkill](https://play.google.com/store/apps/details?id=com.samruston.buzzkill) **`MD-` `💴`**
-- [Opera Beta](https://play.google.com/store/apps/details?id=com.opera.browser.beta) **`MD` `Multi`**
-- [Energy Ring: Universal Edition](https://play.google.com/store/apps/details?id=you.in.spark.energy.ring.gen) **`MD-` `Monet` `💴`**
-- [Shrad AI](https://play.google.com/store/apps/details?id=com.shifastudios.shradai) **`MD`**
-- [Kalam](https://play.google.com/store/apps/details?id=com.shifastudios.kalam) **`MD`**
-- [CodeAssist](https://github.com/Deenu143/CodeAssist-ALPHA-0.2.9) **`MD-` `Multi` `FOSS`**
-- [Physics Calculator](https://play.google.com/store/apps/details?id=com.a3.apurv.phyCalc) **`Full`**
+**Here I will show the last 15 apps that were recently added to list.**
 - [Taskito](https://play.google.com/store/apps/details?id=com.fenchtose.reflog) **`Full` `Multi` `💴`**
 - [Twilight](https://1drv.ms/u/s!Atk49Scq_BtYhSI9zraqM2p6NfMG?e=mGHiiV) **`Full`**
 - [Another Manager](https://1drv.ms/u/s!Atk49Scq_BtYhSQpedIgg4La48tC?e=lwQaf3) **`Full`**
 - [Pixel IMS](https://1drv.ms/u/s!Atk49Scq_BtYhSM8SLgvT2xRvOza?e=qkm7qI) **`Full`**
 - [IYPS](https://github.com/the-weird-aquarian/IYPS) **`MD` `FOSS`**
 - [Container](https://wwqp.lanzoue.com/i4Tc610sysre?p) **`MD`**
+- [Connect for Lemmy](https://play.google.com/store/apps/details?id=com.kuroneko.lemmy_connect) **`Full`**
+- [Lemming](https://github.com/janniskilian/Lemming) **`Full` `FOSS`**
+- [RoByte](https://play.google.com/store/apps/details?id=com.tinybyteapps.robyte) **`MD-` `💴`**
+- [Tivi](https://play.google.com/store/apps/details?id=app.tivi) **`Full`**
+- [Octogram](https://github.com/OctoGramApp/OctoGram) **`Monet` `FOSS`**
+- [Cherrygram](https://github.com/arsLan4k1390/Cherrygram) **`Monet` `FOSS`**
+- [Nothing Launcher](https://play.google.com/store/apps/details?id=com.nothing.launcher) **`Full`**
+- [Mastodon](https://github.com/mastodon/mastodon-android) **`Full` `FOSS`**
+- [Joey for Reddit](https://play.google.com/store/apps/details?id=o.o.joey) **`MD-` `Monet`**
 ## 📱Applist
 **Now you could click the title to return to the applist menu!**
 ### 🦖[Google Apps](#applist-menu)
@@ -373,6 +375,8 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
 	- [Lilgram](https://github.com/lilchill666/LilGram) **`Full` `Multi` `FOSS`**
 	- [Nekogram](https://nekogram.app/) **`Monet` `FOSS`**
 	- [Nagram](https://github.com/NextAlone/Nagram) **`Monet` `FOSS`**
+	- [Octogram](https://github.com/OctoGramApp/OctoGram) **`Monet` `FOSS`**
+	- [Cherrygram](https://github.com/arsLan4k1390/Cherrygram) **`Monet` `FOSS`**
 - **Encrypted Chatting**
 	- [FluffyChat](https://gitlab.com/famedly/fluffychat) **`Full` `Multi` `FOSS`**
 	- [Signal](https://github.com/signalapp/Signal-Android) / [Signal You](https://github.com/nekorubu/Signal-You) **`MD` `FOSS`**
@@ -385,6 +389,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
 	- [Focus for Reddit](https://play.google.com/store/apps/details?id=allen.town.focus.reddit) **`Full` `Multi` `💴`**
 	- [Pinapple](https://github.com/galaxygoldfish/pineapple) **`TODO` `FOSS`**
 	- [FairBird for Reddit](https://play.google.com/store/apps/details?id=com.niven.reddit) **`Full`**
+	- [Joey for Reddit](https://play.google.com/store/apps/details?id=o.o.joey) **`MD-` `Monet`**
 - **Discord Clients**
 	- [OpenCord](https://github.com/MateriiApps/OpenCord) **`Full` `FOSS`**
 - **Instagram Clients**
@@ -395,13 +400,16 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
 	- [Albatross for Twitter](https://play.google.com/store/apps/details?id=com.nick.mowen.albatross) **`Monet` `👻`**
 	- [FocusTwitter](https://play.google.com/store/apps/details?id=allen.town.focus.twitter) **`Full` `💴`**
 	- [Quacker](https://apt.izzysoft.de/fdroid/index/apk/com.thehcj.quacker) **`MD-`**
-- **Mastodon Clients**
+- **Mastodon and its Clients**
+	- [Mastodon](https://github.com/mastodon/mastodon-android) **`Full` `FOSS`**
 	- [Moshidon](https://github.com/LucasGGamerM/moshidon) **`Full` `FOSS`**
 	- [Megalodon for Mastodon](https://github.com/sk22/megalodon) **`Full` `FOSS`**
 	- [Focus for Mastodon](https://play.google.com/store/apps/details?id=allen.town.focus.mastodon) **`Full` `💴`**
 - **Lemmy Clients**
 	- [Jerboa for Lemmy](https://github.com/dessalines/jerboa) **`Full` `FOSS`**
 	- [Thunder](https://github.com/hjiangsu/thunder) **`MD` `FOSS`**
+	- [Connect for Lemmy](https://play.google.com/store/apps/details?id=com.kuroneko.lemmy_connect) **`Full`**
+	- [Lemming](https://github.com/janniskilian/Lemming) **`Full` `FOSS`**
 - **Other DAO Social Applications**
 	- [Nostros](https://github.com/KoalaSat/nostros) **`MD-` `FOSS`**
 	- [Kaiteki](https://github.com/Kaiteki-Fedi/Kaiteki) **`Full` `Multi` `FOSS`**
@@ -811,6 +819,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
 	- [BookMan](https://play.google.com/store/apps/details?id=com.anafthdev.bookman) **`Full`**
 	- [AniHyou](https://github.com/axiel7/AniHyou-android) **`Full` `FOSS`**
 	- [Nekome](https://github.com/Chesire/Nekome) **`Full` `FOSS`**
+	- [Tivi](https://play.google.com/store/apps/details?id=app.tivi) **`Full`**
 - **Stocks**
    	- [Stocks Widget](https://github.com/premnirmal/StockTicker) **`MD-` `Monet` `FOSS`**
 - **Traffic**
@@ -825,10 +834,12 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
 - **Competition**
    	- [OpenBl](https://github.com/Ounzy/OpenBl) **`Full` `FOSS`**
    	- [FRCFrenzy](https://github.com/galaxygoldfish/FRCFrenzy) **`TODO` `FOSS`**
-- **Others**
-   	- [openHAB](https://github.com/openhab/openhab-android) / [LogViewer for openHAB-App](https://github.com/cyb3rko/logviewer-for-openhab-app) **`Full` `FOSS`**
-   	- [Lis10](https://play.google.com/store/apps/details?id=com.urbandroid.lis10) **`Full`**
+- **Smart Home**
    	- [Universal Remote for Smart TVs](https://play.google.com/store/apps/details?id=com.quanticapps.universalremote) **`Full` `Multi`**
+   	- [openHAB](https://github.com/openhab/openhab-android) / [LogViewer for openHAB-App](https://github.com/cyb3rko/logviewer-for-openhab-app) **`Full` `FOSS`**
+   	- [RoByte](https://play.google.com/store/apps/details?id=com.tinybyteapps.robyte) **`MD-` `💴`**
+- **Others**
+   	- [Lis10](https://play.google.com/store/apps/details?id=com.urbandroid.lis10) **`Full`**
    	- [SpaceHub](https://github.com/LPirro/SpaceHub) **`TODO` `FOSS`**
 	- [MemorizeApp](https://github.com/SuhasDissa/MemerizeApp) **`Full` `FOSS`**
 	- [Ridna](https://github.com/nexy791/Ridna) **`Full` `FOSS`**
@@ -843,7 +854,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
    	- [Kvaesitso](https://github.com/MM2-0/Kvaesitso) **`Full` `Multi` `FOSS`**    
    	- [Action Launcher](https://play.google.com/store/apps/details?id=com.actionlauncher.playstore) **`Full` `Multi` `💴`**    
    	- [AIO Launcher](https://play.google.com/store/apps/details?id=ru.execbit.aiolauncher) **`Full` `Multi` `💴`**    
-   	- [Nothing launcher](https://www.apkmirror.com/apk/nothing-technology-limited/nothing-launcher-beta/nothing-launcher-beta-1-0-2-release/) **`Full`**
+   	- [Nothing Launcher](https://play.google.com/store/apps/details?id=com.nothing.launcher) **`Full`**
    	- [Stario Launcher](https://play.google.com/store/apps/details?id=com.stario.launcher) **`Full` `Multi` `💴`**
    	- [Nova Launcher](https://novalauncher.com/beta) **`MD-` `Monet` `Multi`**
    	- [Simple App Launcher](https://github.com/SimpleMobileTools/Simple-App-Launcher) **`MD-` `Monet` `Multi` `FOSS`**
