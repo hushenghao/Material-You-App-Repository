@@ -123,7 +123,7 @@ Material Design 3 伴随着 Android 12 而来。它的诞生，彻底改变了�
 	- **Discord 第三方**
 	- **Instagram 第三方**
 	- **Twitter 第三方**
-	- **Mastodon 第三方**
+	- **Mastodon 及其第三方**
 	- **Lemmy 第三方**
 	- **其他去中心化社交平台**
 	- **论坛**
@@ -187,6 +187,7 @@ Material Design 3 伴随着 Android 12 而来。它的诞生，彻底改变了�
 	- **种花种草**
 	- **比赛**
 	- **育儿**
+	- **智能家居**
 	- **其他**
 - **[🖌️ 主题美化](#%EF%B8%8F%E4%B8%BB%E9%A2%98%E7%BE%8E%E5%8C%96)**
 	- **启动器**
@@ -298,21 +299,21 @@ Material Design 3 伴随着 Android 12 而来。它的诞生，彻底改变了�
 - [雹](https://github.com/aistra0528/Hail) **`Full` `Multi`**
 ## 🆕最近上新
 少女祈祷中…
-- [Tinnitus Massage](https://play.google.com/store/apps/details?id=nl.appyhapps.tinnitusmassage) **`MD` `💴`**
-- [Yearly Progress](https://play.google.com/store/apps/details?id=com.a3.yearlyprogess) **`Full`**
-- [Buzzkill](https://play.google.com/store/apps/details?id=com.samruston.buzzkill) **`MD-` `💴`**
-- [Opera Beta](https://play.google.com/store/apps/details?id=com.opera.browser.beta) **`MD` `Multi`**
-- [Energy Ring: Universal Edition](https://play.google.com/store/apps/details?id=you.in.spark.energy.ring.gen) **`MD-` `Monet` `💴`**
-- [Shrad AI](https://play.google.com/store/apps/details?id=com.shifastudios.shradai) **`MD`**
-- [Kalam](https://play.google.com/store/apps/details?id=com.shifastudios.kalam) **`MD`**
-- [CodeAssist](https://github.com/Deenu143/CodeAssist-ALPHA-0.2.9) **`MD-` `Multi` `FOSS`**
-- [Physics Calculator](https://play.google.com/store/apps/details?id=com.a3.apurv.phyCalc) **`Full`**
 - [Taskito](https://play.google.com/store/apps/details?id=com.fenchtose.reflog) **`Full` `Multi` `💴`**
 - [暮光](https://wwja.lanzoub.com/iLTin0x3rjzi) **`Full`**
 - [Pixel IMS](https://xuna.lanzoub.com/ivT7L114h2ef) **`Full`**
 - [Another Manager](https://1drv.ms/u/s!Atk49Scq_BtYhSQpedIgg4La48tC?e=lwQaf3) **`Full`**
 - [IYPS](https://github.com/the-weird-aquarian/IYPS) **`MD` `FOSS`**
 - [集装箱](https://wwqp.lanzoue.com/i4Tc610sysre?p) **`MD`**
+- [Connect for Lemmy](https://play.google.com/store/apps/details?id=com.kuroneko.lemmy_connect) **`Full`**
+- [Lemming](https://github.com/janniskilian/Lemming) **`Full` `FOSS`**
+- [RoByte](https://play.google.com/store/apps/details?id=com.tinybyteapps.robyte) **`MD-` `💴`**
+- [Tivi](https://play.google.com/store/apps/details?id=app.tivi) **`Full`**
+- [Octogram](https://github.com/OctoGramApp/OctoGram) **`Monet` `FOSS`**
+- [Cherrygram](https://github.com/arsLan4k1390/Cherrygram) **`Monet` `FOSS`**
+- [Nothing Launcher](https://play.google.com/store/apps/details?id=com.nothing.launcher) **`Full`**
+- [Mastodon](https://github.com/mastodon/mastodon-android) **`Full` `FOSS`**
+- [Joey for Reddit](https://play.google.com/store/apps/details?id=o.o.joey) **`MD-` `Monet`**
 ## 📱应用列表
 **点击标题即可回到目录XD**
 ### 🦖[谷歌应用](#目录)
@@ -422,6 +423,8 @@ Material Design 3 伴随着 Android 12 而来。它的诞生，彻底改变了�
 	- [Lilgram](https://github.com/lilchill666/LilGram) **`Full` `Multi` `FOSS`**
 	- [Nagram](https://github.com/NextAlone/Nagram) **`Monet` `FOSS`**
 	- [Nekogram](https://nekogram.app/) **`Monet` `FOSS`**
+	- [Octogram](https://github.com/OctoGramApp/OctoGram) **`Monet` `FOSS`**
+	- [Cherrygram](https://github.com/arsLan4k1390/Cherrygram) **`Monet` `FOSS`**
 - **加密聊天软件**
 	- [Signal](https://github.com/signalapp/Signal-Android) / [Signal You](https://github.com/nekorubu/Signal-You) **`MD` `FOSS`**
 	- [Molly](https://github.com/mollyim/mollyim-android) **`MD` `FOSS`**
@@ -434,6 +437,7 @@ Material Design 3 伴随着 Android 12 而来。它的诞生，彻底改变了�
 	- [Focus for Reddit](https://play.google.com/store/apps/details?id=allen.town.focus.reddit) **`Full` `Multi` `💴`**
 	- [Pinapple](https://github.com/galaxygoldfish/pineapple) **`TODO` `FOSS`**
 	- [FairBird for Reddit](https://play.google.com/store/apps/details?id=com.niven.reddit) **`Full`**
+	- [Joey for Reddit](https://play.google.com/store/apps/details?id=o.o.joey) **`MD-` `Monet`**
 - **Discord 第三方**
 	- [OpenCord](https://github.com/MateriiApps/OpenCord) **`Full` `FOSS`**
 - **Instagram 第三方**
@@ -444,13 +448,16 @@ Material Design 3 伴随着 Android 12 而来。它的诞生，彻底改变了�
 	- [Albatross for Twitter](https://play.google.com/store/apps/details?id=com.nick.mowen.albatross) **`Monet` `👻`**
 	- [FocusTwitter](https://play.google.com/store/apps/details?id=allen.town.focus.twitter) **`Full` `💴`**
 	- [Quacker](https://apt.izzysoft.de/fdroid/index/apk/com.thehcj.quacker) **`MD-`**
-- **Mastodon 第三方**
+- **Mastodon 及其第三方**
+	- [Mastodon](https://github.com/mastodon/mastodon-android) **`Full` `FOSS`**
 	- [Moshidon](https://github.com/LucasGGamerM/moshidon) **`Full` `FOSS`**
 	- [Megalodon for Mastodon](https://github.com/sk22/megalodon) **`Full` `FOSS`**
 	- [Focus for Mastodon](https://play.google.com/store/apps/details?id=allen.town.focus.mastodon) **`Full` `💴`**
 - **Lemmy 第三方**
 	- [Jerboa for Lemmy](https://github.com/dessalines/jerboa) **`Full` `FOSS`**
 	- [Thunder](https://github.com/hjiangsu/thunder) **`MD` `FOSS`**
+	- [Connect for Lemmy](https://play.google.com/store/apps/details?id=com.kuroneko.lemmy_connect) **`Full`**
+	- [Lemming](https://github.com/janniskilian/Lemming) **`Full` `FOSS`**
 - **其他去中心化社交平台**
 	- [Nostros](https://github.com/KoalaSat/nostros) **`MD-` `FOSS`**
 	- [Kaiteki](https://github.com/Kaiteki-Fedi/Kaiteki) **`Full` `Multi` `FOSS`**
@@ -860,6 +867,7 @@ Material Design 3 伴随着 Android 12 而来。它的诞生，彻底改变了�
 	- [BookMan](https://play.google.com/store/apps/details?id=com.anafthdev.bookman) **`Full`**
 	- [AniHyou](https://github.com/axiel7/AniHyou-android) **`Full` `FOSS`**
 	- [Nekome](https://github.com/Chesire/Nekome) **`Full` `FOSS`**
+	- [Tivi](https://play.google.com/store/apps/details?id=app.tivi) **`Full`**
 - **股票**
    	- [Stocks Widget](https://github.com/premnirmal/StockTicker) **`MD-` `Monet` `FOSS`**
 - **交通**
@@ -876,8 +884,10 @@ Material Design 3 伴随着 Android 12 而来。它的诞生，彻底改变了�
    	- [Aristo Kids Mental Accelerator](https://play.google.com/store/apps/details?id=com.aristo.aristokids) **`MD`**
 - **其他**
 	- [openHAB](https://github.com/openhab/openhab-android) / [LogViewer for openHAB-App](https://github.com/cyb3rko/logviewer-for-openhab-app) **`Full` `FOSS`**
-	- [Lis10](https://play.google.com/store/apps/details?id=com.urbandroid.lis10) **`Full`**
 	- [Universal Remote for Smart TVs](https://play.google.com/store/apps/details?id=com.quanticapps.universalremote) **`Full` `Multi`**
+	- [RoByte](https://play.google.com/store/apps/details?id=com.tinybyteapps.robyte) **`MD-` `💴`**
+- **其他**
+	- [Lis10](https://play.google.com/store/apps/details?id=com.urbandroid.lis10) **`Full`**
 	- [SpaceHub](https://github.com/LPirro/SpaceHub) **`TODO` `FOSS`**
 	- [MemorizeApp](https://github.com/SuhasDissa/MemerizeApp) **`Full` `FOSS`**
 	- [Ridna](https://github.com/nexy791/Ridna) **`Full` `FOSS`**
@@ -892,7 +902,7 @@ Material Design 3 伴随着 Android 12 而来。它的诞生，彻底改变了�
    	- [Kvaesitso](https://github.com/MM2-0/Kvaesitso) **`Full` `Multi` `FOSS`**    
    	- [Action Launcher](https://play.google.com/store/apps/details?id=com.actionlauncher.playstore) **`Full` `Multi` `💴`**    
    	- [AIO Launcher](https://play.google.com/store/apps/details?id=ru.execbit.aiolauncher) **`Full` `Multi` `💴`**    
-   	- [Nothing launcher](https://www.apkmirror.com/apk/nothing-technology-limited/nothing-launcher-beta/nothing-launcher-beta-1-0-2-release/) **`Full`**
+   	- [Nothing Launcher](https://play.google.com/store/apps/details?id=com.nothing.launcher) **`Full`**
    	- [Stario Launcher](https://play.google.com/store/apps/details?id=com.stario.launcher) **`Full` `Multi` `💴`**
    	- [Nova Launcher](https://novalauncher.com/beta) **`MD-` `Monet` `Multi`**
    	- [Simple App Launcher](https://github.com/SimpleMobileTools/Simple-App-Launcher) **`MD-` `Monet` `Multi` `FOSS`**
