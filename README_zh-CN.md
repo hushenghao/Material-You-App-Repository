@@ -297,7 +297,6 @@ Material Design 3 伴随着 Android 12 而来。它的诞生，彻底改变了�
 - [雹](https://github.com/aistra0528/Hail) **`Full` `Multi`**
 ## 🆕最近上新
 少女祈祷中…
-- [DPITunnel](https://github.com/nomoresat/DPITunnel-android) **`Monet` `FOSS`**
 - [Tinnitus Massage](https://play.google.com/store/apps/details?id=nl.appyhapps.tinnitusmassage) **`MD` `💴`**
 - [Yearly Progress](https://play.google.com/store/apps/details?id=com.a3.yearlyprogess) **`Full`**
 - [Buzzkill](https://play.google.com/store/apps/details?id=com.samruston.buzzkill) **`MD-` `💴`**
@@ -312,6 +311,7 @@ Material Design 3 伴随着 Android 12 而来。它的诞生，彻底改变了�
 - [Pixel IMS](https://xuna.lanzoub.com/ivT7L114h2ef) **`Full`**
 - [Another Manager](https://1drv.ms/u/s!Atk49Scq_BtYhSQpedIgg4La48tC?e=lwQaf3) **`Full`**
 - [IYPS](https://github.com/the-weird-aquarian/IYPS) **`MD` `FOSS`**
+- [集装箱](https://wwqp.lanzoue.com/i4Tc610sysre?p) **`MD`**
 ## 📱应用列表
 **点击标题即可回到目录XD**
 ### 🦖[谷歌应用](#目录)
@@ -1318,6 +1318,7 @@ Material Design 3 伴随着 Android 12 而来。它的诞生，彻底改变了�
    	- [简朴](https://github.com/ismartcoding/plain-app) **`Full` `FOSS`** 
    	- [工具大师](https://dmla.lanzouo.com/b05pbb76b) **`MD`**
    	- [暮光](https://wwz.lanzoul.com/iBden10w6pid) **`Full`**
+   	- [集装箱](https://wwqp.lanzoue.com/i4Tc610sysre?p) **`MD`**
 - **代理工具**
    	- [Surfboard](https://play.google.com/store/apps/details?id=com.getsurfboard) **`Full` `Multi`**
    	- [Clash for Android](https://t.me/+kqvN73Ap1ixhY2Q1) **`MD` `Multi` `FOSS`**
