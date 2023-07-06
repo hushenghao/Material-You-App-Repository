@@ -299,14 +299,6 @@ Material Design 3 伴随着 Android 12 而来。它的诞生，彻底改变了�
 - [雹](https://github.com/aistra0528/Hail) **`Full` `Multi`**
 ## 🆕最近上新
 少女祈祷中…
-- [Taskito](https://play.google.com/store/apps/details?id=com.fenchtose.reflog) **`Full` `Multi` `💴`**
-- [暮光](https://wwja.lanzoub.com/iLTin0x3rjzi) **`Full`**
-- [Pixel IMS](https://xuna.lanzoub.com/ivT7L114h2ef) **`Full`**
-- [Another Manager](https://1drv.ms/u/s!Atk49Scq_BtYhSQpedIgg4La48tC?e=lwQaf3) **`Full`**
-- [IYPS](https://github.com/the-weird-aquarian/IYPS) **`MD` `FOSS`**
-- [集装箱](https://wwqp.lanzoue.com/i4Tc610sysre?p) **`MD`**
-- [Connect for Lemmy](https://play.google.com/store/apps/details?id=com.kuroneko.lemmy_connect) **`Full`**
-- [Lemming](https://github.com/janniskilian/Lemming) **`Full` `FOSS`**
 - [RoByte](https://play.google.com/store/apps/details?id=com.tinybyteapps.robyte) **`MD-` `💴`**
 - [Tivi](https://play.google.com/store/apps/details?id=app.tivi) **`Full`**
 - [Octogram](https://github.com/OctoGramApp/OctoGram) **`Monet` `FOSS`**
@@ -314,6 +306,14 @@ Material Design 3 伴随着 Android 12 而来。它的诞生，彻底改变了�
 - [Nothing Launcher](https://play.google.com/store/apps/details?id=com.nothing.launcher) **`Full`**
 - [Mastodon](https://github.com/mastodon/mastodon-android) **`Full` `FOSS`**
 - [Joey for Reddit](https://play.google.com/store/apps/details?id=o.o.joey) **`MD-` `Monet`**
+- [JHentai](https://github.com/jiangtian616/JHenTai) **`MD` `FOSS`**
+- [PDFViewer](https://github.com/GrapheneOS/PdfViewer/) **`MD-` `Monet` `FOSS`**
+- [Hackerfeed](https://github.com/shreydan/hackerfeed) **`MD` `FOSS`**
+- [Discover Killer](https://github.com/KieronQuinn/DiscoverKiller) **`Full` `FOSS`**
+- [Material GPT](https://github.com/DylanAkp/MaterialGPT) **`MD` `FOSS`**
+- [App Watcher](https://1drv.ms/u/s!Atk49Scq_BtYhSXg62mgr93KVGq3?e=fa2RS9) **`MD`**
+- [Trunks](https://play.google.com/store/apps/details?id=com.decad3nce.trunks) **`MD-` `Monet`**
+- [Dimett](https://github.com/MateriiApps/Dimett) **`TODO` `FOSS`**
 ## 📱应用列表
 **点击标题即可回到目录XD**
 ### 🦖[谷歌应用](#目录)
@@ -453,6 +453,8 @@ Material Design 3 伴随着 Android 12 而来。它的诞生，彻底改变了�
 	- [Moshidon](https://github.com/LucasGGamerM/moshidon) **`Full` `FOSS`**
 	- [Megalodon for Mastodon](https://github.com/sk22/megalodon) **`Full` `FOSS`**
 	- [Focus for Mastodon](https://play.google.com/store/apps/details?id=allen.town.focus.mastodon) **`Full` `💴`**
+	- [Dimett](https://github.com/MateriiApps/Dimett) **`TODO` `FOSS`**
+	- [Trunks](https://play.google.com/store/apps/details?id=com.decad3nce.trunks) **`MD-` `Monet`**
 - **Lemmy 第三方**
 	- [Jerboa for Lemmy](https://github.com/dessalines/jerboa) **`Full` `FOSS`**
 	- [Thunder](https://github.com/hjiangsu/thunder) **`MD` `FOSS`**
@@ -473,6 +475,7 @@ Material Design 3 伴随着 Android 12 而来。它的诞生，彻底改变了�
 	- [HACG](https://github.com/shizheng233/HACG) **`Full` `FOSS`**
 	- [xland](https://github.com/re-ovo/xland) **`👻` `FOSS`**
 	- [Taiga Mobile](https://github.com/EugeneTheDev/TaigaMobile) **`Full` `FOSS`**
+	- [Hackerfeed](https://github.com/shreydan/hackerfeed) **`MD` `FOSS`**
 - **邮件**
    	- [Spark邮箱](https://play.google.com/store/apps/details?id=com.readdle.spark) **`Full` `💴`**    
    	- [Informaniak KMail](https://github.com/Infomaniak/android-kMail) **`Full` `FOSS`**    
@@ -612,6 +615,7 @@ Material Design 3 伴随着 Android 12 而来。它的诞生，彻底改变了�
 	- [SoftBoard](https://github.com/SuhasDissa/SoftBoard) **`TODO` `FOSS`**
 - **文档**
 	- [Paperless Mobile](https://github.com/astubenbord/paperless-mobile) **`MD` `FOSS`**
+	- [PDFViewer](https://github.com/GrapheneOS/PdfViewer/) **`MD-` `Monet` `FOSS`**
 - **待办清单**
 	- [Scheduler](https://github.com/dgudim/Scheduler) **`Full` `FOSS`**
 	- [Wishapp](https://play.google.com/store/apps/details?id=ru.vitaliy.belyaev.wishapp) **`Full`**
@@ -731,6 +735,7 @@ Material Design 3 伴随着 Android 12 而来。它的诞生，彻底改变了�
 	- [CopyMangaX](https://github.com/CrowForKotlin/CopyMangaX) **`MD` `FOSS`**
 	- [NoyAcg](https://noy.asia/) **`MD-`**
 	- [Kuro Reader](https://play.google.com/store/apps/details?id=br.com.kurotoshiro.leitor_manga) **`Full` `Multi` `💴`**
+	- [JHentai](https://github.com/jiangtian616/JHenTai) **`MD` `FOSS`**
 - **有声书**
 	- [Kafka](https://play.google.com/store/apps/details?id=com.kafka.user) **`Full` `Multi` `💴`**
 	- [Voice](https://github.com/PaulWoitaschek/Voice) **`Full` `Multi` `FOSS`**
@@ -1008,6 +1013,7 @@ Material Design 3 伴随着 Android 12 而来。它的诞生，彻底改变了�
    	- [Iconify](https://github.com/Mahmud0808/Iconify) **`Full` `Multi`** 
    	- [网速指示器](https://www.coolapk.com/apk/com.dede.nativetools) **`MD-` `Monet` `Multi` `FOSS`**
    	- [Project Themer](https://play.google.com/store/apps/details?id=com.drsants.eggproject) **`MD` `💴`**
+   	- [Discover Killer](https://github.com/KieronQuinn/DiscoverKiller) **`Full` `FOSS`**
 - **GBoard 主题定制**
    	- [Rboard Theme Manager](https://github.com/DerTyp7214/RboardThemeManagerV3) **`Full` `FOSS`**    
    	- [Rboard Patcher](https://github.com/DerTyp7214/RboardPatcher) **`Full` `FOSS`**    
@@ -1061,6 +1067,7 @@ Material Design 3 伴随着 Android 12 而来。它的诞生，彻底改变了�
    	- [AppDash](https://play.google.com/store/apps/details?id=flar2.appdashboard) **`Full` `💴`**
    	- [Ml Manager](https://play.google.com/store/apps/details?id=com.javiersantos.mlmanager) **`MD-`**
    	- [Apk Extractor](https://play.google.com/store/apps/details?id=com.ytheekshana.apkextractor) **`Full`**
+   	- [App Watcher](https://1drv.ms/u/s!Atk49Scq_BtYhSXg62mgr93KVGq3?e=fa2RS9) **`MD`**
 - **应用冻结**
    	- [雹](https://github.com/aistra0528/Hail) **`Full` `Multi` `FOSS`**
    	- [FreezeYou](https://github.com/FreezeYou/FreezeYou) **`MD-` `Monet` `FOSS`**
@@ -1308,6 +1315,7 @@ Material Design 3 伴随着 Android 12 而来。它的诞生，彻底改变了�
    	- [ChatGPT](https://github.com/thewolfprod/ChatGPT-Android) **`TODO` `FOSS`**
    	- [Genie Anime](https://play.google.com/store/apps/details?id=com.vyroai.animeart) / [Imagine](https://play.google.com/store/apps/details?id=com.vyroai.aiart) **`MD` `💴`**
    	- [Shrad AI](https://play.google.com/store/apps/details?id=com.shifastudios.shradai) **`MD`**
+   	- [Material GPT](https://github.com/DylanAkp/MaterialGPT) **`MD` `FOSS`**
 - **自动任务**
    	- [TapTap](https://github.com/KieronQuinn/TapTap) **`Full` `FOSS`**    
    	- [自动任务](https://www.coolapk.com/apk/top.xjunz.tasker) **`MD` `💴`**    
