@@ -299,7 +299,6 @@ Material Design 3 伴随着 Android 12 而来。它的诞生，彻底改变了�
 - [雹](https://github.com/aistra0528/Hail) **`Full` `Multi`**
 ## 🆕最近上新
 少女祈祷中…
-- [RoByte](https://play.google.com/store/apps/details?id=com.tinybyteapps.robyte) **`MD-` `💴`**
 - [Tivi](https://play.google.com/store/apps/details?id=app.tivi) **`Full`**
 - [Octogram](https://github.com/OctoGramApp/OctoGram) **`Monet` `FOSS`**
 - [Cherrygram](https://github.com/arsLan4k1390/Cherrygram) **`Monet` `FOSS`**
@@ -314,6 +313,7 @@ Material Design 3 伴随着 Android 12 而来。它的诞生，彻底改变了�
 - [App Watcher](https://1drv.ms/u/s!Atk49Scq_BtYhSXg62mgr93KVGq3?e=fa2RS9) **`MD`**
 - [Trunks](https://play.google.com/store/apps/details?id=com.decad3nce.trunks) **`MD-` `Monet`**
 - [Dimett](https://github.com/MateriiApps/Dimett) **`TODO` `FOSS`**
+- [Symphonica](https://github.com/AkaneTan/Symphonica) **`Full` `FOSS`**
 ## 📱应用列表
 **点击标题即可回到目录XD**
 ### 🦖[谷歌应用](#目录)
@@ -559,6 +559,7 @@ Material Design 3 伴随着 Android 12 而来。它的诞生，彻底改变了�
 	- [Vanilla](https://play.google.com/store/apps/details?id=com.kyant.vanilla) **`MD-` `Monet`**
 	- [Simple MP](https://github.com/lighttigerXIV/SimpleMP-Compose) **`Full` `Multi` `FOSS`**
 	- [Mellow Music](https://github.com/SuhasDissa/MellowMusic) **`Full` `FOSS`**
+	- [Symphonica](https://github.com/AkaneTan/Symphonica) **`Full` `FOSS`**
 - **播客/电台**
 	- [FocusPodcast](https://play.google.com/store/apps/details?id=allen.town.focus.podcast) **`Full` `Multi` `💴`**
 	- [Moon FM](https://play.google.com/store/apps/details?id=fm.moon.app) **`Monet` `Multi` `💴`**
