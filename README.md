@@ -59,7 +59,7 @@ However in fact, sometimes Material You refers to the application which (may onl
 - My good friend ZYClark, who is a Material You lover too and his coding ability is perfect!
 - Friends who make suggestions to me to make this repository more pretty.
 - And **ALL OF YOU WHO LOVE MATERIAL YOU!**
-## ⚠Mention
+## ⚠Mentions
 - **You'll find some links from Coolapk, like the link of application [Light Bookkeeping](https://www.coolapk.com/apk/kylec.me.lightbookkeeping) , which you may not access it unless you're in China or you use VPN.** I'm sorry about it, but Coolapk has fxxking banned for non-Chinese people and some Chinese developers choose to upload their applications ONLY to Coolapk to update apps and receive feeds more conveniently. When you meet some unaccessble links, please use VPN. Sorry again about that qwq
 - **This list is Android-only**, which may be different from nyas1's list, because I believe that Material You design is unsuitable in other systems which have their own styles, like Windows with fluent UI and WinUI 3, and iOS. Maybe I'll change my idea, but not now.
 - This list is a compilation of apps that adopt the Material You design guidelines and does not consider the functionality or utility of the listed apps. There may be other apps that follow MD3 guidelines, AND WELCOME TO REPORT NEW APPS TO ME www.
