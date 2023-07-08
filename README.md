@@ -455,11 +455,11 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
 	- [VueTube](https://github.com/VueTubeApp/VueTube) **`Full` `FOSS`**
 	- [Clipious](https://github.com/lamarios/clipious) **`Full` `FOSS`**
 	- [Vanced MicroG](https://github.com/cuynu/VancedMicroG) **`Monet` `FOSS`**
-	- [Lighttube](https://github.com/kuylar/lighttube-android) **`TODO` `FOSS`**
+	- [Lighttube](https://github.com/kuylar/lighttube-android) **`Full` `FOSS`**
 - **Youtube Music Clients**
 	- [ViMusic](https://github.com/vfsfitvnm/ViMusic) **`MD` `Multi` `FOSS`**
 	- [Vibe Music](https://github.com/sheikhhaziq/vibemusic) **`Full` `FOSS`**
-	- [InnerTune](https://github.com/z-huang/InnerTune) **`MD-` `Monet` `Multi` `FOSS` <sup>`Full in Beta`</sup>**
+	- [InnerTune](https://github.com/z-huang/InnerTune) **`Full` `Multi` `FOSS`**
 	- [Musify](https://github.com/gokadzev/Musify) **`Full` `FOSS`**
 - **Spotify Clients** 
 	- [Jetispot](https://github.com/iTaysonLab/jetispot) and a [fork](https://github.com/BobbyESP/Jetispot) **`Full` `FOSS`**
@@ -1346,7 +1346,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
    	- [Android Studio Tutorials: Kotlin](https://github.com/D4rK7355608/com.d4rk.androidtutorials) **`Full` `FOSS`**    
    	- [Android Studio Tutorials: Java](https://github.com/D4rK7355608/com.d4rk.androidtutorials.java) **`Full` `FOSS`**
 - **Termux**
-   	- [Termux Monet](https://t.me/AndroidRepo/3793) **`Monet` `MOD`** 
+   	- [Termux Monet](https://github.com/HardcodedCat/termux-monet) **`Monet` `FOSS`** 
    	- [TermPlux](https://github.com/TermPlux/TermPlux-App) **`MD-` `Monet` `FOSS`**
    	- [Termius](https://play.google.com/store/apps/details?id=com.server.auditor.ssh.client) **`MD-` `💴`**  
 - **Lua**
