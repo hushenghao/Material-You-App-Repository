@@ -52,12 +52,10 @@ However in fact, sometimes Material You refers to the application which (may onl
 
 ### 💖Thanks to
 - **SPECIAL THANKS TO** [nyas1/Material-You-app-list](https://github.com/nyas1/Material-You-app-list/), the most popular material app collecting project, which helps me a lot. [Click here](https://github.com/nyas1/Material-You-app-list) to join Telegram Channel.
-- Coolapk User [@培明](https://www.coolapk.com/u/2080396), Telegram users Z_K, Eldon & 魔王今天不开车 who provide many materials for me too.
+- Friends who provide many materials for me and make suggestions to me to make this repository more pretty.
 - F-Droid, which gives me a convenient access to FOSS and Material You apps.
 - Developers who keep using Material You. You have made an indelible contribution to Google's software ecosystem!
 - Telegram Channels: [某不知名杂货铺](https://t.me/youthkinga), [HUC-Projects](https://t.me/anubis_recommended), [WPX Projects](https://t.me/WSTprojects), [Android Reposity](https://t.me/AndroidRepo) and so on.
-- My good friend ZYClark, who is a Material You lover too and his coding ability is perfect!
-- Friends who make suggestions to me to make this repository more pretty.
 - And **ALL OF YOU WHO LOVE MATERIAL YOU!**
 ## ⚠️Mentions
 - **You'll find some links from Coolapk, like the link of application [Light Bookkeeping](https://www.coolapk.com/apk/kylec.me.lightbookkeeping) , which you may not access it unless you're in China or you use VPN.** I'm sorry about it, but Coolapk has fxxking banned for non-Chinese people and some Chinese developers choose to upload their applications ONLY to Coolapk to update apps and receive feeds more conveniently. When you meet some unaccessble links, please use VPN. Sorry again about that qwq
@@ -256,12 +254,6 @@ However in fact, sometimes Material You refers to the application which (may onl
 - [Hail](https://github.com/aistra0528/Hail) **`Full` `Multi`**
 ## 🆕Newly Added Apps
 **Here I will show the last 15 apps that were recently added to list.**
-- [Tivi](https://play.google.com/store/apps/details?id=app.tivi) **`Full`**
-- [Octogram](https://github.com/OctoGramApp/OctoGram) **`Monet` `FOSS`**
-- [Cherrygram](https://github.com/arsLan4k1390/Cherrygram) **`Monet` `FOSS`**
-- [Nothing Launcher](https://play.google.com/store/apps/details?id=com.nothing.launcher) **`Full`**
-- [Mastodon](https://github.com/mastodon/mastodon-android) **`Full` `FOSS`**
-- [Joey for Reddit](https://play.google.com/store/apps/details?id=o.o.joey) **`MD-` `Monet`**
 - [JHentai](https://github.com/jiangtian616/JHenTai) **`MD` `FOSS`**
 - [PDFViewer](https://github.com/GrapheneOS/PdfViewer/) **`MD-` `Monet` `FOSS`**
 - [Hackerfeed](https://github.com/shreydan/hackerfeed) **`MD` `FOSS`**
@@ -271,6 +263,12 @@ However in fact, sometimes Material You refers to the application which (may onl
 - [Trunks](https://play.google.com/store/apps/details?id=com.decad3nce.trunks) **`MD-` `Monet`**
 - [Dimett](https://github.com/MateriiApps/Dimett) **`TODO` `FOSS`**
 - [Symphonica](https://github.com/AkaneTan/Symphonica) **`Full` `FOSS`**
+- [Wivewa Dialer](https://codeberg.org/wivewa/wivewa-dialer-android) **`MD` `FOSS`**
+- [Mint Calculator](https://github.com/boredcodebyk/mintcalc) **`Full` `Multi` `FOSS`**
+- [Harmony Music](https://github.com/anandnet/Harmony-Music) **`MD-` `Monet` `FOSS`**
+- [Habits](https://github.com/willbsp/habits) **`Full` `FOSS`**
+- [Nextcloud Tablets](https://github.com/stefan-niedermann/nextcloud-tables) **`MD`**
+- [Tunedetective](https://github.com/n000tavailable/tunedetective) **`Full` `FOSS`**
 ## 📱Applist
 **Now you could click the title to return to the applist menu!**
 ### 🦖[Google Apps](#applist-menu)
@@ -350,6 +348,7 @@ Below I provide links of some ported apps. The links must be incomplete, and wel
 	- [Widget](https://www.pling.com/p/1884299/) **`Full`**
 	- [Calculator](https://www.pling.com/p/1884299/) **`Full`**
 	- Contacts **`Full`**
+	- Notes **`Full`**
 - **Nothing OS**  
 	- [Weather](https://www.apkmirror.com/apk/nothing-technology-limited/nothing-weather/) **`MD`**
 - **Octavi OS**
@@ -372,6 +371,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
 - **Dialer**
 	- [Koler](https://github.com/Chooloo/koler) **`Full` `FOSS`**
 	- [Simple Dialer](https://github.com/SimpleMobileTools/Simple-Dialer) **`Full` `FOSS`**
+	- [Wivewa Dialer](https://codeberg.org/wivewa/wivewa-dialer-android) **`MD` `FOSS`**
 - **SMS**
 	- [Simple SMS Messenger](https://github.com/SimpleMobileTools/Simple-SMS-Messenger) **`Full` `FOSS`**
 	- [WhatsApp Beta](https://play.google.com/apps/testing/com.whatsapp) **`MD-`**
@@ -461,6 +461,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
 	- [Vibe Music](https://github.com/sheikhhaziq/vibemusic) **`Full` `FOSS`**
 	- [InnerTune](https://github.com/z-huang/InnerTune) **`Full` `Multi` `FOSS`**
 	- [Musify](https://github.com/gokadzev/Musify) **`Full` `FOSS`**
+	- [Harmony Music](https://github.com/anandnet/Harmony-Music) **`MD-` `Monet` `FOSS`**
 - **Spotify Clients** 
 	- [Jetispot](https://github.com/iTaysonLab/jetispot) and a [fork](https://github.com/BobbyESP/Jetispot) **`Full` `FOSS`**
 	- [Spotube](https://github.com/KRTirtho/spotube) **`MD` `FOSS`**
@@ -681,6 +682,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
 	- [Reader](https://github.com/msasikanth/reader) **`MD-` `FOSS`**
 	- [Tension](https://github.com/re-ovo/Tension) **`👻` `FOSS`**
 	- [Global News](https://github.com/v1tzor/GlobalNewsApp) **`MD` `FOSS`**
+   	- [Neo Feed](https://github.com/NeoApplications/Neo-Feed) **`Full` `FOSS`**   
 - **Comics**
 	- [Tachiyomi](https://github.com/tachiyomiorg/tachiyomi) / [TachiyomiJ2K](https://github.com/Jays2Kings/tachiyomiJ2K) / [TachiyomiSY](https://github.com/Hero-Over/TachiyomiSY) / [Syncyomi](https://github.com/SyncYomi/SyncYomi) **`Full` `Multi` `FOSS`**
 	- [Kotatsu](https://github.com/KotatsuApp/Kotatsu) **`Full` `Multi` `FOSS`**
@@ -794,6 +796,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
    	- [Habit Builder](https://github.com/ofalvai/HabitBuilder) **`Full` `FOSS`**
    	- [Table Habit](https://github.com/FriesI23/mhabit) **`Full` `FOSS`**
    	- [Tinnitus Massage](https://play.google.com/store/apps/details?id=nl.appyhapps.tinnitusmassage) **`MD` `💴`**
+   	- [Habits](https://github.com/willbsp/habits) **`Full` `FOSS`**
 - **Study**
    	- [Graded](https://github.com/NightDreamGames/Graded) **`Full` `FOSS`**
    	- [School Planner](https://play.google.com/store/apps/details?id=daldev.android.gradehelper) **`Full` `Multi`**
@@ -1033,7 +1036,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
    	- [Icebox](https://www.coolapk.com/apk/com.catchingnow.icebox) **`Monet` `💴`**
 - **App Store**
    	- [Neo Store](https://github.com/NeoApplications/Neo-Store) **`Full` `FOSS`**
-   	- [Droid-ify](https://github.com/Iamlooker/Droid-ify) **`MD-` `Monet` `FOSS`**
+   	- [Droid-ify](https://github.com/Iamlooker/Droid-ify) **`Full` `FOSS` <sup>`Full in CI builds`</sup>**
    	- [Obtainium](https://github.com/ImranR98/Obtainium) **`Full` `FOSS`**
    	- [Apps by GrapheneOS](https://github.com/GrapheneOS/Apps) **`MD-` `Monet` `FOSS`**
    	- [Accrescent](https://github.com/accrescent/accrescent) **`Full` `FOSS`**
@@ -1098,7 +1101,6 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
 - **Logger/Feedback**   
    	- [logfox](https://github.com/F0x1d/LogFox) **`Full` `FOSS`**    
    	- [logra](https://github.com/wingio/Logra) **`Full` `FOSS`**    
-   	- [Neo Feed](https://github.com/NeoApplications/Neo-Feed) **`Full` `FOSS`**   
 - **Link Manager**   
    	- [URLCheck](https://github.com/TrianguloY/UrlChecker) **`MD-` `Monet` `FOSS`**    
    	- [LinkSheet](https://github.com/1fexd/LinkSheet) **`Full` `FOSS`**    
@@ -1160,6 +1162,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
    	- [FolderSync](https://play.google.com/store/apps/details?id=dk.tacit.android.foldersync.lite) **`Full` `Multi` `💴`**    
    	- [Nextcloud Deck](https://github.com/stefan-niedermann/nextcloud-deck) **`MD` `FOSS`**    
    	- [Nextcloud Talk](https://github.com/nextcloud/talk-android) **`MD` `FOSS`**
+   	- [Nextcloud Tablets](https://github.com/stefan-niedermann/nextcloud-tables) **`MD`**
    	- [Pho](https://github.com/fregie/pho) **`MD` `FOSS`**
    	- [qBittorrent Manager](https://github.com/Yash-Garg/qBittorrent-Manager) **`MD` `FOSS`**
 - **Keyboard**    
@@ -1185,6 +1188,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
    	- [Math Calculator](https://github.com/v1tzor/MathCalculator) **`Full` `FOSS`**
    	- [Multi Caculator](https://play.google.com/store/apps/details?id=com.yangdai.calc) **`Full` `Multi` `FOSS` `FOSS`**
    	- [Physics Calculator](https://play.google.com/store/apps/details?id=com.a3.apurv.phyCalc) **`Full`**
+   	- [Mint Calculator](https://github.com/boredcodebyk/mintcalc) **`Full` `Multi` `FOSS`**
 - **Translator**    
    	- [Translate You](https://github.com/Bnyro/TranslateYou) **`Full` `FOSS`**    
    	- [FunnyTranslation](https://github.com/FunnySaltyFish/FunnyTranslation) **`Full` `Multi` `💴`**    
