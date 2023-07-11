@@ -297,21 +297,21 @@ Material Design 3 伴随着 Android 12 而来。它的诞生，彻底改变了�
 - [雹](https://github.com/aistra0528/Hail) **`Full` `Multi`**
 ## 🆕最近上新
 少女祈祷中…
-- [JHentai](https://github.com/jiangtian616/JHenTai) **`MD` `FOSS`**
-- [PDFViewer](https://github.com/GrapheneOS/PdfViewer/) **`MD-` `Monet` `FOSS`**
-- [Hackerfeed](https://github.com/shreydan/hackerfeed) **`MD` `FOSS`**
-- [Discover Killer](https://github.com/KieronQuinn/DiscoverKiller) **`Full` `FOSS`**
-- [Material GPT](https://github.com/DylanAkp/MaterialGPT) **`MD` `FOSS`**
-- [App Watcher](https://1drv.ms/u/s!Atk49Scq_BtYhSXg62mgr93KVGq3?e=fa2RS9) **`MD`**
-- [Trunks](https://play.google.com/store/apps/details?id=com.decad3nce.trunks) **`MD-` `Monet`**
-- [Dimett](https://github.com/MateriiApps/Dimett) **`TODO` `FOSS`**
-- [Symphonica](https://github.com/AkaneTan/Symphonica) **`Full` `FOSS`**
 - [Wivewa Dialer](https://codeberg.org/wivewa/wivewa-dialer-android) **`MD` `FOSS`**
 - [Mint Calculator](https://github.com/boredcodebyk/mintcalc) **`Full` `Multi` `FOSS`**
 - [Harmony Music](https://github.com/anandnet/Harmony-Music) **`MD-` `Monet` `FOSS`**
 - [Habits](https://github.com/willbsp/habits) **`Full` `FOSS`**
 - [Nextcloud Tablets](https://github.com/stefan-niedermann/nextcloud-tables) **`MD`**
 - [Tunedetective](https://github.com/n000tavailable/tunedetective) **`Full` `FOSS`**
+- [Dirol Reader](https://github.com/therxmv/Dirol-Reader) **`MD` `FOSS`**
+- [Mint Task](https://github.com/boredcodebyk/minttask) **`Full` `FOSS`**
+- [Podcast Republic](https://play.google.com/store/apps/details?id=com.itunestoppodcastplayer.app) **`MD-` `Monet` `Multi` `💴`**
+- [Radiotime](https://play.google.com/store/apps/details?id=com.radiotime.app) **`Full`**
+- [Text Converter](https://play.google.com/store/apps/details?id=com.codeclickers.textconverter) **`Full`**
+- [TeleMone](https://github.com/Number869/TeleMone) **`Full`**
+- [SongSync](https://github.com/Lambada10/SongSync) **`Full` `FOSS`**
+- [AndroLuaX](https://github.com/AideLua/AndroLuaX) **`Full`**
+- [Howl](https://github.com/Iamlooker/Howl) **`MD` `FOSS` `👻`**
 ## 📱应用列表
 **点击标题即可回到目录XD**
 ### 🦖[谷歌应用](#目录)
@@ -559,7 +559,8 @@ Material Design 3 伴随着 Android 12 而来。它的诞生，彻底改变了�
 	- [Vanilla](https://play.google.com/store/apps/details?id=com.kyant.vanilla) **`MD-` `Monet`**
 	- [Simple MP](https://github.com/lighttigerXIV/SimpleMP-Compose) **`Full` `Multi` `FOSS`**
 	- [Mellow Music](https://github.com/SuhasDissa/MellowMusic) **`Full` `FOSS`**
-	- [Symphonica](https://github.com/AkaneTan/Symphonica) **`Full` `FOSS`**
+	- [和弦](https://github.com/AkaneTan/Symphonica) **`Full` `FOSS`**
+	- [Howl](https://github.com/Iamlooker/Howl) **`MD` `FOSS` `👻`**
 - **播客/电台**
 	- [FocusPodcast](https://play.google.com/store/apps/details?id=allen.town.focus.podcast) **`Full` `Multi` `💴`**
 	- [Moon FM](https://play.google.com/store/apps/details?id=fm.moon.app) **`Monet` `Multi` `💴`**
@@ -567,6 +568,8 @@ Material Design 3 伴随着 Android 12 而来。它的诞生，彻底改变了�
 	- [URL Radio](https://github.com/jamal2362/URL-Radio) **`Full` `FOSS`**
 	- [Escapepod](https://codeberg.org/y20k/escapepod) **`Full` `FOSS`**
 	- [Turtlecast](https://play.google.com/store/apps/details?id=com.bluckapps.turtlecast) **`MD-`**
+	- [Podcast Republic](https://play.google.com/store/apps/details?id=com.itunestoppodcastplayer.app) **`MD-` `Monet` `Multi` `💴`**
+	- [Radiotime](https://play.google.com/store/apps/details?id=com.radiotime.app) **`Full`**
 - **直播**
 	- [Hotlive](https://github.com/Jackiu1997/hot_live) **`Full` `FOSS`**
 	- [Purelive](https://github.com/Jackiu1997/pure_live/) **`Full` `Multi` `FOSS`**
@@ -634,11 +637,13 @@ Material Design 3 伴随着 Android 12 而来。它的诞生，彻底改变了�
 	- [TimePlanner](https://github.com/v1tzor/TimePlanner) **`Full`**
 	- [Taskito](https://play.google.com/store/apps/details?id=com.fenchtose.reflog) **`Full` `Multi` `💴`**
 	- [Tasks](https://play.google.com/store/apps/details?id=com.redmerah.tasks) **`MD`**
+	- [Mint Task](https://github.com/boredcodebyk/minttask) **`Full` `FOSS`**
 - **思维导图**
 	- [XMind](https://play.google.com/store/apps/details?id=net.xmind.doughnut) **`MD-` `💴`**
 - **歌词编辑**
 	- [Lyricistant](https://github.com/wardellbagby/lyricistant) **`MD-` `Monet` `Multi` `FOSS`**
 	- [Sinhala Lyrics](https://github.com/SuhasDissa/Sinhala-Lyrics-App) **`Full` `FOSS`**
+	- [SongSync](https://github.com/Lambada10/SongSync) **`Full` `FOSS`**
 - **其他**
 	- [Raca](https://github.com/SkyD666/Raca-Android) **`Full` `Multi` `FOSS`**
 	- [Counters](https://play.google.com/store/apps/details?id=rahmouni.neil.counters) **`Full` `Multi`**
@@ -723,7 +728,8 @@ Material Design 3 伴随着 Android 12 而来。它的诞生，彻底改变了�
 	- [Reader](https://github.com/msasikanth/reader) **`MD-` `FOSS`**
 	- [Tension](https://github.com/re-ovo/Tension) **`👻` `FOSS`**
 	- [Global News](https://github.com/v1tzor/GlobalNewsApp) **`MD` `FOSS`**
-   	- [Neo Feed](https://github.com/NeoApplications/Neo-Feed) **`Full` `FOSS`**   
+   	- [Neo Feed](https://github.com/NeoApplications/Neo-Feed) **`Full` `FOSS`**
+   	- [Dirol Reader](https://github.com/therxmv/Dirol-Reader) **`MD` `FOSS`**  
 - **漫画**
 	- [Tachiyomi](https://github.com/tachiyomiorg/tachiyomi) / [TachiyomiJ2K](https://github.com/Jays2Kings/tachiyomiJ2K) / [TachiyomiSY](https://github.com/Hero-Over/TachiyomiSY) / [Syncyomi](https://github.com/SyncYomi/SyncYomi) **`Full` `Multi` `FOSS`**
 	- [Kotatsu](https://github.com/KotatsuApp/Kotatsu) **`Full` `Multi` `FOSS`**
@@ -1029,6 +1035,7 @@ Material Design 3 伴随着 Android 12 而来。它的诞生，彻底改变了�
    	- [ComboSkin for 4PDA forum app](https://github.com/PycmShoma/4PDA-ComboSkin-MaterialYou) **`Monet` `FOSS`**
    	- [Theme Engine](https://github.com/prathameshmm02/ThemeEngine) **`Full` `FOSS`**
    	- [Telegram Themer](https://github.com/therxmv/Telegram-Themer) **`MD` `FOSS`**
+   	- [TeleMone](https://github.com/Number869/TeleMone) **`Full`**
 - **其他**
    	- [Energy Ring: Universal Edition](https://play.google.com/store/apps/details?id=you.in.spark.energy.ring.gen) **`MD-` `Monet` `💴`**
 ---
@@ -1365,6 +1372,7 @@ Material Design 3 伴随着 Android 12 而来。它的诞生，彻底改变了�
    	- [Simple Thank You](https://github.com/SimpleMobileTools/Simple-Thank-You) **`Full` `💴`**
    	- [Life Chest](https://github.com/theskyblockman/life-chest) **`Full` `FOSS`**
    	- [知己](https://play.google.com/store/apps/details?id=com.yangdai.encryptor) **`Full` `Multi` `FOSS`**
+   	- [Text Converter](https://play.google.com/store/apps/details?id=com.codeclickers.textconverter) **`Full`**
 ---
 ## [🔧开发工具](#目录)
 - **服务器**
@@ -1397,6 +1405,7 @@ Material Design 3 伴随着 Android 12 而来。它的诞生，彻底改变了�
 - **Lua**
    	- [SWKLua](https://www.coolapk1s.com/feed/44867507) **`Full`**   
    	- [Windmill](https://www.coolapk.com/apk/com.agyer.windmill) **`Full` `Multi`**
+   	- [AndroLuaX](https://github.com/AideLua/AndroLuaX) **`Full`**
 - **其他**
    	- [APK Editor](https://t.me/WSTprojects/1509) **`Full`**    
    	- [HalfDot](https://github.com/davquar/halfdot) **`MD` `FOSS`**    
