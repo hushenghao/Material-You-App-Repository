@@ -297,8 +297,6 @@ Material Design 3 伴随着 Android 12 而来。它的诞生，彻底改变了�
 - [雹](https://github.com/aistra0528/Hail) **`Full` `Multi`**
 ## 🆕最近上新
 少女祈祷中…
-- [Wivewa Dialer](https://codeberg.org/wivewa/wivewa-dialer-android) **`MD` `FOSS`**
-- [Mint Calculator](https://github.com/boredcodebyk/mintcalc) **`Full` `Multi` `FOSS`**
 - [Harmony Music](https://github.com/anandnet/Harmony-Music) **`MD-` `Monet` `FOSS`**
 - [Habits](https://github.com/willbsp/habits) **`Full` `FOSS`**
 - [Nextcloud Tablets](https://github.com/stefan-niedermann/nextcloud-tables) **`MD`**
@@ -312,6 +310,8 @@ Material Design 3 伴随着 Android 12 而来。它的诞生，彻底改变了�
 - [SongSync](https://github.com/Lambada10/SongSync) **`Full` `FOSS`**
 - [AndroLuaX](https://github.com/AideLua/AndroLuaX) **`Full`**
 - [Howl](https://github.com/Iamlooker/Howl) **`MD` `FOSS` `👻`**
+- [Bilibili Mod](https://t.me/misakamaterialyou/428) **`Monet` `MOD`**
+- [WallpaperTunnel](https://github.com/Steve-Mr/WallpaperTunnel) **`MD`**
 ## 📱应用列表
 **点击标题即可回到目录XD**
 ### 🦖[谷歌应用](#目录)
@@ -513,6 +513,7 @@ Material Design 3 伴随着 Android 12 而来。它的诞生，彻底改变了�
 	- [Bili You](https://github.com/lucinhu/bili_you) **`Full` `FOSS`**
 	- [Bilimiao](https://github.com/10miaomiao/bilimiao2) **`Monet` `Multi` `FOSS`**
 	- [薜](https://github.com/storytellerF/bi) **`Full` `Multi` `FOSS`**
+	- [Bilibili Mod](https://t.me/misakamaterialyou/428) **`Monet` `MOD`**
 - **流式媒体服务器**
 	- [SubTune](https://github.com/TaylorKunZhang/SubTune) **`MD` `FOSS`**
 	- [Ultrasonic](https://gitlab.com/ultrasonic/ultrasonic) **`Full` `FOSS`**
@@ -538,7 +539,6 @@ Material Design 3 伴随着 Android 12 而来。它的诞生，彻底改变了�
 	- [Onstream](https://onstream.to/) **`MD-`**
 - **本地视频播放**
 	- [VLC Mod](https://t.me/waifupx_official/233) **`Full` `Multi` `MOD`** 
-	- [MX Player Mod](https://www.coolapk1s.com/feed/44722057) **`Monet` `MOD`**
 	- [VideoYouX](https://github.com/Clearpole/VideoYouX) **`Full` `Multi` `FOSS`**
 	- [NextPlayer](https://github.com/anilbeesetti/nextplayer) **`Full` `FOSS`**
 	- [myplayer](https://www.coolapk.com/apk/com.ltj.myplayer) **`MD-`**
@@ -952,6 +952,7 @@ Material Design 3 伴随着 Android 12 而来。它的诞生，彻底改变了�
    	- [Stock Wallpapers](https://play.google.com/store/apps/details?id=com.phonewalls.stockwallpapers) **`Full`**
    	- [Wallcanic Walls](https://play.google.com/store/apps/details?id=com.paradox.wallcanic) **`Full`**
    	- [Music Live Wallpaper](https://play.google.com/store/apps/details?id=com.lstapps.musiclivewallpaper) **`MD`**
+   	- [WallpaperTunnel](https://github.com/Steve-Mr/WallpaperTunnel) **`MD`**
 - **图标包**
    	- [Liquor](https://gaopengk.github.io/2022/08/26/%E6%9B%B4%E6%96%B0-Liquor-%E5%9B%BE%E6%A0%87/) **`Full` `FOSS`**
    	- [LawnIcons](https://github.com/LawnchairLauncher/lawnicons) **`Full` `FOSS`**
