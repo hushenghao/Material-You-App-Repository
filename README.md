@@ -254,7 +254,6 @@ However in fact, sometimes Material You refers to the application which (may onl
 - [Hail](https://github.com/aistra0528/Hail) **`Full` `Multi`**
 ## 🆕Newly Added Apps
 **Here I will show the last 15 apps that were recently added to list.**
-- [Harmony Music](https://github.com/anandnet/Harmony-Music) **`MD-` `Monet` `FOSS`**
 - [Habits](https://github.com/willbsp/habits) **`Full` `FOSS`**
 - [Nextcloud Tablets](https://github.com/stefan-niedermann/nextcloud-tables) **`MD`**
 - [Tunedetective](https://github.com/n000tavailable/tunedetective) **`Full` `FOSS`**
@@ -269,6 +268,7 @@ However in fact, sometimes Material You refers to the application which (may onl
 - [Howl](https://github.com/Iamlooker/Howl) **`MD` `FOSS` `👻`**
 - [Bilibili Mod](https://t.me/misakamaterialyou/428) **`Monet` `MOD`**
 - [WallpaperTunnel](https://github.com/Steve-Mr/WallpaperTunnel) **`MD`**
+- [WADB](https://play.google.com/store/apps/details?id=moe.haruue.wadb) **`Full`**
 ## 📱Applist
 **Now you could click the title to return to the applist menu!**
 ### 🦖[Google Apps](#applist-menu)
@@ -1396,7 +1396,8 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
    	- [Dhizuku](https://github.com/iamr0s/Dhizuku) **`Full` `Multi` `FOSS`**    
    	- [ShizukuRunner](https://github.com/WuDi-ZhanShen/ShizukuRunner) **`Monet` `FOSS`**    
    	- [WADBS](https://github.com/Smooth-E/wireless-adb-switch) **`Full` `FOSS`**    
-   	- [LSPatch](https://github.com/LSPosed/LSPatch) **`Full` `Multi` `FOSS`**    
+   	- [LSPatch](https://github.com/LSPosed/LSPatch) **`Full` `Multi` `FOSS`**
+   	- [WADB](https://play.google.com/store/apps/details?id=moe.haruue.wadb) **`Full`**
 - **Xposed Modules**    
    	- [SIM Number Setter](https://github.com/KieronQuinn/SIMNumberSetter) **`Full` `FOSS`** 
    	- [MIFreeForm](https://www.coolapk.com/apk/com.sunshine.freeform) **`MD-` `Monet` `FOSS`**    
