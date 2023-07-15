@@ -297,7 +297,6 @@ Material Design 3 伴随着 Android 12 而来。它的诞生，彻底改变了�
 - [雹](https://github.com/aistra0528/Hail) **`Full` `Multi`**
 ## 🆕最近上新
 少女祈祷中…
-- [Harmony Music](https://github.com/anandnet/Harmony-Music) **`MD-` `Monet` `FOSS`**
 - [Habits](https://github.com/willbsp/habits) **`Full` `FOSS`**
 - [Nextcloud Tablets](https://github.com/stefan-niedermann/nextcloud-tables) **`MD`**
 - [Tunedetective](https://github.com/n000tavailable/tunedetective) **`Full` `FOSS`**
@@ -312,6 +311,7 @@ Material Design 3 伴随着 Android 12 而来。它的诞生，彻底改变了�
 - [Howl](https://github.com/Iamlooker/Howl) **`MD` `FOSS` `👻`**
 - [Bilibili Mod](https://t.me/misakamaterialyou/428) **`Monet` `MOD`**
 - [WallpaperTunnel](https://github.com/Steve-Mr/WallpaperTunnel) **`MD`**
+- [WADB](https://play.google.com/store/apps/details?id=moe.haruue.wadb) **`Full`**
 ## 📱应用列表
 **点击标题即可回到目录XD**
 ### 🦖[谷歌应用](#目录)
@@ -1437,7 +1437,8 @@ Material Design 3 伴随着 Android 12 而来。它的诞生，彻底改变了�
    	- [Dhizuku](https://github.com/iamr0s/Dhizuku) **`Full` `Multi` `FOSS`**    
    	- [ShizukuRunner](https://github.com/WuDi-ZhanShen/ShizukuRunner) **`Monet` `FOSS`**    
    	- [WADBS](https://github.com/Smooth-E/wireless-adb-switch) **`Full` `FOSS`**    
-   	- [LSPatch](https://github.com/LSPosed/LSPatch) **`Full` `Multi` `FOSS`**    
+   	- [LSPatch](https://github.com/LSPosed/LSPatch) **`Full` `Multi` `FOSS`**
+   	- [WADB](https://play.google.com/store/apps/details?id=moe.haruue.wadb) **`Full`** 
 - **Xposed 模块**
    	- [SIM Number Setter](https://github.com/KieronQuinn/SIMNumberSetter) **`Full` `FOSS`**
    	- [米窗](https://www.coolapk.com/apk/com.sunshine.freeform) **`MD-` `Monet` `FOSS`**
