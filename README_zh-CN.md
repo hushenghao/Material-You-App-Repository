@@ -1021,7 +1021,7 @@ Material Design 3 伴随着 Android 12 而来。它的诞生，彻底改变了�
    	- [Palettes](https://play.google.com/store/apps/details?id=com.pranavpandey.theme) **`Full`**    
    	- [Android 12 Extensions](https://github.com/kdrag0n/android12-extensions) **`MD-` `Monet` `FOSS` `👻`**   
    	- [Iconify](https://github.com/Mahmud0808/Iconify) **`Full` `Multi`** 
-   	- [网速指示器](https://www.coolapk.com/apk/com.dede.nativetools) **`MD-` `Monet` `Multi` `FOSS`**
+   	- [网速指示器](https://github.com/hushenghao/NativeTools) **`MD-` `Monet` `Multi` `FOSS`**
    	- [Project Themer](https://play.google.com/store/apps/details?id=com.drsants.eggproject) **`MD` `💴`**
    	- [Discover Killer](https://github.com/KieronQuinn/DiscoverKiller) **`Full` `FOSS`**
 - **GBoard 主题定制**
@@ -1362,7 +1362,7 @@ Material Design 3 伴随着 Android 12 而来。它的诞生，彻底改变了�
    	- [Sound Meter](https://play.google.com/store/apps/details?id=com.codeclickers.soundmeter) **`Full`**
 - **其他**
    	- [TSViewer](https://github.com/BlazeCodeDev/TSViewer) **`Full` `FOSS`**    
-   	- [Easter Eggs](https://play.google.com/store/apps/details?id=com.dede.android_eggs) **`Full`**    
+   	- [Easter Eggs](https://github.com/hushenghao/AndroidEasterEggs) **`Full`**    
    	- [Beta Maniac](https://play.google.com/store/apps/details?id=it.mirko.beta) **`Full`**       
    	- [Rays](https://github.com/SkyD666/Rays-Android) **`Full` `Multi` `FOSS`**    
    	- [BilibiliFork](https://github.com/gitofleonardo/BilibiliFork) **`MD` `FOSS`**    
